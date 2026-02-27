@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Sk8Hub — 今日高热度滑板资讯</title>
+    <meta name="description" content="Sk8Hub：暗黑复古 90s 录像带目录风格的滑板资讯列表（示例静态页）。" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600;700&family=Rubik:wght@600;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+
+  <body>
+    <a class="skip-link" href="#feed">跳到资讯列表</a>
+
+    <header class="topbar">
+      <div class="topbar__inner">
+        <a class="logo" href="#" aria-label="Sk8Hub 首页">
+          <span class="logo__sk8">Sk8</span>
+          <span class="logo__hub">Hub</span>
+        </a>
+
+        <div class="topbar__meta" aria-hidden="true">
+          <span class="meta-chip">TODAY</span>
+          <span class="meta-dot"></span>
+          <span class="meta-datetime" id="todayText">热度目录</span>
+        </div>
+      </div>
+    </header>
+
+    <main class="page">
+      <section class="hero" aria-label="页面介绍">
+        <div class="hero__card">
+          <div class="hero__kicker">90s TAPE INDEX</div>
+          <h1 class="hero__title">
+            今日高热度滑板资讯
+            <span class="hero__titleSub">暗黑复古 · 录像带目录 · Glitch 悬停</span>
+          </h1>
+          <p class="hero__desc">
+            下面是几条模拟假数据，用来展示排版效果。悬停任意一条资讯可看到轻微“噪点/错位”的故障风。
+          </p>
+        </div>
+      </section>
+
+      <section class="feed" id="feed" aria-label="资讯列表">
+        <ol class="feed__list" id="feedList"></ol>
+      </section>
+
+      <footer class="footer" aria-label="页脚">
+        <div class="footer__inner">
+          <div class="footer__left">
+            <div class="footer__brand">
+              <span class="footer__brandStrong">Sk8Hub</span>
+              <span class="footer__brandWeak">/ tape index mock</span>
+            </div>
+            <div class="footer__note">纯静态页面：仅用于排版与风格预览。</div>
+          </div>
+
+          <div class="footer__right" aria-hidden="true">
+            <span class="footer__pill">DARK</span>
+            <span class="footer__pill">GRIT</span>
+            <span class="footer__pill footer__pill--hot">ORANGE</span>
+          </div>
+        </div>
+      </footer>
+    </main>
+
+    <script src="./data.js"></script>
+    <script>
+      (function () {
+        var el = document.getElementById("todayText");
+        if (!el) return;
+        try {
+          var d = new Date();
+          var y = d.getFullYear();
+          var m = String(d.getMonth() + 1).padStart(2, "0");
+          var day = String(d.getDate()).padStart(2, "0");
+          el.textContent = y + "." + m + "." + day + " / HOT FEED";
+        } catch (_) {
+          // ignore
+        }
+      })();
+
+      (function () {
+        // 如果后端还没生成 data.js 或 newsData 结构异常，就直接返回，不阻塞页面
+        if (typeof newsData === "undefined" || !Array.isArray(newsData)) {
+          return;
+        }
+
+        // 找到列表容器
+        var list = document.getElementById("feedList") || document.querySelector(".feed__list");
+        if (!list) return;
+
+        // 清空原有内容（如果有）
+        list.innerHTML = "";
+
+        // 遍历后端生成的新闻数据，渲染到页面
+        newsData.forEach(function (item, index) {
+          var li = document.createElement("li");
+          li.className = "item";
+
+          var link = document.createElement("a");
+          link.className = "item__link";
+          link.href = item.link || "#";
+          link.target = "_blank";
+          link.rel = "noopener noreferrer";
+          link.setAttribute("aria-label", "打开：" + (item.title || ""));
+
+          var main = document.createElement("div");
+          main.className = "item__main";
+
+          var titleEl = document.createElement("h2");
+          titleEl.className = "item__title glitch";
+          titleEl.setAttribute("data-text", item.title || "");
+          titleEl.textContent = item.title || "";
+
+          var sub = document.createElement("div");
+          sub.className = "item__sub";
+
+          var tag = document.createElement("span");
+          tag.className = "tag tag--news";
+          tag.textContent = "KickerClub";
+
+          var sep = document.createElement("span");
+          sep.className = "sep";
+          sep.textContent = "/";
+
+          var source = document.createElement("span");
+          source.className = "source";
+          // 用 AI 摘要做一行“亚文化调性简评”展示
+          source.textContent = item.summary || "AI 自动评估";
+
+          sub.appendChild(tag);
+          sub.appendChild(sep);
+          sub.appendChild(source);
+
+          main.appendChild(titleEl);
+          main.appendChild(sub);
+
+          var scoreWrap = document.createElement("div");
+          scoreWrap.className = "item__score";
+          scoreWrap.setAttribute("aria-label", "热度分数 " + (item.score ?? 0));
+
+          var label = document.createElement("span");
+          label.className = "score__label";
+          label.textContent = "HEAT";
+
+          var value = document.createElement("span");
+          value.className = "score__value";
+          // 保证分数是整数显示
+          var scoreNum = typeof item.score === "number" ? item.score : parseInt(item.score, 10) || 0;
+          value.textContent = String(scoreNum);
+
+          scoreWrap.appendChild(label);
+          scoreWrap.appendChild(value);
+
+          link.appendChild(main);
+          link.appendChild(scoreWrap);
+          li.appendChild(link);
+          list.appendChild(li);
+        });
+      })();
+    </script>
+  </body>
+</html>
