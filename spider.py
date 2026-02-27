@@ -11,7 +11,7 @@ from google import genai
 
 # ==========================================
 # ⚠️ 这里请替换成你自己的真实 GEMINI API KEY
-API_KEY = "AIzaSyDPgZsuARebRprOD85Hm1b0DgOfic9EW6k"
+API_KEY = "AIzaSyDUxeztzjifQeHOY0mMMsDVx2oozbCC3d0"
 # ==========================================
 
 
