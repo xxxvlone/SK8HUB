@@ -2,16 +2,9 @@ const newsData = [
   {
     "title": "Mar.13th - FISE Battle of the Champions",
     "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
-    "score": 14,
-    "summary": "FISE冠军之战引爆滑板圈，顶尖滑手齐聚冲击奥运积分关键战役！",
+    "score": 16,
+    "summary": "FISE冠军之战重磅开赛，顶尖滑手齐聚冲击奥运资格引爆街头文化热潮。",
     "source": "KickerClub"
-  },
-  {
-    "title": "February 15, 2026Yam Behar's \"Yam\" Pylon Skateboards Premiere",
-    "link": "https://www.thrashermagazine.com/articles/events/yam-behar-s-yam-pylon-skateboards-premiere/",
-    "score": 11,
-    "summary": "传奇滑手Yam Behar个人签名款Pylon板面首发，Thrasher独家引爆核心圈期待。",
-    "source": "Thrasher"
   },
   {
     "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
@@ -21,52 +14,59 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Antihero's \"Dumpster Dive\" Video",
-    "link": "https://www.thrashermagazine.com/articles/videos/antihero-s-dumpster-dive-video/",
-    "score": 10,
-    "summary": "Antihero传奇滑板队发布全新《Dumpster Dive》影片，Thrasher独家呈现硬核街头风格与滑手狂野表现。",
+    "title": "February 15, 2026Yam Behar's \"Yam\" Pylon Skateboards Premiere",
+    "link": "https://www.thrashermagazine.com/articles/events/yam-behar-s-yam-pylon-skateboards-premiere/",
+    "score": 11,
+    "summary": "传奇滑手Yam Behar个人签名款Pylon滑板板面首发，Thrasher重磅发布引爆核心圈期待。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "ROUGH CUT: Zion",
+    "link": "https://www.thrashermagazine.com/articles/videos/rough-cut-zion/",
+    "score": 9,
+    "summary": "Thrasher最新ROUGH CUT系列聚焦滑手Zion，以标志性街头风格与纯正滑板美学引爆社群关注。",
     "source": "Thrasher"
   },
   {
     "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
     "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
     "score": 9,
-    "summary": "Thrasher发布Escapist滑板队最新影片《It's Over》首映，引爆核心滑板圈期待。",
+    "summary": "Thrasher发布Escapist团队最新影片《It's Over》首映，引爆滑板圈硬核狂欢。",
     "source": "Thrasher"
   },
   {
-    "title": "ROUGH CUT: Zion",
-    "link": "https://www.thrashermagazine.com/articles/videos/rough-cut-zion/",
+    "title": "Antihero's \"Dumpster Dive\" Video",
+    "link": "https://www.thrashermagazine.com/articles/videos/antihero-s-dumpster-dive-video/",
+    "score": 9,
+    "summary": "Antihero发布全新滑板影片《Dumpster Dive》，Thrasher重磅呈现，集结旗下悍将再掀纯正街头风暴。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Nov.15th - Polar Shanghai Demo",
+    "link": "https://www.kickerclub.com/2025/11/nov-15th-polar-shanghai-demo/",
     "score": 8,
-    "summary": "Thrasher重磅发布Zion个人片段，新生代滑手以凌厉风格席卷街头。",
+    "summary": "Polar滑板队空降上海街头，本土滑手与国际大咖上演硬核现场Demo。",
+    "source": "KickerClub"
+  },
+  {
+    "title": "NB Numeric's \"Running Numbers\" US Tour 2025",
+    "link": "https://www.thrashermagazine.com/articles/videos/nb-numeric-s-running-numbers-us-tour-2025/",
+    "score": 8,
+    "summary": "NB Numeric携2025全美巡演\"Running Numbers\"强势回归，Thrasher独家呈现硬核街头滑板风暴。",
     "source": "Thrasher"
   },
   {
     "title": "February 18, 2026Atiba Jefferson's \"Finding Focus\" Talk at SDSU",
     "link": "https://www.thrashermagazine.com/articles/events/atiba-jefferson-s-finding-focus-talk-at-sdsu/",
     "score": 7,
-    "summary": "传奇滑板摄影师Atiba Jefferson在SDSU分享会揭秘镜头背后的街头文化，Thrasher深度报道引发滑板圈热议。",
+    "summary": "传奇滑板摄影师Atiba Jefferson在SDSU开讲，分享其聚焦滑板与街头文化的创作心法。",
     "source": "Thrasher"
   },
   {
-    "title": "February 07, 2026Rhythm Skateshop's \"CV Am 2026\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/rhythm-skateshop-s-cv-am-2026-event/",
+    "title": "November 28, 2025Side Room's \"Black Friday\" Jam",
+    "link": "https://www.thrashermagazine.com/articles/events/side-room-s-black-friday-jam/",
     "score": 7,
-    "summary": "Thrasher报道Rhythm滑板店举办“CV Am 2026”业余赛事，持续挖掘街头滑板新生力量。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "NB Numeric's \"Running Numbers\" US Tour 2025",
-    "link": "https://www.thrashermagazine.com/articles/videos/nb-numeric-s-running-numbers-us-tour-2025/",
-    "score": 7,
-    "summary": "NB Numeric携2025全美巡演强势回归，Thrasher独家呈现硬核街头滑板风暴。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "December 13, 2025Al Carrer's \"Rookie Run\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/al-carrer-s-rookie-run-event/",
-    "score": 7,
-    "summary": "Thrasher旗下Al Carrer举办“Rookie Run”新人赛，挖掘街头滑板新生力量。",
+    "summary": "Thrasher旗下Side Room滑板店黑五狂欢派对引爆街头，地下滑手硬核集结诠释最纯正的街头精神。",
     "source": "Thrasher"
   }
 ];
