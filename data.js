@@ -1,62 +1,72 @@
 const newsData = [
   {
-    "title": "FISE Battle of the Champions 2026",
-    "link": "https://www.kickerclub.com/2026/02/fise-battle-2026/",
-    "score": 18,
-    "summary": "冠军之战来袭"
-  },
-  {
-    "title": "Nyjah Huston 发布全新滑板视频",
-    "link": "https://www.thrashermagazine.com/videos/nyjah-2026/",
-    "score": 17,
-    "summary": "传奇滑手新作"
-  },
-  {
-    "title": "中国滑板队奥运资格赛",
-    "link": "https://www.worldskate.org/olympics-qualifiers/",
-    "score": 16,
-    "summary": "奥运资格争夺"
-  },
-  {
-    "title": "Avenue & Son 上海滑板活动",
-    "link": "https://www.kickerclub.com/2026/02/avenue-son-shanghai/",
-    "score": 15,
-    "summary": "中国滑板活动"
-  },
-  {
-    "title": "Thrasher 滑板大电影首映",
-    "link": "https://www.thrashermagazine.com/premiere/",
-    "score": 14,
-    "summary": "滑板大片首映"
-  },
-  {
-    "title": "街头滑板赛在北京举行",
-    "link": "https://www.kickerclub.com/2026/02/beijing-street-contest/",
-    "score": 13,
-    "summary": "北京滑板赛事"
-  },
-  {
-    "title": "Paul Rodriguez 签名款滑板发布",
-    "link": "https://www.kickerclub.com/2026/02/prod-signature-deck/",
+    "title": "Mar.13th - FISE Battle of the Champions",
+    "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
     "score": 12,
-    "summary": "签名款发布"
+    "summary": "FISE冠军之战引爆滑板",
+    "source": "KickerClub"
   },
   {
-    "title": "世界滑板锦标赛赛程公布",
-    "link": "https://www.worldskate.org/world-championship-schedule/",
+    "title": "February 15, 2026Yam Behar's \"Yam\" Pylon Skateboards Premiere",
+    "link": "https://www.thrashermagazine.com/articles/events/yam-behar-s-yam-pylon-skateboards-premiere/",
     "score": 11,
-    "summary": "世锦赛赛程"
+    "summary": "Yam Behar个人签",
+    "source": "Thrasher"
   },
   {
-    "title": "滑板与嘻哈文化融合活动",
-    "link": "https://www.kickerclub.com/2026/02/skate-hip-hop-event/",
-    "score": 10,
-    "summary": "街头文化盛事"
+    "title": "Antihero's \"Dumpster Dive\" Video",
+    "link": "https://www.thrashermagazine.com/articles/videos/antihero-s-dumpster-dive-video/",
+    "score": 11,
+    "summary": "Antihero新片《D",
+    "source": "Thrasher"
   },
   {
-    "title": "女子滑板公开赛在深圳举办",
-    "link": "https://www.kickerclub.com/2026/02/shenzhen-womens-open/",
+    "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
     "score": 9,
-    "summary": "女子滑板赛"
+    "summary": "Thrasher发布Es",
+    "source": "Thrasher"
+  },
+  {
+    "title": "ROUGH CUT: Zion",
+    "link": "https://www.thrashermagazine.com/articles/videos/rough-cut-zion/",
+    "score": 9,
+    "summary": "Zion最新个人片段Th",
+    "source": "Thrasher"
+  },
+  {
+    "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
+    "score": 8,
+    "summary": "世界滑板巡回赛日本收官",
+    "source": "World Skate"
+  },
+  {
+    "title": "February 21, 2026Flying Low's \"Skateshop Day\" Event",
+    "link": "https://www.thrashermagazine.com/articles/trash/flying-low-s-skateshop-day-event/",
+    "score": 8,
+    "summary": "Flying Low滑板",
+    "source": "Thrasher"
+  },
+  {
+    "title": "NB Numeric's \"Running Numbers\" US Tour 2025",
+    "link": "https://www.thrashermagazine.com/articles/videos/nb-numeric-s-running-numbers-us-tour-2025/",
+    "score": 8,
+    "summary": "NB Numeric发布",
+    "source": "Thrasher"
+  },
+  {
+    "title": "99 Cents Only",
+    "link": "https://www.thrashermagazine.com/articles/burnout/99-cents-only/",
+    "score": 8,
+    "summary": "Thrasher发布99",
+    "source": "Thrasher"
+  },
+  {
+    "title": "December 13, 2025Al Carrer's \"Rookie Run\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/al-carrer-s-rookie-run-event/",
+    "score": 7,
+    "summary": "Al Carrer新秀赛",
+    "source": "Thrasher"
   }
 ];
