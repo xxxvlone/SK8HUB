@@ -49,12 +49,12 @@ body {
   overflow-x: hidden;
   background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
   color: var(--glass-text);
-  transition: all 0.5s ease;
+  transition: all 1s ease-in-out;
 }
 
 /* 主题切换动画 */
 body[data-theme] * {
-  transition: all 0.5s ease;
+  transition: all 0.8s ease-in-out;
   transition-delay: 0.1s;
 }
 
@@ -87,6 +87,19 @@ body::before {
     radial-gradient(circle at 90% 80%, rgba(139, 92, 246, 0.1), transparent 50%);
   pointer-events: none;
   z-index: -1;
+  transition: all 1s ease-in-out;
+}
+
+/* 赛博朋克网格背景 */
+body[data-theme="cyber"]::before {
+  background: 
+    linear-gradient(rgba(15, 23, 42, 0.8) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(15, 23, 42, 0.8) 1px, transparent 1px),
+    radial-gradient(circle at 50% 50%, rgba(236, 72, 153, 0.1), transparent 70%);
+  background-size: 50px 50px, 50px 50px, 100% 100%;
+  perspective: 1000px;
+  transform: rotateX(60deg) scale(2);
+  transform-origin: center top;
 }
 
 /* 主题切换 */
@@ -550,16 +563,32 @@ body[data-theme="cyber"] {
 
 .theme-selector {
   display: flex;
-  gap: 12px;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-end;
+}
+
+.theme-selector__label {
+  font-size: 10px;
+  color: var(--text-muted);
+  font-family: 'JetBrains Mono', monospace;
+  letter-spacing: 1px;
+  text-align: right;
+  margin-bottom: 4px;
+}
+
+.theme-buttons {
+  display: flex;
+  gap: 8px;
 }
 
 .theme-btn {
-  padding: 10px 20px;
+  padding: 8px 16px;
   border-radius: 50px;
   border: 1px solid var(--border);
   background: rgba(255, 255, 255, 0.05);
   color: var(--text-muted);
-  font-size: 12px;
+  font-size: 11px;
   font-weight: 600;
   font-family: 'JetBrains Mono', monospace;
   letter-spacing: 1px;
@@ -578,6 +607,20 @@ body[data-theme="cyber"] {
   background: var(--accent);
   color: white;
   border-color: var(--accent);
+}
+
+/* AI生成提示 */
+.footer__disclaimer {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 10px;
+  color: var(--text-muted);
+  font-family: 'JetBrains Mono', monospace;
+  letter-spacing: 0.5px;
+  padding: 12px;
+  border-top: 1px solid var(--border);
+  margin-top: 40px;
+  opacity: 0.7;
 }
 
 /* 响应式设计 */
