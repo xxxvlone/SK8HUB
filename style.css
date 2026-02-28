@@ -947,7 +947,7 @@ body[data-theme="oldstyle"] .footer__disclaimer {
 .item:nth-child(9) { animation-delay: 0.9s; }
 .item:nth-child(10) { animation-delay: 1.0s; }
 
-/* 响应式设计 */
+/* 响应式设计 - 优化手机端清晰度 */
 @media (max-width: 768px) {
   .topbar { margin: 8px; }
   
@@ -958,77 +958,107 @@ body[data-theme="oldstyle"] .footer__disclaimer {
     gap: 12px;
   }
   
-  .logo__text { font-size: 22px; }
+  .logo__text { font-size: 24px; font-weight: 900; }
   
   .page { padding: 16px 16px 32px; }
   
   .hero__card { padding: 32px 24px; }
   
-  .hero__title { font-size: 32px; }
+  .hero__title { font-size: 34px; font-weight: 900; }
   
-  .hero__subtitle { font-size: 13px; }
+  .hero__subtitle { font-size: 14px; font-weight: 800; }
   
-  .hero__desc { font-size: 14px; }
+  .hero__desc { font-size: 15px; line-height: 1.8; }
   
-  .hero__update { font-size: 12px; padding: 8px 20px; }
+  .hero__update { font-size: 12px; padding: 10px 24px; font-weight: 800; }
   
   .item__link { padding: 20px; }
   
   .item__rank {
-    width: 44px;
-    height: 44px;
-    font-size: 18px;
+    width: 48px;
+    height: 48px;
+    font-size: 20px;
+    font-weight: 900;
     margin-right: 16px;
     border-radius: 16px;
   }
   
-  .item__title { font-size: 15px; }
+  .item__title { font-size: 16px; font-weight: 700; line-height: 1.5; }
   
   .meta__summary {
-    font-size: 13px;
+    font-size: 14px;
     margin-bottom: 10px;
+    line-height: 1.7;
   }
   
-  .item__heat { gap: 4px; }
+  .item__heat { gap: 5px; }
   
   .heat-spark {
-    width: 6px;
-    height: 6px;
+    width: 7px;
+    height: 7px;
   }
   
   .footer__inner { padding: 24px; }
   
   .footer__engravedText {
-    font-size: 15px;
+    font-size: 16px;
     letter-spacing: 3px;
+    font-weight: 900;
   }
   
   .theme-buttons { gap: 12px; }
   
   .theme-btn {
-    padding: 14px 20px;
+    padding: 14px 22px;
     font-size: 10px;
     letter-spacing: 1.5px;
-    min-width: 95px;
+    min-width: 100px;
+    font-weight: 800;
+  }
+  
+  /* NEON主题手机端特殊优化 - 提高对比度和清晰度 */
+  body[data-theme="neon"] .hero__card {
+    background: rgba(15, 23, 42, 0.85);
+    backdrop-filter: blur(30px);
+    -webkit-backdrop-filter: blur(30px);
+  }
+  
+  body[data-theme="neon"] .feed__list {
+    background: rgba(15, 23, 42, 0.8);
+    backdrop-filter: blur(30px);
+    -webkit-backdrop-filter: blur(30px);
+  }
+  
+  body[data-theme="neon"] .topbar {
+    background: rgba(15, 23, 42, 0.85);
+    backdrop-filter: blur(30px);
+    -webkit-backdrop-filter: blur(30px);
+  }
+  
+  body[data-theme="neon"] .footer__inner {
+    background: rgba(15, 23, 42, 0.8);
+    backdrop-filter: blur(30px);
+    -webkit-backdrop-filter: blur(30px);
   }
 }
 
 @media (max-width: 480px) {
-  .hero__title { font-size: 28px; }
+  .hero__title { font-size: 30px; font-weight: 900; }
   
   .item__link { padding: 18px 16px; }
   
   .item__rank {
-    width: 40px;
-    height: 40px;
-    font-size: 16px;
+    width: 44px;
+    height: 44px;
+    font-size: 18px;
+    font-weight: 900;
     margin-right: 12px;
     border-radius: 14px;
   }
   
-  .item__title { font-size: 14px; }
+  .item__title { font-size: 15px; font-weight: 700; }
   
-  .meta__summary { font-size: 12px; }
+  .meta__summary { font-size: 13px; line-height: 1.6; }
   
   .theme-buttons { 
     flex-wrap: wrap;
@@ -1036,9 +1066,19 @@ body[data-theme="oldstyle"] .footer__disclaimer {
   }
   
   .theme-btn {
-    padding: 12px 16px;
+    padding: 12px 18px;
     font-size: 9px;
     letter-spacing: 1px;
-    min-width: 85px;
+    min-width: 90px;
+    font-weight: 800;
+  }
+  
+  /* NEON主题小屏手机进一步优化 */
+  body[data-theme="neon"] .hero__card {
+    background: rgba(15, 23, 42, 0.9);
+  }
+  
+  body[data-theme="neon"] .feed__list {
+    background: rgba(15, 23, 42, 0.85);
   }
 }
