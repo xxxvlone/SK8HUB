@@ -12,6 +12,28 @@ import requests
 from bs4 import BeautifulSoup
 from openai import OpenAI
 
+# 增加重试机制
+import urllib3
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+
+# 重试装饰器
+def retry(max_attempts=3, delay=2):
+    def decorator(func):
+        def wrapper(*args, **kwargs):
+            attempts = 0
+            while attempts < max_attempts:
+                try:
+                    return func(*args, **kwargs)
+                except Exception as e:
+                    attempts += 1
+                    if attempts == max_attempts:
+                        print(f"尝试 {max_attempts} 次后失败: {e}")
+                        return []
+                    print(f"尝试 {attempts} 失败，{delay}秒后重试: {e}")
+                    time.sleep(delay)
+        return wrapper
+    return decorator
+
 # ==========================================
 # 配置区域
 # ==========================================
@@ -72,113 +94,104 @@ def create_deepseek_client() -> OpenAI:
     return OpenAI(api_key=DEEPSEEK_API_KEY, base_url="https://api.deepseek.com")
 
 
+@retry(max_attempts=3, delay=2)
 def fetch_kickerclub(url: str, limit: int = 15) -> List[Dict]:
     """抓取KickerClub新闻"""
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     }
     
-    try:
-        response = requests.get(url, headers=headers, timeout=15)
-        response.raise_for_status()
-        soup = BeautifulSoup(response.text, "html.parser")
-        
-        articles = []
-        title_tags = soup.find_all(["h2", "h3"])
-        
-        for tag in title_tags:
-            a_tag = tag.find("a")
-            if a_tag and len(a_tag.text.strip()) > 2:
-                articles.append({
-                    "title": a_tag.text.strip(),
-                    "link": a_tag.get("href"),
-                    "source": "KickerClub"
-                })
-                if len(articles) >= limit:
-                    break
-        
-        return articles
-    except Exception as e:
-        print(f"❌ KickerClub抓取失败: {e}")
-        return []
+    response = requests.get(url, headers=headers, timeout=15, verify=False)
+    response.raise_for_status()
+    soup = BeautifulSoup(response.text, "html.parser")
+    
+    articles = []
+    title_tags = soup.find_all(["h2", "h3"])
+    
+    for tag in title_tags:
+        a_tag = tag.find("a")
+        if a_tag and len(a_tag.text.strip()) > 2:
+            articles.append({
+                "title": a_tag.text.strip(),
+                "link": a_tag.get("href"),
+                "source": "KickerClub"
+            })
+            if len(articles) >= limit:
+                break
+    
+    return articles
 
 
+@retry(max_attempts=3, delay=2)
 def fetch_thrasher(url: str, limit: int = 15) -> List[Dict]:
     """抓取Thrasher活动"""
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     }
     
-    try:
-        response = requests.get(url, headers=headers, timeout=15)
-        response.raise_for_status()
-        soup = BeautifulSoup(response.text, "html.parser")
+    response = requests.get(url, headers=headers, timeout=15, verify=False)
+    response.raise_for_status()
+    soup = BeautifulSoup(response.text, "html.parser")
+    
+    events = []
+    for h4 in soup.find_all("h4"):
+        title_raw = h4.get_text(strip=True)
+        if len(title_raw) < 3:
+            continue
         
-        events = []
-        for h4 in soup.find_all("h4"):
-            title_raw = h4.get_text(strip=True)
-            if len(title_raw) < 3:
-                continue
-            
-            link = None
-            a = h4.find("a") or h4.find_parent("a")
-            if a and a.get("href"):
-                link = a.get("href", "").strip()
-                if link and not link.startswith("http"):
-                    base = "https://www.thrashermagazine.com"
-                    link = base + link if link.startswith("/") else (base + "/" + link)
-            
-            events.append({
-                "title": title_raw,
-                "link": link or url,
-                "source": "Thrasher"
-            })
-            if len(events) >= limit:
-                break
+        link = None
+        a = h4.find("a") or h4.find_parent("a")
+        if a and a.get("href"):
+            link = a.get("href", "").strip()
+            if link and not link.startswith("http"):
+                base = "https://www.thrashermagazine.com"
+                link = base + link if link.startswith("/") else (base + "/" + link)
         
-        return events
-    except Exception as e:
-        print(f"❌ Thrasher抓取失败: {e}")
-        return []
+        events.append({
+            "title": title_raw,
+            "link": link or url,
+            "source": "Thrasher"
+        })
+        if len(events) >= limit:
+            break
+    
+    return events
 
 
+@retry(max_attempts=3, delay=2)
 def fetch_worldskate(url: str, limit: int = 15) -> List[Dict]:
     """抓取World Skate资讯"""
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     }
     
-    try:
-        response = requests.get(url, headers=headers, timeout=15)
-        response.raise_for_status()
-        soup = BeautifulSoup(response.text, "html.parser")
+    response = requests.get(url, headers=headers, timeout=15, verify=False)
+    response.raise_for_status()
+    soup = BeautifulSoup(response.text, "html.parser")
+    
+    items = []
+    for tag in soup.find_all(["h3", "h4"]):
+        title_text = tag.get_text(strip=True)
+        if len(title_text) < 4:
+            continue
         
-        items = []
-        for tag in soup.find_all(["h3", "h4"]):
-            title_text = tag.get_text(strip=True)
-            if len(title_text) < 4:
-                continue
-            
-            link = None
-            a = tag.find("a") or tag.find_parent("a")
-            if a and a.get("href"):
-                href = a.get("href", "").strip()
-                if href:
-                    base = "https://www.worldskate.org"
-                    link = href if href.startswith("http") else (base + (href if href.startswith("/") else "/" + href))
-            
-            items.append({
-                "title": title_text,
-                "link": link or url,
-                "source": "World Skate"
-            })
-            if len(items) >= limit:
-                break
+        link = None
+        a = tag.find("a") or tag.find_parent("a")
+        if a and a.get("href"):
+            href = a.get("href", "").strip()
+            if href:
+                base = "https://www.worldskate.org"
+                link = href if href.startswith("http") else (base + (href if href.startswith("/") else "/" + href))
         
-        return items
-    except Exception as e:
-        print(f"❌ World Skate抓取失败: {e}")
-        return []
+        items.append({
+            "title": title_text,
+            "link": link or url,
+            "source": "World Skate"
+        })
+        if len(items) >= limit:
+            break
+    
+    return items
 
 
 def calculate_keyword_score(title: str) -> int:
@@ -223,7 +236,7 @@ def get_ai_summary_and_score(client: OpenAI, title: str, source: str) -> tuple[i
 - 有中国元素 +2分
 - 整体热度/重要性 0-11分
 
-任务2：生成一句话摘要（必须12字以内，符合热点规律，有冲击力）
+任务2：生成一句话摘要（符合热点规律，有冲击力）
 
 返回格式必须为：【分数】X分 | 【摘要】你的摘要
 """
@@ -243,9 +256,6 @@ def get_ai_summary_and_score(client: OpenAI, title: str, source: str) -> tuple[i
         if m:
             score = int(m.group(1))
             summary = m.group(2).strip()
-            # 确保摘要不超过12字
-            if len(summary) > 12:
-                summary = summary[:12]
             return score, summary
         else:
             # 备用方案
@@ -253,7 +263,7 @@ def get_ai_summary_and_score(client: OpenAI, title: str, source: str) -> tuple[i
             return keyword_score, "滑板资讯"
             
     except Exception as e:
-        print(f"    ⚠️ AI调用失败，使用关键词评分: {e}")
+        print(f"    AI调用失败，使用关键词评分: {e}")
         keyword_score = calculate_keyword_score(title)
         return keyword_score, "滑板资讯"
 
@@ -262,31 +272,31 @@ def fetch_all_sources() -> List[Dict]:
     """从所有数据源抓取资讯"""
     all_items = []
     
-    print("📡 开始抓取数据源...")
+    print("开始抓取数据源...")
     
     # KickerClub
     print("  - KickerClub...")
     kicker_items = fetch_kickerclub(DATA_SOURCES["kickerclub"]["url"], limit=20)
     all_items.extend(kicker_items)
-    print(f"    ✅ 抓取到 {len(kicker_items)} 条")
+    print(f"    抓取到 {len(kicker_items)} 条")
     
     # Thrasher
     print("  - Thrasher...")
     thrasher_items = fetch_thrasher(DATA_SOURCES["thrasher"]["url"], limit=15)
     all_items.extend(thrasher_items)
-    print(f"    ✅ 抓取到 {len(thrasher_items)} 条")
+    print(f"    抓取到 {len(thrasher_items)} 条")
     
     # World Skate
     print("  - World Skate...")
     worldskate_items = fetch_worldskate(DATA_SOURCES["worldskate"]["url"], limit=15)
     all_items.extend(worldskate_items)
-    print(f"    ✅ 抓取到 {len(worldskate_items)} 条")
+    print(f"    抓取到 {len(worldskate_items)} 条")
     
     # 随机打乱并取前TARGET_ITEMS条
     random.shuffle(all_items)
     all_items = all_items[:TARGET_ITEMS]
     
-    print(f"\n✅ 总共抓取到 {len(all_items)} 条资讯\n")
+    print(f"\n总共抓取到 {len(all_items)} 条资讯\n")
     return all_items
 
 
@@ -295,7 +305,7 @@ def process_items(items: List[Dict]) -> List[Dict]:
     client = create_deepseek_client()
     processed = []
     
-    print("🧠 开始AI处理...")
+    print("开始AI处理...")
     
     for idx, item in enumerate(items, 1):
         title = item["title"]
@@ -332,12 +342,12 @@ def write_data_js(items: List[Dict], path: str = "data.js"):
     js_content = "const newsData = " + json.dumps(items, ensure_ascii=False, indent=2) + ";\n"
     with open(path, "w", encoding="utf-8") as f:
         f.write(js_content)
-    print(f"\n💾 已生成 {path}")
+    print(f"\n已生成 {path}")
 
 
 def main():
     print("=" * 60)
-    print("🚀 Sk8Top10 - 滑板资讯热榜")
+    print("Sk8Top10 - 滑板资讯热榜")
     print("=" * 60)
     
     try:
@@ -345,7 +355,7 @@ def main():
         items = fetch_all_sources()
         
         if not items:
-            print("❌ 没有抓取到任何资讯")
+            print("没有抓取到任何资讯")
             return
         
         # 2. AI处理
@@ -358,7 +368,7 @@ def main():
         top10 = processed[:TOP_N]
         
         print("\n" + "=" * 60)
-        print("🏆 TOP 10 滑板资讯热榜")
+        print("TOP 10 滑板资讯热榜")
         print("=" * 60)
         for idx, item in enumerate(top10, 1):
             print(f"\n[{idx}] 分数: {item['score']}")
@@ -370,11 +380,11 @@ def main():
         write_data_js(top10)
         
         print("\n" + "=" * 60)
-        print("✅ 任务完成！")
+        print("任务完成！")
         print("=" * 60)
         
     except Exception as e:
-        print(f"\n❌ 出错: {e}")
+        print(f"\n出错: {e}")
         import traceback
         traceback.print_exc()
 
