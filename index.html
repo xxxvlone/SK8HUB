@@ -34,9 +34,9 @@
     <main class="page">
       <section class="hero" aria-label="页面介绍">
         <div class="hero__card">
-          <h1 class="hero__title">点击按钮换颜色</h1>
-          <p class="hero__subtitle">CHANGE THEME</p>
-          <p class="hero__desc">尝试不同的视觉风格，找到你喜欢的主题</p>
+          <h1 class="hero__title">滑板热榜</h1>
+          <p class="hero__subtitle">SK8 TOP 10</p>
+          <p class="hero__desc">实时追踪全球滑板资讯，精选每日热点</p>
           <p class="hero__update">每1小时自动更新</p>
         </div>
       </section>
@@ -105,6 +105,14 @@
         // 主题切换功能
         const themeButtons = document.querySelectorAll('.theme-btn');
         const body = document.body;
+
+        // 初始化：给默认按钮添加active类
+        const currentTheme = body.getAttribute('data-theme');
+        themeButtons.forEach(button => {
+          if (button.getAttribute('data-theme') === currentTheme) {
+            button.classList.add('active');
+          }
+        });
 
         themeButtons.forEach(button => {
           button.addEventListener('click', function() {
