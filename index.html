@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Sk8Hub — 今日高热度滑板资讯</title>
-    <meta name="description" content="Sk8Hub：暗黑复古 90s 录像带目录风格的滑板资讯列表（示例静态页）。" />
+    <title>Sk8Hub — 今日滑板资讯</title>
+    <meta name="description" content="Sk8Hub：目录风格的滑板资讯列表（示例静态页）。" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -35,10 +35,10 @@
     <main class="page">
       <section class="hero" aria-label="页面介绍">
         <div class="hero__card">
-          <div class="hero__kicker">90s TAPE INDEX</div>
+          <div class="hero__kicker">SK8</div>
           <h1 class="hero__title">
-            今日高热度滑板资讯
-            <span class="hero__titleSub">暗黑复古 · 录像带目录 · Glitch 悬停</span>
+            今日滑板资讯
+            <span class="hero__titleSub">GOOD BAD UGLY</span>
           </h1>
           <p class="hero__desc">
             下面是几条模拟假数据，用来展示排版效果。悬停任意一条资讯可看到轻微“噪点/错位”的故障风。
@@ -46,8 +46,19 @@
         </div>
       </section>
 
-      <section class="feed" id="feed" aria-label="资讯列表">
+      <section class="feed feed--kickerclub" id="feed" aria-label="KickerClub 资讯">
+        <h2 class="feed__title">KickerClub 资讯</h2>
         <ol class="feed__list" id="feedList"></ol>
+      </section>
+
+      <section class="feed feed--thrasher" id="feedThrasher" aria-label="Thrasher 活动">
+        <h2 class="feed__title">Thrasher 活动</h2>
+        <ol class="feed__list" id="feedListEvents"></ol>
+      </section>
+
+      <section class="feed feed--worldskate" id="feedWorldskate" aria-label="World Skate 资讯">
+        <h2 class="feed__title">World Skate 资讯</h2>
+        <ol class="feed__list" id="feedListWorldskate"></ol>
       </section>
 
       <footer class="footer" aria-label="页脚">
@@ -70,6 +81,8 @@
     </main>
 
     <script src="./data.js"></script>
+    <script src="./events_data.js"></script>
+    <script src="./worldskate_data.js"></script>
     <script>
       (function () {
         var el = document.getElementById("todayText");
@@ -80,89 +93,95 @@
           var m = String(d.getMonth() + 1).padStart(2, "0");
           var day = String(d.getDate()).padStart(2, "0");
           el.textContent = y + "." + m + "." + day + " / HOT FEED";
-        } catch (_) {
-          // ignore
-        }
+        } catch (_) {}
       })();
 
       (function () {
-        // 如果后端还没生成 data.js 或 newsData 结构异常，就直接返回，不阻塞页面
-        if (typeof newsData === "undefined" || !Array.isArray(newsData)) {
-          return;
+        // 排除摘要为「标题信息不足，无法评估内容。」的条目，不展示在列表中
+        var skipSummary = "标题信息不足，无法评估内容。";
+        function shouldSkip(item) {
+          var s = (item.summary || "").trim();
+          return s.indexOf(skipSummary) !== -1;
         }
 
-        // 找到列表容器
-        var list = document.getElementById("feedList") || document.querySelector(".feed__list");
-        if (!list) return;
+        function renderFeed(listId, data, sourceLabel) {
+          if (!data || !Array.isArray(data)) return;
+          var list = document.getElementById(listId);
+          if (!list) return;
+          list.innerHTML = "";
+          data.filter(function (item) { return !shouldSkip(item); }).forEach(function (item) {
+            var li = document.createElement("li");
+            li.className = "item";
 
-        // 清空原有内容（如果有）
-        list.innerHTML = "";
+            var link = document.createElement("a");
+            link.className = "item__link";
+            link.href = item.link || "#";
+            link.target = "_blank";
+            link.rel = "noopener noreferrer";
+            link.setAttribute("aria-label", "打开：" + (item.title || ""));
 
-        // 遍历后端生成的新闻数据，渲染到页面
-        newsData.forEach(function (item, index) {
-          var li = document.createElement("li");
-          li.className = "item";
+            var main = document.createElement("div");
+            main.className = "item__main";
 
-          var link = document.createElement("a");
-          link.className = "item__link";
-          link.href = item.link || "#";
-          link.target = "_blank";
-          link.rel = "noopener noreferrer";
-          link.setAttribute("aria-label", "打开：" + (item.title || ""));
+            var titleEl = document.createElement("h2");
+            titleEl.className = "item__title glitch";
+            titleEl.setAttribute("data-text", item.title || "");
+            titleEl.textContent = item.title || "";
 
-          var main = document.createElement("div");
-          main.className = "item__main";
+            var sub = document.createElement("div");
+            sub.className = "item__sub";
 
-          var titleEl = document.createElement("h2");
-          titleEl.className = "item__title glitch";
-          titleEl.setAttribute("data-text", item.title || "");
-          titleEl.textContent = item.title || "";
+            var tag = document.createElement("span");
+            tag.className = "tag tag--news";
+            tag.textContent = sourceLabel;
 
-          var sub = document.createElement("div");
-          sub.className = "item__sub";
+            var sep = document.createElement("span");
+            sep.className = "sep";
+            sep.textContent = "/";
 
-          var tag = document.createElement("span");
-          tag.className = "tag tag--news";
-          tag.textContent = "KickerClub";
+            var source = document.createElement("span");
+            source.className = "source";
+            source.textContent = item.summary || "AI 自动评估";
 
-          var sep = document.createElement("span");
-          sep.className = "sep";
-          sep.textContent = "/";
+            sub.appendChild(tag);
+            sub.appendChild(sep);
+            sub.appendChild(source);
 
-          var source = document.createElement("span");
-          source.className = "source";
-          // 用 AI 摘要做一行“亚文化调性简评”展示
-          source.textContent = item.summary || "AI 自动评估";
+            main.appendChild(titleEl);
+            main.appendChild(sub);
 
-          sub.appendChild(tag);
-          sub.appendChild(sep);
-          sub.appendChild(source);
+            var scoreWrap = document.createElement("div");
+            scoreWrap.className = "item__score";
+            scoreWrap.setAttribute("aria-label", "热度分数 " + (item.score != null ? item.score : 0));
 
-          main.appendChild(titleEl);
-          main.appendChild(sub);
+            var label = document.createElement("span");
+            label.className = "score__label";
+            label.textContent = "HEAT";
 
-          var scoreWrap = document.createElement("div");
-          scoreWrap.className = "item__score";
-          scoreWrap.setAttribute("aria-label", "热度分数 " + (item.score ?? 0));
+            var value = document.createElement("span");
+            value.className = "score__value";
+            var scoreNum = typeof item.score === "number" ? item.score : parseInt(item.score, 10) || 0;
+            value.textContent = String(scoreNum);
 
-          var label = document.createElement("span");
-          label.className = "score__label";
-          label.textContent = "HEAT";
+            scoreWrap.appendChild(label);
+            scoreWrap.appendChild(value);
 
-          var value = document.createElement("span");
-          value.className = "score__value";
-          // 保证分数是整数显示
-          var scoreNum = typeof item.score === "number" ? item.score : parseInt(item.score, 10) || 0;
-          value.textContent = String(scoreNum);
+            link.appendChild(main);
+            link.appendChild(scoreWrap);
+            li.appendChild(link);
+            list.appendChild(li);
+          });
+        }
 
-          scoreWrap.appendChild(label);
-          scoreWrap.appendChild(value);
-
-          link.appendChild(main);
-          link.appendChild(scoreWrap);
-          li.appendChild(link);
-          list.appendChild(li);
-        });
+        if (typeof newsData !== "undefined" && Array.isArray(newsData)) {
+          renderFeed("feedList", newsData, "KickerClub");
+        }
+        if (typeof eventsData !== "undefined" && Array.isArray(eventsData)) {
+          renderFeed("feedListEvents", eventsData, "Thrasher");
+        }
+        if (typeof worldskateData !== "undefined" && Array.isArray(worldskateData)) {
+          renderFeed("feedListWorldskate", worldskateData, "World Skate");
+        }
       })();
     </script>
   </body>

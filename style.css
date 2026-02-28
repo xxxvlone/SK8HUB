@@ -257,6 +257,20 @@ body::before {
   color: var(--text-muted);
 }
 
+/* 各信息源区块标题 */
+.feed__title {
+  margin: 0 0 10px;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+
+.feed + .feed {
+  margin-top: 28px;
+}
+
 /* 资讯列表区域：仿腾讯体育 / 虎扑的卡片信息流 */
 .feed__list {
   list-style: none;
