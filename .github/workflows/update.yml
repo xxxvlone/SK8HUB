@@ -1,0 +1,83 @@
+name: Update Skate Hot Ranking Data
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip list
+
+      - name: Debug environment
+        run: |
+          echo "Current directory: $(pwd)"
+          echo "Files in directory:"
+          ls -la
+          echo "Python version:"
+          python --version
+
+      - name: Run spider script
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          echo "Starting spider script..."
+          python main.py 2>&1 | tee output.log
+          echo "Spider script completed with exit code: $?"
+
+      - name: Check if data.js was updated
+        run: |
+          echo "Checking data.js..."
+          if [ -f data.js ]; then
+            echo "data.js exists"
+            echo "File size:"
+            ls -lh data.js
+            echo "First 10 lines:"
+            head -10 data.js
+          else
+            echo "ERROR: data.js not found!"
+            exit 1
+          fi
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          
+          echo "Checking git status..."
+          git status
+          
+          echo "Adding data.js..."
+          git add data.js
+          
+          echo "Checking git diff..."
+          git diff --staged
+          
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            echo "Committing changes..."
+            git commit -m "🤖 Auto-update skate hot ranking data - $(date -u)"
+            echo "Pushing changes..."
+            git push
+          fi
