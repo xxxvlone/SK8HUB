@@ -1,4 +1,4 @@
-"""KickerClub 新闻爬虫 + Gemini 打分，并导出 data.js 给前端使用"""
+"""KickerClub 新闻爬虫 + DeepSeek 打分，并导出 data.js 给前端使用"""
 
 import json
 import re
@@ -6,20 +6,20 @@ import time
 
 import requests
 from bs4 import BeautifulSoup
-from google import genai
+from openai import OpenAI
 
 
 # ==========================================
-# ⚠️ 这里请替换成你自己的真实 GEMINI API KEY
-API_KEY = "AIzaSyDUxeztzjifQeHOY0mMMsDVx2oozbCC3d0"
+# DeepSeek API Key（与 thrasher_events / worldskate_news 共用）
+API_KEY = "sk-4bf1cec59ed641599a3457c7c4481fb6"
 # ==========================================
 
 
-def create_gemini_client() -> genai.Client:
-    """创建并返回一个已经配置好 API Key 的 Gemini 客户端"""
-    if API_KEY == "YOUR_GEMINI_API_KEY_HERE":
-        raise ValueError("请先在 spider.py 中把 API_KEY 替换为你自己的 GEMINI API Key 再运行。")
-    return genai.Client(api_key=API_KEY)
+def create_deepseek_client() -> OpenAI:
+    """创建并返回已配置 API Key 的 DeepSeek 客户端（OpenAI 兼容接口）"""
+    if not API_KEY or API_KEY == "YOUR_DEEPSEEK_API_KEY_HERE":
+        raise ValueError("请先在 spider.py 中配置 DeepSeek API Key 再运行。")
+    return OpenAI(api_key=API_KEY, base_url="https://api.deepseek.com")
 
 
 def fetch_latest_articles(limit: int = 5):
@@ -50,7 +50,7 @@ def fetch_latest_articles(limit: int = 5):
 
 
 def parse_ai_text(ai_text: str):
-    """从 Gemini 返回的文本里解析出分数和摘要"""
+    """从 DeepSeek 返回的文本里解析出分数和摘要"""
     if not ai_text:
         return 0, "模型未返回内容"
 
@@ -84,7 +84,7 @@ def write_data_js(items, path: str = "data.js"):
 
 
 def main():
-    print("🚀 开始抓取 KickerClub 最新资讯，并调用 Gemini 打分...")
+    print("🚀 开始抓取 KickerClub 最新资讯，并调用 DeepSeek 打分...")
 
     try:
         # 1. 抓取最新文章
@@ -93,12 +93,12 @@ def main():
             print("😅 没有抓到任何新闻标题，可能是页面结构发生了变化。")
             return
 
-        print(f"✅ 抓取到 {len(articles)} 条新闻，准备交给 Gemini 处理...\n" + "-" * 40)
+        print(f"✅ 抓取到 {len(articles)} 条新闻，准备交给 DeepSeek 处理...\n" + "-" * 40)
 
-        # 2. 创建 Gemini 客户端
-        client = create_gemini_client()
+        # 2. 创建 DeepSeek 客户端
+        client = create_deepseek_client()
 
-        # 3. 逐条调用 Gemini 打分与摘要
+        # 3. 逐条调用 DeepSeek 打分与摘要
         enriched = []
         for idx, article in enumerate(articles, start=1):
             title = article["title"]
@@ -117,11 +117,11 @@ def main():
             )
 
             print("    🧠 AI 正在分析并打分...")
-            ai_response = client.models.generate_content(
-                model="gemini-2.5-flash",
-                contents=prompt,
+            ai_response = client.chat.completions.create(
+                model="deepseek-chat",
+                messages=[{"role": "user", "content": prompt}],
             )
-            ai_text = (ai_response.text or "").strip()
+            ai_text = (ai_response.choices[0].message.content or "").strip()
             print(f"    原始 AI 输出：{ai_text}")
 
             score, summary = parse_ai_text(ai_text)
