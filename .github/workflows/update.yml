@@ -2,7 +2,7 @@ name: Update Data
 
 on:
   schedule:
-    - cron: '0 0 * * *' # 每天北京时间早上8点运行
+    - cron: '0 * * * *' # 每小时运行一次
   workflow_dispatch: # 允许我们手动点击运行测试
 
 jobs:
@@ -22,8 +22,8 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 openai
 
-      - name: Run spider
-        run: python spider.py
+      - name: Run main spider
+        run: python main.py
 
       - name: Commit and push changes
         run: |
