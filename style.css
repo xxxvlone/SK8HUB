@@ -15,6 +15,7 @@
   --glass-text: #ffffff;
   --glass-text-muted: rgba(255, 255, 255, 0.7);
   --glass-accent: #3b82f6;
+  --glass-accent-rgb: 59, 130, 246;
   --glass-gradient: linear-gradient(135deg, rgba(59, 130, 246, 0.3), rgba(139, 92, 246, 0.3));
   
   /* 霓虹主题 */
@@ -24,6 +25,7 @@
   --neon-text: #ffffff;
   --neon-text-muted: rgba(255, 255, 255, 0.8);
   --neon-accent: #3b82f6;
+  --neon-accent-rgb: 59, 130, 246;
   --neon-gradient: linear-gradient(135deg, rgba(59, 130, 246, 0.4), rgba(236, 72, 153, 0.4));
   
   /* 赛博主题 */
@@ -33,6 +35,7 @@
   --cyber-text: #ffffff;
   --cyber-text-muted: rgba(255, 255, 255, 0.8);
   --cyber-accent: #ec4899;
+  --cyber-accent-rgb: 236, 72, 153;
   --cyber-gradient: linear-gradient(135deg, rgba(236, 72, 153, 0.4), rgba(139, 92, 246, 0.4));
 }
 
@@ -137,6 +140,7 @@ body[data-theme="glass"] {
   --text: var(--glass-text);
   --text-muted: var(--glass-text-muted);
   --accent: var(--glass-accent);
+  --accent-rgb: var(--glass-accent-rgb);
   --gradient: var(--glass-gradient);
 }
 
@@ -147,6 +151,7 @@ body[data-theme="neon"] {
   --text: var(--neon-text);
   --text-muted: var(--neon-text-muted);
   --accent: var(--neon-accent);
+  --accent-rgb: var(--neon-accent-rgb);
   --gradient: var(--neon-gradient);
 }
 
@@ -157,6 +162,7 @@ body[data-theme="cyber"] {
   --text: var(--cyber-text);
   --text-muted: var(--cyber-text-muted);
   --accent: var(--cyber-accent);
+  --accent-rgb: var(--cyber-accent-rgb);
   --gradient: var(--cyber-gradient);
 }
 
@@ -623,20 +629,92 @@ body[data-theme="cyber"] {
   font-family: 'Inter', sans-serif;
   letter-spacing: 0.3px;
   cursor: pointer;
-  transition: var(--transition);
+  transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
   backdrop-filter: blur(10px);
+  position: relative;
+  overflow: hidden;
+}
+
+.theme-btn::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+  transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .theme-btn:hover {
   background: rgba(255, 255, 255, 0.1);
   color: var(--text);
-  transform: translateY(-2px);
+  transform: translateY(-2px) scale(1.05);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+}
+
+.theme-btn:hover::before {
+  left: 100%;
 }
 
 .theme-btn.active {
   background: var(--accent);
   color: white;
   border-color: var(--accent);
+  box-shadow: 0 0 20px rgba(var(--accent-rgb), 0.5);
+}
+
+/* GLASS模式高光效果 */
+body[data-theme="glass"] .hero__card {
+  position: relative;
+  overflow: hidden;
+}
+
+body[data-theme="glass"] .hero__card::after {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: linear-gradient(45deg, transparent, rgba(255, 255, 255, 0.1), transparent);
+  animation: glassShine 3s ease-in-out infinite;
+  pointer-events: none;
+}
+
+@keyframes glassShine {
+  0% {
+    transform: rotate(0deg) translateX(-100%) translateY(-100%);
+  }
+  100% {
+    transform: rotate(360deg) translateX(100%) translateY(100%);
+  }
+}
+
+/* 触碰破碎特效 */
+body[data-theme="glass"] .item__link {
+  position: relative;
+  overflow: hidden;
+}
+
+body[data-theme="glass"] .item__link::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 0;
+  height: 0;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.3);
+  transform: translate(-50%, -50%);
+  transition: all 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+  pointer-events: none;
+}
+
+body[data-theme="glass"] .item__link:hover::after {
+  width: 300px;
+  height: 300px;
+  opacity: 0;
 }
 
 /* AI生成提示 */
