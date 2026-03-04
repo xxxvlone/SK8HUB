@@ -2,71 +2,71 @@ const newsData = [
   {
     "title": "Mar.13th - FISE Battle of the Champions",
     "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
-    "score": 14,
-    "summary": "FISE冠军之战引爆滑板圈，顶尖滑手齐聚冲击奥运资格！",
+    "score": 15,
+    "summary": "FISE冠军之战重磅回归，全球顶尖滑手齐聚冲击极限！",
     "source": "KickerClub"
   },
   {
     "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
-    "score": 11,
-    "summary": "世界滑板巡回赛2025赛季收官战在日本震撼落幕，顶尖滑手争夺奥运积分白热化！",
+    "score": 10,
+    "summary": "世界滑板巡回赛2025赛季收官战震撼登陆日本，顶级滑手齐聚争夺奥运积分！",
     "source": "World Skate"
   },
   {
     "title": "Vans Brings Back the Era",
     "link": "https://www.thrashermagazine.com/articles/trash/vans-brings-back-the-era/",
     "score": 10,
-    "summary": "Vans经典鞋款Era强势回归，街头文化传奇再掀复古滑板风潮。",
+    "summary": "Vans经典鞋型Era重磅回归，街头文化传奇再续！",
     "source": "Thrasher"
   },
   {
     "title": "February 15, 2026Yam Behar's \"Yam\" Pylon Skateboards Premiere",
     "link": "https://www.thrashermagazine.com/articles/events/yam-behar-s-yam-pylon-skateboards-premiere/",
     "score": 10,
-    "summary": "传奇滑手Yam Behar个人签名款Pylon板面正式发布，Thrasher独家首映引爆核心圈期待。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Dylan Jeffers' \"QUOTA\"  Terror of Planet X Part",
-    "link": "https://www.thrashermagazine.com/articles/videos/dylan-jeffers-quota-terror-of-planet-x-part/",
-    "score": 9,
-    "summary": "Dylan Jeffers在Thrasher新片《QUOTA》中展现狂野风格，Planet X地形挑战引爆滑板圈。",
+    "summary": "传奇滑手Yam Behar个人签名款Pylon板面首发，Thrasher独家引爆核心圈期待。",
     "source": "Thrasher"
   },
   {
     "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
     "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
     "score": 9,
-    "summary": "Thrasher发布Escapist滑板队最新影片《It's Over》首映，引爆核心滑板圈期待。",
+    "summary": "Thrasher发布Escapist团队最新影片《It's Over》首映，引爆滑板圈硬核狂欢。",
     "source": "Thrasher"
   },
   {
-    "title": "World Skate Development Scholarship Programme: Woodward Training Camp Report",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3853-world-skate-development-scholarship-programme-woodward-training-camp-report.html",
+    "title": "February 07, 2026Rhythm Skateshop's \"CV Am 2026\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/rhythm-skateshop-s-cv-am-2026-event/",
     "score": 8,
-    "summary": "World Skate联手Woodward打造奥运梯队训练营，挖掘下个世代滑板冠军苗子。",
-    "source": "World Skate"
+    "summary": "Thrasher报道Rhythm滑板店举办“CV Am 2026”业余赛事，挖掘新生代街头力量。",
+    "source": "Thrasher"
   },
   {
     "title": "Yam Behar's \"Pylon\" Part",
     "link": "https://www.thrashermagazine.com/articles/trash/yam-behar-s-pylon-part/",
     "score": 8,
-    "summary": "Thrasher发布Yam Behar全新个人片段《Pylon》，技术流与街头风格再度引爆滑板圈。",
+    "summary": "Thrasher重磅发布Yam Behar个人片段《Pylon》，纯正街头风格引爆滑板圈。",
     "source": "Thrasher"
   },
   {
-    "title": "February 18, 2026Atiba Jefferson's \"Finding Focus\" Talk at SDSU",
-    "link": "https://www.thrashermagazine.com/articles/events/atiba-jefferson-s-finding-focus-talk-at-sdsu/",
-    "score": 7,
-    "summary": "传奇滑板摄影师Atiba Jefferson在SDSU开讲，分享其聚焦滑板与街头文化的创作心法。",
+    "title": "March 14, 2026Capitola Classic 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/capitola-classic-2026-event/",
+    "score": 8,
+    "summary": "Thrasher重磅预告2026年Capitola经典赛回归，传奇滑手阵容点燃街头滑板文化热潮。",
     "source": "Thrasher"
   },
   {
-    "title": "January 17, 2026Flying Low's \"Four-Year Anniversary\" Show",
-    "link": "https://www.thrashermagazine.com/articles/events/flying-low-s-four-year-anniversary-show/",
+    "title": "Oct.18th - DC Skate Night at Wuhan",
+    "link": "https://www.kickerclub.com/2025/10/oct-18th-dc-skate-night-at-wuhan/",
     "score": 7,
-    "summary": "Thrasher力推Flying Low四周年纪念演出，地下滑板文化再掀狂潮。",
-    "source": "Thrasher"
+    "summary": "DC武汉滑板夜点燃本土街头文化，品牌线下活动激活区域滑板社群热度。",
+    "source": "KickerClub"
+  },
+  {
+    "title": "Nov.15th - Polar Shanghai Demo",
+    "link": "https://www.kickerclub.com/2025/11/nov-15th-polar-shanghai-demo/",
+    "score": 7,
+    "summary": "Polar滑板队空降上海引爆街头，国际阵容本土首秀点燃中国滑板圈。",
+    "source": "KickerClub"
   }
 ];
