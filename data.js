@@ -2,16 +2,23 @@ const newsData = [
   {
     "title": "Mar.13th - FISE Battle of the Champions",
     "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
-    "score": 15,
-    "summary": "FISE冠军之战重磅回归，全球顶尖滑手齐聚冲击奥运积分！",
+    "score": 16,
+    "summary": "FISE冠军之战引爆滑板圈，顶尖滑手齐聚冲击奥运资格！",
     "source": "KickerClub"
   },
   {
     "title": "WST São Paulo World Championships- How To Watch!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3868-wst-s%C3%A3o-paulo-world-championships-how-to-watch.html",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3868-wst-são-paulo-world-championships-how-to-watch.html",
     "score": 15,
-    "summary": "World Skate圣保罗世锦赛即将开战，全球顶尖滑手争夺奥运积分关键战！",
+    "summary": "World Skate圣保罗世锦赛震撼来袭，全球顶尖滑手齐聚巴西争夺奥运积分关键战！",
     "source": "World Skate"
+  },
+  {
+    "title": "February 15, 2026Yam Behar's \"Yam\" Pylon Skateboards Premiere",
+    "link": "https://www.thrashermagazine.com/articles/events/yam-behar-s-yam-pylon-skateboards-premiere/",
+    "score": 12,
+    "summary": "Thrasher重磅发布Yam Behar个人签名款“Yam”柱形滑板，独特设计引爆街头滑板圈。",
+    "source": "Thrasher"
   },
   {
     "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
@@ -21,46 +28,39 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
-    "score": 10,
-    "summary": "Thrasher发布Escapist团队最新影片《It's Over》首映，引爆滑板圈硬核狂欢。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "February 15, 2026Yam Behar's \"Yam\" Pylon Skateboards Premiere",
-    "link": "https://www.thrashermagazine.com/articles/events/yam-behar-s-yam-pylon-skateboards-premiere/",
-    "score": 10,
-    "summary": "传奇滑手Yam Behar个人签名款Pylon板面首发，Thrasher独家引爆核心圈期待。",
-    "source": "Thrasher"
-  },
-  {
     "title": "We Skated the Pool at one of Hollywood's Most Famous Restaurants — Check the Photos",
     "link": "https://www.thrashermagazine.com/articles/we-skated-the-pool-at-one-of-hollywood-s-most-famous-restaurants-check-the-photos/",
     "score": 9,
-    "summary": "Thrasher独家探秘好莱坞传奇餐厅滑板池，地下文化碰撞名流地标引爆社交话题。",
+    "summary": "Thrasher独家探秘好莱坞传奇餐厅滑板池，地下文化碰撞经典地标引爆社交热议。",
     "source": "Thrasher"
   },
   {
-    "title": "February 18, 2026Atiba Jefferson's \"Finding Focus\" Talk at SDSU",
-    "link": "https://www.thrashermagazine.com/articles/events/atiba-jefferson-s-finding-focus-talk-at-sdsu/",
+    "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
     "score": 8,
-    "summary": "传奇滑板摄影师Atiba Jefferson在SDSU开讲，分享其聚焦滑板与街头文化的创作心法。",
+    "summary": "Thrasher发布Escapist滑板影片《It's Over》首映，引爆核心滑板圈期待。",
     "source": "Thrasher"
   },
   {
     "title": "March 14, 2026Capitola Classic 2026 Event",
     "link": "https://www.thrashermagazine.com/articles/events/capitola-classic-2026-event/",
     "score": 8,
-    "summary": "Thrasher重磅预告2026年Capitola经典赛事回归，传奇滑手阵容引爆街头文化狂欢。",
+    "summary": "Thrasher重磅预告2026 Capitola Classic赛事，传奇滑手云集再掀街头文化热潮。",
     "source": "Thrasher"
   },
   {
-    "title": "HOMIES: \"Hollywood Hellride\" Ep.12",
-    "link": "https://www.thrashermagazine.com/articles/videos/homies-hollywood-hellride-ep-12/",
+    "title": "February 18, 2026Atiba Jefferson's \"Finding Focus\" Talk at SDSU",
+    "link": "https://www.thrashermagazine.com/articles/events/atiba-jefferson-s-finding-focus-talk-at-sdsu/",
     "score": 7,
-    "summary": "Thrasher重磅系列\"Hollywood Hellride\"第12集上线，地狱级地形挑战引爆滑板圈肾上腺素狂飙。",
+    "summary": "传奇滑板摄影师Atiba Jefferson在SDSU分享会揭秘镜头背后的滑板文化与创作哲学。",
     "source": "Thrasher"
+  },
+  {
+    "title": "Nov.15th - Polar Shanghai Demo",
+    "link": "https://www.kickerclub.com/2025/11/nov-15th-polar-shanghai-demo/",
+    "score": 7,
+    "summary": "Polar滑板队空降上海引爆街头，国际滑手本土演示掀起小众文化热潮。",
+    "source": "KickerClub"
   },
   {
     "title": "Kevin Calderwood's \"Torch Song\" Video",
