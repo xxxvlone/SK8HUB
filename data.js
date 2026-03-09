@@ -1,37 +1,58 @@
 const newsData = [
   {
     "title": "WST São Paulo World Championships- How To Watch!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3868-wst-s%C3%A3o-paulo-world-championships-how-to-watch.html",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3868-wst-são-paulo-world-championships-how-to-watch.html",
     "score": 17,
-    "summary": "世界滑板锦标赛圣保罗站震撼开战，全球顶尖滑手争夺奥运积分关键一战！",
+    "summary": "世界滑板锦标赛圣保罗站震撼开战，全球顶尖滑手齐聚争夺奥运积分关键战！",
     "source": "World Skate"
   },
   {
     "title": "Mar.13th - FISE Battle of the Champions",
     "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
     "score": 15,
-    "summary": "FISE冠军之战重磅回归，顶尖滑手齐聚冲击奥运积分关键战役！",
+    "summary": "FISE冠军之战引爆滑板圈，顶尖滑手齐聚冲击奥运资格新战场。",
     "source": "KickerClub"
   },
   {
     "title": "February 15, 2026Yam Behar's \"Yam\" Pylon Skateboards Premiere",
     "link": "https://www.thrashermagazine.com/articles/events/yam-behar-s-yam-pylon-skateboards-premiere/",
-    "score": 11,
-    "summary": "传奇滑手Yam Behar个人签名款Pylon滑板首发，Thrasher重磅呈现街头文化新焦点。",
+    "score": 12,
+    "summary": "传奇滑手Yam Behar个人签名款Pylon滑板首发，Thrasher重磅发布引爆核心圈期待。",
     "source": "Thrasher"
   },
   {
     "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
-    "score": 10,
-    "summary": "世界滑板巡回赛2025赛季收官战震撼登陆日本，顶级滑手齐聚东京上演年度终极对决！",
+    "score": 12,
+    "summary": "世界滑板巡回赛2025赛季收官战在日本震撼落幕，顶尖滑手齐聚争夺奥运积分关键战！",
     "source": "World Skate"
   },
   {
     "title": "We Skated the Pool at one of Hollywood's Most Famous Restaurants — Check the Photos",
     "link": "https://www.thrashermagazine.com/articles/we-skated-the-pool-at-one-of-hollywood-s-most-famous-restaurants-check-the-photos/",
-    "score": 9,
-    "summary": "Thrasher独家探秘好莱坞传奇餐厅滑板池，地下文化碰撞名流地标引爆社交热议。",
+    "score": 8,
+    "summary": "Thrasher带火好莱坞传奇餐厅泳池地形，经典地形重现引爆滑板圈怀旧热潮。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "February 07, 2026Rhythm Skateshop's \"CV Am 2026\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/rhythm-skateshop-s-cv-am-2026-event/",
+    "score": 8,
+    "summary": "Thrasher报道Rhythm滑板店举办“CV Am 2026”赛事，聚焦新生代滑手街头较量。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "March 14, 2026Capitola Classic 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/capitola-classic-2026-event/",
+    "score": 8,
+    "summary": "Thrasher重磅预告2026 Capitola Classic赛事，传奇滑手阵容点燃街头文化热潮。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "HOMIES: \"Hollywood Hellride\" Ep.12",
+    "link": "https://www.thrashermagazine.com/articles/videos/homies-hollywood-hellride-ep-12/",
+    "score": 8,
+    "summary": "Thrasher重磅系列\"Hollywood Hellride\"第12集上线，传奇滑手集结上演街头狂飙",
     "source": "Thrasher"
   },
   {
@@ -42,31 +63,10 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "December 13, 2025Al Carrer's \"Rookie Run\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/al-carrer-s-rookie-run-event/",
-    "score": 8,
-    "summary": "Thrasher旗下Al Carrer举办新人赛\"Rookie Run\"，挖掘街头滑板新生力量引关注。",
-    "source": "Thrasher"
-  },
-  {
     "title": "Nov.15th - Polar Shanghai Demo",
     "link": "https://www.kickerclub.com/2025/11/nov-15th-polar-shanghai-demo/",
     "score": 7,
-    "summary": "Polar滑板队空降上海街头，本土滑手与国际阵容引爆线下狂欢。",
+    "summary": "Polar滑板队空降上海街头，本土滑板文化再掀热潮。",
     "source": "KickerClub"
-  },
-  {
-    "title": "HOMIES: \"Hollywood Hellride\" Ep.12",
-    "link": "https://www.thrashermagazine.com/articles/videos/homies-hollywood-hellride-ep-12/",
-    "score": 7,
-    "summary": "Thrasher发布HOMIES系列最新一集《Hollywood Hellride》，街头滑板狂飙再掀视觉风暴。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "February 18, 2026Atiba Jefferson's \"Finding Focus\" Talk at SDSU",
-    "link": "https://www.thrashermagazine.com/articles/events/atiba-jefferson-s-finding-focus-talk-at-sdsu/",
-    "score": 7,
-    "summary": "传奇滑板摄影师Atiba Jefferson在SDSU分享会揭秘镜头背后的滑板文化与创作哲学。",
-    "source": "Thrasher"
   }
 ];
