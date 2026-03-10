@@ -9,15 +9,15 @@ const newsData = [
   {
     "title": "Mar.13th - FISE Battle of the Champions",
     "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
-    "score": 15,
-    "summary": "FISE冠军之战重磅回归，全球顶尖滑手齐聚冲击奥运积分关键战役！",
+    "score": 16,
+    "summary": "FISE冠军之战重磅来袭，顶尖滑手齐聚冲击奥运积分，街头文化盛宴即将引爆！",
     "source": "KickerClub"
   },
   {
     "title": "February 15, 2026Yam Behar's \"Yam\" Pylon Skateboards Premiere",
     "link": "https://www.thrashermagazine.com/articles/events/yam-behar-s-yam-pylon-skateboards-premiere/",
-    "score": 10,
-    "summary": "传奇滑手Yam Behar个人签名款Pylon板面正式发布，Thrasher独家呈现街头硬核首秀。",
+    "score": 12,
+    "summary": "Thrasher重磅发布Yam Behar个人签名款“Yam”系列滑板，标志其职业生涯新里程碑。",
     "source": "Thrasher"
   },
   {
@@ -28,45 +28,45 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
+    "title": "Yaddamean's \"Z Skate Jam\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/yaddamean-s-z-skate-jam-event/",
     "score": 9,
-    "summary": "Thrasher发布Escapist团队最新影片《It's Over》首映，引爆滑板圈硬核狂欢。",
+    "summary": "Thrasher力推Yaddamean街头滑板赛，嘻哈文化与滑板激情碰撞引爆洛杉矶街区。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "January 17, 2026Flying Low's \"Four-Year Anniversary\" Show",
+    "link": "https://www.thrashermagazine.com/articles/events/flying-low-s-four-year-anniversary-show/",
+    "score": 8,
+    "summary": "Thrasher力推Flying Low四周年纪念演出，地下滑板文化再度引爆街头热潮。",
     "source": "Thrasher"
   },
   {
     "title": "February 21, 2026Flying Low's \"Skateshop Day\" Event",
     "link": "https://www.thrashermagazine.com/articles/trash/flying-low-s-skateshop-day-event/",
     "score": 8,
-    "summary": "Thrasher报道Flying Low滑板店举办“Skateshop Day”活动，凝聚本地滑板社群，但缺乏顶级滑手与破圈元素。",
+    "summary": "Thrasher报道Flying Low滑板店举办“Skateshop Day”活动，凝聚本地滑板社群，展现街头文化原动力。",
     "source": "Thrasher"
   },
   {
-    "title": "Cannibal Corpse x Creature Skateboards",
-    "link": "https://www.thrashermagazine.com/articles/trash/cannibal-corpse-x-creature-skateboards/",
+    "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
     "score": 8,
-    "summary": "死亡金属传奇Cannibal Corpse与老牌滑板品牌Creature联名，暴力美学碰撞街头滑板文化。",
+    "summary": "Thrasher发布Escapist滑板影片《It's Over》首映，引爆核心滑板圈期待。",
     "source": "Thrasher"
   },
   {
-    "title": "HOMIES: \"Hollywood Hellride\" Ep.12",
-    "link": "https://www.thrashermagazine.com/articles/videos/homies-hollywood-hellride-ep-12/",
+    "title": "December 13, 2025Al Carrer's \"Rookie Run\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/al-carrer-s-rookie-run-event/",
     "score": 7,
-    "summary": "Thrasher重磅发布《Hollywood Hellride》第12集，HOMIES帮派再掀洛杉矶街头滑板风暴",
+    "summary": "Thrasher旗下Al Carrer举办新人赛\"Rookie Run\"，挖掘街头滑板新生力量。",
     "source": "Thrasher"
   },
   {
-    "title": "Nov.15th - Polar Shanghai Demo",
-    "link": "https://www.kickerclub.com/2025/11/nov-15th-polar-shanghai-demo/",
+    "title": "2026 Skateboarding Calendar Release!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3859-2026-skateboarding-calendar-release.html",
     "score": 7,
-    "summary": "Polar滑板队空降上海引爆街头，本土滑手与国际大咖同台炸场。",
-    "source": "KickerClub"
-  },
-  {
-    "title": "Yaddamean's \"Z Skate Jam\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/yaddamean-s-z-skate-jam-event/",
-    "score": 7,
-    "summary": "Thrasher报道Yaddamean举办融合嘻哈文化的Z Skate Jam街头滑板赛，掀起小众文化热潮。",
-    "source": "Thrasher"
+    "summary": "World Skate官宣2026滑板赛历，巴黎奥运后新周期布局引关注。",
+    "source": "World Skate"
   }
 ];
