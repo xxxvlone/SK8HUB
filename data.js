@@ -3,50 +3,43 @@ const newsData = [
     "title": "Mar.13th - FISE Battle of the Champions",
     "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
     "score": 14,
-    "summary": "FISE冠军之战引爆滑板圈，奥运资格赛前哨战一触即发！",
+    "summary": "FISE冠军之战打响，顶尖滑手齐聚冲击奥运积分关键战役！",
     "source": "KickerClub"
   },
   {
     "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
-    "score": 11,
-    "summary": "世界滑板巡回赛2025赛季收官战在日本上演巅峰对决，全球顶尖滑手争夺奥运积分席位！",
+    "score": 12,
+    "summary": "World Skateboarding Tour 2025赛季收官战在日本上演巅峰对决，全球顶尖滑手争夺奥运积分席位！",
     "source": "World Skate"
   },
   {
     "title": "February 15, 2026Yam Behar's \"Yam\" Pylon Skateboards Premiere",
     "link": "https://www.thrashermagazine.com/articles/events/yam-behar-s-yam-pylon-skateboards-premiere/",
-    "score": 10,
-    "summary": "传奇滑手Yam Behar个人签名款Pylon滑板板面首发，Thrasher重磅发布引爆核心圈期待。",
+    "score": 12,
+    "summary": "Thrasher重磅发布Yam Behar个人签名款“Yam”柱形滑板，独特设计引爆街头滑板圈。",
     "source": "Thrasher"
+  },
+  {
+    "title": "World Skate Development Scholarship Programme: Woodward Training Camp Report",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3853-world-skate-development-scholarship-programme-woodward-training-camp-report.html",
+    "score": 8,
+    "summary": "World Skate携手Woodward打造奥运梯队训练营，挖掘全球滑板新星备战巴黎周期。",
+    "source": "World Skate"
   },
   {
     "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
     "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
-    "score": 10,
+    "score": 8,
     "summary": "Thrasher发布Escapist团队最新影片《It's Over》首映，引爆滑板圈硬核狂欢。",
     "source": "Thrasher"
   },
   {
-    "title": "\"OJ Wheels X Black Sabbath\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/oj-wheels-x-black-sabbath/",
-    "score": 9,
-    "summary": "Thrasher发布OJ轮组与重金属传奇Black Sabbath联名短片，硬核摇滚美学碰撞街头滑板文化。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "December 06, 2025\"Skateboard Culture\" Book Launch",
-    "link": "https://www.thrashermagazine.com/articles/trash/skateboard-culture-book-launch/",
+    "title": "February 21, 2026Flying Low's \"Skateshop Day\" Event",
+    "link": "https://www.thrashermagazine.com/articles/trash/flying-low-s-skateshop-day-event/",
     "score": 7,
-    "summary": "Thrasher重磅推出《滑板文化》新书，深度剖析街头运动文化基因与历史脉络。",
+    "summary": "Thrasher力推Flying Low滑板店纪念日活动，街头文化盛宴引爆社群狂欢。",
     "source": "Thrasher"
-  },
-  {
-    "title": "Jim Gray is Coming to Macau",
-    "link": "https://www.kickerclub.com/2026/03/jim-gray-is-coming-to-macau/",
-    "score": 7,
-    "summary": "传奇滑手Jim Gray即将空降澳门，街头文化热潮再添国际级看点。",
-    "source": "KickerClub"
   },
   {
     "title": "February 18, 2026Atiba Jefferson's \"Finding Focus\" Talk at SDSU",
@@ -56,17 +49,24 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Nov.15th - Polar Shanghai Demo",
-    "link": "https://www.kickerclub.com/2025/11/nov-15th-polar-shanghai-demo/",
+    "title": "This Old Ledge: FTC San Francisco",
+    "link": "https://www.thrashermagazine.com/articles/videos/this-old-ledge-ftc/",
     "score": 7,
-    "summary": "Polar滑板队空降上海引爆街头，国际滑手阵容点燃本土滑板热潮。",
-    "source": "KickerClub"
+    "summary": "Thrasher经典栏目《This Old Ledge》聚焦旧金山FTC滑板店传奇地形，街头文化根源引发全球板仔共鸣。",
+    "source": "Thrasher"
   },
   {
-    "title": "March 29, 2026Yaddamean's \"Z Skate Jam\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/yaddamean-s-z-skate-jam-event/",
+    "title": "March 14, 2026Capitola Classic 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/capitola-classic-2026-event/",
     "score": 7,
-    "summary": "Thrasher力推Yaddamean街头滑板赛，嘻哈文化与滑板激情碰撞引爆周末狂欢。",
+    "summary": "Thrasher重磅预告2026年Capitola经典滑板赛事，传奇滑手阵容点燃街头文化热潮。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Antwuan Dixon on the Cover! Subscribe NOW",
+    "link": "https://www.thrashermagazine.com/articles/magazine/antwuan-dixon-on-the-cover-subscribe-now/",
+    "score": 7,
+    "summary": "传奇滑手Antwuan Dixon强势登顶Thrasher封面，街头文化风暴再掀订阅狂潮。",
     "source": "Thrasher"
   }
 ];
