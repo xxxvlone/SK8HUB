@@ -2,8 +2,8 @@ const newsData = [
   {
     "title": "Mar.13th - FISE Battle of the Champions",
     "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
-    "score": 14,
-    "summary": "FISE冠军之战重磅回归，顶尖滑手齐聚冲击奥运积分，街头文化盛宴引爆三月滑板圈。",
+    "score": 11,
+    "summary": "FISE冠军之战引爆滑板圈，顶尖滑手齐聚冲击奥运资格，街头文化盛宴即将上演。",
     "source": "KickerClub"
   },
   {
@@ -14,17 +14,17 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
-    "score": 10,
-    "summary": "Thrasher发布Escapist团队最新影片《It's Over》首映，引爆滑板圈硬核狂欢。",
-    "source": "Thrasher"
-  },
-  {
     "title": "February 15, 2026Yam Behar's \"Yam\" Pylon Skateboards Premiere",
     "link": "https://www.thrashermagazine.com/articles/events/yam-behar-s-yam-pylon-skateboards-premiere/",
     "score": 10,
-    "summary": "传奇滑手Yam Behar个人签名款板面“Yam”在Thrasher重磅首发，再掀职业滑板装备热潮。",
+    "summary": "传奇滑手Yam Behar个人签名款Pylon板面首发，Thrasher重磅发布引爆核心圈期待。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
+    "score": 9,
+    "summary": "Thrasher发布Escapist团队最新影片《It's Over》首映，引爆滑板圈硬核狂欢。",
     "source": "Thrasher"
   },
   {
@@ -35,38 +35,38 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "This Old Ledge: FTC San Francisco",
-    "link": "https://www.thrashermagazine.com/articles/videos/this-old-ledge-ftc/",
-    "score": 8,
-    "summary": "Thrasher经典回顾FTC旧金山传奇滑板据点，唤醒街头文化黄金时代记忆。",
+    "title": "February 21, 2026Flying Low's \"Skateshop Day\" Event",
+    "link": "https://www.thrashermagazine.com/articles/trash/flying-low-s-skateshop-day-event/",
+    "score": 9,
+    "summary": "Thrasher力推Flying Low滑板店庆日活动，街头文化盛宴引爆社群狂欢。",
     "source": "Thrasher"
   },
   {
-    "title": "February 21, 2026Flying Low's \"Skateshop Day\" Event",
-    "link": "https://www.thrashermagazine.com/articles/trash/flying-low-s-skateshop-day-event/",
+    "title": "March 29, 2026Yaddamean's \"Z Skate Jam\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/yaddamean-s-z-skate-jam-event/",
+    "score": 8,
+    "summary": "Thrasher力推Yaddamein街头滑板赛，嘻哈文化与滑板激情碰撞引爆周末狂潮。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "March 14, 2026Capitola Classic 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/capitola-classic-2026-event/",
     "score": 7,
-    "summary": "Thrasher力推Flying Low滑板店庆日活动，街头文化盛宴引爆社群狂欢。",
+    "summary": "Thrasher重磅预告2026 Capitola Classic赛事，经典街头滑板盛宴即将回归！",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Slappy Trucks' \"May I Have This Dance?\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/slappy-s-may-i-have-this-dance-video/",
+    "score": 7,
+    "summary": "Thrasher发布Slappy Trucks全新视频《May I Have This Dance？》，以复古街头美学与流畅地形互动引爆社群讨论。",
     "source": "Thrasher"
   },
   {
     "title": "December 06, 2025\"Skateboard Culture\" Book Launch",
     "link": "https://www.thrashermagazine.com/articles/trash/skateboard-culture-book-launch/",
     "score": 7,
-    "summary": "Thrasher重磅推出《Skateboard Culture》新书，深度解构街头文化基因引全球板圈关注。",
+    "summary": "Thrasher重磅推出《Skateboard Culture》新书，深度挖掘街头文化根源引发滑板圈热议。",
     "source": "Thrasher"
-  },
-  {
-    "title": "Jim Gray is Coming to Macau",
-    "link": "https://www.kickerclub.com/2026/03/jim-gray-is-coming-to-macau/",
-    "score": 7,
-    "summary": "传奇滑手Jim Gray即将空降澳门，街头文化热潮再添国际级看点。",
-    "source": "KickerClub"
-  },
-  {
-    "title": "Nov.15th - Polar Shanghai Demo",
-    "link": "https://www.kickerclub.com/2025/11/nov-15th-polar-shanghai-demo/",
-    "score": 7,
-    "summary": "Polar滑板队空降上海引爆街头，国际阵容本土首秀点燃中国滑板圈。",
-    "source": "KickerClub"
   }
 ];
