@@ -3,15 +3,8 @@ const newsData = [
     "title": "Mar.13th - FISE Battle of the Champions",
     "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
     "score": 14,
-    "summary": "FISE冠军之战引爆滑板圈，顶尖滑手齐聚冲击奥运资格！",
+    "summary": "FISE冠军之战重磅回归，顶尖滑手齐聚冲击奥运积分，街头文化盛宴引爆三月滑板圈。",
     "source": "KickerClub"
-  },
-  {
-    "title": "February 15, 2026Yam Behar's \"Yam\" Pylon Skateboards Premiere",
-    "link": "https://www.thrashermagazine.com/articles/events/yam-behar-s-yam-pylon-skateboards-premiere/",
-    "score": 11,
-    "summary": "传奇滑手Yam Behar个人签名款Pylon板面首发，Thrasher重磅发布引爆核心圈期待。",
-    "source": "Thrasher"
   },
   {
     "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
@@ -28,45 +21,52 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Volcom's \"Microwave\" Premiere photos",
-    "link": "https://www.thrashermagazine.com/articles/volcom-s-microwave-premiere-photos/",
-    "score": 9,
-    "summary": "Volcom新片《Microwave》首映现场图集释出，Thrasher呈现地下滑板文化原汁原味的硬核瞬间。",
+    "title": "February 15, 2026Yam Behar's \"Yam\" Pylon Skateboards Premiere",
+    "link": "https://www.thrashermagazine.com/articles/events/yam-behar-s-yam-pylon-skateboards-premiere/",
+    "score": 10,
+    "summary": "传奇滑手Yam Behar个人签名款板面“Yam”在Thrasher重磅首发，再掀职业滑板装备热潮。",
     "source": "Thrasher"
   },
   {
-    "title": "2026 Skateboarding Calendar Release!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3859-2026-skateboarding-calendar-release.html",
-    "score": 8,
-    "summary": "World Skate官宣2026滑板赛历，巴黎奥运后新周期布局引关注",
-    "source": "World Skate"
+    "title": "Antwuan Dixon on the Cover! Subscribe NOW",
+    "link": "https://www.thrashermagazine.com/articles/magazine/antwuan-dixon-on-the-cover-subscribe-now/",
+    "score": 9,
+    "summary": "传奇滑手Antwuan Dixon强势登顶Thrasher封面，街头文化狂热再掀订阅风暴！",
+    "source": "Thrasher"
   },
   {
-    "title": "Josh Douglas' \"Seed of Doubt\" Opera Part",
-    "link": "https://www.thrashermagazine.com/articles/videos/josh-douglas-seed-of-doubt-opera-part/",
-    "score": 7,
-    "summary": "Thrasher发布滑手Josh Douglas个人片段《Seed of Doubt》，以歌剧为概念呈现独特街头风格。",
+    "title": "This Old Ledge: FTC San Francisco",
+    "link": "https://www.thrashermagazine.com/articles/videos/this-old-ledge-ftc/",
+    "score": 8,
+    "summary": "Thrasher经典回顾FTC旧金山传奇滑板据点，唤醒街头文化黄金时代记忆。",
     "source": "Thrasher"
   },
   {
     "title": "February 21, 2026Flying Low's \"Skateshop Day\" Event",
     "link": "https://www.thrashermagazine.com/articles/trash/flying-low-s-skateshop-day-event/",
     "score": 7,
-    "summary": "Thrasher力推Flying Low滑板店纪念日，街头文化盛宴引爆社群狂欢。",
+    "summary": "Thrasher力推Flying Low滑板店庆日活动，街头文化盛宴引爆社群狂欢。",
     "source": "Thrasher"
   },
   {
-    "title": "World Skate Development Scholarship Programme: Woodward Training Camp Report",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3853-world-skate-development-scholarship-programme-woodward-training-camp-report.html",
+    "title": "December 06, 2025\"Skateboard Culture\" Book Launch",
+    "link": "https://www.thrashermagazine.com/articles/trash/skateboard-culture-book-launch/",
     "score": 7,
-    "summary": "World Skate携手Woodward打造未来之星训练营，为奥运新周期储备滑板新生力量。",
-    "source": "World Skate"
+    "summary": "Thrasher重磅推出《Skateboard Culture》新书，深度解构街头文化基因引全球板圈关注。",
+    "source": "Thrasher"
   },
   {
-    "title": "February 18, 2026Atiba Jefferson's \"Finding Focus\" Talk at SDSU",
-    "link": "https://www.thrashermagazine.com/articles/events/atiba-jefferson-s-finding-focus-talk-at-sdsu/",
+    "title": "Jim Gray is Coming to Macau",
+    "link": "https://www.kickerclub.com/2026/03/jim-gray-is-coming-to-macau/",
     "score": 7,
-    "summary": "传奇滑板摄影师Atiba Jefferson在SDSU开讲，分享其聚焦滑板与街头文化的创作心法。",
-    "source": "Thrasher"
+    "summary": "传奇滑手Jim Gray即将空降澳门，街头文化热潮再添国际级看点。",
+    "source": "KickerClub"
+  },
+  {
+    "title": "Nov.15th - Polar Shanghai Demo",
+    "link": "https://www.kickerclub.com/2025/11/nov-15th-polar-shanghai-demo/",
+    "score": 7,
+    "summary": "Polar滑板队空降上海引爆街头，国际阵容本土首秀点燃中国滑板圈。",
+    "source": "KickerClub"
   }
 ];
