@@ -1,17 +1,17 @@
 const newsData = [
   {
-    "title": "Mar.13th - FISE Battle of the Champions",
-    "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
-    "score": 14,
-    "summary": "FISE冠军之战即将打响，顶尖滑手齐聚争夺街头荣耀！",
-    "source": "KickerClub"
-  },
-  {
     "title": "February 15, 2026Yam Behar's \"Yam\" Pylon Skateboards Premiere",
     "link": "https://www.thrashermagazine.com/articles/events/yam-behar-s-yam-pylon-skateboards-premiere/",
     "score": 11,
-    "summary": "Thrasher重磅发布Yam Behar个人签名款“Yam”板面，标志性涂鸦风格引爆滑板圈。",
+    "summary": "Thrasher重磅发布Yam Behar个人签名款“Yam”柱式滑板，街头传奇再添硬核新作。",
     "source": "Thrasher"
+  },
+  {
+    "title": "Mar.13th - FISE Battle of the Champions",
+    "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
+    "score": 11,
+    "summary": "FISE冠军之战打响，顶尖滑手齐聚冲击奥运积分关键战。",
+    "source": "KickerClub"
   },
   {
     "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
@@ -23,50 +23,50 @@ const newsData = [
   {
     "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
     "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
-    "score": 11,
-    "summary": "Thrasher发布Escapist滑板队最新影片《It's Over》首映，引爆核心滑板圈期待。",
+    "score": 10,
+    "summary": "Thrasher发布Escapist团队最新影片《It's Over》首映，引爆滑板圈硬核狂欢。",
     "source": "Thrasher"
   },
   {
     "title": "Border Skateboards' \"Hasta la Frontera\" Video",
     "link": "https://www.thrashermagazine.com/articles/trash/border-skateboards-hasta-la-frontera-video/",
     "score": 9,
-    "summary": "Thrasher发布Border滑板队墨西哥边境主题影片《Hasta la Frontera》，硬核地形与街头文化碰撞引爆社群。",
+    "summary": "Thrasher发布Border滑板队墨西哥边境主题大片，粗粝地形与街头文化碰撞引爆社群热议。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "March 14, 2026Capitola Classic 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/capitola-classic-2026-event/",
+    "score": 8,
+    "summary": "Thrasher重磅预告2026 Capitola Classic赛事，传奇滑手云集引爆街头文化热潮。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "\"No-Comply X Chrome\" Collab Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/no-comply-x-chrome/",
+    "score": 8,
+    "summary": "Thrasher联手Chrome推出“No-Comply”合作短片，街头文化与滑板硬核美学激烈碰撞。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "This Old Ledge: FTC San Francisco",
+    "link": "https://www.thrashermagazine.com/articles/videos/this-old-ledge-ftc/",
+    "score": 8,
+    "summary": "Thrasher经典栏目《This Old Ledge》聚焦旧金山FTC店铺传奇地形，街头文化地标再引滑板社群回忆热潮。",
     "source": "Thrasher"
   },
   {
     "title": "February 18, 2026Atiba Jefferson's \"Finding Focus\" Talk at SDSU",
     "link": "https://www.thrashermagazine.com/articles/events/atiba-jefferson-s-finding-focus-talk-at-sdsu/",
-    "score": 7,
-    "summary": "传奇滑板摄影师Atiba Jefferson在SDSU开讲，分享职业生涯高光与创作哲学，吸引核心滑板社群关注。",
+    "score": 8,
+    "summary": "传奇滑板摄影师Atiba Jefferson在SDSU开讲，分享其聚焦滑板与街头文化的创作心法。",
     "source": "Thrasher"
   },
   {
-    "title": "Nov.15th - Polar Shanghai Demo",
-    "link": "https://www.kickerclub.com/2025/11/nov-15th-polar-shanghai-demo/",
+    "title": "December 13, 2025Al Carrer's \"Rookie Run\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/al-carrer-s-rookie-run-event/",
     "score": 7,
-    "summary": "Polar滑板队空降上海引爆街头，国际滑手本土演示掀起今冬滑板热潮。",
-    "source": "KickerClub"
-  },
-  {
-    "title": "January 17, 2026Flying Low's \"Four-Year Anniversary\" Show",
-    "link": "https://www.thrashermagazine.com/articles/events/flying-low-s-four-year-anniversary-show/",
-    "score": 7,
-    "summary": "Thrasher力推Flying Low四周年纪念演出，地下滑板文化再度引爆街头热潮。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "December 06, 2025\"Skateboard Culture\" Book Launch",
-    "link": "https://www.thrashermagazine.com/articles/trash/skateboard-culture-book-launch/",
-    "score": 7,
-    "summary": "Thrasher重磅推出《Skateboard Culture》新书，深度解构街头文化基因引全球板圈关注。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "\"OJ Wheels X Black Sabbath\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/oj-wheels-x-black-sabbath/",
-    "score": 7,
-    "summary": "Thrasher发布OJ轮组与重金属传奇Black Sabbath联名短片，经典摇滚美学注入街头滑板场景。",
+    "summary": "Thrasher旗下Al Carrer举办“Rookie Run”新人赛，挖掘街头滑板新生力量。",
     "source": "Thrasher"
   }
 ];
