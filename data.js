@@ -2,15 +2,15 @@ const newsData = [
   {
     "title": "WST São Paulo World Championships: Finals Report",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3869-wst-sao-paulo-world-championships-finals-report.html",
-    "score": 19,
-    "summary": "WST圣保罗世锦赛诞生新科世界冠军，奥运积分争夺战白热化！",
+    "score": 18,
+    "summary": "WST圣保罗世锦赛落幕，顶尖滑手刷新历史记录，冠军争夺战引爆街头文化热潮。",
     "source": "World Skate"
   },
   {
     "title": "Mar.13th - FISE Battle of the Champions",
     "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
-    "score": 13,
-    "summary": "FISE冠军之战打响，顶尖滑手齐聚冲击奥运积分关键战！",
+    "score": 14,
+    "summary": "FISE冠军之战重磅来袭，顶尖滑手齐聚冲击奥运积分，街头文化盛宴即将引爆！",
     "source": "KickerClub"
   },
   {
@@ -31,7 +31,7 @@ const newsData = [
     "title": "Border Skateboards' \"Hasta la Frontera\" Video",
     "link": "https://www.thrashermagazine.com/articles/trash/border-skateboards-hasta-la-frontera-video/",
     "score": 9,
-    "summary": "Thrasher发布Border滑板队《Hasta la Frontera》全片，美墨边境地形暴力输出颠覆性地形利用！",
+    "summary": "Thrasher发布Border滑板队《Hasta la Frontera》全片，硬核地形与西语街头文化碰撞引爆社群。",
     "source": "Thrasher"
   },
   {
@@ -42,31 +42,31 @@ const newsData = [
     "source": "Thrasher"
   },
   {
+    "title": "March 29, 2026Yaddamean's \"Z Skate Jam\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/yaddamean-s-z-skate-jam-event/",
+    "score": 7,
+    "summary": "Thrasher力推Yaddamean街头滑板赛，嘻哈文化与滑板激情碰撞引爆周末狂潮。",
+    "source": "Thrasher"
+  },
+  {
     "title": "\"OJ Wheels X Black Sabbath\" Video",
     "link": "https://www.thrashermagazine.com/articles/trash/oj-wheels-x-black-sabbath/",
-    "score": 8,
-    "summary": "Thrasher发布OJ轮组与重金属传奇Black Sabbath联名短片，经典摇滚美学注入滑板硬核基因。",
+    "score": 7,
+    "summary": "Thrasher发布OJ轮组与重金属传奇Black Sabbath联名短片，经典摇滚美学注入滑板硬核文化。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "February 18, 2026Atiba Jefferson's \"Finding Focus\" Talk at SDSU",
+    "link": "https://www.thrashermagazine.com/articles/events/atiba-jefferson-s-finding-focus-talk-at-sdsu/",
+    "score": 7,
+    "summary": "传奇滑板摄影师Atiba Jefferson在SDSU分享会揭秘镜头背后的滑板文化与创作哲学。",
     "source": "Thrasher"
   },
   {
     "title": "\"No-Comply X Chrome\" Collab Video",
     "link": "https://www.thrashermagazine.com/articles/trash/no-comply-x-chrome/",
     "score": 7,
-    "summary": "Thrasher联手Chrome推出滑板视觉盛宴，街头文化与极限运动碰撞引爆社群热议。",
+    "summary": "Thrasher联手Chrome推出视觉系滑板短片，街头文化与滑板美学碰撞引爆社群热议。",
     "source": "Thrasher"
-  },
-  {
-    "title": "Jim Gray is Coming to Macau",
-    "link": "https://www.kickerclub.com/2026/03/jim-gray-is-coming-to-macau/",
-    "score": 7,
-    "summary": "传奇滑手Jim Gray即将空降澳门，街头文化热潮再添国际级重磅事件。",
-    "source": "KickerClub"
-  },
-  {
-    "title": "Nov.15th - Polar Shanghai Demo",
-    "link": "https://www.kickerclub.com/2025/11/nov-15th-polar-shanghai-demo/",
-    "score": 7,
-    "summary": "Polar滑板队空降上海引爆街头，国际阵容本土化演示重塑中国滑板场景。",
-    "source": "KickerClub"
   }
 ];
