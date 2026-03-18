@@ -3,8 +3,29 @@ const newsData = [
     "title": "WST São Paulo World Championships: Finals Report",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3869-wst-sao-paulo-world-championships-finals-report.html",
     "score": 19,
-    "summary": "WST圣保罗世锦赛决赛落幕，顶尖滑手刷新历史记录，冠军之争引爆奥运资格赛前哨战。",
+    "summary": "WST圣保罗世锦赛诞生新冠军，奥运积分争夺战白热化！",
     "source": "World Skate"
+  },
+  {
+    "title": "Mar.13th - FISE Battle of the Champions",
+    "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
+    "score": 14,
+    "summary": "FISE冠军之战即将打响，顶尖滑手齐聚冲击奥运积分关键战役！",
+    "source": "KickerClub"
+  },
+  {
+    "title": "February 15, 2026Yam Behar's \"Yam\" Pylon Skateboards Premiere",
+    "link": "https://www.thrashermagazine.com/articles/events/yam-behar-s-yam-pylon-skateboards-premiere/",
+    "score": 12,
+    "summary": "传奇滑手Yam Behar个人签名款Pylon滑板首发，Thrasher重磅发布引爆核心圈期待。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
+    "score": 11,
+    "summary": "Thrasher重磅发布Escapist团队最新影片《It's Over》首映，引爆滑板圈狂欢热潮。",
+    "source": "Thrasher"
   },
   {
     "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
@@ -14,59 +35,38 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Mar.13th - FISE Battle of the Champions",
-    "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
-    "score": 11,
-    "summary": "FISE冠军之战打响，顶尖滑手齐聚冲击奥运积分关键战。",
-    "source": "KickerClub"
-  },
-  {
-    "title": "February 15, 2026Yam Behar's \"Yam\" Pylon Skateboards Premiere",
-    "link": "https://www.thrashermagazine.com/articles/events/yam-behar-s-yam-pylon-skateboards-premiere/",
-    "score": 10,
-    "summary": "传奇滑手Yam Behar个人签名款Pylon板面首发，Thrasher独家引爆核心圈期待。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
-    "score": 8,
-    "summary": "Thrasher发布Escapist滑板队最新影片《It's Over》首映，引爆核心滑板圈期待。",
-    "source": "Thrasher"
-  },
-  {
     "title": "MASHER: Swampfest 2026 Video",
     "link": "https://www.thrashermagazine.com/articles/videos/masher-swampfest-2026-video/",
     "score": 8,
-    "summary": "Thrasher重磅发布Swampfest 2026官方视频，地下滑板狂欢再现狂野泥地炸裂现场。",
+    "summary": "Thrasher重磅发布Swampfest 2026官方视频，集结地下滑板狂潮，泥浆飞溅中的原始街头力作引爆社群。",
     "source": "Thrasher"
   },
   {
-    "title": "January 17, 2026Flying Low's \"Four-Year Anniversary\" Show",
-    "link": "https://www.thrashermagazine.com/articles/events/flying-low-s-four-year-anniversary-show/",
+    "title": "March 14, 2026Capitola Classic 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/capitola-classic-2026-event/",
     "score": 8,
-    "summary": "Thrasher力推Flying Low四周年纪念演出，地下滑板文化再掀狂潮。",
+    "summary": "Thrasher官宣2026 Capitola Classic赛事回归，经典街头滑板盛宴再掀狂潮。",
     "source": "Thrasher"
   },
   {
-    "title": "December 13, 2025Al Carrer's \"Rookie Run\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/al-carrer-s-rookie-run-event/",
-    "score": 8,
-    "summary": "Thrasher旗下Al Carrer举办新人赛\"Rookie Run\"，挖掘街头滑板新生力量。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Andrey Tarasov's \"ATLA\" Obey Part",
-    "link": "https://www.thrashermagazine.com/articles/trash/andrey-tarasov-s-atla-obey-part/",
-    "score": 8,
-    "summary": "Andrey Tarasov联手Obey推出个人签名款“ATLA”板面，街头艺术与滑板文化再度碰撞。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Jim Gray is Coming to Macau",
-    "link": "https://www.kickerclub.com/2026/03/jim-gray-is-coming-to-macau/",
+    "title": "March 29, 2026Yaddamean's \"Z Skate Jam\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/yaddamean-s-z-skate-jam-event/",
     "score": 7,
-    "summary": "传奇滑手Jim Gray即将空降澳门，街头文化热潮再添国际级重磅事件。",
+    "summary": "Thrasher力推Yaddamean街头滑板赛，嘻哈文化与滑板激情碰撞引爆周末狂欢。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Nov.15th - Polar Shanghai Demo",
+    "link": "https://www.kickerclub.com/2025/11/nov-15th-polar-shanghai-demo/",
+    "score": 7,
+    "summary": "Polar滑板队空降上海街头，本土滑手与国际阵容引爆魔都板圈狂欢。",
     "source": "KickerClub"
+  },
+  {
+    "title": "Dashawn Jordan for Nike SB",
+    "link": "https://www.thrashermagazine.com/articles/trash/dashawn-jordan-for-nike-sb/",
+    "score": 7,
+    "summary": "Nike SB官宣Dashawn Jordan加入职业滑手阵容，Thrasher引爆核心滑板圈热议。",
+    "source": "Thrasher"
   }
 ];
