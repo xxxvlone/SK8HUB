@@ -2,71 +2,71 @@ const newsData = [
   {
     "title": "WST São Paulo World Championships: Finals Report",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3869-wst-sao-paulo-world-championships-finals-report.html",
-    "score": 19,
-    "summary": "WST圣保罗世锦赛诞生新冠军，奥运积分争夺战白热化引爆滑板圈！",
+    "score": 18,
+    "summary": "WST圣保罗世锦赛诞生新冠军，奥运积分争夺战白热化！",
     "source": "World Skate"
   },
   {
     "title": "Mar.13th - FISE Battle of the Champions",
     "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
-    "score": 16,
-    "summary": "FISE冠军之战重磅来袭，顶尖滑手齐聚冲击奥运积分，街头文化盛宴引爆三月滑板圈！",
+    "score": 14,
+    "summary": "FISE冠军之战重磅回归，顶尖滑手齐聚冲击奥运积分，街头文化盛宴引爆三月滑板圈。",
     "source": "KickerClub"
   },
   {
     "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
-    "score": 11,
-    "summary": "世界滑板巡回赛2025赛季收官战在日本上演巅峰对决，全球顶尖滑手争夺奥运积分席位！",
+    "score": 12,
+    "summary": "世界滑板巡回赛2025赛季收官战在日本震撼上演，顶级滑手齐聚争夺奥运积分关键战！",
     "source": "World Skate"
   },
   {
     "title": "February 15, 2026Yam Behar's \"Yam\" Pylon Skateboards Premiere",
     "link": "https://www.thrashermagazine.com/articles/events/yam-behar-s-yam-pylon-skateboards-premiere/",
-    "score": 9,
-    "summary": "Thrasher重磅发布Yam Behar个人签名款“Yam”板面，标志其职业生涯新里程碑。",
+    "score": 11,
+    "summary": "传奇滑手Yam Behar个人签名款Pylon滑板板面首发，Thrasher独家引爆核心圈期待。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
+    "score": 10,
+    "summary": "Thrasher发布Escapist团队最新影片《It's Over》首映，引爆滑板圈硬核狂欢。",
     "source": "Thrasher"
   },
   {
     "title": "Krooked's \"Weirdo 03\" Mike Anderson and Tom Knox Video",
     "link": "https://www.thrashermagazine.com/articles/trash/krooked-s-weirdo-03-mike-anderson-and-tom-knox-video/",
     "score": 9,
-    "summary": "Krooked滑板队发布《Weirdo 03》影片，Mike Anderson与Tom Knox联手呈现怪异风格街头地形轰炸，Thrasher重磅推送引爆滑板圈。",
+    "summary": "Thrasher发布Krooked团队新片《Weirdo 03》，Mike Anderson与Tom Knox联手呈现怪异风格街头滑板盛宴。",
     "source": "Thrasher"
   },
   {
-    "title": "MASHER: Swampfest 2026 Video",
-    "link": "https://www.thrashermagazine.com/articles/videos/masher-swampfest-2026-video/",
+    "title": "Nov.15th - Polar Shanghai Demo",
+    "link": "https://www.kickerclub.com/2025/11/nov-15th-polar-shanghai-demo/",
     "score": 8,
-    "summary": "Thrasher重磅发布Swampfest 2026官方视频，集结地下滑板狂野能量引爆街头圈。",
-    "source": "Thrasher"
+    "summary": "Polar携国际滑手空降上海，街头文化与本土滑板场景激烈碰撞。",
+    "source": "KickerClub"
   },
   {
     "title": "Andrey Tarasov's \"ATLA\" Obey Part",
     "link": "https://www.thrashermagazine.com/articles/trash/andrey-tarasov-s-atla-obey-part/",
     "score": 8,
-    "summary": "Andrey Tarasov联手Obey推出个人签名款“ATLA”板面，Thrasher力推的街头艺术滑板新作引爆滑圈。",
+    "summary": "Andrey Tarasov联手Obey推出个人签名款“ATLA”板面，街头艺术与滑板文化再度碰撞。",
     "source": "Thrasher"
   },
   {
-    "title": "January 17, 2026Flying Low's \"Four-Year Anniversary\" Show",
-    "link": "https://www.thrashermagazine.com/articles/events/flying-low-s-four-year-anniversary-show/",
+    "title": "2026 Skateboarding Calendar Release!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3859-2026-skateboarding-calendar-release.html",
     "score": 8,
-    "summary": "Thrasher力推Flying Low四周年纪念演出，地下滑板文化再掀狂潮。",
-    "source": "Thrasher"
+    "summary": "World Skate官宣2026滑板赛历，巴黎奥运后新周期布局引关注。",
+    "source": "World Skate"
   },
   {
-    "title": "December 13, 2025Al Carrer's \"Rookie Run\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/al-carrer-s-rookie-run-event/",
-    "score": 8,
-    "summary": "Thrasher旗下Al Carrer举办新人赛\"Rookie Run\"，挖掘街头滑板新生力量。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
-    "score": 8,
-    "summary": "Thrasher发布Escapist团队最新影片《It's Over》首映，引爆滑板圈硬核狂欢。",
+    "title": "New Balance Numeric Presents: Charlie and Davide",
+    "link": "https://www.thrashermagazine.com/articles/videos/new-balance-numeric-presents-charlie-and-davide/",
+    "score": 7,
+    "summary": "New Balance Numeric发布Charlie和Davide滑板新片，Thrasher呈现两位实力滑手街头风格。",
     "source": "Thrasher"
   }
 ];
