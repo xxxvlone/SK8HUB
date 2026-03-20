@@ -3,21 +3,28 @@ const newsData = [
     "title": "WST São Paulo World Championships: Finals Report",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3869-wst-sao-paulo-world-championships-finals-report.html",
     "score": 19,
-    "summary": "WST圣保罗世锦赛诞生新王，奥运积分争夺战白热化，街头文化盛宴引爆全球滑板圈。",
+    "summary": "WST圣保罗世锦赛诞生新科世界冠军，奥运积分争夺战白热化引爆滑板圈！",
     "source": "World Skate"
   },
   {
     "title": "Mar.13th - FISE Battle of the Champions",
     "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
     "score": 14,
-    "summary": "FISE冠军之战打响，顶尖滑手齐聚冲击奥运积分关键战役！",
+    "summary": "FISE冠军之战重磅来袭，顶尖滑手齐聚冲击奥运积分，街头文化盛宴即将引爆！",
     "source": "KickerClub"
   },
   {
     "title": "February 15, 2026Yam Behar's \"Yam\" Pylon Skateboards Premiere",
     "link": "https://www.thrashermagazine.com/articles/events/yam-behar-s-yam-pylon-skateboards-premiere/",
+    "score": 12,
+    "summary": "传奇滑手Yam Behar个人签名款Pylon板面首发，Thrasher独家引爆核心圈层期待。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
     "score": 11,
-    "summary": "传奇滑手Yam Behar个人签名款Pylon滑板首发，Thrasher重磅发布引爆核心圈期待。",
+    "summary": "Thrasher发布Escapist滑板队最新影片《It's Over》首映，引爆核心滑板圈期待。",
     "source": "Thrasher"
   },
   {
@@ -28,45 +35,38 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Krooked's \"Weirdo 03\" Mike Anderson and Tom Knox Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/krooked-s-weirdo-03-mike-anderson-and-tom-knox-video/",
+    "title": "Cory Kennedy \"Simonious\" Girl Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/cory-kennedy-simonious-girl-video/",
     "score": 9,
-    "summary": "Krooked发布《Weirdo 03》滑板影片，传奇滑手Mike Anderson与Tom Knox联手献上街头风格爆裂演出。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "December 13, 2025Al Carrer's \"Rookie Run\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/al-carrer-s-rookie-run-event/",
-    "score": 8,
-    "summary": "Thrasher力推Al Carrer街头滑板新秀赛，新生代滑手血性征服巴塞罗那地形引爆社群热议。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "February 21, 2026Flying Low's \"Skateshop Day\" Event",
-    "link": "https://www.thrashermagazine.com/articles/trash/flying-low-s-skateshop-day-event/",
-    "score": 8,
-    "summary": "Thrasher力推Flying Low滑板店庆日活动，街头文化盛宴引燃社群狂欢。",
+    "summary": "Thrasher发布Cory Kennedy争议性新片《Simonious》，街头滑板美学引爆社群热议。",
     "source": "Thrasher"
   },
   {
     "title": "February 07, 2026Rhythm Skateshop's \"CV Am 2026\" Event",
     "link": "https://www.thrashermagazine.com/articles/events/rhythm-skateshop-s-cv-am-2026-event/",
-    "score": 7,
-    "summary": "Thrasher报道Rhythm滑板店举办“CV Am 2026”业余赛事，持续挖掘街头滑板新生力量。",
+    "score": 8,
+    "summary": "Thrasher报道Rhythm滑板店举办“CV Am 2026”业余赛事，挖掘新生代街头力量。",
     "source": "Thrasher"
   },
   {
-    "title": "Cory Kennedy \"Simonious\" Girl Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/cory-kennedy-simonious-girl-video/",
+    "title": "Nov.15th - Polar Shanghai Demo",
+    "link": "https://www.kickerclub.com/2025/11/nov-15th-polar-shanghai-demo/",
     "score": 7,
-    "summary": "Thrasher发布Cory Kennedy经典片段《Simonious》Girl合作版，传奇滑手标志性风格引爆怀旧热潮。",
-    "source": "Thrasher"
+    "summary": "Polar滑板队空降上海引爆街头，国际阵容本土首秀点燃中国滑板圈。",
+    "source": "KickerClub"
   },
   {
     "title": "March 29, 2026Yaddamean's \"Z Skate Jam\" Event",
     "link": "https://www.thrashermagazine.com/articles/events/yaddamean-s-z-skate-jam-event/",
     "score": 7,
     "summary": "Thrasher力推Yaddamean街头滑板赛，嘻哈文化与滑板激情碰撞引爆周末狂欢。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "February 21, 2026Flying Low's \"Skateshop Day\" Event",
+    "link": "https://www.thrashermagazine.com/articles/trash/flying-low-s-skateshop-day-event/",
+    "score": 7,
+    "summary": "Thrasher力推Flying Low滑板店纪念日活动，街头文化盛宴引爆社群狂欢。",
     "source": "Thrasher"
   }
 ];
