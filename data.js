@@ -3,22 +3,15 @@ const newsData = [
     "title": "WST São Paulo World Championships: Finals Report",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3869-wst-sao-paulo-world-championships-finals-report.html",
     "score": 19,
-    "summary": "WST圣保罗世锦赛诞生新冠军，奥运积分争夺战白热化！",
+    "summary": "WST圣保罗世锦赛决赛落幕，顶尖滑手刷新历史记录，冠军争夺战引爆奥运积分赛关键节点。",
     "source": "World Skate"
   },
   {
     "title": "Mar.13th - FISE Battle of the Champions",
     "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
     "score": 14,
-    "summary": "FISE冠军之战引爆滑圈，顶尖滑手齐聚冲击历史性桂冠。",
+    "summary": "FISE冠军之战重磅来袭，顶尖滑手齐聚冲击奥运资格，街头文化盛宴即将引爆！",
     "source": "KickerClub"
-  },
-  {
-    "title": "February 15, 2026Yam Behar's \"Yam\" Pylon Skateboards Premiere",
-    "link": "https://www.thrashermagazine.com/articles/events/yam-behar-s-yam-pylon-skateboards-premiere/",
-    "score": 12,
-    "summary": "传奇滑手Yam Behar个人签名款Pylon滑板首发，Thrasher重磅呈现街头文化新焦点。",
-    "source": "Thrasher"
   },
   {
     "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
@@ -28,18 +21,25 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Quasi's \"Hard Reset\" Premiere Photos",
-    "link": "https://www.thrashermagazine.com/articles/quasi-s-hard-reset-premiere-photos/",
-    "score": 10,
-    "summary": "Thrasher重磅发布Quasi团队新片《Hard Reset》首映现场，地下滑板硬核美学再度引爆街头。",
+    "title": "February 15, 2026Yam Behar's \"Yam\" Pylon Skateboards Premiere",
+    "link": "https://www.thrashermagazine.com/articles/events/yam-behar-s-yam-pylon-skateboards-premiere/",
+    "score": 11,
+    "summary": "传奇滑手Yam Behar个人签名款Pylon滑板板面首发，Thrasher独家引爆核心圈期待。",
     "source": "Thrasher"
   },
   {
-    "title": "Nov.15th - Polar Shanghai Demo",
-    "link": "https://www.kickerclub.com/2025/11/nov-15th-polar-shanghai-demo/",
+    "title": "Quasi's \"Hard Reset\" Premiere Photos",
+    "link": "https://www.thrashermagazine.com/articles/quasi-s-hard-reset-premiere-photos/",
     "score": 9,
-    "summary": "Polar滑板队空降上海引爆街头，本土滑手与国际大咖同台炸场！",
-    "source": "KickerClub"
+    "summary": "Quasi新片《Hard Reset》首映现场曝光，Thrasher呈现地下滑板最生猛的视觉狂欢",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Ronnie Kessner's \"April\" Part",
+    "link": "https://www.thrashermagazine.com/articles/trash/ronnie-kessner-s-april-part/",
+    "score": 8,
+    "summary": "Thrasher发布Ronnie Kessner个人片段《April》，硬核风格引爆滑板圈。",
+    "source": "Thrasher"
   },
   {
     "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
@@ -49,24 +49,24 @@ const newsData = [
     "source": "Thrasher"
   },
   {
+    "title": "March 28, 2026\"Don't Let Them Take You Alive\" Art Show",
+    "link": "https://www.thrashermagazine.com/articles/events/don-t-let-them-take-you-alive-art-show/",
+    "score": 7,
+    "summary": "Thrasher跨界艺术展“Don't Let Them Take You Alive”开幕，以滑板硬核精神引爆街头文化圈。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Jim Gray is Coming to Macau",
+    "link": "https://www.kickerclub.com/2026/03/jim-gray-is-coming-to-macau/",
+    "score": 7,
+    "summary": "传奇滑手Jim Gray即将空降澳门，街头文化热潮再添国际级看点。",
+    "source": "KickerClub"
+  },
+  {
     "title": "Quasi's \"Hard Reset\" Video",
     "link": "https://www.thrashermagazine.com/articles/trash/quasi-s-hard-reset-video/",
     "score": 7,
-    "summary": "Quasi新片《Hard Reset》登陆Thrasher，怪诞美学与地下滑板基因引爆社交媒体热议。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "December 13, 2025Al Carrer's \"Rookie Run\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/al-carrer-s-rookie-run-event/",
-    "score": 7,
-    "summary": "Thrasher旗下Al Carrer举办新人赛\"Rookie Run\"，挖掘街头滑板新生力量引关注。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Ronnie Kessner's \"April\" Part",
-    "link": "https://www.thrashermagazine.com/articles/trash/ronnie-kessner-s-april-part/",
-    "score": 7,
-    "summary": "Thrasher发布Ronnie Kessner个人片段《April》，技术流猛攻街头地形引核心圈关注。",
+    "summary": "Quasi团队在Thrasher发布全新滑板影片《Hard Reset》，以标志性的粗粝美学与地下街头气质席卷核心滑板圈。",
     "source": "Thrasher"
   }
 ];
