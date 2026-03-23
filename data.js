@@ -9,29 +9,22 @@ const newsData = [
   {
     "title": "Mar.13th - FISE Battle of the Champions",
     "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
-    "score": 15,
-    "summary": "FISE冠军之战重磅开赛，顶尖滑手齐聚冲击奥运积分关键战！",
+    "score": 14,
+    "summary": "FISE冠军之战即将打响，顶尖滑手齐聚冲击奥运积分关键战役！",
     "source": "KickerClub"
   },
   {
     "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
-    "score": 13,
-    "summary": "世界滑板巡回赛2025赛季收官战在日本上演巅峰对决，全球顶尖滑手争夺奥运积分白热化！",
+    "score": 12,
+    "summary": "世界滑板巡回赛2025赛季收官战在日本震撼上演，顶级滑手齐聚争夺奥运积分关键战！",
     "source": "World Skate"
-  },
-  {
-    "title": "Quasi's \"Hard Reset\" Premiere Photos",
-    "link": "https://www.thrashermagazine.com/articles/quasi-s-hard-reset-premiere-photos/",
-    "score": 10,
-    "summary": "Quasi新片《Hard Reset》在Thrasher首映，地下滑板美学再度引爆街头文化圈。",
-    "source": "Thrasher"
   },
   {
     "title": "February 15, 2026Yam Behar's \"Yam\" Pylon Skateboards Premiere",
     "link": "https://www.thrashermagazine.com/articles/events/yam-behar-s-yam-pylon-skateboards-premiere/",
-    "score": 10,
-    "summary": "传奇滑手Yam Behar个人签名款Pylon板面正式发布，Thrasher独家引爆首波热度。",
+    "score": 11,
+    "summary": "传奇滑手Yam Behar个人签名款Pylon板面首发，Thrasher独家引爆核心圈期待。",
     "source": "Thrasher"
   },
   {
@@ -42,31 +35,38 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Quasi's \"Hard Reset\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/quasi-s-hard-reset-video/",
-    "score": 8,
-    "summary": "Quasi新片《Hard Reset》登陆Thrasher引爆滑板圈，地下美学与实验性风格再度挑战传统滑板影像边界。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "February 18, 2026Atiba Jefferson's \"Finding Focus\" Talk at SDSU",
-    "link": "https://www.thrashermagazine.com/articles/events/atiba-jefferson-s-finding-focus-talk-at-sdsu/",
-    "score": 7,
-    "summary": "传奇滑手兼摄影师Atiba Jefferson在SDSU开讲，分享其聚焦滑板与街头文化的创作心法。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Matt Picard for Classic Skateshop",
-    "link": "https://www.thrashermagazine.com/articles/trash/matt-picard-for-classic-skateshop/",
-    "score": 7,
-    "summary": "Thrasher发布Matt Picard为Classic滑板店拍摄的纯正街头风格短片，展现老牌滑手的硬核地形征服力。",
+    "title": "Quasi's \"Hard Reset\" Premiere Photos",
+    "link": "https://www.thrashermagazine.com/articles/quasi-s-hard-reset-premiere-photos/",
+    "score": 10,
+    "summary": "Quasi新片《Hard Reset》首映现场曝光，Thrasher呈现滑板圈年度重磅视觉盛宴。",
     "source": "Thrasher"
   },
   {
     "title": "Didrik Galasso's \"Whimsical\" Part",
     "link": "https://www.thrashermagazine.com/articles/videos/deedz-whimsical-part/",
-    "score": 7,
-    "summary": "Thrasher新片《Whimsical》引爆滑板圈，Didrik Galasso用天马行空的创意动作诠释街头美学。",
+    "score": 9,
+    "summary": "Thrasher新片《Whimsical》引爆滑板圈，Didrik Galasso以天马行空的创意动作再度定义街头滑板美学。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Quasi's \"Hard Reset\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/quasi-s-hard-reset-video/",
+    "score": 8,
+    "summary": "Quasi新片《Hard Reset》登陆Thrasher引爆滑板圈，地下美学与实验性风格再掀视觉革命。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "2026 Skateboarding Calendar Release!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3859-2026-skateboarding-calendar-release.html",
+    "score": 8,
+    "summary": "World Skate官宣2026滑板赛历，巴黎奥运后新周期布局引关注。",
+    "source": "World Skate"
+  },
+  {
+    "title": "February 21, 2026Flying Low's \"Skateshop Day\" Event",
+    "link": "https://www.thrashermagazine.com/articles/trash/flying-low-s-skateshop-day-event/",
+    "score": 8,
+    "summary": "Thrasher力推Flying Low滑板店庆日活动，街头文化盛宴引爆社群狂欢。",
     "source": "Thrasher"
   }
 ];
