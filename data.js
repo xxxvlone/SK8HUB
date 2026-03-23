@@ -2,71 +2,71 @@ const newsData = [
   {
     "title": "WST São Paulo World Championships: Finals Report",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3869-wst-sao-paulo-world-championships-finals-report.html",
-    "score": 19,
-    "summary": "WST圣保罗世锦赛决赛落幕，顶尖滑手刷新历史记录，冠军争夺战引爆奥运积分赛关键节点。",
+    "score": 17,
+    "summary": "WST圣保罗世锦赛诞生新冠军，奥运积分争夺战白热化！",
     "source": "World Skate"
   },
   {
     "title": "Mar.13th - FISE Battle of the Champions",
     "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
-    "score": 14,
-    "summary": "FISE冠军之战重磅来袭，顶尖滑手齐聚冲击奥运资格，街头文化盛宴即将引爆！",
+    "score": 13,
+    "summary": "FISE冠军之战重磅开赛，顶尖滑手齐聚冲击奥运积分关键战！",
     "source": "KickerClub"
-  },
-  {
-    "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
-    "score": 11,
-    "summary": "世界滑板巡回赛2025赛季收官战在日本上演巅峰对决，全球顶尖滑手争夺奥运积分席位！",
-    "source": "World Skate"
-  },
-  {
-    "title": "February 15, 2026Yam Behar's \"Yam\" Pylon Skateboards Premiere",
-    "link": "https://www.thrashermagazine.com/articles/events/yam-behar-s-yam-pylon-skateboards-premiere/",
-    "score": 11,
-    "summary": "传奇滑手Yam Behar个人签名款Pylon滑板板面首发，Thrasher独家引爆核心圈期待。",
-    "source": "Thrasher"
   },
   {
     "title": "Quasi's \"Hard Reset\" Premiere Photos",
     "link": "https://www.thrashermagazine.com/articles/quasi-s-hard-reset-premiere-photos/",
-    "score": 9,
-    "summary": "Quasi新片《Hard Reset》首映现场曝光，Thrasher呈现地下滑板最生猛的视觉狂欢",
+    "score": 11,
+    "summary": "Quasi新片《Hard Reset》在Thrasher首映释出重磅影像，地下滑板美学的又一次颠覆性呈现。",
     "source": "Thrasher"
   },
   {
-    "title": "Ronnie Kessner's \"April\" Part",
-    "link": "https://www.thrashermagazine.com/articles/trash/ronnie-kessner-s-april-part/",
-    "score": 8,
-    "summary": "Thrasher发布Ronnie Kessner个人片段《April》，硬核风格引爆滑板圈。",
+    "title": "February 15, 2026Yam Behar's \"Yam\" Pylon Skateboards Premiere",
+    "link": "https://www.thrashermagazine.com/articles/events/yam-behar-s-yam-pylon-skateboards-premiere/",
+    "score": 10,
+    "summary": "传奇滑手Yam Behar个人签名款Pylon板面正式发布，Thrasher独家引爆首波热度。",
     "source": "Thrasher"
+  },
+  {
+    "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
+    "score": 10,
+    "summary": "世界滑板巡回赛2025赛季收官战震撼登陆日本，顶级滑手齐聚争夺奥运积分关键战！",
+    "source": "World Skate"
   },
   {
     "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
     "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
-    "score": 8,
+    "score": 10,
     "summary": "Thrasher发布Escapist团队最新影片《It's Over》首映，引爆滑板圈硬核狂欢。",
     "source": "Thrasher"
   },
   {
-    "title": "March 28, 2026\"Don't Let Them Take You Alive\" Art Show",
-    "link": "https://www.thrashermagazine.com/articles/events/don-t-let-them-take-you-alive-art-show/",
-    "score": 7,
-    "summary": "Thrasher跨界艺术展“Don't Let Them Take You Alive”开幕，以滑板硬核精神引爆街头文化圈。",
+    "title": "Quasi's \"Hard Reset\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/quasi-s-hard-reset-video/",
+    "score": 8,
+    "summary": "Quasi新片《Hard Reset》登陆Thrasher，集结品牌旗下滑手以粗粝美学颠覆传统滑板影像风格。",
     "source": "Thrasher"
   },
   {
-    "title": "Jim Gray is Coming to Macau",
-    "link": "https://www.kickerclub.com/2026/03/jim-gray-is-coming-to-macau/",
-    "score": 7,
-    "summary": "传奇滑手Jim Gray即将空降澳门，街头文化热潮再添国际级看点。",
-    "source": "KickerClub"
+    "title": "March 14, 2026Capitola Classic 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/capitola-classic-2026-event/",
+    "score": 8,
+    "summary": "Thrasher重磅预告2026年Capitola经典赛回归，传奇滑手阵容点燃街头滑板文化热潮。",
+    "source": "Thrasher"
   },
   {
-    "title": "Quasi's \"Hard Reset\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/quasi-s-hard-reset-video/",
+    "title": "Jammin’ with Jamal - Episode 1?",
+    "link": "https://www.thrashermagazine.com/articles/videos/jammin-with-jamal-episode-1/",
     "score": 7,
-    "summary": "Quasi团队在Thrasher发布全新滑板影片《Hard Reset》，以标志性的粗粝美学与地下街头气质席卷核心滑板圈。",
+    "summary": "Thrasher重磅推出Jamal首期个人栏目，街头传奇引爆滑板圈期待。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "March 29, 2026Yaddamean's \"Z Skate Jam\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/yaddamean-s-z-skate-jam-event/",
+    "score": 7,
+    "summary": "Thrasher力推Yaddamean街头滑板赛，嘻哈文化与滑板激情碰撞引爆洛杉矶街区。",
     "source": "Thrasher"
   }
 ];
