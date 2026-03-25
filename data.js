@@ -3,35 +3,42 @@ const newsData = [
     "title": "WST São Paulo World Championships: Finals Report",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3869-wst-sao-paulo-world-championships-finals-report.html",
     "score": 19,
-    "summary": "WST圣保罗世锦赛诞生新王，奥运积分争夺战白热化！",
+    "summary": "WST圣保罗世锦赛诞生新冠军，奥运积分争夺战白热化！",
     "source": "World Skate"
   },
   {
     "title": "Mar.13th - FISE Battle of the Champions",
     "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
-    "score": 14,
-    "summary": "FISE冠军之战重磅回归，顶尖滑手齐聚冲击奥运积分，街头文化盛宴引爆三月滑板圈。",
+    "score": 13,
+    "summary": "FISE冠军之战重磅开赛，顶尖滑手齐聚冲击奥运积分关键战！",
     "source": "KickerClub"
-  },
-  {
-    "title": "February 15, 2026Yam Behar's \"Yam\" Pylon Skateboards Premiere",
-    "link": "https://www.thrashermagazine.com/articles/events/yam-behar-s-yam-pylon-skateboards-premiere/",
-    "score": 11,
-    "summary": "传奇滑手Yam Behar个人签名款Pylon滑板首发，Thrasher重磅呈现街头文化新焦点。",
-    "source": "Thrasher"
   },
   {
     "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
-    "score": 9,
-    "summary": "世界滑板巡回赛2025赛季收官战在日本上演巅峰对决，全球顶尖滑手争夺奥运积分白热化！",
+    "score": 11,
+    "summary": "世界滑板巡回赛2025赛季收官战在日本震撼落幕，顶尖滑手争夺奥运积分白热化！",
     "source": "World Skate"
+  },
+  {
+    "title": "February 15, 2026Yam Behar's \"Yam\" Pylon Skateboards Premiere",
+    "link": "https://www.thrashermagazine.com/articles/events/yam-behar-s-yam-pylon-skateboards-premiere/",
+    "score": 10,
+    "summary": "传奇滑手Yam Behar个人签名款Pylon板面正式发布，Thrasher独家首映引爆核心圈期待。",
+    "source": "Thrasher"
   },
   {
     "title": "Barney Page’s “Best & Worst of Thames”",
     "link": "https://www.thrashermagazine.com/articles/videos/barney-page-friends-riverboat-tour/",
     "score": 9,
     "summary": "Thrasher传奇滑手Barney Page犀利点评Thames滑板片经典与槽点，引发老炮集体回忆杀。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Pass~Port's \"Do You Trust Œufs\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/pass-port-s-do-you-trust-oeufs-video/",
+    "score": 9,
+    "summary": "Pass~Port发布全新滑板影片《Do You Trust Œufs》，登陆Thrasher引爆街头潮流。",
     "source": "Thrasher"
   },
   {
@@ -42,6 +49,13 @@ const newsData = [
     "source": "Thrasher"
   },
   {
+    "title": "January 17, 2026Flying Low's \"Four-Year Anniversary\" Show",
+    "link": "https://www.thrashermagazine.com/articles/events/flying-low-s-four-year-anniversary-show/",
+    "score": 7,
+    "summary": "Thrasher力推Flying Low四周年纪念演出，地下滑板文化再掀狂潮。",
+    "source": "Thrasher"
+  },
+  {
     "title": "February 18, 2026Atiba Jefferson's \"Finding Focus\" Talk at SDSU",
     "link": "https://www.thrashermagazine.com/articles/events/atiba-jefferson-s-finding-focus-talk-at-sdsu/",
     "score": 7,
@@ -49,24 +63,10 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "2026 Skateboarding Calendar Release!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3859-2026-skateboarding-calendar-release.html",
+    "title": "Didrik \"Deedz\" Galasso's \"Whimsical\" Part",
+    "link": "https://www.thrashermagazine.com/articles/videos/deedz-whimsical-part/",
     "score": 7,
-    "summary": "World Skate官宣2026滑板赛历，巴黎奥运后新周期布局引关注。",
-    "source": "World Skate"
-  },
-  {
-    "title": "Pass~Port's \"Do You Trust Œufs\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/pass-port-s-do-you-trust-oeufs-video/",
-    "score": 7,
-    "summary": "Pass~Port发布全新滑板影片《Do You Trust Œufs》，登陆Thrasher引爆街头文化热潮。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "March 28, 2026\"Don't Let Them Take You Alive\" Art Show",
-    "link": "https://www.thrashermagazine.com/articles/events/don-t-let-them-take-you-alive-art-show/",
-    "score": 7,
-    "summary": "Thrasher跨界艺术展“Don't Let Them Take You Alive”开幕，以滑板硬核精神引爆街头文化圈。",
+    "summary": "Thrasher发布Didrik \"Deedz\" Galasso个人片段，其充满想象力的风格与街头美学引发滑板圈热议。",
     "source": "Thrasher"
   }
 ];
