@@ -9,22 +9,29 @@ const newsData = [
   {
     "title": "Mar.13th - FISE Battle of the Champions",
     "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
-    "score": 14,
-    "summary": "FISE冠军之战重磅回归，顶尖滑手齐聚冲击奥运积分，街头文化盛宴引爆三月滑板圈。",
+    "score": 15,
+    "summary": "FISE冠军之战重磅开赛，顶尖滑手齐聚冲击奥运积分关键战役！",
     "source": "KickerClub"
-  },
-  {
-    "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
-    "score": 12,
-    "summary": "世界滑板巡回赛2025赛季收官战在日本上演巅峰对决，全球顶尖滑手争夺奥运积分白热化！",
-    "source": "World Skate"
   },
   {
     "title": "February 15, 2026Yam Behar's \"Yam\" Pylon Skateboards Premiere",
     "link": "https://www.thrashermagazine.com/articles/events/yam-behar-s-yam-pylon-skateboards-premiere/",
-    "score": 11,
-    "summary": "传奇滑手Yam Behar个人签名款Pylon板面首发，Thrasher独家引爆核心圈期待。",
+    "score": 12,
+    "summary": "传奇滑手Yam Behar个人签名款Pylon板面首发，Thrasher重磅呈现街头文化新焦点。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
+    "score": 9,
+    "summary": "世界滑板巡回赛2025赛季收官战在日本上演巅峰对决，全球顶尖滑手争夺奥运积分席位！",
+    "source": "World Skate"
+  },
+  {
+    "title": "Pass~Port's \"Do You Trust Œufs\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/pass-port-s-do-you-trust-oeufs-video/",
+    "score": 9,
+    "summary": "Pass~Port团队发布全新滑板影片《Do You Trust Œufs》，以独特视觉风格与街头文化融合引爆Thrasher平台。",
     "source": "Thrasher"
   },
   {
@@ -35,24 +42,10 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Hours Is Yours' New Cohiba Skate Loafer",
-    "link": "https://www.thrashermagazine.com/articles/trash/hours-is-yours-new-cohiba-skate-loafer/",
+    "title": "Barney Page’s “Best & Worst of Thames”",
+    "link": "https://www.thrashermagazine.com/articles/videos/barney-page-friends-riverboat-tour/",
     "score": 7,
-    "summary": "Thrasher力推Hours Is Yours全新雪茄乐福滑板鞋，将复古绅士风与街头滑板文化暴力融合。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Pass~Port's \"Do You Trust Œufs\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/pass-port-s-do-you-trust-oeufs-video/",
-    "score": 7,
-    "summary": "Pass~Port团队发布全新滑板影片《Do You Trust Œufs》，登陆Thrasher杂志引爆街头滑板圈。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "February 18, 2026Atiba Jefferson's \"Finding Focus\" Talk at SDSU",
-    "link": "https://www.thrashermagazine.com/articles/events/atiba-jefferson-s-finding-focus-talk-at-sdsu/",
-    "score": 7,
-    "summary": "传奇滑板摄影师Atiba Jefferson在SDSU分享会揭秘镜头背后的滑板文化与创作哲学。",
+    "summary": "Thrasher传奇滑手Barney Page犀利点评Thames品牌高光与翻车瞬间，街头老炮真实吐槽引爆滑圈热议。",
     "source": "Thrasher"
   },
   {
@@ -63,10 +56,17 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "February 21, 2026Flying Low's \"Skateshop Day\" Event",
-    "link": "https://www.thrashermagazine.com/articles/trash/flying-low-s-skateshop-day-event/",
+    "title": "February 18, 2026Atiba Jefferson's \"Finding Focus\" Talk at SDSU",
+    "link": "https://www.thrashermagazine.com/articles/events/atiba-jefferson-s-finding-focus-talk-at-sdsu/",
     "score": 7,
-    "summary": "Thrasher力推Flying Low滑板店纪念日活动，街头文化盛宴引爆社群狂欢。",
+    "summary": "传奇滑板摄影师Atiba Jefferson在SDSU开讲，分享职业生涯高光与“寻找专注”的哲学。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Hours Is Yours' New Cohiba Skate Loafer",
+    "link": "https://www.thrashermagazine.com/articles/trash/hours-is-yours-new-cohiba-skate-loafer/",
+    "score": 7,
+    "summary": "Thrasher重磅曝光Hours Is Yours全新Cohiba滑板乐福鞋，将街头滑板文化与复古鞋型激进融合。",
     "source": "Thrasher"
   }
 ];
