@@ -3,21 +3,21 @@ const newsData = [
     "title": "WST São Paulo World Championships: Finals Report",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3869-wst-sao-paulo-world-championships-finals-report.html",
     "score": 19,
-    "summary": "WST圣保罗世锦赛诞生新冠军，奥运积分争夺战白热化！",
+    "summary": "WST圣保罗世锦赛决赛落幕，顶尖滑手刷新历史记录，冠军争夺战引爆奥运积分赛关键节点。",
     "source": "World Skate"
   },
   {
     "title": "Mar.13th - FISE Battle of the Champions",
     "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
-    "score": 14,
-    "summary": "FISE冠军之战引爆滑板圈，顶尖滑手齐聚冲击奥运资格！",
+    "score": 15,
+    "summary": "FISE冠军之战即将打响，顶尖滑手齐聚争夺街头荣耀！",
     "source": "KickerClub"
   },
   {
-    "title": "February 15, 2026Yam Behar's \"Yam\" Pylon Skateboards Premiere",
-    "link": "https://www.thrashermagazine.com/articles/events/yam-behar-s-yam-pylon-skateboards-premiere/",
-    "score": 12,
-    "summary": "Thrasher重磅发布Yam Behar个人签名款“Yam”系列滑板，标志其职业生涯新里程碑。",
+    "title": "Rafaela Costa's \"Push Through\" Part",
+    "link": "https://www.thrashermagazine.com/articles/trash/rafaela-costa-s-push-through-part/",
+    "score": 11,
+    "summary": "巴西女滑手Rafaela Costa发布Thrasher个人片段《Push Through》，以强悍风格点燃街头滑板圈。",
     "source": "Thrasher"
   },
   {
@@ -28,24 +28,17 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Rafaela Costa's \"Push Through\" Part",
-    "link": "https://www.thrashermagazine.com/articles/trash/rafaela-costa-s-push-through-part/",
-    "score": 11,
-    "summary": "巴西女滑手Rafaela Costa发布Thrasher个人片段《Push Through》，以强悍街头风格点燃社交平台。",
+    "title": "February 15, 2026Yam Behar's \"Yam\" Pylon Skateboards Premiere",
+    "link": "https://www.thrashermagazine.com/articles/events/yam-behar-s-yam-pylon-skateboards-premiere/",
+    "score": 9,
+    "summary": "传奇滑手Yam Behar个人签名款Pylon滑板首发，Thrasher重磅呈现街头硬核新作。",
     "source": "Thrasher"
   },
   {
-    "title": "March 29, 2026Yaddamean's \"Z Skate Jam\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/yaddamean-s-z-skate-jam-event/",
-    "score": 8,
-    "summary": "Thrasher力推Yaddamein街头滑板赛，嘻哈文化与滑板狂潮再掀地下风暴。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "December 13, 2025Al Carrer's \"Rookie Run\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/al-carrer-s-rookie-run-event/",
-    "score": 8,
-    "summary": "Thrasher旗下Al Carrer举办新人赛，挖掘街头滑板新生力量引关注。",
+    "title": "Volcom's \"Microwave\" Video",
+    "link": "https://www.thrashermagazine.com/articles/videos/volcom-s-microwave-video/",
+    "score": 9,
+    "summary": "Volcom新片《Microwave》登陆Thrasher，集结顶级滑手引爆街头文化热潮。",
     "source": "Thrasher"
   },
   {
@@ -56,17 +49,24 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "February 18, 2026Atiba Jefferson's \"Finding Focus\" Talk at SDSU",
-    "link": "https://www.thrashermagazine.com/articles/events/atiba-jefferson-s-finding-focus-talk-at-sdsu/",
-    "score": 7,
-    "summary": "传奇滑板摄影师Atiba Jefferson在SDSU开讲，分享其聚焦滑板与街头文化的创作心法。",
+    "title": "March 29, 2026Yaddamean's \"Z Skate Jam\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/yaddamean-s-z-skate-jam-event/",
+    "score": 8,
+    "summary": "Thrasher力推Yaddamein街头滑板赛，嘻哈文化与滑板狂欢点燃三月末。",
     "source": "Thrasher"
   },
   {
-    "title": "Jim Gray is Coming to Macau",
-    "link": "https://www.kickerclub.com/2026/03/jim-gray-is-coming-to-macau/",
+    "title": "OJ's \"Shin in Shikoku\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/oj-s-shin-in-shikoku-video/",
     "score": 7,
-    "summary": "传奇滑手Jim Gray即将空降澳门，街头文化热潮再添国际级看点。",
-    "source": "KickerClub"
+    "summary": "Thrasher发布传奇滑手OJ神秘新片《四国之胫》，复古风格引爆滑板圈怀旧热潮。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Barney Page’s “Best & Worst of Thames”",
+    "link": "https://www.thrashermagazine.com/articles/videos/barney-page-friends-riverboat-tour/",
+    "score": 7,
+    "summary": "Thrasher传奇滑手Barney Page犀利点评Thames品牌高光与翻车瞬间，街头老炮亲自下场引爆滑圈热议。",
+    "source": "Thrasher"
   }
 ];
