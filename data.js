@@ -3,14 +3,14 @@ const newsData = [
     "title": "WST São Paulo World Championships: Finals Report",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3869-wst-sao-paulo-world-championships-finals-report.html",
     "score": 19,
-    "summary": "WST圣保罗世锦赛诞生新科世界冠军，奥运积分争夺战白热化！",
+    "summary": "WST圣保罗世锦赛诞生新冠军，奥运积分争夺战白热化！",
     "source": "World Skate"
   },
   {
     "title": "Mar.13th - FISE Battle of the Champions",
     "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
-    "score": 16,
-    "summary": "FISE冠军之战引爆滑板圈，顶尖滑手齐聚冲击奥运资格！",
+    "score": 13,
+    "summary": "FISE冠军之战重磅开赛，顶尖滑手齐聚冲击奥运积分关键战！",
     "source": "KickerClub"
   },
   {
@@ -21,52 +21,52 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
-    "score": 10,
-    "summary": "Thrasher发布Escapist团队最新影片《It's Over》首映，引爆滑板圈硬核狂欢。",
-    "source": "Thrasher"
-  },
-  {
     "title": "February 15, 2026Yam Behar's \"Yam\" Pylon Skateboards Premiere",
     "link": "https://www.thrashermagazine.com/articles/events/yam-behar-s-yam-pylon-skateboards-premiere/",
-    "score": 10,
+    "score": 11,
     "summary": "传奇滑手Yam Behar个人签名款Pylon板面首发，Thrasher独家引爆核心圈期待。",
     "source": "Thrasher"
   },
   {
-    "title": "Barney Page’s “Best & Worst of Thames”",
-    "link": "https://www.thrashermagazine.com/articles/videos/barney-page-friends-riverboat-tour/",
-    "score": 9,
-    "summary": "Thrasher传奇滑手Barney Page犀利点评Thames滑板片经典与槽点，引发老炮集体回忆杀。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Volcom's \"Microwave\" Video",
-    "link": "https://www.thrashermagazine.com/articles/videos/volcom-s-microwave-video/",
-    "score": 9,
-    "summary": "Volcom新片《Microwave》登陆Thrasher，集结顶级滑手引爆街头文化热潮。",
+    "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
+    "score": 11,
+    "summary": "Thrasher发布Escapist团队最新影片《It's Over》首映，引爆滑板圈硬核狂欢。",
     "source": "Thrasher"
   },
   {
     "title": "Rafaela Costa's \"Push Through\" Part",
     "link": "https://www.thrashermagazine.com/articles/trash/rafaela-costa-s-push-through-part/",
     "score": 9,
-    "summary": "巴西女滑手Rafaela Costa发布个人片段《Push Through》，Thrasher重磅呈现其强悍街头风格。",
+    "summary": "巴西女滑手Rafaela Costa发布个人片段《Push Through》，Thrasher重磅推送展现街头滑板纯粹能量。",
     "source": "Thrasher"
   },
   {
-    "title": "OJ's \"Shin in Shikoku\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/oj-s-shin-in-shikoku-video/",
+    "title": "Volcom's \"Microwave\" Video",
+    "link": "https://www.thrashermagazine.com/articles/videos/volcom-s-microwave-video/",
     "score": 8,
-    "summary": "Thrasher发布OJ传奇滑手四国岛暴力美学新片，复古镜头与街头质感引爆核心滑板圈。",
+    "summary": "Volcom新片《Microwave》登陆Thrasher，集结旗下悍将引爆纯正街头滑板风暴。",
     "source": "Thrasher"
   },
   {
-    "title": "February 07, 2026Rhythm Skateshop's \"CV Am 2026\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/rhythm-skateshop-s-cv-am-2026-event/",
-    "score": 7,
-    "summary": "Thrasher报道Rhythm滑板店举办“CV Am 2026”业余赛事，持续挖掘街头滑板新生力量。",
+    "title": "February 21, 2026Flying Low's \"Skateshop Day\" Event",
+    "link": "https://www.thrashermagazine.com/articles/trash/flying-low-s-skateshop-day-event/",
+    "score": 8,
+    "summary": "Thrasher力推Flying Low滑板店庆活动，街头文化盛宴点燃社群狂欢。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Nov.15th - Polar Shanghai Demo",
+    "link": "https://www.kickerclub.com/2025/11/nov-15th-polar-shanghai-demo/",
+    "score": 8,
+    "summary": "Polar滑板队空降上海街头，本土滑手与国际大咖同台引爆魔都板圈狂欢。",
+    "source": "KickerClub"
+  },
+  {
+    "title": "March 14, 2026Capitola Classic 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/capitola-classic-2026-event/",
+    "score": 8,
+    "summary": "Thrasher官宣2026 Capitola Classic赛事回归，经典街头滑板盛宴再度引爆西海岸。",
     "source": "Thrasher"
   }
 ];
