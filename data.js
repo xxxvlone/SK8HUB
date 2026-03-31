@@ -2,36 +2,43 @@ const newsData = [
   {
     "title": "WST São Paulo World Championships: Finals Report",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3869-wst-sao-paulo-world-championships-finals-report.html",
-    "score": 18,
-    "summary": "WST圣保罗世锦赛落幕，顶尖滑手刷新历史记录，冠军争夺战引爆街头文化热潮。",
+    "score": 19,
+    "summary": "WST圣保罗世锦赛落幕，奥运积分争夺白热化，历史性冠军诞生引爆滑板圈！",
     "source": "World Skate"
   },
   {
     "title": "Mar.13th - FISE Battle of the Champions",
     "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
-    "score": 12,
-    "summary": "FISE冠军之战打响，顶尖滑手齐聚冲击奥运积分关键战。",
+    "score": 16,
+    "summary": "FISE冠军之战打响，顶尖滑手齐聚冲击奥运积分关键战！",
     "source": "KickerClub"
+  },
+  {
+    "title": "DC's \"Marseille It Ain't So\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/dc-s-marseille-it-ain-t-so-video/",
+    "score": 12,
+    "summary": "DC滑板队发布全新大片\"Marseille It Ain't So\"，Thrasher重磅呈现，集结多位知名滑手硬核席卷马赛街头。",
+    "source": "Thrasher"
   },
   {
     "title": "February 15, 2026Yam Behar's \"Yam\" Pylon Skateboards Premiere",
     "link": "https://www.thrashermagazine.com/articles/events/yam-behar-s-yam-pylon-skateboards-premiere/",
-    "score": 12,
-    "summary": "传奇滑手Yam Behar个人签名款Pylon滑板首发，Thrasher重磅发布引爆核心圈期待。",
+    "score": 11,
+    "summary": "传奇滑手Yam Behar个人签名款Pylon滑板首发，Thrasher重磅呈现街头文化新焦点。",
     "source": "Thrasher"
   },
   {
     "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
-    "score": 12,
-    "summary": "世界滑板巡回赛2025赛季收官战震撼登陆日本，顶级滑手齐聚冲击奥运积分！",
+    "score": 11,
+    "summary": "世界滑板巡回赛2025赛季收官战在日本上演巅峰对决，全球顶尖滑手争夺奥运积分席位！",
     "source": "World Skate"
   },
   {
-    "title": "DC's \"Marseille It Ain't So\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/dc-s-marseille-it-ain-t-so-video/",
+    "title": "Blood Wizard's \"Sorcery\" Full-Length",
+    "link": "https://www.thrashermagazine.com/articles/videos/blood-wizard-s-sorcery-full-length/",
     "score": 11,
-    "summary": "DC滑板发布《Marseille It Ain't So》全新大片，登陆Thrasher杂志引爆核心滑圈。",
+    "summary": "Blood Wizard邪典新片《Sorcery》登陆Thrasher，用超现实视觉轰炸重塑街头滑板美学。",
     "source": "Thrasher"
   },
   {
@@ -42,31 +49,24 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "The \"Sour Solution 3,3\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/the-sour-solution-3-3-video/",
-    "score": 9,
-    "summary": "Thrasher发布Sour Solution团队最新暴力美学大片《3,3》，街头滑板原教旨主义再度引爆全球板圈。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Blood Wizard's \"Sorcery\" Full-Length",
-    "link": "https://www.thrashermagazine.com/articles/videos/blood-wizard-s-sorcery-full-length/",
-    "score": 8,
-    "summary": "Blood Wizard邪典新片《Sorcery》登陆Thrasher，暗黑美学席卷滑板圈。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Nov.15th - Polar Shanghai Demo",
-    "link": "https://www.kickerclub.com/2025/11/nov-15th-polar-shanghai-demo/",
-    "score": 7,
-    "summary": "Polar滑板队空降上海引爆街头，国际滑手阵容点燃本土滑板热潮。",
-    "source": "KickerClub"
-  },
-  {
     "title": "Volcom's \"Microwave\" Video",
     "link": "https://www.thrashermagazine.com/articles/videos/volcom-s-microwave-video/",
-    "score": 7,
-    "summary": "Volcom新片《Microwave》登陆Thrasher，集结品牌旗下滑手以粗粝街头美学点燃滑板圈。",
+    "score": 9,
+    "summary": "Volcom新片《Microwave》登陆Thrasher，集结顶级滑手引爆街头视觉狂潮。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "December 13, 2025Al Carrer's \"Rookie Run\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/al-carrer-s-rookie-run-event/",
+    "score": 8,
+    "summary": "Thrasher力推Al Carrer滑板赛事“Rookie Run”，挖掘街头新生代力量引关注。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "March 14, 2026Capitola Classic 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/capitola-classic-2026-event/",
+    "score": 8,
+    "summary": "Thrasher官宣2026年Capitola Classic赛事回归，经典街头滑板盛宴再掀狂潮。",
     "source": "Thrasher"
   }
 ];
