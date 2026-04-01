@@ -7,18 +7,25 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Mar.13th - FISE Battle of the Champions",
-    "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
-    "score": 14,
-    "summary": "FISE冠军之战即将打响，顶尖滑手齐聚冲击奥运积分关键战役！",
-    "source": "KickerClub"
-  },
-  {
     "title": "Nyjah Huston's \"Return to Sender\" Tour",
     "link": "https://www.thrashermagazine.com/articles/videos/nyjah-huston-s-return-to-sender-tour/",
-    "score": 11,
-    "summary": "滑板巨星Nyjah Huston开启“Return to Sender”巡回，Thrasher全程报道引爆核心圈期待。",
+    "score": 13,
+    "summary": "滑板巨星Nyjah Huston开启“Return to Sender”巡回，Thrasher全程记录引爆核心圈层。",
     "source": "Thrasher"
+  },
+  {
+    "title": "February 15, 2026Yam Behar's \"Yam\" Pylon Skateboards Premiere",
+    "link": "https://www.thrashermagazine.com/articles/events/yam-behar-s-yam-pylon-skateboards-premiere/",
+    "score": 12,
+    "summary": "Thrasher重磅发布Yam Behar个人签名款“Yam”柱形滑板，独特设计引爆街头滑板圈。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Mar.13th - FISE Battle of the Champions",
+    "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
+    "score": 12,
+    "summary": "FISE冠军之战打响，顶尖滑手齐聚冲击奥运积分关键战。",
+    "source": "KickerClub"
   },
   {
     "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
@@ -28,45 +35,38 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "February 15, 2026Yam Behar's \"Yam\" Pylon Skateboards Premiere",
-    "link": "https://www.thrashermagazine.com/articles/events/yam-behar-s-yam-pylon-skateboards-premiere/",
-    "score": 11,
-    "summary": "传奇滑手Yam Behar个人签名款Pylon滑板首发，Thrasher重磅发布引爆核心圈期待。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
-    "score": 10,
-    "summary": "Thrasher发布Escapist团队最新影片《It's Over》首映，引爆滑板圈硬核狂欢。",
-    "source": "Thrasher"
-  },
-  {
     "title": "DC's \"Marseille It Ain't So\" Video",
     "link": "https://www.thrashermagazine.com/articles/trash/dc-s-marseille-it-ain-t-so-video/",
     "score": 9,
-    "summary": "DC滑板发布《Marseille It Ain't So》全新大片，登陆Thrasher杂志引爆核心滑圈，纯正街头风格诠释马赛硬核地形挑战。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "March 29, 2026Yaddamean's \"Z Skate Jam\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/yaddamean-s-z-skate-jam-event/",
-    "score": 8,
-    "summary": "Thrasher力推Yaddamein街头滑板赛，嘻哈文化与滑板狂野碰撞引爆周末热潮。",
+    "summary": "DC滑板发布《Marseille It Ain't So》全新大片，登陆Thrasher杂志引爆核心滑圈。",
     "source": "Thrasher"
   },
   {
     "title": "Nov.15th - Polar Shanghai Demo",
     "link": "https://www.kickerclub.com/2025/11/nov-15th-polar-shanghai-demo/",
-    "score": 7,
-    "summary": "Polar滑板队空降上海引爆街头，国际滑手阵容点燃本土滑板热潮。",
+    "score": 8,
+    "summary": "Polar滑板队空降上海引爆街头，本土滑手与国际大咖同台炸场。",
     "source": "KickerClub"
   },
   {
-    "title": "Jim Gray is Coming to Macau",
-    "link": "https://www.kickerclub.com/2026/03/jim-gray-is-coming-to-macau/",
+    "title": "February 18, 2026Atiba Jefferson's \"Finding Focus\" Talk at SDSU",
+    "link": "https://www.thrashermagazine.com/articles/events/atiba-jefferson-s-finding-focus-talk-at-sdsu/",
+    "score": 8,
+    "summary": "传奇滑板摄影师Atiba Jefferson在SDSU开讲，分享其聚焦滑板与街头文化的创作心法。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
+    "score": 8,
+    "summary": "Thrasher发布Escapist滑板影片《It's Over》首映，引爆核心滑板圈期待。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "April 12, 2026El Spot's Skate 'n' Fire Contest",
+    "link": "https://www.thrashermagazine.com/articles/trash/el-spot-s-skate-n-fire-contest/",
     "score": 7,
-    "summary": "传奇滑手Jim Gray即将空降澳门，街头文化热潮再添国际级看点。",
-    "source": "KickerClub"
+    "summary": "Thrasher重磅呈现El Spot滑板火场挑战赛，极限地形引爆职业滑手狂野对决。",
+    "source": "Thrasher"
   }
 ];
