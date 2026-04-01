@@ -2,50 +2,50 @@ const newsData = [
   {
     "title": "WST São Paulo World Championships: Finals Report",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3869-wst-sao-paulo-world-championships-finals-report.html",
-    "score": 19,
-    "summary": "WST圣保罗世锦赛诞生新科世界冠军，奥运积分争夺战白热化！",
-    "source": "World Skate"
-  },
-  {
-    "title": "Mar.13th - FISE Battle of the Champions",
-    "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
-    "score": 14,
-    "summary": "FISE冠军之战引爆滑板圈，顶尖滑手齐聚冲击奥运资格！",
-    "source": "KickerClub"
-  },
-  {
-    "title": "February 15, 2026Yam Behar's \"Yam\" Pylon Skateboards Premiere",
-    "link": "https://www.thrashermagazine.com/articles/events/yam-behar-s-yam-pylon-skateboards-premiere/",
-    "score": 12,
-    "summary": "传奇滑手Yam Behar个人签名款Pylon板面震撼首发，Thrasher独家引爆核心圈期待。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Blood Wizard's \"Sorcery\" Full-Length",
-    "link": "https://www.thrashermagazine.com/articles/videos/blood-wizard-s-sorcery-full-length/",
-    "score": 11,
-    "summary": "Blood Wizard邪典新片《Sorcery》登陆Thrasher，用超现实视觉轰炸重塑街头滑板美学。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
-    "score": 11,
-    "summary": "World Skateboarding Tour 2025赛季收官战在日本上演巅峰对决，全球顶尖滑手争夺奥运积分席位！",
+    "score": 18,
+    "summary": "WST圣保罗世锦赛决赛落幕，顶尖滑手刷新历史记录，冠军争夺战引爆街头文化热潮。",
     "source": "World Skate"
   },
   {
     "title": "Nyjah Huston's \"Return to Sender\" Tour",
     "link": "https://www.thrashermagazine.com/articles/videos/nyjah-huston-s-return-to-sender-tour/",
     "score": 11,
-    "summary": "滑板巨星Nyjah Huston开启“Return to Sender”巡回，Thrasher重磅报道引爆核心圈期待。",
+    "summary": "滑板巨星Nyjah Huston开启“Return to Sender”巡回，Thrasher重磅报道引爆全球街头滑板圈。",
     "source": "Thrasher"
   },
   {
-    "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
+    "title": "February 15, 2026Yam Behar's \"Yam\" Pylon Skateboards Premiere",
+    "link": "https://www.thrashermagazine.com/articles/events/yam-behar-s-yam-pylon-skateboards-premiere/",
+    "score": 11,
+    "summary": "传奇滑手Yam Behar个人签名款Pylon滑板首发，Thrasher重磅发布引爆核心圈期待。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Mar.13th - FISE Battle of the Champions",
+    "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
+    "score": 11,
+    "summary": "FISE冠军之战打响，顶尖滑手齐聚冲击奥运积分关键战。",
+    "source": "KickerClub"
+  },
+  {
+    "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
+    "score": 10,
+    "summary": "世界滑板巡回赛2025赛季收官战震撼登陆日本，全球顶尖滑手齐聚争夺奥运积分关键战！",
+    "source": "World Skate"
+  },
+  {
+    "title": "Hours Is Yours x Dustin Dollin New Release",
+    "link": "https://www.thrashermagazine.com/articles/videos/hours-is-yours-x-dustin-dollin-new-release/",
     "score": 9,
-    "summary": "Thrasher发布Escapist滑板队最新影片《It's Over》首映，引爆核心滑板圈期待。",
+    "summary": "Thrasher重磅合作：Hours Is Yours联手传奇滑手Dustin Dollin发布新系列，街头基因再度引爆圈内热议。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Blood Wizard's \"Sorcery\" Full-Length",
+    "link": "https://www.thrashermagazine.com/articles/videos/blood-wizard-s-sorcery-full-length/",
+    "score": 9,
+    "summary": "Blood Wizard邪典新片《Sorcery》登陆Thrasher，暗黑美学颠覆传统滑板影像叙事。",
     "source": "Thrasher"
   },
   {
@@ -56,17 +56,17 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "2026 Skateboarding Calendar Release!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3859-2026-skateboarding-calendar-release.html",
+    "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
     "score": 8,
-    "summary": "World Skate官宣2026滑板赛历，巴黎奥运后首份全球日程引关注。",
-    "source": "World Skate"
+    "summary": "Thrasher发布Escapist团队最新影片《It's Over》首映，引爆滑板圈硬核狂欢。",
+    "source": "Thrasher"
   },
   {
-    "title": "March 28, 2026\"Don't Let Them Take You Alive\" Art Show",
-    "link": "https://www.thrashermagazine.com/articles/events/don-t-let-them-take-you-alive-art-show/",
+    "title": "Malachi Gray's \"Raw Ams\" Independent Part",
+    "link": "https://www.thrashermagazine.com/articles/trash/malachi-gray-s-raw-ams-independent-part/",
     "score": 7,
-    "summary": "Thrasher跨界艺术展“Don't Let Them Take You Alive”开幕，以滑板硬核精神点燃街头文化圈。",
+    "summary": "Thrasher新片《Raw Ams》释出，独立滑手Malachi Gray以粗粝风格诠释街头滑板纯粹能量。",
     "source": "Thrasher"
   }
 ];
