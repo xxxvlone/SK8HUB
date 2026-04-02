@@ -3,35 +3,28 @@ const newsData = [
     "title": "WST São Paulo World Championships: Finals Report",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3869-wst-sao-paulo-world-championships-finals-report.html",
     "score": 19,
-    "summary": "WST圣保罗世锦赛诞生新冠军，奥运积分争夺战进入白热化阶段！",
+    "summary": "WST圣保罗世锦赛决赛落幕，顶尖滑手刷新历史记录，冠军之争引爆奥运资格赛关键战局。",
     "source": "World Skate"
-  },
-  {
-    "title": "Mar.13th - FISE Battle of the Champions",
-    "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
-    "score": 14,
-    "summary": "FISE冠军之战引爆滑板圈，顶尖滑手齐聚冲击奥运资格，街头文化盛宴即将上演！",
-    "source": "KickerClub"
   },
   {
     "title": "Nyjah Huston's \"Return to Sender\" Tour",
     "link": "https://www.thrashermagazine.com/articles/videos/nyjah-huston-s-return-to-sender-tour/",
-    "score": 11,
-    "summary": "滑板巨星Nyjah Huston开启“Return to Sender”巡回，Thrasher重磅报道引爆核心圈期待。",
+    "score": 13,
+    "summary": "滑板巨星Nyjah Huston开启“Return to Sender”巡回，Thrasher重磅报道引爆全球板圈期待。",
     "source": "Thrasher"
   },
   {
-    "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
-    "score": 11,
-    "summary": "世界滑板巡回赛2025赛季收官战在日本上演巅峰对决，全球顶尖滑手争夺奥运积分席位！",
-    "source": "World Skate"
+    "title": "Mar.13th - FISE Battle of the Champions",
+    "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
+    "score": 13,
+    "summary": "FISE冠军之战打响，顶尖滑手齐聚冲击奥运积分关键战。",
+    "source": "KickerClub"
   },
   {
     "title": "February 15, 2026Yam Behar's \"Yam\" Pylon Skateboards Premiere",
     "link": "https://www.thrashermagazine.com/articles/events/yam-behar-s-yam-pylon-skateboards-premiere/",
-    "score": 10,
-    "summary": "Thrasher重磅发布：传奇滑手Yam Behar个人签名款Pylon滑板板面全球首发，引爆核心圈层期待。",
+    "score": 11,
+    "summary": "传奇滑手Yam Behar个人签名款Pylon滑板首发，Thrasher独家引爆核心圈期待。",
     "source": "Thrasher"
   },
   {
@@ -42,31 +35,38 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "April 12, 2026El Spot's Skate 'n' Fire Contest",
-    "link": "https://www.thrashermagazine.com/articles/trash/el-spot-s-skate-n-fire-contest/",
-    "score": 9,
-    "summary": "Thrasher重磅呈现El Spot滑板火场挑战赛，极限地形与火焰障碍引爆全球滑手征战狂潮。",
-    "source": "Thrasher"
+    "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
+    "score": 10,
+    "summary": "世界滑板巡回赛2025赛季收官战震撼登陆日本，全球顶尖滑手齐聚东京冲击奥运积分！",
+    "source": "World Skate"
   },
   {
-    "title": "Nov.15th - Polar Shanghai Demo",
-    "link": "https://www.kickerclub.com/2025/11/nov-15th-polar-shanghai-demo/",
-    "score": 9,
-    "summary": "Polar携国际滑手空降上海，引爆中国街头滑板文化新浪潮。",
-    "source": "KickerClub"
-  },
-  {
-    "title": "April 26, 2026Larb in Seattle",
-    "link": "https://www.thrashermagazine.com/articles/events/larb-in-seattle/",
-    "score": 8,
-    "summary": "Thrasher报道西雅图滑板活动Larb，展现街头文化原生态魅力。",
+    "title": "New from OJ and Slime Balls",
+    "link": "https://www.thrashermagazine.com/articles/trash/new-from-oj-and-slime-balls-2/",
+    "score": 7,
+    "summary": "Thrasher重磅发布OJ与Slime Balls联名新作，街头老炮联手再掀复古滑板风暴。",
     "source": "Thrasher"
   },
   {
     "title": "February 07, 2026Rhythm Skateshop's \"CV Am 2026\" Event",
     "link": "https://www.thrashermagazine.com/articles/events/rhythm-skateshop-s-cv-am-2026-event/",
-    "score": 8,
-    "summary": "Thrasher报道Rhythm滑板店举办“CV Am 2026”业余赛事，持续推动街头滑板文化。",
+    "score": 7,
+    "summary": "Thrasher报道Rhythm滑板店举办“CV Am 2026”赛事，为新生代滑手提供闪耀舞台。",
     "source": "Thrasher"
+  },
+  {
+    "title": "Malachi Gray's \"Raw Ams\" Independent Part",
+    "link": "https://www.thrashermagazine.com/articles/trash/malachi-gray-s-raw-ams-independent-part/",
+    "score": 7,
+    "summary": "Thrasher发布Malachi Gray个人片段《Raw Ams》，以原始粗粝的街头风格展现独立滑板精神，引发核心圈关注。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Nov.15th - Polar Shanghai Demo",
+    "link": "https://www.kickerclub.com/2025/11/nov-15th-polar-shanghai-demo/",
+    "score": 7,
+    "summary": "Polar滑板队空降上海引爆街头，国际阵容本土首秀点燃中国滑板圈。",
+    "source": "KickerClub"
   }
 ];
