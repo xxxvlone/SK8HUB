@@ -2,23 +2,16 @@ const newsData = [
   {
     "title": "WST São Paulo World Championships: Finals Report",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3869-wst-sao-paulo-world-championships-finals-report.html",
-    "score": 18,
-    "summary": "WST圣保罗世锦赛落幕，顶尖滑手刷新历史记录，奥运积分争夺战白热化！",
+    "score": 20,
+    "summary": "WST圣保罗世锦赛诞生新科世界冠军，奥运积分争夺战白热化！",
     "source": "World Skate"
   },
   {
     "title": "Mar.13th - FISE Battle of the Champions",
     "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
-    "score": 15,
-    "summary": "FISE冠军之战即将打响，顶尖滑手集结冲击历史性对决！",
+    "score": 14,
+    "summary": "FISE冠军之战重磅回归，顶尖滑手齐聚冲击奥运积分，街头文化盛宴引爆三月！",
     "source": "KickerClub"
-  },
-  {
-    "title": "Antwuan Dixon's FTP Part",
-    "link": "https://www.thrashermagazine.com/articles/videos/antwuan-dixon-s-ftp-part/",
-    "score": 11,
-    "summary": "传奇滑手Antwuan Dixon发布Thrasher个人片段，标志性风格与街头文化完美融合引爆滑板圈。",
-    "source": "Thrasher"
   },
   {
     "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
@@ -26,13 +19,6 @@ const newsData = [
     "score": 11,
     "summary": "世界滑板巡回赛2025赛季收官战在日本上演巅峰对决，全球顶尖滑手争夺奥运积分席位！",
     "source": "World Skate"
-  },
-  {
-    "title": "Johnny Wilson’s “Creased” Premiere Photos",
-    "link": "https://www.thrashermagazine.com/articles/johnny-wilson-s-creased-premiere-photos/",
-    "score": 10,
-    "summary": "Thrasher重磅发布Johnny Wilson个人影片《Creased》首映现场高清图集，街头文化狂热再度引爆。",
-    "source": "Thrasher"
   },
   {
     "title": "February 15, 2026Yam Behar's \"Yam\" Pylon Skateboards Premiere",
@@ -44,29 +30,43 @@ const newsData = [
   {
     "title": "Johnny Wilson’s “Creased” Premiere Photos",
     "link": "https://www.thrashermagazine.com/articles/johnny-wilson-s-creased-premiere-photos/",
-    "score": 10,
-    "summary": "Thrasher重磅发布Johnny Wilson个人影片《Creased》首映现场图集，地下滑板圈再掀硬核风暴。",
+    "score": 9,
+    "summary": "Thrasher发布Johnny Wilson个人影片《Creased》首映现场纪实，地下滑板圈再掀硬核风暴。",
     "source": "Thrasher"
   },
   {
     "title": "Call the Cops' \"It's Over\" Video",
     "link": "https://www.thrashermagazine.com/articles/trash/call-the-cops-it-s-over-video/",
     "score": 9,
-    "summary": "Thrasher发布Call the Cops团队新片《It‘s Over》，地下硬核风格引爆滑板圈。",
+    "summary": "Thrasher发布Call the Cops团队新片《It's Over》，地下硬核风格引爆滑板圈。",
     "source": "Thrasher"
   },
   {
-    "title": "April 12, 2026El Spot's Skate 'n' Fire Contest",
-    "link": "https://www.thrashermagazine.com/articles/trash/el-spot-s-skate-n-fire-contest/",
+    "title": "February 18, 2026Atiba Jefferson's \"Finding Focus\" Talk at SDSU",
+    "link": "https://www.thrashermagazine.com/articles/events/atiba-jefferson-s-finding-focus-talk-at-sdsu/",
     "score": 8,
-    "summary": "Thrasher重磅推出El Spot滑板烈火赛，极限玩法引爆街头文化新浪潮。",
+    "summary": "传奇滑板摄影师Atiba Jefferson在SDSU举办“寻找焦点”讲座，分享其二十余年记录滑板与街头文化的珍贵洞见。",
     "source": "Thrasher"
   },
   {
     "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
     "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
     "score": 8,
-    "summary": "Thrasher发布Escapist滑板影片《It's Over》首映，引爆核心滑板圈期待。",
+    "summary": "Thrasher发布Escapist团队最新影片《It's Over》首映，引爆滑板圈硬核狂欢。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Johnny Wilson’s “Creased” Premiere Photos",
+    "link": "https://www.thrashermagazine.com/articles/johnny-wilson-s-creased-premiere-photos/",
+    "score": 8,
+    "summary": "Thrasher发布Johnny Wilson个人影片《Creased》首映现场纪实，地下滑板圈再掀硬核风暴。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Antwuan Dixon's FTP Part",
+    "link": "https://www.thrashermagazine.com/articles/videos/antwuan-dixon-s-ftp-part/",
+    "score": 8,
+    "summary": "传奇滑手Antwuan Dixon发布FTP个人片段，Thrasher独家呈现其标志性狂野风格与街头文化融合。",
     "source": "Thrasher"
   }
 ];
