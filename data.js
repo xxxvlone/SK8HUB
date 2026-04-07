@@ -2,9 +2,16 @@ const newsData = [
   {
     "title": "WST São Paulo World Championships: Finals Report",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3869-wst-sao-paulo-world-championships-finals-report.html",
-    "score": 20,
-    "summary": "WST圣保罗世锦赛诞生新科世界冠军，奥运积分争夺战白热化！",
+    "score": 19,
+    "summary": "WST圣保罗世锦赛落幕，顶尖滑手刷新历史记录，冠军争夺战引爆奥运积分赛关键节点。",
     "source": "World Skate"
+  },
+  {
+    "title": "Mar.13th - FISE Battle of the Champions",
+    "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
+    "score": 14,
+    "summary": "FISE冠军之战重磅回归，顶尖滑手齐聚冲击奥运积分，街头文化盛宴即将引爆三月！",
+    "source": "KickerClub"
   },
   {
     "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
@@ -14,24 +21,17 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Mar.13th - FISE Battle of the Champions",
-    "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
-    "score": 11,
-    "summary": "FISE冠军之战重磅开赛，顶尖滑手齐聚冲击奥运积分关键战役。",
-    "source": "KickerClub"
-  },
-  {
     "title": "February 15, 2026Yam Behar's \"Yam\" Pylon Skateboards Premiere",
     "link": "https://www.thrashermagazine.com/articles/events/yam-behar-s-yam-pylon-skateboards-premiere/",
-    "score": 9,
-    "summary": "传奇滑手Yam Behar个人签名款Pylon滑板首发，Thrasher重磅呈现街头硬核新作。",
+    "score": 10,
+    "summary": "传奇滑手Yam Behar个人签名款Pylon板面正式发布，Thrasher独家首映引爆核心圈期待。",
     "source": "Thrasher"
   },
   {
-    "title": "Antwuan Dixon's FTP Part",
-    "link": "https://www.thrashermagazine.com/articles/videos/antwuan-dixon-s-ftp-part/",
+    "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
     "score": 9,
-    "summary": "传奇滑手Antwuan Dixon在Thrasher发布个人FTP片段，街头文化与滑板精神的硬核碰撞引爆圈内热议。",
+    "summary": "Thrasher发布Escapist滑板影片《It's Over》首映，引爆核心滑板圈期待。",
     "source": "Thrasher"
   },
   {
@@ -42,31 +42,31 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "All Access: NB's \"Running Numbers\" Tour Detroit to Buffalo",
-    "link": "https://www.thrashermagazine.com/articles/videos/all-access-nb-s-running-numbers-tour-detroit-to-buffalo/",
-    "score": 8,
-    "summary": "Thrasher全程跟拍NB滑板队“Running Numbers”巡回，从底特律到水牛城展现美东街头硬核滑板能量。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
-    "score": 8,
-    "summary": "Thrasher发布Escapist团队最新影片《It's Over》首映，引爆滑板圈硬核狂欢。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "February 21, 2026Flying Low's \"Skateshop Day\" Event",
-    "link": "https://www.thrashermagazine.com/articles/trash/flying-low-s-skateshop-day-event/",
+    "title": "Antwuan Dixon's FTP Part",
+    "link": "https://www.thrashermagazine.com/articles/videos/antwuan-dixon-s-ftp-part/",
     "score": 7,
-    "summary": "Thrasher力推Flying Low滑板店庆日，街头文化盛宴引爆社群狂欢。",
+    "summary": "传奇滑手Antwuan Dixon发布FTP个人片段，Thrasher呈现其标志性狂野风格与街头文化融合的视觉盛宴。",
     "source": "Thrasher"
   },
   {
-    "title": "March 28, 2026\"Don't Let Them Take You Alive\" Art Show",
-    "link": "https://www.thrashermagazine.com/articles/events/don-t-let-them-take-you-alive-art-show/",
+    "title": "March 29, 2026Yaddamean's \"Z Skate Jam\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/yaddamean-s-z-skate-jam-event/",
     "score": 7,
-    "summary": "Thrasher跨界艺术展“Don't Let Them Take You Alive”开幕，以滑板硬核精神引爆街头文化圈。",
+    "summary": "Thrasher力推Yaddamean街头滑板赛，嘻哈文化与滑板激情碰撞引爆周末狂欢。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "March 14, 2026Capitola Classic 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/capitola-classic-2026-event/",
+    "score": 7,
+    "summary": "Thrasher老牌赛事Capitola Classic公布2026年日程，经典街头滑板盛宴再度回归。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Samurai Safari in Nevada",
+    "link": "https://www.thrashermagazine.com/articles/trash/samurai-safari-in-nevada/",
+    "score": 7,
+    "summary": "Thrasher呈现内华达沙漠武士主题滑板狂野之旅，荒原地形挑战与视觉冲击引爆社群热议",
     "source": "Thrasher"
   }
 ];
