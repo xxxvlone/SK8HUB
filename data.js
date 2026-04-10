@@ -2,16 +2,30 @@ const newsData = [
   {
     "title": "WST São Paulo World Championships: Finals Report",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3869-wst-sao-paulo-world-championships-finals-report.html",
-    "score": 20,
-    "summary": "WST圣保罗世锦赛诞生新冠军，奥运积分争夺战白热化，街头文化盛宴引爆全球滑板圈。",
+    "score": 19,
+    "summary": "WST圣保罗世锦赛诞生新冠军，奥运积分争夺战白热化！",
     "source": "World Skate"
   },
   {
     "title": "Mar.13th - FISE Battle of the Champions",
     "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
-    "score": 16,
-    "summary": "FISE冠军之战重磅来袭，顶尖滑手齐聚冲击奥运积分，街头文化盛宴即将引爆！",
+    "score": 14,
+    "summary": "FISE冠军之战重磅回归，顶尖滑手齐聚冲击奥运积分，街头文化盛宴引爆三月滑板圈。",
     "source": "KickerClub"
+  },
+  {
+    "title": "February 15, 2026Yam Behar's \"Yam\" Pylon Skateboards Premiere",
+    "link": "https://www.thrashermagazine.com/articles/events/yam-behar-s-yam-pylon-skateboards-premiere/",
+    "score": 12,
+    "summary": "滑板传奇Yam Behar个人签名款Pylon板面首发，Thrasher重磅发布引爆核心圈层。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Fallen's \"RISE\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/fallen-s-rise-video/",
+    "score": 11,
+    "summary": "Fallen时隔十年发布全新团队大片《RISE》，Thrasher独家呈现硬核街头滑板风暴。",
+    "source": "Thrasher"
   },
   {
     "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
@@ -23,50 +37,36 @@ const newsData = [
   {
     "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
     "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
-    "score": 11,
+    "score": 10,
     "summary": "Thrasher发布Escapist团队最新影片《It's Over》首映，引爆滑板圈硬核狂欢。",
     "source": "Thrasher"
   },
   {
-    "title": "February 15, 2026Yam Behar's \"Yam\" Pylon Skateboards Premiere",
-    "link": "https://www.thrashermagazine.com/articles/events/yam-behar-s-yam-pylon-skateboards-premiere/",
-    "score": 10,
-    "summary": "传奇滑手Yam Behar个人签名款Pylon板面首发，Thrasher独家引爆核心圈期待。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "February 18, 2026Atiba Jefferson's \"Finding Focus\" Talk at SDSU",
-    "link": "https://www.thrashermagazine.com/articles/events/atiba-jefferson-s-finding-focus-talk-at-sdsu/",
-    "score": 8,
-    "summary": "传奇滑板摄影师Atiba Jefferson在SDSU分享会揭秘镜头背后的滑板文化与专注哲学，引发业界热议。",
+    "title": "March 29, 2026Yaddamean's \"Z Skate Jam\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/yaddamean-s-z-skate-jam-event/",
+    "score": 9,
+    "summary": "Thrasher力推Yaddamein街头滑板赛，嘻哈文化与滑板狂欢引爆加州街区。",
     "source": "Thrasher"
   },
   {
     "title": "All Access: NB's \"Running Numbers\" Tour Detroit to Buffalo",
     "link": "https://www.thrashermagazine.com/articles/videos/all-access-nb-s-running-numbers-tour-detroit-to-buffalo/",
+    "score": 9,
+    "summary": "Thrasher全程跟拍NB滑板队“Running Numbers”巡回，从底特律到布法罗的街头硬核实录点燃滑板圈。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "April 12, 2026El Spot's Skate 'n' Fire Contest",
+    "link": "https://www.thrashermagazine.com/articles/trash/el-spot-s-skate-n-fire-contest/",
     "score": 8,
-    "summary": "Thrasher全程跟拍NB滑板队“Running Numbers”巡回，从底特律狂飙至水牛城的街头硬核之旅。",
+    "summary": "Thrasher重磅推出El Spot滑板火焰赛，极限地形与街头烈火引爆全球滑手挑战狂潮。",
     "source": "Thrasher"
   },
   {
-    "title": "March 14, 2026Capitola Classic 2026 Event",
-    "link": "https://www.thrashermagazine.com/articles/events/capitola-classic-2026-event/",
-    "score": 7,
-    "summary": "Thrasher重磅预告2026年Capitola Classic赛事，经典街头滑板盛宴再度回归！",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Nov.15th - Polar Shanghai Demo",
-    "link": "https://www.kickerclub.com/2025/11/nov-15th-polar-shanghai-demo/",
-    "score": 7,
-    "summary": "Polar滑板队空降上海引爆街头，国际滑手本土演示掀起小众文化热潮。",
-    "source": "KickerClub"
-  },
-  {
-    "title": "CMG's \"I'm Gonna Make You Bleed\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/cmg-s-i-m-gonna-make-you-bleed-video/",
-    "score": 7,
-    "summary": "Thrasher发布CMG暴力美学新片《I'm Gonna Make You Bleed》，街头硬核风格席卷滑板圈。",
+    "title": "Samurai Safari in Nevada",
+    "link": "https://www.thrashermagazine.com/articles/trash/samurai-safari-in-nevada/",
+    "score": 8,
+    "summary": "Thrasher呈现内华达沙漠滑板狂想曲，武士精神与滑板文化在荒原激烈碰撞",
     "source": "Thrasher"
   }
 ];
