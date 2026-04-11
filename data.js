@@ -2,22 +2,22 @@ const newsData = [
   {
     "title": "WST São Paulo World Championships: Finals Report",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3869-wst-sao-paulo-world-championships-finals-report.html",
-    "score": 19,
-    "summary": "WST圣保罗世锦赛诞生新科世界冠军，奥运积分争夺战白热化！",
+    "score": 17,
+    "summary": "WST圣保罗世锦赛诞生新冠军，奥运积分争夺战白热化！",
     "source": "World Skate"
   },
   {
     "title": "Mar.13th - FISE Battle of the Champions",
     "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
     "score": 14,
-    "summary": "FISE冠军之战即将打响，顶尖滑手齐聚冲击历史性荣耀！",
+    "summary": "FISE冠军之战重磅来袭，顶尖滑手决战奥运资格赛！",
     "source": "KickerClub"
   },
   {
     "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
-    "score": 13,
-    "summary": "世界滑板巡回赛2025赛季收官战在日本上演巅峰对决，全球顶尖滑手争夺奥运积分席位！",
+    "score": 12,
+    "summary": "World Skateboarding Tour 2025赛季日本收官战引爆全球滑板圈，顶尖滑手决战奥运积分赛关键一役！",
     "source": "World Skate"
   },
   {
@@ -28,45 +28,45 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Fallen's \"RISE\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/fallen-s-rise-video/",
-    "score": 9,
-    "summary": "Fallen时隔多年发布全新团队大片《RISE》，Thrasher重磅呈现滑板硬核美学回归。",
-    "source": "Thrasher"
-  },
-  {
     "title": "February 15, 2026Yam Behar's \"Yam\" Pylon Skateboards Premiere",
     "link": "https://www.thrashermagazine.com/articles/events/yam-behar-s-yam-pylon-skateboards-premiere/",
     "score": 9,
-    "summary": "Thrasher重磅发布Yam Behar个人签名款“Yam”系列滑板，标志其职业生涯新里程碑。",
+    "summary": "传奇滑手Yam Behar个人签名款Pylon板面首发，Thrasher重磅呈现街头文化新焦点。",
     "source": "Thrasher"
   },
   {
-    "title": "April 12, 2026El Spot's Skate 'n' Fire Contest",
-    "link": "https://www.thrashermagazine.com/articles/trash/el-spot-s-skate-n-fire-contest/",
-    "score": 9,
-    "summary": "Thrasher重磅呈现El Spot滑板火场极限赛，颠覆传统场地的烈火挑战引爆滑圈热议。",
+    "title": "Fallen's \"RISE\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/fallen-s-rise-video/",
+    "score": 8,
+    "summary": "Fallen时隔多年发布全新团队大片《RISE》，Thrasher重磅呈现引发滑板圈震动。",
     "source": "Thrasher"
   },
   {
-    "title": "February 18, 2026Atiba Jefferson's \"Finding Focus\" Talk at SDSU",
-    "link": "https://www.thrashermagazine.com/articles/events/atiba-jefferson-s-finding-focus-talk-at-sdsu/",
+    "title": "All Access: NB's \"Running Numbers\" Tour Detroit to Buffalo",
+    "link": "https://www.thrashermagazine.com/articles/videos/all-access-nb-s-running-numbers-tour-detroit-to-buffalo/",
     "score": 7,
-    "summary": "传奇滑板摄影师Atiba Jefferson在SDSU分享会揭秘镜头背后的街头文化，Thrasher深度报道引发滑板圈热议。",
+    "summary": "New Balance滑板队携hiphop血液席卷美东，底特律到水牛城街头爆发新一轮数字风暴。",
     "source": "Thrasher"
   },
   {
-    "title": "March 28, 2026\"Don't Let Them Take You Alive\" Art Show",
-    "link": "https://www.thrashermagazine.com/articles/events/don-t-let-them-take-you-alive-art-show/",
+    "title": "March 29, 2026Yaddamean's \"Z Skate Jam\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/yaddamean-s-z-skate-jam-event/",
     "score": 7,
-    "summary": "Thrasher跨界艺术展“Don't Let Them Take You Alive”开幕，以滑板硬核精神引爆街头文化圈。",
+    "summary": "Thrasher力推Yaddamean街头滑板赛，嘻哈文化与滑板狂欢引爆洛杉矶。",
     "source": "Thrasher"
   },
   {
-    "title": "Rise and Shine",
-    "link": "https://www.thrashermagazine.com/articles/burnout/rise-and-shine/",
+    "title": "CMG's \"I'm Gonna Make You Bleed\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/cmg-s-i-m-gonna-make-you-bleed-video/",
     "score": 7,
-    "summary": "Thrasher发布滑板短片《Rise and Shine》，以街头视角捕捉滑手晨间躁动瞬间。",
+    "summary": "Thrasher发布CMG暴力美学新片《I'm Gonna Make You Bleed》，街头硬核风格席卷滑板圈。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "February 21, 2026Flying Low's \"Skateshop Day\" Event",
+    "link": "https://www.thrashermagazine.com/articles/trash/flying-low-s-skateshop-day-event/",
+    "score": 7,
+    "summary": "Thrasher力推Flying Low滑板店纪念日活动，街头文化盛宴引爆社群狂欢。",
     "source": "Thrasher"
   }
 ];
