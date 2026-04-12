@@ -3,22 +3,15 @@ const newsData = [
     "title": "WST São Paulo World Championships: Finals Report",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3869-wst-sao-paulo-world-championships-finals-report.html",
     "score": 19,
-    "summary": "WST圣保罗世锦赛诞生新科世界冠军，奥运积分争夺战白热化！",
+    "summary": "WST圣保罗世锦赛诞生新冠军，奥运积分争夺战白热化！",
     "source": "World Skate"
   },
   {
     "title": "Mar.13th - FISE Battle of the Champions",
     "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
     "score": 14,
-    "summary": "FISE冠军之战重磅来袭，顶尖滑手齐聚冲击奥运积分，街头文化盛宴即将引爆！",
+    "summary": "FISE冠军之战引爆滑板圈，顶尖滑手齐聚冲击奥运积分关键战役！",
     "source": "KickerClub"
-  },
-  {
-    "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
-    "score": 11,
-    "summary": "世界滑板巡回赛2025赛季收官战在日本震撼落幕，顶尖滑手齐聚争夺奥运积分关键战！",
-    "source": "World Skate"
   },
   {
     "title": "February 15, 2026Yam Behar's \"Yam\" Pylon Skateboards Premiere",
@@ -28,10 +21,17 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "All Access: NB's \"Running Numbers\" Tour Detroit to Buffalo",
-    "link": "https://www.thrashermagazine.com/articles/videos/all-access-nb-s-running-numbers-tour-detroit-to-buffalo/",
+    "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
     "score": 9,
-    "summary": "Thrasher跟拍NB#数字巡游#从底特律杀到水牛城，街头滑板与hiphop文化碰撞出今夏最燥公路之旅。",
+    "summary": "世界滑板巡回赛2025赛季收官战在日本上演巅峰对决，全球顶尖滑手争夺奥运积分白热化！",
+    "source": "World Skate"
+  },
+  {
+    "title": "Fallen's \"RISE\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/fallen-s-rise-video/",
+    "score": 9,
+    "summary": "Fallen时隔多年发布全新团队大片《RISE》，Thrasher重磅呈现引发滑板圈地震级反响。",
     "source": "Thrasher"
   },
   {
@@ -42,31 +42,31 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Fallen's \"RISE\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/fallen-s-rise-video/",
-    "score": 7,
-    "summary": "Fallen时隔七年发布全新团队大片《RISE》，Thrasher独家呈现硬核街头滑板风暴。",
+    "title": "CMG's \"I'm Gonna Make You Bleed\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/cmg-s-i-m-gonna-make-you-bleed-video/",
+    "score": 8,
+    "summary": "Thrasher发布CMG暴力美学滑板片《I'm Gonna Make You Bleed》，地下硬核风格席卷街头。",
     "source": "Thrasher"
   },
   {
-    "title": "February 18, 2026Atiba Jefferson's \"Finding Focus\" Talk at SDSU",
-    "link": "https://www.thrashermagazine.com/articles/events/atiba-jefferson-s-finding-focus-talk-at-sdsu/",
+    "title": "April 12, 2026El Spot's Skate 'n' Fire Contest",
+    "link": "https://www.thrashermagazine.com/articles/trash/el-spot-s-skate-n-fire-contest/",
     "score": 7,
-    "summary": "传奇滑板摄影师Atiba Jefferson在SDSU分享会揭秘镜头背后的滑板文化与专注哲学，引发业界热议。",
+    "summary": "Thrasher重磅呈现El Spot滑板火场挑战赛，极限地形点燃滑手狂野对决。",
     "source": "Thrasher"
   },
   {
-    "title": "ASICS 4 Course Emile",
-    "link": "https://www.thrashermagazine.com/articles/videos/emile-laurent-s-4-course-part/",
+    "title": "February 07, 2026Rhythm Skateshop's \"CV Am 2026\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/rhythm-skateshop-s-cv-am-2026-event/",
     "score": 7,
-    "summary": "ASICS联手Emile Laurent推出复古滑板鞋4 Course，Thrasher加持引爆经典街头风格回归。",
+    "summary": "Thrasher报道Rhythm滑板店举办“CV Am 2026”业余赛事，持续挖掘街头滑板新生力量。",
     "source": "Thrasher"
   },
   {
-    "title": "Rise and Shine",
-    "link": "https://www.thrashermagazine.com/articles/burnout/rise-and-shine/",
+    "title": "March 29, 2026Yaddamean's \"Z Skate Jam\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/yaddamean-s-z-skate-jam-event/",
     "score": 7,
-    "summary": "Thrasher发布新片《Rise and Shine》，滑板圈再掀街头风暴。",
+    "summary": "Thrasher力推Yaddamean街头滑板赛，嘻哈文化与滑板激情碰撞引爆周末狂欢。",
     "source": "Thrasher"
   }
 ];
