@@ -2,71 +2,71 @@ const newsData = [
   {
     "title": "WST São Paulo World Championships: Finals Report",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3869-wst-sao-paulo-world-championships-finals-report.html",
-    "score": 17,
-    "summary": "WST圣保罗世锦赛诞生新冠军，奥运积分争夺战白热化！",
-    "source": "World Skate"
-  },
-  {
-    "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
-    "score": 11,
-    "summary": "世界滑板巡回赛2025赛季收官战在日本上演巅峰对决，全球顶尖滑手争夺奥运积分席位！",
+    "score": 18,
+    "summary": "WST圣保罗世锦赛落幕，奥运积分赛激战诞生新科世界冠军，改写滑板历史格局。",
     "source": "World Skate"
   },
   {
     "title": "Mar.13th - FISE Battle of the Champions",
     "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
-    "score": 11,
-    "summary": "FISE冠军之战引爆滑板圈，顶尖滑手齐聚冲击奥运资格新战场。",
+    "score": 13,
+    "summary": "FISE冠军之战引爆滑板圈，奥运资格争夺战白热化！",
     "source": "KickerClub"
   },
   {
-    "title": "ALL ACCESS: NB's \"Running Numbers\" Tour ATL to MIA",
-    "link": "https://www.thrashermagazine.com/articles/videos/all-access-nb-s-running-numbers-tour-atl-to-mia/",
-    "score": 9,
-    "summary": "NB滑板队携新片《Running Numbers》展开亚特兰大至迈阿密巡演，Thrasher全程记录街头文化盛宴。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "April 12, 2026El Spot's Skate 'n' Fire Contest",
-    "link": "https://www.thrashermagazine.com/articles/trash/el-spot-s-skate-n-fire-contest/",
-    "score": 9,
-    "summary": "Thrasher重磅推出El Spot滑板火场极限赛，2026年4月引爆硬核街头。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "April 18, 2026Let It Roll Grand Re-Opening",
-    "link": "https://www.thrashermagazine.com/articles/events/let-it-roll-grand-re-opening/",
-    "score": 9,
-    "summary": "Thrasher旗下传奇滑板场Let It Roll时隔多年重磅重启，或将重塑街头滑板文化版图。",
-    "source": "Thrasher"
+    "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
+    "score": 11,
+    "summary": "世界滑板巡回赛2025赛季收官战在日本震撼落幕，顶尖滑手决战奥运积分赛关键战役！",
+    "source": "World Skate"
   },
   {
     "title": "ALL ACCESS: NB's \"Running Numbers\" Tour ATL to MIA",
     "link": "https://www.thrashermagazine.com/articles/videos/all-access-nb-s-running-numbers-tour-atl-to-mia/",
     "score": 9,
-    "summary": "Thrasher全程跟拍NB#滑板队从亚特兰大到迈阿密的“Running Numbers”巡回之旅，街头文化与滑板硬核动作激烈碰撞。",
+    "summary": "Thrasher全程跟拍NB#滑板队从亚特兰大到迈阿密的街头征程，展现滑板与hiphop文化交融的纯粹街头能量。",
     "source": "Thrasher"
   },
   {
-    "title": "HOURS - Ryan Thompson Part",
-    "link": "https://www.thrashermagazine.com/articles/videos/hours-ryan-thompson-part/",
-    "score": 9,
-    "summary": "Thrasher发布Ryan Thompson个人片段，传奇滑手再献硬核街头风格引爆滑板圈。",
+    "title": "Barrier Kult's \"Horde 3\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/barrier-kult-s-horde-3-video/",
+    "score": 8,
+    "summary": "Barrier Kult集结地下滑手在《Horde 3》中释放粗粝街头能量，Thrasher加持再现硬核滑板原生态狂潮。",
     "source": "Thrasher"
   },
   {
     "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
     "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
-    "score": 9,
-    "summary": "Thrasher发布Escapist滑板队最新影片《It's Over》首映，引爆核心滑板圈期待。",
+    "score": 8,
+    "summary": "Thrasher发布Escapist团队最新影片《It's Over》首映，引爆滑板圈硬核狂欢。",
     "source": "Thrasher"
+  },
+  {
+    "title": "ALL ACCESS: NB's \"Running Numbers\" Tour ATL to MIA",
+    "link": "https://www.thrashermagazine.com/articles/videos/all-access-nb-s-running-numbers-tour-atl-to-mia/",
+    "score": 8,
+    "summary": "Thrasher全程跟拍New Balance滑板队从亚特兰大到迈阿密的“Running Numbers”巡回之旅，展现街头文化与滑板运动的深度碰撞。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Nov.15th - Polar Shanghai Demo",
+    "link": "https://www.kickerclub.com/2025/11/nov-15th-polar-shanghai-demo/",
+    "score": 8,
+    "summary": "Polar滑板队空降上海街头，本土滑手与国际大咖同台引爆魔都板圈热潮。",
+    "source": "KickerClub"
   },
   {
     "title": "April 17, 2026 - April 19, 2026Stardust Skate Shop's Race City Open 2026",
     "link": "https://www.thrashermagazine.com/articles/events/stardust-skate-shop-s-race-city-open-2026/",
     "score": 7,
-    "summary": "Thrasher报道：Stardust滑板店将于2026年4月举办Race City Open赛事，引发滑板圈对这场街头盛宴的早期关注。",
+    "summary": "Thrasher预告2026年Race City Open赛事，滑板老炮新秀将齐聚Stardust滑板店主办的地下赛事。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "March 29, 2026Yaddamean's \"Z Skate Jam\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/yaddamean-s-z-skate-jam-event/",
+    "score": 7,
+    "summary": "Thrasher力推Yaddamean街头滑板赛，嘻哈文化与滑板激情碰撞引爆周末街区。",
     "source": "Thrasher"
   }
 ];
