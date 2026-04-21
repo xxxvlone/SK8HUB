@@ -2,16 +2,23 @@ const newsData = [
   {
     "title": "WST São Paulo World Championships: Finals Report",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3869-wst-sao-paulo-world-championships-finals-report.html",
-    "score": 20,
-    "summary": "WST圣保罗世锦赛诞生新冠军，日本滑手创造历史记录剑指巴黎奥运！",
+    "score": 19,
+    "summary": "WST圣保罗世锦赛诞生新科世界冠军，奥运积分争夺战白热化！",
     "source": "World Skate"
   },
   {
     "title": "Mar.13th - FISE Battle of the Champions",
     "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
-    "score": 14,
-    "summary": "FISE冠军之战重磅回归，顶尖滑手齐聚冲击奥运积分赛！",
+    "score": 16,
+    "summary": "FISE冠军之战重磅回归，顶尖滑手齐聚冲击奥运积分，街头文化盛宴引爆三月滑板圈。",
     "source": "KickerClub"
+  },
+  {
+    "title": "ALL ACCESS: NB's \"Running Numbers\" Tour ATL to MIA",
+    "link": "https://www.thrashermagazine.com/articles/videos/all-access-nb-s-running-numbers-tour-atl-to-mia/",
+    "score": 11,
+    "summary": "Thrasher全程跟拍NB#滑板队从亚特兰大到迈阿密的街头征程，释放美东最燥的板场能量！",
+    "source": "Thrasher"
   },
   {
     "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
@@ -21,52 +28,45 @@ const newsData = [
     "source": "World Skate"
   },
   {
+    "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
+    "score": 11,
+    "summary": "Thrasher重磅发布Escapist滑板队最新影片《It's Over》首映，引爆核心滑板圈期待。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "April 18, 2026Let It Roll Grand Re-Opening",
+    "link": "https://www.thrashermagazine.com/articles/events/let-it-roll-grand-re-opening/",
+    "score": 9,
+    "summary": "Thrasher重磅宣布传奇滑板场Let It Roll将于2026年4月18日盛大重开，引发全球滑板社群狂欢。",
+    "source": "Thrasher"
+  },
+  {
     "title": "ALL ACCESS: NB's \"Running Numbers\" Tour ATL to MIA",
     "link": "https://www.thrashermagazine.com/articles/videos/all-access-nb-s-running-numbers-tour-atl-to-mia/",
     "score": 9,
-    "summary": "NB滑板队携新片《Running Numbers》展开亚特兰大至迈阿密街头巡演，Thrasher全程跟拍释放硬核滑板能量。",
+    "summary": "Thrasher全程跟拍NB#滑板队从亚特兰大到迈阿密的街头征程，展现滑板与hiphop文化交融的原始能量。",
     "source": "Thrasher"
   },
   {
-    "title": "ALL ACCESS: NB's \"Running Numbers\" Tour ATL to MIA",
-    "link": "https://www.thrashermagazine.com/articles/videos/all-access-nb-s-running-numbers-tour-atl-to-mia/",
-    "score": 8,
-    "summary": "Thrasher全程跟拍New Balance滑板队从亚特兰大到迈阿密的“Running Numbers”巡回之旅，街头文化与滑板硬核行程交织引爆关注。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "February 21, 2026Flying Low's \"Skateshop Day\" Event",
-    "link": "https://www.thrashermagazine.com/articles/trash/flying-low-s-skateshop-day-event/",
-    "score": 8,
-    "summary": "Thrasher力推Flying Low滑板店庆日活动，街头文化盛宴引爆社群狂欢。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
-    "score": 8,
-    "summary": "Thrasher发布Escapist滑板影片《It's Over》首映，引爆核心滑板圈期待。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "April 16, 2026 - April 18, 2026Ed Templeton RVCA Art Shows in Paris",
-    "link": "https://www.thrashermagazine.com/articles/events/ed-templeton-rvca-art-shows-in-paris/",
+    "title": "Jim Gray is Coming to Macau",
+    "link": "https://www.kickerclub.com/2026/03/jim-gray-is-coming-to-macau/",
     "score": 7,
-    "summary": "传奇滑手Ed Templeton携RVCA个人艺术展登陆巴黎，街头文化与画廊艺术再次碰撞。",
-    "source": "Thrasher"
+    "summary": "传奇滑手Jim Gray即将空降澳门，街头文化热潮再添国际级重磅事件。",
+    "source": "KickerClub"
   },
   {
     "title": "Nov.15th - Polar Shanghai Demo",
     "link": "https://www.kickerclub.com/2025/11/nov-15th-polar-shanghai-demo/",
     "score": 7,
-    "summary": "Polar携国际滑手空降上海，引爆中国街头滑板文化热潮。",
+    "summary": "Polar滑板队空降上海街头，本土滑板圈迎来国际品牌线下狂欢。",
     "source": "KickerClub"
   },
   {
-    "title": "Simple Skateboarding's Ukraine Youth Collection",
-    "link": "https://www.thrashermagazine.com/articles/trash/simple-skateboarding-s-ukraine-youth-collection/",
+    "title": "April 16, 2026 - April 18, 2026Ed Templeton RVCA Art Shows in Paris",
+    "link": "https://www.thrashermagazine.com/articles/events/ed-templeton-rvca-art-shows-in-paris/",
     "score": 7,
-    "summary": "Thrasher旗下Simple Skateboarding推出乌克兰青年系列，以滑板文化声援战火中的新生代。",
+    "summary": "传奇滑手Ed Templeton携RVCA艺术展登陆巴黎，街头文化与滑板美学再度引爆欧洲潮流圈。",
     "source": "Thrasher"
   }
 ];
