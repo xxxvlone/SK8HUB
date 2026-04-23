@@ -2,71 +2,71 @@ const newsData = [
   {
     "title": "WST São Paulo World Championships: Finals Report",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3869-wst-sao-paulo-world-championships-finals-report.html",
-    "score": 17,
-    "summary": "WST圣保罗世锦赛决赛落幕：多位奥运级滑手冲击历史记录，街头文化燃爆巴西赛场，中国军团虽未登顶却展现破局之势。",
+    "score": 19,
+    "summary": "WST圣保罗世锦赛决赛落幕：新生代滑手破历史记录，街头风格与奥运战意齐飞，中国选手首秀引发关注。",
     "source": "World Skate"
   },
   {
-    "title": "Mar.13th - FISE Battle of the Champions",
-    "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
-    "score": 14,
-    "summary": "FISE冠军赛3月13日开战，全球顶级滑手集结，中国力量能否再创历史？",
-    "source": "KickerClub"
-  },
-  {
-    "title": "Julian Agliardi's \"Monster Energy\" Part",
-    "link": "https://www.thrashermagazine.com/articles/videos/julian-agliardi-s-monster-part/",
+    "title": "2026 Skateboarding Calendar Release!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3859-2026-skateboarding-calendar-release.html",
     "score": 13,
-    "summary": "Julian Agliardi在Thrasher发布“Monster Energy”个人片段，以暴力风格与街头能量冲击滑板圈，堪称年度硬核滑板视觉炸弹。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "March 29, 2026Yaddamean's \"Z Skate Jam\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/yaddamean-s-z-skate-jam-event/",
-    "score": 12,
-    "summary": "Yaddamean的“Z滑板果酱赛”即将炸场，街头文化与滑板硬核碰撞，新一代滑手正用最野的方式定义2026年滑板新纪元。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
-    "score": 11,
-    "summary": "Thrasher独家呈现滑板影片《Its Over》首映，Escapist团队用四年磨一剑的硬核动作宣告街头霸主归来。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
-    "score": 10,
-    "summary": "世界滑板巡回赛2025赛季在日本迎来终极对决，顶尖滑手集结东京争夺年度冠军荣耀。",
+    "summary": "World Skate正式发布2026年滑板赛事日历，奥运积分赛与历史性首发赛程同步揭晓，全球滑板界迎来新一轮冠军争夺战！",
     "source": "World Skate"
   },
   {
     "title": "Jim Gray is Coming to Macau",
     "link": "https://www.kickerclub.com/2026/03/jim-gray-is-coming-to-macau/",
-    "score": 10,
-    "summary": "传奇滑手Jim Gray即将空降澳门，街头文化与中国地标碰撞，掀起滑板圈期待狂潮！",
+    "score": 12,
+    "summary": "传奇滑手Jim Gray即将登陆澳门，街头文化与中国地标碰撞，这场跨洋巡演能否引爆亚洲滑板圈？",
     "source": "KickerClub"
   },
   {
-    "title": "April 16, 2026 - April 18, 2026Ed Templeton RVCA Art Shows in Paris",
-    "link": "https://www.thrashermagazine.com/articles/events/ed-templeton-rvca-art-shows-in-paris/",
-    "score": 9,
-    "summary": "传奇滑手Ed Templeton携RVCA艺术展登陆巴黎，街头文化与滑板美学的跨界碰撞即将点燃四月法兰西！",
+    "title": "Julian Agliardi's \"Monster Energy\" Part",
+    "link": "https://www.thrashermagazine.com/articles/videos/julian-agliardi-s-monster-part/",
+    "score": 12,
+    "summary": "Julian Agliardi在Thrasher发布“Monster Energy”个人片段，硬核街头风格引爆滑板圈，展现非奥运赛道的纯粹能量与原创精神。",
     "source": "Thrasher"
+  },
+  {
+    "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
+    "score": 11,
+    "summary": "世界滑板巡回赛2025赛季在日本收官，巅峰对决点燃全球滑板热潮，谁将锁定奥运入场券？",
+    "source": "World Skate"
+  },
+  {
+    "title": "Mar.13th - FISE Battle of the Champions",
+    "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
+    "score": 11,
+    "summary": "FISE冠军赛3月13日开战，奥运级对决引爆滑板街头新高潮！",
+    "source": "KickerClub"
   },
   {
     "title": "Cecelia LBC's “420GLO” Video",
     "link": "https://www.thrashermagazine.com/articles/trash/cecelia-lbc-s-420glo-video/",
-    "score": 8,
-    "summary": "420GLO降临：Cecelia LBC用滑板与街头灵魂点燃Thrasher新片，释放纯正地下能量。",
+    "score": 10,
+    "summary": "Thrasher发布Cecelia LBC全新“420GLO”视频，街头滑板与hiphop文化再燃地下热潮。",
     "source": "Thrasher"
   },
   {
-    "title": "2026 Skateboarding Calendar Release!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3859-2026-skateboarding-calendar-release.html",
-    "score": 8,
-    "summary": "World Skate正式发布2026年滑板赛历，奥运资格赛与世锦赛日程揭晓，全球滑板竞技格局迎来新变数。",
-    "source": "World Skate"
+    "title": "March 14, 2026Capitola Classic 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/capitola-classic-2026-event/",
+    "score": 10,
+    "summary": "Thrasher发布2026年Capitola Classic赛事预告，经典街头滑板对决即将回归，谁能在这片传奇地形上封王？",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Bronson's \"Raw Mayhem: Tick Ditch 4\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/bronson-s-raw-mayhem-tick-ditch-4-video/",
+    "score": 10,
+    "summary": "Thrasher发布Bronson轴承团队新片《Raw Mayhem: Tick Ditch 4》，硬核街头滑板暴力美学再掀地沟狂潮。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "April 17, 2026 - April 19, 2026Stardust Skate Shop's Race City Open 2026",
+    "link": "https://www.thrashermagazine.com/articles/events/stardust-skate-shop-s-race-city-open-2026/",
+    "score": 10,
+    "summary": "Stardust Skate Shop年度重磅赛事Race City Open 2026定档四月，Thrasher独家聚焦街头滑板竞技巅峰对决。",
+    "source": "Thrasher"
   }
 ];
