@@ -1,72 +1,72 @@
 const newsData = [
   {
-    "title": "WST São Paulo World Championships: Finals Report",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3869-wst-sao-paulo-world-championships-finals-report.html",
-    "score": 19,
-    "summary": "WST圣保罗世锦赛诞生新冠军，奥运积分争夺战白热化引爆滑板圈！",
-    "source": "World Skate"
-  },
-  {
     "title": "Mar.13th - FISE Battle of the Champions",
     "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
-    "score": 15,
-    "summary": "FISE冠军之战重磅回归，全球顶尖滑手齐聚冲击极限！",
+    "score": 18,
+    "summary": "FISE冠军之战3月13日打响：奥运级滑板对决即将引爆全球街头文化热潮，中国滑手能否改写历史纪录？",
     "source": "KickerClub"
   },
   {
-    "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
-    "score": 11,
-    "summary": "世界滑板巡回赛2025赛季收官战在日本上演巅峰对决，全球顶尖滑手争夺奥运积分席位！",
-    "source": "World Skate"
-  },
-  {
-    "title": "Julian Agliardi's \"Monster Energy\" Part",
-    "link": "https://www.thrashermagazine.com/articles/videos/julian-agliardi-s-monster-part/",
-    "score": 9,
-    "summary": "Julian Agliardi携Monster Energy个人片段登陆Thrasher，展现新生代滑手的狂暴街头风格。",
+    "title": "Bronson's \"Raw Mayhem: Tick Ditch 4\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/bronson-s-raw-mayhem-tick-ditch-4-video/",
+    "score": 13,
+    "summary": "Bronson轴承团队在Thrasher发布《Raw Mayhem: Tick Ditch 4》视频，硬核街头滑板动作炸裂，展现纯正地下文化冲击力。",
     "source": "Thrasher"
   },
   {
     "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
     "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
+    "score": 13,
+    "summary": "Thrasher独家首发Escapist纪录片《Its Over》首映预告，四年磨一剑的街头史诗即将落幕。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
+    "score": 13,
+    "summary": "世界滑板巡回赛2025赛季在日本收官战引爆终极对决，奥运积分争夺进入白热化，全球顶尖滑手齐聚东京上演街头文化盛宴。",
+    "source": "World Skate"
+  },
+  {
+    "title": "WST São Paulo World Championships: Finals Report",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3869-wst-sao-paulo-world-championships-finals-report.html",
+    "score": 10,
+    "summary": "WST圣保罗世锦赛决赛落幕，世界冠军诞生，街头滑板文化再掀狂潮。",
+    "source": "World Skate"
+  },
+  {
+    "title": "March 29, 2026Yaddamean's \"Z Skate Jam\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/yaddamean-s-z-skate-jam-event/",
     "score": 9,
-    "summary": "Thrasher发布Escapist团队最新影片《It's Over》首映，引爆滑板圈硬核狂欢。",
+    "summary": "Thrasher官宣Yaddamean“Z滑板果酱赛”定档2026年3月29日，街头文化与新生代滑板势力即将点燃年度狂欢。",
     "source": "Thrasher"
   },
   {
-    "title": "Cecelia LBC's “420GLO” Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/cecelia-lbc-s-420glo-video/",
-    "score": 9,
-    "summary": "Thrasher发布Cecelia LBC新片《420GLO》，街头文化与滑板硬核风格再度碰撞引爆社群。",
+    "title": "Cloudflower's \"Bouquet\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/cloudflower-s-bouquet-video/",
+    "score": 8,
+    "summary": "Cloudflower最新整片《Bouquet》登陆Thrasher，用花束般的滑板动作打破街头沉闷，视觉与技巧双重轰炸。",
     "source": "Thrasher"
   },
   {
-    "title": "April 18, 2026Let It Roll Grand Re-Opening",
-    "link": "https://www.thrashermagazine.com/articles/events/let-it-roll-grand-re-opening/",
-    "score": 9,
-    "summary": "Thrasher重磅宣布传奇滑板场Let It Roll将于2026年4月18日盛大重开，引爆全球滑板社群期待。",
+    "title": "March 14, 2026Capitola Classic 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/capitola-classic-2026-event/",
+    "score": 8,
+    "summary": "Thrasher官宣Capitola Classic 2026赛事定档，经典街式对决即将重燃加州海岸。",
     "source": "Thrasher"
   },
   {
-    "title": "April 16, 2026 - April 18, 2026Ed Templeton RVCA Art Shows in Paris",
-    "link": "https://www.thrashermagazine.com/articles/events/ed-templeton-rvca-art-shows-in-paris/",
-    "score": 7,
-    "summary": "传奇滑手Ed Templeton携手RVCA登陆巴黎举办艺术展，街头文化与画廊艺术再度碰撞。",
+    "title": "Simple Skateboarding's Ukraine Youth Collection",
+    "link": "https://www.thrashermagazine.com/articles/trash/simple-skateboarding-s-ukraine-youth-collection/",
+    "score": 8,
+    "summary": "Simple Skateboarding以乌克兰青年系列发声，滑板品牌用街头力量传递战火中的坚持与希望。",
     "source": "Thrasher"
   },
   {
-    "title": "Nov.15th - Polar Shanghai Demo",
-    "link": "https://www.kickerclub.com/2025/11/nov-15th-polar-shanghai-demo/",
-    "score": 7,
-    "summary": "Polar滑板队空降上海街头，本土滑手与国际大咖同台引爆魔都板圈热潮。",
+    "title": "Jim Gray is Coming to Macau",
+    "link": "https://www.kickerclub.com/2026/03/jim-gray-is-coming-to-macau/",
+    "score": 8,
+    "summary": "传奇滑手Jim Gray即将空降澳门，街头文化与滑板热潮再掀狂澜！",
     "source": "KickerClub"
-  },
-  {
-    "title": "March 28, 2026\"Don't Let Them Take You Alive\" Art Show",
-    "link": "https://www.thrashermagazine.com/articles/events/don-t-let-them-take-you-alive-art-show/",
-    "score": 7,
-    "summary": "Thrasher跨界艺术展“Don't Let Them Take You Alive”开幕，以滑板硬核精神点燃街头文化圈。",
-    "source": "Thrasher"
   }
 ];
