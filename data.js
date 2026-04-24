@@ -1,72 +1,72 @@
 const newsData = [
   {
-    "title": "WST São Paulo World Championships: Finals Report",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3869-wst-sao-paulo-world-championships-finals-report.html",
-    "score": 19,
-    "summary": "WST圣保罗世锦赛决赛落幕：奥运冠军领衔新王加冕，街头文化引爆滑板历史纪录。",
-    "source": "World Skate"
-  },
-  {
     "title": "Mar.13th - FISE Battle of the Champions",
     "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
-    "score": 16,
-    "summary": "FISE冠军争霸赛3月13日打响，全球顶尖滑手集结，谁将书写奥运周期前的街头传奇？",
+    "score": 19,
+    "summary": "FISE冠军赛3月13日开战，奥运级滑板对决引爆街头文化热潮！",
     "source": "KickerClub"
+  },
+  {
+    "title": "WST São Paulo World Championships: Finals Report",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3869-wst-sao-paulo-world-championships-finals-report.html",
+    "score": 15,
+    "summary": "世界滑板锦标赛圣保罗站决赛落幕，奥运冠军领衔新王登基，街头文化碰撞南美热浪引爆全场。",
+    "source": "World Skate"
   },
   {
     "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
-    "score": 15,
-    "summary": "世界滑板巡回赛2025赛季在日本迎来史诗级收官，奥运积分战巅峰对决引爆全球滑板圈！",
+    "score": 13,
+    "summary": "日本压轴收官！2025滑板巡回赛总决赛点燃全球街头，谁能锁定奥运积分王座？",
     "source": "World Skate"
   },
   {
-    "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
-    "score": 14,
-    "summary": "Thrasher发布Escapist滑板大片《Its Over》首映预告，四年磨一剑的街头视觉盛宴即将引爆滑板圈。",
+    "title": "April 26, 2026Larb in Seattle",
+    "link": "https://www.thrashermagazine.com/articles/events/larb-in-seattle/",
+    "score": 11,
+    "summary": "Thrasher直击西雅图街头：Larb在四月末的湿滑路面上完成了一次足以载入本地传奇的硬核动作，再次证明地下滑板场景的狂野生命力从未消退。",
     "source": "Thrasher"
-  },
-  {
-    "title": "Heroin's \"Mutate or Die\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/heroin-s-mutate-or-die-video/",
-    "score": 13,
-    "summary": "Heroin全新视频《Mutate or Die》登陆Thrasher，硬核滑板美学与街头反叛精神再度炸裂银幕。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Jim Gray is Coming to Macau",
-    "link": "https://www.kickerclub.com/2026/03/jim-gray-is-coming-to-macau/",
-    "score": 12,
-    "summary": "传奇滑手Jim Gray空降澳门，街头文化与中国地标碰撞引爆期待！",
-    "source": "KickerClub"
   },
   {
     "title": "Technê's \"50 Story Fortress\" Video",
     "link": "https://www.thrashermagazine.com/articles/trash/techne-skateboards-s-50-story-fortress/",
-    "score": 12,
-    "summary": "Technê团队新片《50 Story Fortress》空降Thrasher，用楼顶狂野地形与街头混剪重新定义滑板视觉暴力。",
+    "score": 11,
+    "summary": "Technê团队在废弃堡垒中炸裂释放，新片《50 Story Fortress》用水泥裂缝和钢管滑行重新定义街头极限美学。",
     "source": "Thrasher"
   },
   {
     "title": "Postcard's \"Vertical City\" Video",
     "link": "https://www.thrashermagazine.com/articles/videos/postcard-s-vertical-city-video/",
-    "score": 11,
-    "summary": "Thrasher重磅发布Postcard团队“Vertical City”视频，硬核地形挑战定义街头滑板新高度。",
+    "score": 10,
+    "summary": "Thrasher释出Postcard团队“Vertical City”全片，街头猛兽在垂直地形上炸裂，挑战重力与地形的极限。",
     "source": "Thrasher"
   },
   {
-    "title": "2026 Skateboarding Calendar Release!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3859-2026-skateboarding-calendar-release.html",
+    "title": "Vinyl Skateboards' \"EP\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/vinyl-skateboards-ep-video/",
     "score": 10,
-    "summary": "World Skate正式发布2026年滑板赛事日历，奥运资格赛与新赛季巅峰对决时间表揭晓，全球滑板迷的狂欢倒计时开始！",
-    "source": "World Skate"
+    "summary": "Thrasher发布Vinyl Skateboards全新滑板大片《EP》，街头狠货与hip-hop节奏碰撞，硬核视觉冲击力拉满！",
+    "source": "Thrasher"
   },
   {
-    "title": "Cloudflower's \"Bouquet\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/cloudflower-s-bouquet-video/",
-    "score": 10,
-    "summary": "Cloudflower携新片《Bouquet》炸裂登场，Thrasher独家呈现街头美学与hip-hop节奏的极致碰撞！",
+    "title": "April 17, 2026 - April 19, 2026Stardust Skate Shop's Race City Open 2026",
+    "link": "https://www.thrashermagazine.com/articles/events/stardust-skate-shop-s-race-city-open-2026/",
+    "score": 9,
+    "summary": "星辰滑板店年度大赛“Race City Open 2026”定档四月，街头硬核赛事回归，谁能在这片柏油赛道上刻下新传说？",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Jim Gray is Coming to Macau",
+    "link": "https://www.kickerclub.com/2026/03/jim-gray-is-coming-to-macau/",
+    "score": 9,
+    "summary": "传奇滑手Jim Gray即将空降澳门，街头与极限的碰撞即将在这座东方赌城上演！",
+    "source": "KickerClub"
+  },
+  {
+    "title": "March 29, 2026Yaddamean's \"Z Skate Jam\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/yaddamean-s-z-skate-jam-event/",
+    "score": 9,
+    "summary": "Yaddamean携“Z滑板果酱赛”空降Thrasher，街头文化与滑板硬核碰撞，下一个传奇可能就在这场野赛中诞生。",
     "source": "Thrasher"
   }
 ];
