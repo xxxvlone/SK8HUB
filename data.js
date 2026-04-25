@@ -1,72 +1,72 @@
 const newsData = [
   {
-    "title": "Spitfire's \"San Francisco Burning\" Premiere Photos",
-    "link": "https://www.thrashermagazine.com/articles/spitfire-san-francisco-burning-premiere-photos/",
-    "score": 13,
-    "summary": "Spitfire旧金山大火主题首映礼现场直击：滑板与街头文化的视觉盛宴。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Jim Gray is Coming to Macau",
-    "link": "https://www.kickerclub.com/2026/03/jim-gray-is-coming-to-macau/",
-    "score": 13,
-    "summary": "传奇滑手Jim Gray即将空降澳门，街头文化风暴席卷中国！",
+    "title": "Mar.13th - FISE Battle of the Champions",
+    "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
+    "score": 18,
+    "summary": "FISE冠军之战3月13日打响，奥运级滑手集结争夺历史性首发冠军，街头文化与中国元素引爆全球滑板热浪。",
     "source": "KickerClub"
-  },
-  {
-    "title": "April 17, 2026 - April 19, 2026Stardust Skate Shop's Race City Open 2026",
-    "link": "https://www.thrashermagazine.com/articles/events/stardust-skate-shop-s-race-city-open-2026/",
-    "score": 12,
-    "summary": "Stardust滑板店年度盛事“Race City Open 2026”定档四月，街头赛制引爆北美滑板圈，谁将主宰这场硬核竞技？",
-    "source": "Thrasher"
   },
   {
     "title": "WST São Paulo World Championships: Finals Report",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3869-wst-sao-paulo-world-championships-finals-report.html",
-    "score": 12,
-    "summary": "奥运积分赛圣保罗世锦赛决赛落幕，世界冠军诞生改写滑板历史记录。",
+    "score": 14,
+    "summary": "WST圣保罗世锦赛决赛落幕，奥运积分战再掀狂潮，顶尖滑手极限对决改写赛季格局。",
     "source": "World Skate"
-  },
-  {
-    "title": "Mar.13th - FISE Battle of the Champions",
-    "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
-    "score": 11,
-    "summary": "FISE冠军赛3月13日开战，全球顶尖滑手集结争夺“冠军中的冠军”，街头文化与竞技巅峰碰撞！",
-    "source": "KickerClub"
-  },
-  {
-    "title": "April 16, 2026 - April 18, 2026Ed Templeton RVCA Art Shows in Paris",
-    "link": "https://www.thrashermagazine.com/articles/events/ed-templeton-rvca-art-shows-in-paris/",
-    "score": 10,
-    "summary": "传奇滑手Ed Templeton携RVCA艺术展登陆巴黎，街头文化与当代艺术的碰撞即将点燃四月浪漫之都。",
-    "source": "Thrasher"
   },
   {
     "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
     "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
+    "score": 12,
+    "summary": "Thrasher独家发布Escapist新片《Its Over》首映预告，四年磨一剑的街头滑板视觉冲击即将引爆2026。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Vinyl Skateboards' \"EP\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/vinyl-skateboards-ep-video/",
+    "score": 12,
+    "summary": "Vinyl Skateboards发布全新团队视频《EP》，硬核街头滑板动作引爆期待，致敬滑板文化根源！",
+    "source": "Thrasher"
+  },
+  {
+    "title": "March 14, 2026Capitola Classic 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/capitola-classic-2026-event/",
     "score": 10,
-    "summary": "Thrasher曝光Escapist历时近四年打造的硬核滑板大片《Its Over》首映，街头狠招轰炸视觉极限，滑板圈年度必看之作即将炸场！",
+    "summary": "Capitola Classic 2026即将开战，Thrasher镜头锁定街头传奇与新生代滑手，谁将在加州海岸掀起新一轮硬核狂潮？",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Postcard's \"Vertical City\" Video",
+    "link": "https://www.thrashermagazine.com/articles/videos/postcard-s-vertical-city-video/",
+    "score": 9,
+    "summary": "Thrasher发布Postcard团队新片《Vertical City》，用纯正街头能量定义垂直地形新玩法。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "March 28, 2026\"Don't Let Them Take You Alive\" Art Show",
+    "link": "https://www.thrashermagazine.com/articles/events/don-t-let-them-take-you-alive-art-show/",
+    "score": 9,
+    "summary": "Thrasher官宣2026年“别让他们活捉你”艺术展，街头文化硬核反击主流叙事，滑板圈年度最叛逆盛事即将炸场。",
     "source": "Thrasher"
   },
   {
     "title": "March 29, 2026Yaddamean's \"Z Skate Jam\" Event",
     "link": "https://www.thrashermagazine.com/articles/events/yaddamean-s-z-skate-jam-event/",
-    "score": 10,
-    "summary": "Yaddamean的“Z滑板果酱赛”再掀街头狂潮，新生代滑手用最纯粹的地下精神炸翻Thrasher封面，这才是滑板文化的原始心跳！",
+    "score": 8,
+    "summary": "Yaddamean“Z滑板果酱赛”点燃街头，融合嘻哈与滑板文化的年度狂欢即将在2026年3月29日上演。",
     "source": "Thrasher"
   },
   {
-    "title": "April 25, 2026Grind Junction's One-Year Anniversary Event",
-    "link": "https://www.thrashermagazine.com/articles/events/grind-junction-s-one-year-anniversary-event/",
-    "score": 10,
-    "summary": "Grind Junction滑板公园周年庆点燃街头，Thrasher记录下这场融合硬核地形与地下文化的狂欢盛宴。",
-    "source": "Thrasher"
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 8,
+    "summary": "World Skate发布《Discipline》新规，滑板入奥后首次对赛事纪律与风格评分标准进行系统性定义，或将重塑未来冠军争夺格局。",
+    "source": "World Skate"
   },
   {
-    "title": "Ipath Spring '26 Collection",
-    "link": "https://www.thrashermagazine.com/articles/trash/ipath-spring-26-collection/",
-    "score": 9,
-    "summary": "Ipath携Spring '26系列回归，用复古街头美学杀回滑板鞋战场，能否撼动当下大牌格局？",
+    "title": "April 16, 2026 - April 18, 2026Ed Templeton RVCA Art Shows in Paris",
+    "link": "https://www.thrashermagazine.com/articles/events/ed-templeton-rvca-art-shows-in-paris/",
+    "score": 8,
+    "summary": "传奇滑手Ed Templeton携RVCA艺术展登陆巴黎，街头文化与滑板艺术的碰撞即将点燃四月。",
     "source": "Thrasher"
   }
 ];
