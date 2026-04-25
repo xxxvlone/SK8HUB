@@ -1,72 +1,72 @@
 const newsData = [
   {
-    "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
-    "score": 13,
-    "summary": "世界滑板巡回赛2025赛季压轴大戏空降日本，全球顶尖滑手为奥运积分上演终极对决，街头文化浪潮席卷东瀛！",
-    "source": "World Skate"
-  },
-  {
     "title": "Mar.13th - FISE Battle of the Champions",
     "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
-    "score": 13,
-    "summary": "FISE冠军之战3月13日开打，全球顶尖滑手集结中国，街头文化与奥运级竞技碰撞引爆新赛季。",
+    "score": 20,
+    "summary": "FISE冠军之战3月13日打响：全球顶尖滑手集结，奥运级对决与街头文化碰撞，中国元素首度引爆国际滑板热榜。",
     "source": "KickerClub"
   },
   {
     "title": "WST São Paulo World Championships: Finals Report",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3869-wst-sao-paulo-world-championships-finals-report.html",
-    "score": 12,
-    "summary": "世界滑板锦标赛圣保罗站决赛落幕，顶尖滑手巅峰对决刷新赛季纪录。",
+    "score": 18,
+    "summary": "WST圣保罗世锦赛决赛日：奥运资格争夺白热化，多位冠军级滑手创下历史级表现，街头文化元素引爆全场。",
     "source": "World Skate"
   },
   {
-    "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
-    "score": 11,
-    "summary": "Escapist以“Its Over”首映式宣告四年滑板旅程终结，Thrasher独家呈现街头文化终极狂欢。",
-    "source": "Thrasher"
+    "title": "Jim Gray is Coming to Macau",
+    "link": "https://www.kickerclub.com/2026/03/jim-gray-is-coming-to-macau/",
+    "score": 12,
+    "summary": "传奇滑手Jim Gray即将空降澳门，街头文化风暴席卷中国赌城！",
+    "source": "KickerClub"
   },
   {
-    "title": "RIP IN PEACE: Ken Akira Takeda",
-    "link": "https://www.thrashermagazine.com/articles/rip-in-peace-ken-akira-takeda/",
-    "score": 10,
-    "summary": "Thrasher杂志发布讣告，传奇滑手Ken Akira Takeda离世，街头文化圈集体哀悼。",
-    "source": "Thrasher"
+    "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
+    "score": 11,
+    "summary": "世界滑板巡回赛2025赛季在日本收官战落幕，顶级滑手献上年度最燃对决，为明年奥运资格赛造势。",
+    "source": "World Skate"
+  },
+  {
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 11,
+    "summary": "World Skate发布新规“Discipline”，或重塑奥运滑板竞技格局，全球滑手面临全新挑战！",
+    "source": "World Skate"
   },
   {
     "title": "2026 Skateboarding Calendar Release!",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3859-2026-skateboarding-calendar-release.html",
-    "score": 10,
-    "summary": "World Skate官宣2026滑板赛历，奥运积分战与全球顶级赛事首发阵容揭晓，滑板热潮再燃街头！",
+    "score": 11,
+    "summary": "World Skate正式发布2026年滑板赛事日历，奥运资格赛与世锦赛赛程揭晓，新赛季争夺战即将引爆全球街头！",
     "source": "World Skate"
   },
   {
     "title": "Postcard's \"Vertical City\" Video",
     "link": "https://www.thrashermagazine.com/articles/videos/postcard-s-vertical-city-video/",
     "score": 10,
-    "summary": "Thrasher发布Postcard团队新片《Vertical City》，用滑板镜头垂直解剖城市街头地形，硬核风格延续地下滑板美学。",
+    "summary": "Thrasher发布Postcard团队新片《Vertical City》，街头滑板狂人用垂直地形撕碎城市天际线，硬核动作点燃滑板圈。",
     "source": "Thrasher"
   },
   {
-    "title": "Nov.15th - Polar Shanghai Demo",
-    "link": "https://www.kickerclub.com/2025/11/nov-15th-polar-shanghai-demo/",
+    "title": "April 26, 2026Larb in Seattle",
+    "link": "https://www.thrashermagazine.com/articles/events/larb-in-seattle/",
+    "score": 10,
+    "summary": "西雅图街头再燃战火！Larb在April 26日以硬核地形动作定义新赛季滑板暴力美学。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "March 29, 2026Yaddamean's \"Z Skate Jam\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/yaddamean-s-z-skate-jam-event/",
+    "score": 10,
+    "summary": "Thrasher曝光Yaddamean“Z世代滑板果酱赛”定档2026年3月29日，街头新血集结，挑战传统滑板秩序！",
+    "source": "Thrasher"
+  },
+  {
+    "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
     "score": 9,
-    "summary": "Polar Skateboards上海Demo即将引爆街头，北欧滑板美学与中国潮流现场一次硬核碰撞。",
-    "source": "KickerClub"
-  },
-  {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 8,
-    "summary": "World Skate发布《Discipline》专题，直指滑板运动从街头叛逆到奥运殿堂的规则重塑，引发圈内对“竞技化vs原生态”的激烈论战。",
-    "source": "World Skate"
-  },
-  {
-    "title": "Vinyl Skateboards' \"EP\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/vinyl-skateboards-ep-video/",
-    "score": 8,
-    "summary": "Vinyl Skateboards全新“EP”视频发布，街头滑板与hiphop文化碰撞，展现硬核滑板美学。",
+    "summary": "Thrasher发布Escapist滑板大片《Its Over》首映预告，四年磨一剑的街头视觉冲击即将引爆滑板圈。",
     "source": "Thrasher"
   }
 ];
