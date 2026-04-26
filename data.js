@@ -1,72 +1,72 @@
 const newsData = [
   {
-    "title": "WST São Paulo World Championships: Finals Report",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3869-wst-sao-paulo-world-championships-finals-report.html",
-    "score": 18,
-    "summary": "WST圣保罗世锦赛决赛落幕，奥运积分赛再掀街头狂潮，新生代滑手以历史级表现加冕冠军。",
-    "source": "World Skate"
-  },
-  {
     "title": "Mar.13th - FISE Battle of the Champions",
     "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
-    "score": 15,
-    "summary": "FISE冠军之战3月13日打响，全球顶尖滑手集结争夺“冠军中的冠军”，街头文化与竞技巅峰碰撞燃爆新赛季。",
+    "score": 20,
+    "summary": "FISE冠军之战3月13日打响，奥运级滑手集结街头，中国力量冲击历史纪录！",
     "source": "KickerClub"
   },
   {
-    "title": "Spitfire's \"San Francisco Burning\" Premiere Photos",
-    "link": "https://www.thrashermagazine.com/articles/spitfire-san-francisco-burning-premiere-photos/",
-    "score": 12,
-    "summary": "Spitfire在旧金山发布“燃烧”主题新片，滑板文化与街头火焰碰撞出今夏最燥视觉盛宴。",
-    "source": "Thrasher"
+    "title": "WST São Paulo World Championships: Finals Report",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3869-wst-sao-paulo-world-championships-finals-report.html",
+    "score": 18,
+    "summary": "WST圣保罗世锦赛决赛落幕，世界冠军诞生，奥运积分争夺战再掀街头狂潮。",
+    "source": "World Skate"
   },
   {
     "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
-    "score": 12,
-    "summary": "世界滑板巡回赛2025赛季在日本燃爆收官，顶尖滑手巅峰对决，中国力量能否改写历史？",
+    "score": 14,
+    "summary": "世界滑板巡回赛2025赛季在日本收官战上演巅峰对决，全球顶尖滑手为奥运积分展开终极争夺，街头文化碰撞东瀛风情引爆年度最强滑板盛宴。",
     "source": "World Skate"
   },
   {
-    "title": "Vinyl Skateboards' \"EP\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/vinyl-skateboards-ep-video/",
+    "title": "Spitfire's \"San Francisco Burning\" Premiere Photos",
+    "link": "https://www.thrashermagazine.com/articles/spitfire-san-francisco-burning-premiere-photos/",
+    "score": 14,
+    "summary": "Spitfire旧金山大火主题首映礼现场直击：滑板与街头文化碰撞的视觉盛宴。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "March 14, 2026Capitola Classic 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/capitola-classic-2026-event/",
+    "score": 13,
+    "summary": "Thrasher发布Capitola Classic 2026赛事预告，经典街头滑板赛再燃加州海岸，谁能拿下年度冠军？",
+    "source": "Thrasher"
+  },
+  {
+    "title": "April 26, 2026Larb in Seattle",
+    "link": "https://www.thrashermagazine.com/articles/events/larb-in-seattle/",
     "score": 12,
-    "summary": "Vinyl Skateboards最新“EP”视频震撼发布，街头硬核风格与滑板文化碰撞，堪称年度最具地下质感的滑板短片。",
+    "summary": "Thrasher独家直击：西雅图Larb现场炸裂，街头文化狂热席卷四月末，滑板圈年度必看事件！",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Jim Gray is Coming to Macau",
+    "link": "https://www.kickerclub.com/2026/03/jim-gray-is-coming-to-macau/",
+    "score": 12,
+    "summary": "传奇滑手Jim Gray即将登陆澳门，街头文化与中国元素碰撞，这场跨越国界的滑板盛会或将引爆亚洲滑板圈新热潮。",
+    "source": "KickerClub"
+  },
+  {
+    "title": "2026 Skateboarding Calendar Release!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3859-2026-skateboarding-calendar-release.html",
+    "score": 11,
+    "summary": "World Skate正式发布2026年滑板赛事日历，奥运资格赛与街头文化盛典并行，全球滑板进入“冲刺巴黎”新周期！",
+    "source": "World Skate"
+  },
+  {
+    "title": "Ipath Spring '26 Collection",
+    "link": "https://www.thrashermagazine.com/articles/trash/ipath-spring-26-collection/",
+    "score": 10,
+    "summary": "Ipath携Spring '26系列回归，用经典鞋型与街头美学重燃滑板圈对OG鞋履的狂热记忆。",
     "source": "Thrasher"
   },
   {
     "title": "Postcard's \"Vertical City\" Video",
     "link": "https://www.thrashermagazine.com/articles/videos/postcard-s-vertical-city-video/",
     "score": 10,
-    "summary": "Thrasher重磅发布Postcard团队“Vertical City”视频，极限地形与街头灵魂的硬核碰撞，定义年度滑板视觉盛宴。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "March 14, 2026Capitola Classic 2026 Event",
-    "link": "https://www.thrashermagazine.com/articles/events/capitola-classic-2026-event/",
-    "score": 10,
-    "summary": "Thrasher官宣2026年Capitola Classic回归，经典街头地形与传奇滑手集结，年度硬核赛事即将引爆西海岸滑板圈。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Jim Gray is Coming to Macau",
-    "link": "https://www.kickerclub.com/2026/03/jim-gray-is-coming-to-macau/",
-    "score": 10,
-    "summary": "传奇滑手Jim Gray空降澳门，街头文化与中国元素碰撞，或将引爆亚洲滑板圈新热潮。",
-    "source": "KickerClub"
-  },
-  {
-    "title": "March 29, 2026Yaddamean's \"Z Skate Jam\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/yaddamean-s-z-skate-jam-event/",
-    "score": 9,
-    "summary": "Yaddamean年度“Z滑板大乱斗”即将引爆街头，地下传奇与新生代硬核碰撞，Thrasher独家直击最野的板场狂欢。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
-    "score": 9,
-    "summary": "Thrasher独家首映Escapist纪录片《Its Over》，见证滑板文化中一段传奇的终结与新生。",
+    "summary": "Thrasher释出Postcard团队全新巨制《Vertical City》视频，街头滑板与垂直地形极限碰撞，硬核震撼直击滑板文化心脏。",
     "source": "Thrasher"
   }
 ];
