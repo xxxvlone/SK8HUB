@@ -2,71 +2,71 @@ const newsData = [
   {
     "title": "WST São Paulo World Championships: Finals Report",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3869-wst-sao-paulo-world-championships-finals-report.html",
-    "score": 17,
-    "summary": "WST圣保罗世锦赛决赛落幕：多位奥运级滑手刷新历史纪录，街头文化与冠军荣耀在巴西热浪中激烈碰撞。",
+    "score": 19,
+    "summary": "WST圣保罗世锦赛决赛夜：多位奥运级滑手冲击历史纪录，街头文化与冠军荣耀激烈碰撞，全球滑板格局再洗牌。",
     "source": "World Skate"
   },
   {
     "title": "Mar.13th - FISE Battle of the Champions",
     "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
-    "score": 16,
-    "summary": "FISE冠军之战3月13日打响，全球顶尖滑手集结争夺街头荣耀，中国元素与奥运级对决引爆新赛季首波高潮。",
+    "score": 17,
+    "summary": "FISE冠军之战3月13日打响，全球顶尖滑手集结争夺历史记录，中国力量能否再创街头神话？",
     "source": "KickerClub"
   },
   {
-    "title": "Ipath Spring '26 Collection",
-    "link": "https://www.thrashermagazine.com/articles/trash/ipath-spring-26-collection/",
-    "score": 12,
-    "summary": "Ipath携全新Spring '26系列强势回归，街头滑板与复古美学的碰撞即将引爆下季潮流。",
-    "source": "Thrasher"
+    "title": "Jim Gray is Coming to Macau",
+    "link": "https://www.kickerclub.com/2026/03/jim-gray-is-coming-to-macau/",
+    "score": 15,
+    "summary": "传奇滑手Jim Gray空降澳门，街头文化再掀狂潮！",
+    "source": "KickerClub"
   },
   {
     "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
-    "score": 11,
-    "summary": "2025滑板世巡赛以日本收官战压轴，全球顶尖滑手齐聚东京，争夺年度最高荣誉与奥运积分！",
+    "score": 14,
+    "summary": "世界滑板巡回赛2025赛季在日本以史诗级决赛收官，奥运积分争夺战掀起全球滑板热潮，日本站或成历史纪录诞生地！",
     "source": "World Skate"
   },
   {
-    "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
+    "title": "April 16, 2026 - April 18, 2026Ed Templeton RVCA Art Shows in Paris",
+    "link": "https://www.thrashermagazine.com/articles/events/ed-templeton-rvca-art-shows-in-paris/",
+    "score": 13,
+    "summary": "传奇滑手Ed Templeton携RVCA艺术展空降巴黎，街头文化与滑板艺术的碰撞即将点燃四月。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "March 29, 2026Yaddamean's \"Z Skate Jam\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/yaddamean-s-z-skate-jam-event/",
+    "score": 13,
+    "summary": "Yaddamean操盘“Z滑板果酱赛”定档2026年3月29日，街头文化狂潮即将引爆Thrasher封面级现场。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Postcard's \"Vertical City\" Video",
+    "link": "https://www.thrashermagazine.com/articles/videos/postcard-s-vertical-city-video/",
     "score": 11,
-    "summary": "Thrasher独家首映Escapist纪录片《Its Over》，见证滑板硬核精神的最后狂欢！",
+    "summary": "Thrasher发布Postcard全新大片《Vertical City》，在垂直地形上狂飙极限动作，街头能量炸裂刷新滑板视觉巅峰。",
     "source": "Thrasher"
   },
   {
     "title": "Spitfire's \"San Francisco Burning\" Premiere Photos",
     "link": "https://www.thrashermagazine.com/articles/spitfire-san-francisco-burning-premiere-photos/",
     "score": 11,
-    "summary": "Thrasher独家直击Spitfire“旧金山燃烧”首映现场，滑板文化狂野碰撞街头艺术，致敬经典火焰标志的叛逆基因。",
+    "summary": "Spitfire最新滑板大片《San Francisco Burning》首映现场直击，Thrasher镜头下的街头火焰与硬核滑板美学再度点燃滑板圈。",
     "source": "Thrasher"
   },
   {
-    "title": "April 26, 2026Larb in Seattle",
-    "link": "https://www.thrashermagazine.com/articles/events/larb-in-seattle/",
-    "score": 9,
-    "summary": "Thrasher镜头直击西雅图现场：Larb用街头狠招撕裂平静，滑板圈再添硬核瞬间。",
+    "title": "RIP IN PEACE: Ken Akira Takeda",
+    "link": "https://www.thrashermagazine.com/articles/rip-in-peace-ken-akira-takeda/",
+    "score": 11,
+    "summary": "传奇滑手Ken Akira Takeda离世，Thrasher发布悼念，街头文化圈集体缅怀。",
     "source": "Thrasher"
   },
   {
-    "title": "March 29, 2026Yaddamean's \"Z Skate Jam\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/yaddamean-s-z-skate-jam-event/",
-    "score": 9,
-    "summary": "Thrasher官宣2026年滑板盛事：Yaddamean“Z滑板果酱赛”即将引爆街头，嘻哈与板面碰撞再定义地下文化巅峰。",
+    "title": "Ipath Spring '26 Collection",
+    "link": "https://www.thrashermagazine.com/articles/trash/ipath-spring-26-collection/",
+    "score": 8,
+    "summary": "Ipath携2026春季系列复古归来，用滑板鞋的街头灵魂硬刚“奥运风”——没有冠军，没有纪录，只有最纯的板仔态度。",
     "source": "Thrasher"
-  },
-  {
-    "title": "Postcard's \"Vertical City\" Video",
-    "link": "https://www.thrashermagazine.com/articles/videos/postcard-s-vertical-city-video/",
-    "score": 9,
-    "summary": "Thrasher独家呈现Postcard团队“Vertical City”视频，街头滑板狂人挑战垂直地形极限，硬核动作引爆地下文化圈。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Jim Gray is Coming to Macau",
-    "link": "https://www.kickerclub.com/2026/03/jim-gray-is-coming-to-macau/",
-    "score": 9,
-    "summary": "传奇滑手Jim Gray确认登陆澳门，街头文化即将引爆中国版图！",
-    "source": "KickerClub"
   }
 ];
