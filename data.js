@@ -2,71 +2,71 @@ const newsData = [
   {
     "title": "WST São Paulo World Championships: Finals Report",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3869-wst-sao-paulo-world-championships-finals-report.html",
-    "score": 17,
-    "summary": "WST圣保罗世锦赛决赛落幕，奥运冠军领衔上演街头狂飙，新王加冕改写滑板历史记录！",
+    "score": 18,
+    "summary": "WST圣保罗世锦赛决赛落幕：奥运积分赛关键战，多位顶级滑手冲击冠军，街头文化燃爆巴西。",
     "source": "World Skate"
-  },
-  {
-    "title": "Jim Gray is Coming to Macau",
-    "link": "https://www.kickerclub.com/2026/03/jim-gray-is-coming-to-macau/",
-    "score": 15,
-    "summary": "传奇滑手Jim Gray即将空降澳门，街头文化与极限运动的碰撞再掀狂潮！",
-    "source": "KickerClub"
-  },
-  {
-    "title": "Mar.13th - FISE Battle of the Champions",
-    "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
-    "score": 13,
-    "summary": "FISE冠军赛3月13日开战，全球顶尖滑手集结争夺荣耀，街头文化与极限碰撞，中国选手能否再创历史？",
-    "source": "KickerClub"
-  },
-  {
-    "title": "RIP IN PEACE: Ken Akira Takeda",
-    "link": "https://www.thrashermagazine.com/articles/rip-in-peace-ken-akira-takeda/",
-    "score": 13,
-    "summary": "Thrasher杂志发布讣告，日本传奇滑手Ken Akira Takeda离世，街头文化圈集体哀悼。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "March 28, 2026\"Don't Let Them Take You Alive\" Art Show",
-    "link": "https://www.thrashermagazine.com/articles/events/don-t-let-them-take-you-alive-art-show/",
-    "score": 13,
-    "summary": "Thrasher官宣2026年重磅艺术展“别让他们活捉你”，街头反叛精神与滑板文化再度碰撞，引爆地下圈层期待。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 12,
-    "summary": "World Skate发布《Discipline》专题，直指滑板奥运新纪元：赛事规则重塑与冠军争夺战即将上演，街头精神能否再破历史记录？",
-    "source": "World Skate"
-  },
-  {
-    "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
-    "score": 12,
-    "summary": "世界滑板巡回赛2025赛季在日本上演终极对决，顶级滑手齐聚东京争夺年度冠军，全球滑板热潮迎来最高潮。",
-    "source": "World Skate"
-  },
-  {
-    "title": "2026 Skateboarding Calendar Release!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3859-2026-skateboarding-calendar-release.html",
-    "score": 12,
-    "summary": "World Skate正式发布2026滑板赛历，奥运积分争夺战即将打响，全球滑手冲击历史记录与冠军荣耀！",
-    "source": "World Skate"
-  },
-  {
-    "title": "Postcard's \"Vertical City\" Video",
-    "link": "https://www.thrashermagazine.com/articles/videos/postcard-s-vertical-city-video/",
-    "score": 12,
-    "summary": "Thrasher发布Postcard团队全新大片《Vertical City》，用滑板视角征服城市垂直地形，街头能量再度炸裂。",
-    "source": "Thrasher"
   },
   {
     "title": "Spitfire's \"San Francisco Burning\" Premiere Photos",
     "link": "https://www.thrashermagazine.com/articles/spitfire-san-francisco-burning-premiere-photos/",
+    "score": 16,
+    "summary": "Spitfire旧金山燃烧首映礼现场直击：滑板与街头文化的烈火狂欢，Thrasher独家图集引爆圈内热议。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "March 14, 2026Capitola Classic 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/capitola-classic-2026-event/",
+    "score": 15,
+    "summary": "Thrasher发布Capitola Classic 2026赛事预告，传奇滑板盛会回归，街头文化再燃加州海岸。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
+    "score": 14,
+    "summary": "日本收官战引爆2025滑板巡回赛高潮，世界顶尖滑手集结东京冲击奥运积分榜！",
+    "source": "World Skate"
+  },
+  {
+    "title": "Mar.13th - FISE Battle of the Champions",
+    "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
+    "score": 14,
+    "summary": "FISE冠军赛3月13日开战，全球顶尖滑手集结争夺“冠军中的冠军”，中国滑板力量能否再创历史？",
+    "source": "KickerClub"
+  },
+  {
+    "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
+    "score": 13,
+    "summary": "Thrasher独家首映Escapist滑板影片《Its Over》，横跨近四年拍摄周期，用硬核街头动作宣告一个时代的终结。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "April 17, 2026 - April 19, 2026Stardust Skate Shop's Race City Open 2026",
+    "link": "https://www.thrashermagazine.com/articles/events/stardust-skate-shop-s-race-city-open-2026/",
+    "score": 11,
+    "summary": "星尘滑板店“赛车城公开赛”2026年4月震撼回归，街头滑板与竞速文化碰撞，引爆北美地下滑板圈新热潮。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "March 29, 2026Yaddamean's \"Z Skate Jam\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/yaddamean-s-z-skate-jam-event/",
     "score": 9,
-    "summary": "Spitfire旧金山燃烧主题首映礼现场直击，Thrasher镜头下的街头滑板文化狂潮。",
+    "summary": "Yaddamean主导的“Z Skate Jam”在Thrasher引爆街头，新生代滑板势力用纯正underground风格宣告：真正的滑板精神不在奥运赛场，而在你的街区。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "2026 Skateboarding Calendar Release!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3859-2026-skateboarding-calendar-release.html",
+    "score": 8,
+    "summary": "World Skate正式发布2026年滑板赛事日历，全球滑板迷备战奥运资格赛与新赛季巅峰对决！",
+    "source": "World Skate"
+  },
+  {
+    "title": "April 25, 2026Grind Junction's One-Year Anniversary Event",
+    "link": "https://www.thrashermagazine.com/articles/events/grind-junction-s-one-year-anniversary-event/",
+    "score": 8,
+    "summary": "Grind Junction滑板公园周年庆典引爆街头，Thrasher独家记录这场融合极限与嘻哈文化的狂欢盛典。",
     "source": "Thrasher"
   }
 ];
