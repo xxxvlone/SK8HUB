@@ -1,72 +1,72 @@
 const newsData = [
   {
-    "title": "Spitfire's \"San Francisco Burning\" Premiere Photos",
-    "link": "https://www.thrashermagazine.com/articles/spitfire-san-francisco-burning-premiere-photos/",
-    "score": 15,
-    "summary": "Spitfire经典滑板短片旧金山首映现场直击：火焰与街头文化碰撞，滑板圈年度最燥派对实录。",
-    "source": "Thrasher"
+    "title": "Mar.13th - FISE Battle of the Champions",
+    "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
+    "score": 18,
+    "summary": "FISE冠军赛即将引爆全球滑板圈，奥运级高手齐聚中国赛场，街头文化与竞技巅峰在此碰撞！",
+    "source": "KickerClub"
   },
   {
     "title": "WST São Paulo World Championships: Finals Report",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3869-wst-sao-paulo-world-championships-finals-report.html",
-    "score": 13,
-    "summary": "WST圣保罗世锦赛决赛落幕：传奇滑手再创历史，街头文化燃爆奥运资格战！",
+    "score": 17,
+    "summary": "WST圣保罗世锦赛决赛落幕：多位奥运级滑手创历史记录，街头文化燃爆赛场，冠军归属引发全球热议。",
     "source": "World Skate"
+  },
+  {
+    "title": "Spitfire's \"San Francisco Burning\" Premiere Photos",
+    "link": "https://www.thrashermagazine.com/articles/spitfire-san-francisco-burning-premiere-photos/",
+    "score": 12,
+    "summary": "Spitfire旧金山大火首映式现场图集曝光，街头文化与滑板精神在烈焰中重生。",
+    "source": "Thrasher"
   },
   {
     "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
     "score": 11,
-    "summary": "滑板世巡赛2025赛季终章落地日本，全球顶尖滑手集结争夺年度荣耀，街头文化巅峰对决一触即发！",
+    "summary": "世界滑板巡回赛2025赛季在日本上演压轴大戏，街头文化与奥运积分争夺战在此巅峰碰撞，谁将锁定最后荣耀？",
+    "source": "World Skate"
+  },
+  {
+    "title": "Jim Gray is Coming to Macau",
+    "link": "https://www.kickerclub.com/2026/03/jim-gray-is-coming-to-macau/",
+    "score": 11,
+    "summary": "传奇滑手Jim Gray即将登陆澳门，街头文化与中国元素的碰撞引爆期待！",
+    "source": "KickerClub"
+  },
+  {
+    "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
+    "score": 11,
+    "summary": "Escapist新片《Its Over》首映引爆滑板圈，Thrasher独家呈现四年磨一剑的街头视觉盛宴。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "2026 Skateboarding Calendar Release!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3859-2026-skateboarding-calendar-release.html",
+    "score": 10,
+    "summary": "World Skate正式发布2026年滑板赛历，多站奥运积分赛蓄势待发，全球滑手冲刺洛杉矶资格战！",
     "source": "World Skate"
   },
   {
     "title": "April 16, 2026 - April 18, 2026Ed Templeton RVCA Art Shows in Paris",
     "link": "https://www.thrashermagazine.com/articles/events/ed-templeton-rvca-art-shows-in-paris/",
     "score": 10,
-    "summary": "传奇滑手Ed Templeton即将在巴黎举办个人艺术展，街头文化与滑板艺术的碰撞再度点燃欧洲艺术周。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Vinyl Skateboards' \"EP\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/vinyl-skateboards-ep-video/",
-    "score": 10,
-    "summary": "Vinyl滑板团队发布全新“EP”视频，街头狠招与hip-hop节奏炸裂银幕，地下滑板文化再掀狂潮！",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Postcard's \"Vertical City\" Video",
-    "link": "https://www.thrashermagazine.com/articles/videos/postcard-s-vertical-city-video/",
-    "score": 10,
-    "summary": "Thrasher重磅发布Postcard团队“Vertical City”视频，街头滑板狂人用垂直地形挑战城市极限，硬核风格引爆圈内热议。",
+    "summary": "传奇滑手Ed Templeton即将在巴黎举办个人艺术展，街头文化与滑板艺术的碰撞不容错过。",
     "source": "Thrasher"
   },
   {
     "title": "April 17, 2026 - April 19, 2026Stardust Skate Shop's Race City Open 2026",
     "link": "https://www.thrashermagazine.com/articles/events/stardust-skate-shop-s-race-city-open-2026/",
     "score": 9,
-    "summary": "Stardust滑板店年度赛事“Race City Open 2026”定档四月，街头文化与竞速热血碰撞，谁能在这片非奥运赛道上封王？",
+    "summary": "Stardust滑板店Race City公开赛2026定档四月，街头力量集结北美赛道，非奥运年里的硬核赛事能否引爆本土滑板热潮？",
     "source": "Thrasher"
   },
   {
-    "title": "April 25, 2026Grind Junction's One-Year Anniversary Event",
-    "link": "https://www.thrashermagazine.com/articles/events/grind-junction-s-one-year-anniversary-event/",
+    "title": "Vinyl Skateboards' \"EP\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/vinyl-skateboards-ep-video/",
     "score": 9,
-    "summary": "Grind Junction迎来一周年庆典，Thrasher直击现场：街头文化狂潮与滑板精神碰撞，谁将成为下一个传奇？",
-    "source": "Thrasher"
-  },
-  {
-    "title": "April 26, 2026Larb in Seattle",
-    "link": "https://www.thrashermagazine.com/articles/events/larb-in-seattle/",
-    "score": 8,
-    "summary": "Thrasher独家直击：西雅图Larb现场，街头滑板动作与当地地下文化碰撞出硬核火花，滑板人必看的地道野性实录。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "April 18, 2026Let It Roll Grand Re-Opening",
-    "link": "https://www.thrashermagazine.com/articles/events/let-it-roll-grand-re-opening/",
-    "score": 8,
-    "summary": "传奇滑板殿堂“Let It Roll”时隔数年重磅重启，Thrasher直击这场属于街头与地下的狂欢盛典。",
+    "summary": "Thrasher发布Vinyl Skateboards最新滑板长片《EP》，地下街头能量与硬核滑板动作的疯狂碰撞，挑战视觉极限！",
     "source": "Thrasher"
   }
 ];
