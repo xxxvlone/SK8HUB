@@ -3,70 +3,70 @@ const newsData = [
     "title": "Mar.13th - FISE Battle of the Champions",
     "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
     "score": 17,
-    "summary": "FISE冠军赛3月13日开战，全球顶尖滑手集结，中国力量能否再创奥运级历史记录？",
+    "summary": "FISE冠军赛3月13日开战！奥运级滑手集结，中国力量冲击历史纪录，街头文化与竞技巅峰碰撞！",
     "source": "KickerClub"
-  },
-  {
-    "title": "Dylan Jaeb's \"Debut\" Quasi Part",
-    "link": "https://www.thrashermagazine.com/articles/trash/dylan-jaeb-s-debut-quasi-part/",
-    "score": 14,
-    "summary": "Dylan Jaeb以Quasi全新个人片段震撼登场，这位滑板天才用最纯粹的风格宣告街头王座的更迭。",
-    "source": "Thrasher"
   },
   {
     "title": "WST São Paulo World Championships: Finals Report",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3869-wst-sao-paulo-world-championships-finals-report.html",
-    "score": 12,
-    "summary": "WST圣保罗世锦赛决赛落幕：全球顶尖滑手齐聚巴西，争夺滑板奥运积分关键一战。",
+    "score": 16,
+    "summary": "WST圣保罗世锦赛决赛落幕：奥运积分战白热化，传奇滑手与新生代争夺历史冠军席位，街头文化燃爆南美赛场。",
     "source": "World Skate"
+  },
+  {
+    "title": "Dylan Jaeb's \"Debut\" Quasi Part",
+    "link": "https://www.thrashermagazine.com/articles/trash/dylan-jaeb-s-debut-quasi-part/",
+    "score": 15,
+    "summary": "Dylan Jaeb用Quasi新片宣告回归，街头滑板新生代再掀狂潮，这波操作够狠！",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Jim Gray is Coming to Macau",
+    "link": "https://www.kickerclub.com/2026/03/jim-gray-is-coming-to-macau/",
+    "score": 13,
+    "summary": "传奇滑手Jim Gray即将空降澳门，街头文化与极限碰撞，中国滑板圈迎来重磅国际事件。",
+    "source": "KickerClub"
+  },
+  {
+    "title": "Dan Schulz' \"Back Then\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/dan-schulz-back-then-video/",
+    "score": 12,
+    "summary": "Thrasher发布Dan Schulz经典个人片段“Back Then”，用90年代街头镜头与硬核滑板动作致敬黄金年代，引爆老炮情怀与新生代模仿热潮。",
+    "source": "Thrasher"
   },
   {
     "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
     "score": 12,
-    "summary": "世界滑板巡回赛2025赛季在日本收官，奥运积分争夺进入白热化，全球顶尖滑手齐聚上演终极对决。",
+    "summary": "日本压轴收官！世界滑板巡回赛2025赛季以巅峰对决点燃全球滑板热潮，年度冠军归属即将揭晓。",
     "source": "World Skate"
   },
   {
-    "title": "Marcos Montoya's adidas Superstar ADV",
-    "link": "https://www.thrashermagazine.com/articles/trash/marcos-montoya-s-adidas-superstar-adv/",
+    "title": "Classic Covers - San Diego’s Greatest Hits",
+    "link": "https://www.thrashermagazine.com/articles/videos/classic-covers-san-diego-w-wes-and-alexis/",
     "score": 10,
-    "summary": "Marcos Montoya携adidas Superstar ADV联名鞋款登场，街头与滑板文化的又一次硬核碰撞。",
+    "summary": "Thrasher用经典封面致敬圣地亚哥滑板黄金年代，街头文化血脉喷张，老炮与新血共筑西海岸传奇。",
     "source": "Thrasher"
   },
   {
-    "title": "Nov.15th - Polar Shanghai Demo",
-    "link": "https://www.kickerclub.com/2025/11/nov-15th-polar-shanghai-demo/",
-    "score": 10,
-    "summary": "Polar Skateboards上海Demo首秀，街头滑板文化燃爆11月15日。",
-    "source": "KickerClub"
-  },
-  {
-    "title": "April 17, 2026 - April 19, 2026Stardust Skate Shop's Race City Open 2026",
-    "link": "https://www.thrashermagazine.com/articles/events/stardust-skate-shop-s-race-city-open-2026/",
-    "score": 10,
-    "summary": "2026年星尘滑板店“赛车城公开赛”强势回归，街头竞速与滑板文化碰撞，北美滑板圈年度野性狂欢即将引爆春季赛场。",
+    "title": "Santa Cruz' \"Hot Pot Hangover: Raw and Uncut\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/santa-cruz-hot-pot-hangover-raw-and-uncut-video/",
+    "score": 9,
+    "summary": "Santa Cruz发布《Hot Pot Hangover: Raw and Uncut》视频，硬核滑板街头本色回归，挑战主流叙事。",
     "source": "Thrasher"
   },
   {
     "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
     "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
-    "score": 9,
-    "summary": "Thrasher发布Escapist滑板影片“Its Over”首映，三年磨一剑的街头巨制宣告收官。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "March 14, 2026Capitola Classic 2026 Event",
-    "link": "https://www.thrashermagazine.com/articles/events/capitola-classic-2026-event/",
     "score": 8,
-    "summary": "Thrasher发布Capitola Classic 2026赛事预告，老牌街头滑板赛回归，硬核地形与经典氛围引爆年度期待。",
+    "summary": "Thrasher发布Escapist滑板影片《Its Over》首映预告，四年磨一剑的街头滑板巨制即将引爆地下场景。",
     "source": "Thrasher"
   },
   {
-    "title": "Dan Schulz' \"Back Then\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/dan-schulz-back-then-video/",
-    "score": 7,
-    "summary": "Thrasher发布Dan Schulz经典滑板短片《Back Then》，硬核街式风格重现地下滑板黄金年代。",
+    "title": "April 17, 2026 - April 19, 2026Stardust Skate Shop's Race City Open 2026",
+    "link": "https://www.thrashermagazine.com/articles/events/stardust-skate-shop-s-race-city-open-2026/",
+    "score": 8,
+    "summary": "Stardust滑板店年度街区赛事“Race City Open 2026”定档四月，街头硬核对决即将点燃北卡赛道。",
     "source": "Thrasher"
   }
 ];
