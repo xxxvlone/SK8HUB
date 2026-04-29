@@ -1,72 +1,72 @@
 const newsData = [
   {
-    "title": "Mar.13th - FISE Battle of the Champions",
-    "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
-    "score": 15,
-    "summary": "FISE冠军赛3月13日开战，全球顶尖滑手集结冲击奥运级对决，中国力量能否改写历史？",
-    "source": "KickerClub"
+    "title": "WST São Paulo World Championships: Finals Report",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3869-wst-sao-paulo-world-championships-finals-report.html",
+    "score": 16,
+    "summary": "WST圣保罗世锦赛决赛落幕，传奇滑手与新星同台竞技，街头文化融合奥运节奏，全球滑板格局再洗牌。",
+    "source": "World Skate"
   },
   {
     "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
-    "score": 13,
-    "summary": "世界滑板巡回赛2025赛季以日本收官战引爆终极狂欢，全球顶尖滑手齐聚东京争夺年度荣耀，街头文化巅峰对决一触即发！",
-    "source": "World Skate"
-  },
-  {
-    "title": "2026 Skateboarding Calendar Release!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3859-2026-skateboarding-calendar-release.html",
-    "score": 11,
-    "summary": "World Skate官宣2026全年滑板赛历，奥运资格战与街头传奇同台，中国滑手冲击历史记录的关键时刻来了！",
-    "source": "World Skate"
-  },
-  {
-    "title": "WST São Paulo World Championships: Finals Report",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3869-wst-sao-paulo-world-championships-finals-report.html",
-    "score": 11,
-    "summary": "WST圣保罗世锦赛决赛落幕，世界冠军加冕，但中国滑手缺席、奥运积分争夺战悬念未解。",
+    "score": 14,
+    "summary": "世界滑板巡回赛2025赛季在日本迎来终极大决战，全球顶尖滑手齐聚东京争夺年度总冠军，这场压轴大戏将直接决定奥运资格归属与滑板历史新纪录的诞生！",
     "source": "World Skate"
   },
   {
     "title": "March 14, 2026Capitola Classic 2026 Event",
     "link": "https://www.thrashermagazine.com/articles/events/capitola-classic-2026-event/",
-    "score": 11,
-    "summary": "Thrasher官宣Capitola Classic 2026赛事回归，街头传奇与新生代滑手同场竞技，年度最硬核碗池对决即将引爆西海岸。",
+    "score": 14,
+    "summary": "Capitola Classic 2026赛事回归，传奇滑手与新生代在加州街头掀起年度最燥狂潮，谁能在这片水泥丛林中封王？",
     "source": "Thrasher"
   },
   {
-    "title": "Nov.15th - Polar Shanghai Demo",
-    "link": "https://www.kickerclub.com/2025/11/nov-15th-polar-shanghai-demo/",
-    "score": 9,
-    "summary": "Polar Skateboards首次在上海举办Demo活动，北欧街头美学碰撞中国滑板文化，掀起本土滑板圈新一波热潮。",
+    "title": "Mar.13th - FISE Battle of the Champions",
+    "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
+    "score": 13,
+    "summary": "FISE冠军赛3月13日开战，奥运级滑手集结，街头文化与竞技巅峰碰撞！",
     "source": "KickerClub"
+  },
+  {
+    "title": "Dan Schulz' \"Back Then\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/dan-schulz-back-then-video/",
+    "score": 12,
+    "summary": "传奇滑手Dan Schulz在Thrasher发布《Back Then》视频，用街头原味镜头唤醒黄金年代记忆，这才是滑板文化的硬核初心。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "March 29, 2026Yaddamean's \"Z Skate Jam\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/yaddamean-s-z-skate-jam-event/",
+    "score": 12,
+    "summary": "Yaddamean的“Z滑板Jam”空降Thrasher，街头精神与新生代狂潮碰撞，谁将是下一个定义时代的名字？",
+    "source": "Thrasher"
   },
   {
     "title": "Adidas \"OKWR\" Video",
     "link": "https://www.thrashermagazine.com/articles/trash/adidas-okwr-video/",
-    "score": 8,
-    "summary": "Adidas联手Thrasher发布“OKWR”视频，街头滑板与运动巨头碰撞出年度最燥视觉冲击。",
+    "score": 10,
+    "summary": "Adidas联手Thrasher发布“OKWR”视频，街头滑板OG与新血集结，硬核风格引爆板圈热议。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "April 17, 2026 - April 19, 2026Stardust Skate Shop's Race City Open 2026",
+    "link": "https://www.thrashermagazine.com/articles/events/stardust-skate-shop-s-race-city-open-2026/",
+    "score": 10,
+    "summary": "Stardust滑板店年度街区公开赛2026重启，北美街头滑板势力将在Race City掀起新一轮地形征服战。",
     "source": "Thrasher"
   },
   {
     "title": "March 20, 2022 - February 20, 2026Escapist's \"Its Over\" Premiere",
     "link": "https://www.thrashermagazine.com/articles/trash/escapist-s-its-over-premiere/",
-    "score": 7,
-    "summary": "Thrasher释出Escapist滑板片《Its Over》首映预告，四年磨一剑的街头狂想曲即将终结沉默。",
+    "score": 8,
+    "summary": "Thrasher发布Escapist滑板影片“Its Over”首映预告，四年磨一剑的街头狠货即将炸场。",
     "source": "Thrasher"
   },
   {
-    "title": "Jim Gray is Coming to Macau",
-    "link": "https://www.kickerclub.com/2026/03/jim-gray-is-coming-to-macau/",
-    "score": 7,
-    "summary": "传奇滑手Jim Gray空降澳门，街头文化与极限碰撞即将点燃亚洲滑板圈！",
-    "source": "KickerClub"
-  },
-  {
-    "title": "Marcos Montoya's adidas Superstar ADV",
-    "link": "https://www.thrashermagazine.com/articles/trash/marcos-montoya-s-adidas-superstar-adv/",
-    "score": 7,
-    "summary": "adidas联手传奇滑手Marcos Montoya重塑经典Superstar ADV，街头与滑板文化的又一次硬核碰撞。",
+    "title": "April 25, 2026Grind Junction's One-Year Anniversary Event",
+    "link": "https://www.thrashermagazine.com/articles/events/grind-junction-s-one-year-anniversary-event/",
+    "score": 8,
+    "summary": "Grind Junction滑板公园一周年庆典引爆街头，Thrasher直击现场见证滑板社区狂欢。",
     "source": "Thrasher"
   }
 ];
