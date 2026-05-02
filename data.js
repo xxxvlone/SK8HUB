@@ -7,7 +7,7 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Sk8Mafia's \"Micro 4 Eva\" Premiere",
+    "title": "May 01, 2026Sk8Mafia's \"Micro 4 Eva\" Premiere",
     "link": "https://www.thrashermagazine.com/articles/events/sk8mafia-s-micro-4-eva-premiere/",
     "score": 6,
     "summary": "滑板资讯",
@@ -21,7 +21,7 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "May 01, 2026Sk8Mafia's \"Micro 4 Eva\" Premiere",
+    "title": "Sk8Mafia's \"Micro 4 Eva\" Premiere",
     "link": "https://www.thrashermagazine.com/articles/events/sk8mafia-s-micro-4-eva-premiere/",
     "score": 6,
     "summary": "滑板资讯",
@@ -35,36 +35,36 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Discipline",
+    "title": "April 17, 2026 - April 19, 2026Stardust Skate Shop's Race City Open 2026",
+    "link": "https://www.thrashermagazine.com/articles/events/stardust-skate-shop-s-race-city-open-2026/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Skateboarding",
     "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
   },
   {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "April 16, 2026 - April 18, 2026Ed Templeton RVCA Art Shows in Paris",
-    "link": "https://www.thrashermagazine.com/articles/events/ed-templeton-rvca-art-shows-in-paris/",
+    "title": "April 25, 2026Grind Junction's One-Year Anniversary Event",
+    "link": "https://www.thrashermagazine.com/articles/events/grind-junction-s-one-year-anniversary-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Dylan Jaeb's \"Debut\" Quasi Part",
-    "link": "https://www.thrashermagazine.com/articles/trash/dylan-jaeb-s-debut-quasi-part/",
+    "title": "March 29, 2026Yaddamean's \"Z Skate Jam\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/yaddamean-s-z-skate-jam-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "April 12, 2026El Spot's Skate 'n' Fire Contest",
-    "link": "https://www.thrashermagazine.com/articles/trash/el-spot-s-skate-n-fire-contest/",
+    "title": "March 14, 2026Capitola Classic 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/capitola-classic-2026-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
