@@ -28,34 +28,6 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "2026 Skateboarding Calendar Release!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3859-2026-skateboarding-calendar-release.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "April 26, 2026Larb in Seattle",
-    "link": "https://www.thrashermagazine.com/articles/events/larb-in-seattle/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "April 25, 2026Grind Junction's One-Year Anniversary Event",
-    "link": "https://www.thrashermagazine.com/articles/events/grind-junction-s-one-year-anniversary-event/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Jim Gray is Coming to Macau",
-    "link": "https://www.kickerclub.com/2026/03/jim-gray-is-coming-to-macau/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
     "title": "Skateboarding",
     "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
@@ -63,8 +35,36 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Out There: Antwuan Dixon",
-    "link": "https://www.thrashermagazine.com/articles/videos/out-there-antwuan-dixon/",
+    "title": "instagram",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "March 14, 2026Capitola Classic 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/capitola-classic-2026-event/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Etnies X Shimon Iwazawa Collab",
+    "link": "https://www.thrashermagazine.com/articles/trash/new-from-etnies-and-shimon/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "March 29, 2026Yaddamean's \"Z Skate Jam\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/yaddamean-s-z-skate-jam-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
