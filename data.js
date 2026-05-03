@@ -28,11 +28,18 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "April 17, 2026 - April 19, 2026Stardust Skate Shop's Race City Open 2026",
-    "link": "https://www.thrashermagazine.com/articles/events/stardust-skate-shop-s-race-city-open-2026/",
+    "title": "2026 Skateboarding Calendar Release!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3859-2026-skateboarding-calendar-release.html",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "World Skate"
+  },
+  {
+    "title": "Jim Gray is Coming to Macau",
+    "link": "https://www.kickerclub.com/2026/03/jim-gray-is-coming-to-macau/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
   },
   {
     "title": "Dylan Jaeb's \"Debut\" Quasi Part",
@@ -42,15 +49,8 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "instagram",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "April 26, 2026Larb in Seattle",
-    "link": "https://www.thrashermagazine.com/articles/events/larb-in-seattle/",
+    "title": "April 12, 2026El Spot's Skate 'n' Fire Contest",
+    "link": "https://www.thrashermagazine.com/articles/trash/el-spot-s-skate-n-fire-contest/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -63,10 +63,10 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "2026 Skateboarding Calendar Release!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3859-2026-skateboarding-calendar-release.html",
+    "title": "Etnies X Shimon Iwazawa Collab",
+    "link": "https://www.thrashermagazine.com/articles/trash/new-from-etnies-and-shimon/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "Thrasher"
   }
 ];
