@@ -21,6 +21,13 @@ const newsData = [
     "source": "Thrasher"
   },
   {
+    "title": "March 29, 2026Yaddamean's \"Z Skate Jam\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/yaddamean-s-z-skate-jam-event/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
     "title": "April 26, 2026Larb in Seattle",
     "link": "https://www.thrashermagazine.com/articles/events/larb-in-seattle/",
     "score": 0,
@@ -35,36 +42,29 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "In the Shop: Antwuan Dixon Cover Blankets",
-    "link": "https://www.thrashermagazine.com/articles/in-da-store/in-the-shop-antwuan-dixon-cover-blankets/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
+    "title": "instagram",
+    "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
   },
   {
-    "title": "Out There: Antwuan Dixon",
-    "link": "https://www.thrashermagazine.com/articles/videos/out-there-antwuan-dixon/",
+    "title": "Skateboarding",
+    "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "World Skate"
   },
   {
-    "title": "Jim Gray is Coming to Macau",
-    "link": "https://www.kickerclub.com/2026/03/jim-gray-is-coming-to-macau/",
+    "title": "Nov.15th - Polar Shanghai Demo",
+    "link": "https://www.kickerclub.com/2025/11/nov-15th-polar-shanghai-demo/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "KickerClub"
   },
   {
-    "title": "March 14, 2026Capitola Classic 2026 Event",
-    "link": "https://www.thrashermagazine.com/articles/events/capitola-classic-2026-event/",
+    "title": "Gravis Welcomes Rukia Shimosakai",
+    "link": "https://www.thrashermagazine.com/articles/trash/gravis-welcomes-rukia-shimosakai/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
