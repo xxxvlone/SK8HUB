@@ -21,13 +21,6 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
     "title": "Discipline",
     "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
@@ -35,8 +28,15 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Gravis Welcomes Rukia Shimosakai",
-    "link": "https://www.thrashermagazine.com/articles/trash/gravis-welcomes-rukia-shimosakai/",
+    "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Out There: Antwuan Dixon",
+    "link": "https://www.thrashermagazine.com/articles/videos/out-there-antwuan-dixon/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -49,22 +49,22 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "April 17, 2026 - April 19, 2026Stardust Skate Shop's Race City Open 2026",
-    "link": "https://www.thrashermagazine.com/articles/events/stardust-skate-shop-s-race-city-open-2026/",
+    "title": "Frankie Spears for Mob Grip",
+    "link": "https://www.thrashermagazine.com/articles/videos/frankie-spears-for-mob-grip/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Skateboarding",
+    "title": "Discipline",
     "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
   },
   {
-    "title": "April 16, 2026 - April 18, 2026Ed Templeton RVCA Art Shows in Paris",
-    "link": "https://www.thrashermagazine.com/articles/events/ed-templeton-rvca-art-shows-in-paris/",
+    "title": "JP Blair's \"What Did You Expect?\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/jp-blair-s-what-did-you-expect-video/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
