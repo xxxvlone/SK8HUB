@@ -21,22 +21,36 @@ const newsData = [
     "source": "Thrasher"
   },
   {
+    "title": "Frankie Spears for Mob Grip",
+    "link": "https://www.thrashermagazine.com/articles/videos/frankie-spears-for-mob-grip/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Plan B Welcomes Back Torey Pudwill",
+    "link": "https://www.thrashermagazine.com/articles/trash/plan-b-welcomes-back-torey-pudwill/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "instagram",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Kyle Eggen's \"Creature Fiend\" Part",
+    "link": "https://www.thrashermagazine.com/articles/trash/kyle-eggen-s-creature-fiend-part/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
     "title": "April 25, 2026Grind Junction's One-Year Anniversary Event",
     "link": "https://www.thrashermagazine.com/articles/events/grind-junction-s-one-year-anniversary-event/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "April 16, 2026 - April 18, 2026Ed Templeton RVCA Art Shows in Paris",
-    "link": "https://www.thrashermagazine.com/articles/events/ed-templeton-rvca-art-shows-in-paris/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "April 26, 2026Larb in Seattle",
-    "link": "https://www.thrashermagazine.com/articles/events/larb-in-seattle/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -49,21 +63,7 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Nov.15th - Polar Shanghai Demo",
-    "link": "https://www.kickerclub.com/2025/11/nov-15th-polar-shanghai-demo/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
-    "title": "April 12, 2026El Spot's Skate 'n' Fire Contest",
-    "link": "https://www.thrashermagazine.com/articles/trash/el-spot-s-skate-n-fire-contest/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Discipline",
+    "title": "Skateboarding",
     "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
