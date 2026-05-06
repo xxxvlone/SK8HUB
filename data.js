@@ -21,27 +21,6 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "JP Blair's \"What Did You Expect?\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/jp-blair-s-what-did-you-expect-video/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "March 29, 2026Yaddamean's \"Z Skate Jam\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/yaddamean-s-z-skate-jam-event/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "March 14, 2026Capitola Classic 2026 Event",
-    "link": "https://www.thrashermagazine.com/articles/events/capitola-classic-2026-event/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "April 17, 2026 - April 19, 2026Stardust Skate Shop's Race City Open 2026",
     "link": "https://www.thrashermagazine.com/articles/events/stardust-skate-shop-s-race-city-open-2026/",
     "score": 0,
@@ -56,8 +35,29 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "2026 Skateboarding Calendar Release!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3859-2026-skateboarding-calendar-release.html",
+    "title": "TFT Memorial Skate Jam 2026 Photos",
+    "link": "https://www.thrashermagazine.com/articles/tft-memorial-skate-jam-2026/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "instagram",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Frankie Spears for Mob Grip",
+    "link": "https://www.thrashermagazine.com/articles/videos/frankie-spears-for-mob-grip/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Skateboarding",
+    "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
