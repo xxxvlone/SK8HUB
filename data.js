@@ -28,15 +28,22 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "April 26, 2026Larb in Seattle",
-    "link": "https://www.thrashermagazine.com/articles/events/larb-in-seattle/",
+    "title": "Gas Giants X New Balance in Miami",
+    "link": "https://www.thrashermagazine.com/articles/trash/gas-giants-x-new-balance-in-miami/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "April 12, 2026El Spot's Skate 'n' Fire Contest",
-    "link": "https://www.thrashermagazine.com/articles/trash/el-spot-s-skate-n-fire-contest/",
+    "title": "Pass~Port Presents Matthieu Lucas-D'Souza",
+    "link": "https://www.thrashermagazine.com/articles/trash/pass-port-presents-matthieu-lucas-d-souza/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Cinco Cinco's \"05C1NCO\" Promo",
+    "link": "https://www.thrashermagazine.com/articles/trash/cinco-cinco-s-05c1nco-promo/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -49,24 +56,17 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "April 25, 2026Grind Junction's One-Year Anniversary Event",
-    "link": "https://www.thrashermagazine.com/articles/events/grind-junction-s-one-year-anniversary-event/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "April 18, 2026Let It Roll Grand Re-Opening",
-    "link": "https://www.thrashermagazine.com/articles/events/let-it-roll-grand-re-opening/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Skateboarding",
-    "link": "https://www.worldskate.org/skateboarding.html",
+    "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
+  },
+  {
+    "title": "March 29, 2026Yaddamean's \"Z Skate Jam\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/yaddamean-s-z-skate-jam-event/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
   }
 ];
