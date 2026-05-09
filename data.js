@@ -21,25 +21,32 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Dylan Jaeb's Pro Interview",
-    "link": "https://www.thrashermagazine.com/articles/dylan-jaeb-pro-interview/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Cinco Cinco's \"05C1NCO\" Promo",
-    "link": "https://www.thrashermagazine.com/articles/trash/cinco-cinco-s-05c1nco-promo/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "2026 Skateboarding Calendar Release!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3859-2026-skateboarding-calendar-release.html",
+    "title": "Skateboarding",
+    "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
+  },
+  {
+    "title": "Pass~Port Presents Matthieu Lucas-D'Souza",
+    "link": "https://www.thrashermagazine.com/articles/trash/pass-port-presents-matthieu-lucas-d-souza/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "April 12, 2026El Spot's Skate 'n' Fire Contest",
+    "link": "https://www.thrashermagazine.com/articles/trash/el-spot-s-skate-n-fire-contest/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
   },
   {
     "title": "Nov.15th - Polar Shanghai Demo",
@@ -49,8 +56,8 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "April 17, 2026 - April 19, 2026Stardust Skate Shop's Race City Open 2026",
-    "link": "https://www.thrashermagazine.com/articles/events/stardust-skate-shop-s-race-city-open-2026/",
+    "title": "Dylan Jaeb's Pro Interview",
+    "link": "https://www.thrashermagazine.com/articles/dylan-jaeb-pro-interview/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -61,12 +68,5 @@ const newsData = [
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
-  },
-  {
-    "title": "Skateboarding",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
   }
 ];
