@@ -21,36 +21,8 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "Gas Giants X New Balance in Miami",
-    "link": "https://www.thrashermagazine.com/articles/trash/gas-giants-x-new-balance-in-miami/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "April 26, 2026Larb in Seattle",
-    "link": "https://www.thrashermagazine.com/articles/events/larb-in-seattle/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Jim Gray is Coming to Macau",
-    "link": "https://www.kickerclub.com/2026/03/jim-gray-is-coming-to-macau/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
-    "title": "The Follow Up: Dylan Jaeb Jumps to Quasi",
-    "link": "https://www.thrashermagazine.com/articles/videos/the-follow-up-dylan-jaeb-jumps-to-quasi/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "March 29, 2026Yaddamean's \"Z Skate Jam\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/yaddamean-s-z-skate-jam-event/",
+    "title": "April 25, 2026Grind Junction's One-Year Anniversary Event",
+    "link": "https://www.thrashermagazine.com/articles/events/grind-junction-s-one-year-anniversary-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -63,8 +35,36 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "March 28, 2026\"Don't Let Them Take You Alive\" Art Show",
-    "link": "https://www.thrashermagazine.com/articles/events/don-t-let-them-take-you-alive-art-show/",
+    "title": "Cinco Cinco's \"05C1NCO\" Promo",
+    "link": "https://www.thrashermagazine.com/articles/trash/cinco-cinco-s-05c1nco-promo/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Dylan Jaeb's Pro Interview",
+    "link": "https://www.thrashermagazine.com/articles/dylan-jaeb-pro-interview/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "April 26, 2026Larb in Seattle",
+    "link": "https://www.thrashermagazine.com/articles/events/larb-in-seattle/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Pass~Port Presents Matthieu Lucas-D'Souza",
+    "link": "https://www.thrashermagazine.com/articles/trash/pass-port-presents-matthieu-lucas-d-souza/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "April 12, 2026El Spot's Skate 'n' Fire Contest",
+    "link": "https://www.thrashermagazine.com/articles/trash/el-spot-s-skate-n-fire-contest/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
