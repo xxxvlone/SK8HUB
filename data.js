@@ -7,13 +7,6 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Mar.13th - FISE Battle of the Champions",
-    "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
-    "score": 6,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
     "title": "May 01, 2026Sk8Mafia's \"Micro 4 Eva\" Premiere",
     "link": "https://www.thrashermagazine.com/articles/events/sk8mafia-s-micro-4-eva-premiere/",
     "score": 6,
@@ -21,15 +14,15 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Dylan Jaeb's Pro Interview",
-    "link": "https://www.thrashermagazine.com/articles/dylan-jaeb-pro-interview/",
-    "score": 0,
+    "title": "Mar.13th - FISE Battle of the Champions",
+    "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
+    "score": 6,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "KickerClub"
   },
   {
-    "title": "April 12, 2026El Spot's Skate 'n' Fire Contest",
-    "link": "https://www.thrashermagazine.com/articles/trash/el-spot-s-skate-n-fire-contest/",
+    "title": "Dylan Jaeb's Pro Interview",
+    "link": "https://www.thrashermagazine.com/articles/dylan-jaeb-pro-interview/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -42,22 +35,22 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Digby Luxton's \"Fakename\" Part",
-    "link": "https://www.thrashermagazine.com/articles/trash/digby-luxton-s-fakename-part/",
+    "title": "Skateboarding",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Texalona Presents: \"Texalona Flood\"",
+    "link": "https://www.thrashermagazine.com/articles/trash/texalona-presents-texalona-flood/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Nov.15th - Polar Shanghai Demo",
-    "link": "https://www.kickerclub.com/2025/11/nov-15th-polar-shanghai-demo/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
-    "title": "Texalona Presents: \"Texalona Flood\"",
-    "link": "https://www.thrashermagazine.com/articles/trash/texalona-presents-texalona-flood/",
+    "title": "April 12, 2026El Spot's Skate 'n' Fire Contest",
+    "link": "https://www.thrashermagazine.com/articles/trash/el-spot-s-skate-n-fire-contest/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -68,5 +61,12 @@ const newsData = [
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
+  },
+  {
+    "title": "Nov.15th - Polar Shanghai Demo",
+    "link": "https://www.kickerclub.com/2025/11/nov-15th-polar-shanghai-demo/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
   }
 ];
