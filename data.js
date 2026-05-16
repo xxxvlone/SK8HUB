@@ -21,8 +21,22 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "Digby Luxton's \"Fakename\" Part",
-    "link": "https://www.thrashermagazine.com/articles/trash/digby-luxton-s-fakename-part/",
+    "title": "Jim Gray is Coming to Macau",
+    "link": "https://www.kickerclub.com/2026/03/jim-gray-is-coming-to-macau/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
+  },
+  {
+    "title": "April 12, 2026El Spot's Skate 'n' Fire Contest",
+    "link": "https://www.thrashermagazine.com/articles/trash/el-spot-s-skate-n-fire-contest/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "April 17, 2026 - April 19, 2026Stardust Skate Shop's Race City Open 2026",
+    "link": "https://www.thrashermagazine.com/articles/events/stardust-skate-shop-s-race-city-open-2026/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -35,38 +49,24 @@ const newsData = [
     "source": "Thrasher"
   },
   {
+    "title": "April 16, 2026 - April 18, 2026Ed Templeton RVCA Art Shows in Paris",
+    "link": "https://www.thrashermagazine.com/articles/events/ed-templeton-rvca-art-shows-in-paris/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Remind Insoles X Girl Skateboards Collab",
+    "link": "https://www.thrashermagazine.com/articles/trash/remind-insoles-x-girl-skateboards-collab/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
     "title": "2026 Skateboarding Calendar Release!",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3859-2026-skateboarding-calendar-release.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
-  },
-  {
-    "title": "April 12, 2026El Spot's Skate 'n' Fire Contest",
-    "link": "https://www.thrashermagazine.com/articles/trash/el-spot-s-skate-n-fire-contest/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "instagram",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "Arbor's \"Check Engine\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/arbor-s-check-engine-video/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "April 25, 2026Grind Junction's One-Year Anniversary Event",
-    "link": "https://www.thrashermagazine.com/articles/events/grind-junction-s-one-year-anniversary-event/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
   }
 ];
