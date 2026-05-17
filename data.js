@@ -7,13 +7,6 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Mar.13th - FISE Battle of the Champions",
-    "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
-    "score": 6,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
     "title": "May 01, 2026Sk8Mafia's \"Micro 4 Eva\" Premiere",
     "link": "https://www.thrashermagazine.com/articles/events/sk8mafia-s-micro-4-eva-premiere/",
     "score": 6,
@@ -21,32 +14,53 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Discipline",
+    "title": "Mar.13th - FISE Battle of the Champions",
+    "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
+    "score": 6,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
+  },
+  {
+    "title": "April 12, 2026El Spot's Skate 'n' Fire Contest",
+    "link": "https://www.thrashermagazine.com/articles/trash/el-spot-s-skate-n-fire-contest/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "instagram",
     "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
   },
   {
-    "title": "March 28, 2026\"Don't Let Them Take You Alive\" Art Show",
-    "link": "https://www.thrashermagazine.com/articles/events/don-t-let-them-take-you-alive-art-show/",
+    "title": "May 31, 2026Flying Low's \"Madcity Meltdown\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/flying-low-s-madcity-meltdown-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Remind Insoles X Girl Skateboards Collab",
-    "link": "https://www.thrashermagazine.com/articles/trash/remind-insoles-x-girl-skateboards-collab/",
+    "title": "Nov.15th - Polar Shanghai Demo",
+    "link": "https://www.kickerclub.com/2025/11/nov-15th-polar-shanghai-demo/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
+  },
+  {
+    "title": "April 25, 2026Grind Junction's One-Year Anniversary Event",
+    "link": "https://www.thrashermagazine.com/articles/events/grind-junction-s-one-year-anniversary-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Skateboarding",
-    "link": "https://www.worldskate.org/skateboarding.html",
+    "title": "Jim Gray is Coming to Macau",
+    "link": "https://www.kickerclub.com/2026/03/jim-gray-is-coming-to-macau/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "KickerClub"
   },
   {
     "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
@@ -54,19 +68,5 @@ const newsData = [
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
-  },
-  {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "Digby Luxton's \"Fakename\" Part",
-    "link": "https://www.thrashermagazine.com/articles/trash/digby-luxton-s-fakename-part/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
   }
 ];
