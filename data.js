@@ -7,13 +7,6 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Mar.13th - FISE Battle of the Champions",
-    "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
-    "score": 6,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
     "title": "May 01, 2026Sk8Mafia's \"Micro 4 Eva\" Premiere",
     "link": "https://www.thrashermagazine.com/articles/events/sk8mafia-s-micro-4-eva-premiere/",
     "score": 6,
@@ -21,15 +14,36 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "April 12, 2026El Spot's Skate 'n' Fire Contest",
-    "link": "https://www.thrashermagazine.com/articles/trash/el-spot-s-skate-n-fire-contest/",
+    "title": "Mar.13th - FISE Battle of the Champions",
+    "link": "https://www.kickerclub.com/2026/02/mar-13th-fise-battle-of-the-champions/",
+    "score": 6,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
+  },
+  {
+    "title": "Jim Gray is Coming to Macau",
+    "link": "https://www.kickerclub.com/2026/03/jim-gray-is-coming-to-macau/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
+  },
+  {
+    "title": "April 16, 2026 - April 18, 2026Ed Templeton RVCA Art Shows in Paris",
+    "link": "https://www.thrashermagazine.com/articles/events/ed-templeton-rvca-art-shows-in-paris/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Jeremy Leabres' \"Glitched\" Part",
-    "link": "https://www.thrashermagazine.com/articles/videos/jeremy-leabres-glitched-part/",
+    "title": "Nov.15th - Polar Shanghai Demo",
+    "link": "https://www.kickerclub.com/2025/11/nov-15th-polar-shanghai-demo/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
+  },
+  {
+    "title": "Pharmacy Valencia Grand Opening",
+    "link": "https://www.thrashermagazine.com/articles/events/pharmacy-valencia-grand-opening/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -42,31 +56,17 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "instagram",
-    "link": "https://www.worldskate.org/skateboarding.html",
+    "title": "May 30, 2026Pharmacy Valencia Grand Opening",
+    "link": "https://www.thrashermagazine.com/articles/events/pharmacy-valencia-grand-opening/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "2026 Skateboarding Calendar Release!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3859-2026-skateboarding-calendar-release.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
-  },
-  {
-    "title": "Digby Luxton's \"Fakename\" Part",
-    "link": "https://www.thrashermagazine.com/articles/trash/digby-luxton-s-fakename-part/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "April 16, 2026 - April 18, 2026Ed Templeton RVCA Art Shows in Paris",
-    "link": "https://www.thrashermagazine.com/articles/events/ed-templeton-rvca-art-shows-in-paris/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "March 29, 2026Yaddamean's \"Z Skate Jam\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/yaddamean-s-z-skate-jam-event/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
   }
 ];
