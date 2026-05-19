@@ -21,8 +21,22 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "May 31, 2026Flying Low's \"Madcity Meltdown\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/flying-low-s-madcity-meltdown-event/",
+    "title": "April 17, 2026 - April 19, 2026Stardust Skate Shop's Race City Open 2026",
+    "link": "https://www.thrashermagazine.com/articles/events/stardust-skate-shop-s-race-city-open-2026/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Let It Roll's Skate Trivia in Las Vegas",
+    "link": "https://www.thrashermagazine.com/articles/events/let-it-roll-s-skate-trivia-in-las-vegas/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "May 23, 2026Let It Roll's Skate Trivia in Las Vegas",
+    "link": "https://www.thrashermagazine.com/articles/events/let-it-roll-s-skate-trivia-in-las-vegas/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -35,8 +49,15 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "April 26, 2026Larb in Seattle",
-    "link": "https://www.thrashermagazine.com/articles/events/larb-in-seattle/",
+    "title": "Kilian Zehnder \"4M\" Pro Part",
+    "link": "https://www.thrashermagazine.com/articles/trash/kilian-zehnder-4m-pro-part/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Pharmacy Valencia Grand Opening",
+    "link": "https://www.thrashermagazine.com/articles/events/pharmacy-valencia-grand-opening/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -47,26 +68,5 @@ const newsData = [
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
-  },
-  {
-    "title": "April 17, 2026 - April 19, 2026Stardust Skate Shop's Race City Open 2026",
-    "link": "https://www.thrashermagazine.com/articles/events/stardust-skate-shop-s-race-city-open-2026/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "May 30, 2026Pharmacy Valencia Grand Opening",
-    "link": "https://www.thrashermagazine.com/articles/events/pharmacy-valencia-grand-opening/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Nov.15th - Polar Shanghai Demo",
-    "link": "https://www.kickerclub.com/2025/11/nov-15th-polar-shanghai-demo/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
   }
 ];
