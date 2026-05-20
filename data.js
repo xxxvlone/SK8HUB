@@ -21,8 +21,15 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "Pat Channita for Bones Bearings",
-    "link": "https://www.thrashermagazine.com/articles/trash/pat-channita-for-bones-bearings/",
+    "title": "May 31, 2026Flying Low's \"Madcity Meltdown\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/flying-low-s-madcity-meltdown-event/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "May 23, 2026Let It Roll's Skate Trivia in Las Vegas",
+    "link": "https://www.thrashermagazine.com/articles/events/let-it-roll-s-skate-trivia-in-las-vegas/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -35,18 +42,25 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "April 16, 2026 - April 18, 2026Ed Templeton RVCA Art Shows in Paris",
-    "link": "https://www.thrashermagazine.com/articles/events/ed-templeton-rvca-art-shows-in-paris/",
+    "title": "Leon Charo-Tite for OJ Wheels",
+    "link": "https://www.thrashermagazine.com/articles/trash/leon-charo-tite-for-oj-wheels/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Nov.15th - Polar Shanghai Demo",
-    "link": "https://www.kickerclub.com/2025/11/nov-15th-polar-shanghai-demo/",
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "KickerClub"
+    "source": "World Skate"
+  },
+  {
+    "title": "April 25, 2026Grind Junction's One-Year Anniversary Event",
+    "link": "https://www.thrashermagazine.com/articles/events/grind-junction-s-one-year-anniversary-event/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
   },
   {
     "title": "instagram",
@@ -54,19 +68,5 @@ const newsData = [
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
-  },
-  {
-    "title": "April 12, 2026El Spot's Skate 'n' Fire Contest",
-    "link": "https://www.thrashermagazine.com/articles/trash/el-spot-s-skate-n-fire-contest/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Jim Gray is Coming to Macau",
-    "link": "https://www.kickerclub.com/2026/03/jim-gray-is-coming-to-macau/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
   }
 ];
