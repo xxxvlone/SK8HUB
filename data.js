@@ -14,27 +14,6 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Arto Saari with Red Bull in Brazil",
-    "link": "https://www.thrashermagazine.com/articles/trash/red-bull-in-brazil/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Let It Roll's Skate Trivia in Las Vegas",
-    "link": "https://www.thrashermagazine.com/articles/events/let-it-roll-s-skate-trivia-in-las-vegas/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "2026 Skateboarding Calendar Release!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3859-2026-skateboarding-calendar-release.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
     "title": "Skate of Mind Shanghai Tour",
     "link": "https://www.kickerclub.com/2026/05/skate-of-mind-shanghai-tour/",
     "score": 0,
@@ -42,11 +21,32 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "Stardust Skate Shop's Race City Open 2026",
-    "link": "https://www.thrashermagazine.com/articles/events/stardust-skate-shop-s-race-city-open-2026/",
+    "title": "Pharmacy Valencia Grand Opening",
+    "link": "https://www.thrashermagazine.com/articles/events/pharmacy-valencia-grand-opening/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
+  },
+  {
+    "title": "Let It Roll Grand Re-Opening",
+    "link": "https://www.thrashermagazine.com/articles/events/let-it-roll-grand-re-opening/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
   },
   {
     "title": "May 23rd - Palace Shanghai Openning",
@@ -56,17 +56,17 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
+    "title": "Arto Saari with Red Bull in Brazil",
+    "link": "https://www.thrashermagazine.com/articles/trash/red-bull-in-brazil/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "Thrasher"
   },
   {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
+    "title": "Foundation's \"Today Tomorrow Forever\" Full Length",
+    "link": "https://www.thrashermagazine.com/articles/trash/foundation-s-today-tomorrow-forever-full-length/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "Thrasher"
   }
 ];
