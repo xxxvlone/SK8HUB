@@ -21,15 +21,8 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "Pharmacy Valencia Grand Opening",
-    "link": "https://www.thrashermagazine.com/articles/events/pharmacy-valencia-grand-opening/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Let It Roll Grand Re-Opening",
-    "link": "https://www.thrashermagazine.com/articles/events/let-it-roll-grand-re-opening/",
+    "title": "Alexis Ramirez' \"Do It To 'Em\" Part",
+    "link": "https://www.thrashermagazine.com/articles/videos/alexis-ramirez-do-it-to-em-part/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -42,7 +35,21 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Discipline",
+    "title": "2026 Skateboarding Calendar Release!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3859-2026-skateboarding-calendar-release.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Pharmacy Valencia Grand Opening",
+    "link": "https://www.thrashermagazine.com/articles/events/pharmacy-valencia-grand-opening/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Skateboarding",
     "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
@@ -56,15 +63,8 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "Arto Saari with Red Bull in Brazil",
-    "link": "https://www.thrashermagazine.com/articles/trash/red-bull-in-brazil/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Foundation's \"Today Tomorrow Forever\" Full Length",
-    "link": "https://www.thrashermagazine.com/articles/trash/foundation-s-today-tomorrow-forever-full-length/",
+    "title": "Stardust Skate Shop's Race City Open 2026",
+    "link": "https://www.thrashermagazine.com/articles/events/stardust-skate-shop-s-race-city-open-2026/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
