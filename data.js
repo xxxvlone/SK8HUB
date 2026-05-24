@@ -14,6 +14,13 @@ const newsData = [
     "source": "Thrasher"
   },
   {
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
     "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
     "score": 0,
@@ -21,22 +28,29 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Pharmacy Valencia Grand Opening",
-    "link": "https://www.thrashermagazine.com/articles/events/pharmacy-valencia-grand-opening/",
+    "title": "El Spot's Skate 'n' Fire Contest",
+    "link": "https://www.thrashermagazine.com/articles/trash/el-spot-s-skate-n-fire-contest/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Foundation's \"Today Tomorrow Forever\" Full Length",
-    "link": "https://www.thrashermagazine.com/articles/trash/foundation-s-today-tomorrow-forever-full-length/",
+    "title": "instagram",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Stardust Skate Shop's Race City Open 2026",
+    "link": "https://www.thrashermagazine.com/articles/events/stardust-skate-shop-s-race-city-open-2026/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Arto Saari with Red Bull in Brazil",
-    "link": "https://www.thrashermagazine.com/articles/trash/red-bull-in-brazil/",
+    "title": "Ed Templeton RVCA Art Shows in Paris",
+    "link": "https://www.thrashermagazine.com/articles/events/ed-templeton-rvca-art-shows-in-paris/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -49,22 +63,8 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Let It Roll Grand Re-Opening",
-    "link": "https://www.thrashermagazine.com/articles/events/let-it-roll-grand-re-opening/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "El Spot's Skate 'n' Fire Contest",
-    "link": "https://www.thrashermagazine.com/articles/trash/el-spot-s-skate-n-fire-contest/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Alexis Ramirez' \"Do It To 'Em\" Part",
-    "link": "https://www.thrashermagazine.com/articles/videos/alexis-ramirez-do-it-to-em-part/",
+    "title": "Pharmacy Valencia Grand Opening",
+    "link": "https://www.thrashermagazine.com/articles/events/pharmacy-valencia-grand-opening/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
