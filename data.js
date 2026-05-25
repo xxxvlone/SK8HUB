@@ -14,13 +14,6 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Foundation's \"Today Tomorrow Forever\" Full Length",
-    "link": "https://www.thrashermagazine.com/articles/trash/foundation-s-today-tomorrow-forever-full-length/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "Omar, Omar, Omar!",
     "link": "https://www.thrashermagazine.com/articles/burnout/omar-omar-omar/",
     "score": 0,
@@ -28,18 +21,32 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Grind Junction's One-Year Anniversary Event",
-    "link": "https://www.thrashermagazine.com/articles/events/grind-junction-s-one-year-anniversary-event/",
+    "title": "Jim Gray is Coming to Macau",
+    "link": "https://www.kickerclub.com/2026/03/jim-gray-is-coming-to-macau/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
+  },
+  {
+    "title": "2026 Skateboarding Calendar Release!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3859-2026-skateboarding-calendar-release.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Alexis Ramirez' \"Do It To 'Em\" Part",
+    "link": "https://www.thrashermagazine.com/articles/videos/alexis-ramirez-do-it-to-em-part/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "instagram",
-    "link": "https://www.worldskate.org/skateboarding.html",
+    "title": "Let It Roll Grand Re-Opening",
+    "link": "https://www.thrashermagazine.com/articles/events/let-it-roll-grand-re-opening/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "Thrasher"
   },
   {
     "title": "Pharmacy Valencia Grand Opening",
@@ -49,22 +56,15 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "The World Skateboarding Tour concludes 2025 calendar with spectacular finale in Japan!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3828-the-world-skateboarding-tour-concludes-2025-calendar-with-spectacular-finale-in-japan.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "Let It Roll's Skate Trivia in Las Vegas",
-    "link": "https://www.thrashermagazine.com/articles/events/let-it-roll-s-skate-trivia-in-las-vegas/",
+    "title": "Larb in Seattle",
+    "link": "https://www.thrashermagazine.com/articles/events/larb-in-seattle/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Arto Saari with Red Bull in Brazil",
-    "link": "https://www.thrashermagazine.com/articles/trash/red-bull-in-brazil/",
+    "title": "Grind Junction's One-Year Anniversary Event",
+    "link": "https://www.thrashermagazine.com/articles/events/grind-junction-s-one-year-anniversary-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
