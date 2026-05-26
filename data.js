@@ -14,11 +14,11 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "May 23rd - Palace Shanghai Openning",
-    "link": "https://www.kickerclub.com/2026/05/may-23rd-palace-shanghai-openning/",
+    "title": "Alexis Ramirez' \"Do It To 'Em\" Part",
+    "link": "https://www.thrashermagazine.com/articles/videos/alexis-ramirez-do-it-to-em-part/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "KickerClub"
+    "source": "Thrasher"
   },
   {
     "title": "Stardust Skate Shop's Race City Open 2026",
@@ -28,43 +28,43 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "El Spot's Skate 'n' Fire Contest",
-    "link": "https://www.thrashermagazine.com/articles/trash/el-spot-s-skate-n-fire-contest/",
+    "title": "Pharmacy Valencia Grand Opening",
+    "link": "https://www.thrashermagazine.com/articles/events/pharmacy-valencia-grand-opening/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Ed Templeton RVCA Art Shows in Paris",
-    "link": "https://www.thrashermagazine.com/articles/events/ed-templeton-rvca-art-shows-in-paris/",
+    "title": "Omar, Omar, Omar!",
+    "link": "https://www.thrashermagazine.com/articles/burnout/omar-omar-omar/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Cold Call: Jeremy Leabres",
-    "link": "https://www.thrashermagazine.com/articles/videos/cold-call-jeremy-leabres-2/",
+    "title": "Larb in Seattle",
+    "link": "https://www.thrashermagazine.com/articles/events/larb-in-seattle/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Alexis Ramirez' \"Do It To 'Em\" Part",
-    "link": "https://www.thrashermagazine.com/articles/videos/alexis-ramirez-do-it-to-em-part/",
+    "title": "Skate of Mind Shanghai Tour",
+    "link": "https://www.kickerclub.com/2026/05/skate-of-mind-shanghai-tour/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "KickerClub"
   },
   {
-    "title": "Foundation's \"Today Tomorrow Forever\" Full Length",
-    "link": "https://www.thrashermagazine.com/articles/trash/foundation-s-today-tomorrow-forever-full-length/",
+    "title": "World Skateboarding Ranking Explained!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3899-world-skateboarding-ranking-explained.html",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "World Skate"
   },
   {
-    "title": "That's My S#!t: Tom K",
-    "link": "https://www.thrashermagazine.com/articles/videos/that-s-my-s-t-tom-k/",
+    "title": "Let It Roll's Skate Trivia in Las Vegas",
+    "link": "https://www.thrashermagazine.com/articles/events/let-it-roll-s-skate-trivia-in-las-vegas/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
