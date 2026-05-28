@@ -14,18 +14,11 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Let It Roll's Skate Trivia in Las Vegas",
-    "link": "https://www.thrashermagazine.com/articles/events/let-it-roll-s-skate-trivia-in-las-vegas/",
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Trey Wade's \"We Got This on the Stove\" Part",
-    "link": "https://www.thrashermagazine.com/articles/trash/trey-wade-s-we-got-this-on-the-stove-part/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "World Skate"
   },
   {
     "title": "2026 Skateboarding Calendar Release!",
@@ -35,18 +28,32 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Discipline",
+    "title": "instagram",
     "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
   },
   {
-    "title": "May 23rd - Palace Shanghai Openning",
-    "link": "https://www.kickerclub.com/2026/05/may-23rd-palace-shanghai-openning/",
+    "title": "Grind Junction's One-Year Anniversary Event",
+    "link": "https://www.thrashermagazine.com/articles/events/grind-junction-s-one-year-anniversary-event/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "KickerClub"
+    "source": "Thrasher"
+  },
+  {
+    "title": "Foundation's \"Today Tomorrow Forever\" Full Length",
+    "link": "https://www.thrashermagazine.com/articles/trash/foundation-s-today-tomorrow-forever-full-length/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Alexis Ramirez' \"Do It To 'Em\" Part",
+    "link": "https://www.thrashermagazine.com/articles/videos/alexis-ramirez-do-it-to-em-part/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
   },
   {
     "title": "Pharmacy Valencia Grand Opening",
@@ -56,15 +63,8 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "RIP IN PEACE: Marc Johnson",
-    "link": "https://www.thrashermagazine.com/articles/rip-in-peace-marc-johnson/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Foundation's \"Today Tomorrow Forever\" Full Length",
-    "link": "https://www.thrashermagazine.com/articles/trash/foundation-s-today-tomorrow-forever-full-length/",
+    "title": "That's My S#!t: Tom K",
+    "link": "https://www.thrashermagazine.com/articles/videos/that-s-my-s-t-tom-k/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
