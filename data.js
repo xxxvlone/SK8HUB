@@ -14,7 +14,7 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "instagram",
+    "title": "Discipline",
     "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
@@ -28,11 +28,11 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Pharmacy Valencia Grand Opening",
-    "link": "https://www.thrashermagazine.com/articles/events/pharmacy-valencia-grand-opening/",
+    "title": "Jim Gray is Coming to Macau",
+    "link": "https://www.kickerclub.com/2026/03/jim-gray-is-coming-to-macau/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "KickerClub"
   },
   {
     "title": "Larb in Seattle",
@@ -42,31 +42,31 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Discipline",
+    "title": "Skateboarding",
     "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
   },
   {
-    "title": "Flying Low's \"Madcity Meltdown\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/flying-low-s-madcity-meltdown-event/",
+    "title": "This Old Ledge: Philadelphia",
+    "link": "https://www.thrashermagazine.com/articles/videos/this-old-ledge-philadelphia/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "May 23rd - Palace Shanghai Openning",
-    "link": "https://www.kickerclub.com/2026/05/may-23rd-palace-shanghai-openning/",
+    "title": "RIP IN PEACE: Marc Johnson",
+    "link": "https://www.thrashermagazine.com/articles/rip-in-peace-marc-johnson/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "KickerClub"
+    "source": "Thrasher"
   },
   {
-    "title": "2026 Skateboarding Calendar Release!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3859-2026-skateboarding-calendar-release.html",
+    "title": "Let It Roll Grand Re-Opening",
+    "link": "https://www.thrashermagazine.com/articles/events/let-it-roll-grand-re-opening/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "Thrasher"
   }
 ];
