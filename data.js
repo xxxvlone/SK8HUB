@@ -14,22 +14,43 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Discipline",
+    "title": "Flying Low's \"Madcity Meltdown\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/flying-low-s-madcity-meltdown-event/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Larb in Seattle",
+    "link": "https://www.thrashermagazine.com/articles/events/larb-in-seattle/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "This Old Ledge: Philadelphia",
+    "link": "https://www.thrashermagazine.com/articles/videos/this-old-ledge-philadelphia/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "That's My S#!t: Tom K",
+    "link": "https://www.thrashermagazine.com/articles/videos/that-s-my-s-t-tom-k/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "instagram",
     "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
   },
   {
-    "title": "World Skateboarding Ranking Explained!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3899-world-skateboarding-ranking-explained.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "Let It Roll's Skate Trivia in Las Vegas",
-    "link": "https://www.thrashermagazine.com/articles/events/let-it-roll-s-skate-trivia-in-las-vegas/",
+    "title": "Trey Wade's \"We Got This on the Stove\" Part",
+    "link": "https://www.thrashermagazine.com/articles/trash/trey-wade-s-we-got-this-on-the-stove-part/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -42,31 +63,10 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "Larb in Seattle",
-    "link": "https://www.thrashermagazine.com/articles/events/larb-in-seattle/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Skateboarding",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
     "title": "RIP IN PEACE: Marc Johnson",
     "link": "https://www.thrashermagazine.com/articles/rip-in-peace-marc-johnson/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
-  },
-  {
-    "title": "Jim Gray is Coming to Macau",
-    "link": "https://www.kickerclub.com/2026/03/jim-gray-is-coming-to-macau/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
   }
 ];
