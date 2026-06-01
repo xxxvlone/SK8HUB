@@ -14,22 +14,8 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Grind Junction's One-Year Anniversary Event",
-    "link": "https://www.thrashermagazine.com/articles/events/grind-junction-s-one-year-anniversary-event/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "This Old Ledge: Philadelphia",
-    "link": "https://www.thrashermagazine.com/articles/videos/this-old-ledge-philadelphia/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Larb in Seattle",
-    "link": "https://www.thrashermagazine.com/articles/events/larb-in-seattle/",
+    "title": "Let It Roll Grand Re-Opening",
+    "link": "https://www.thrashermagazine.com/articles/events/let-it-roll-grand-re-opening/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -42,15 +28,15 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Jim Gray is Coming to Macau",
-    "link": "https://www.kickerclub.com/2026/03/jim-gray-is-coming-to-macau/",
+    "title": "Pharmacy Valencia Grand Opening",
+    "link": "https://www.thrashermagazine.com/articles/events/pharmacy-valencia-grand-opening/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "KickerClub"
+    "source": "Thrasher"
   },
   {
-    "title": "Flying Low's \"Madcity Meltdown\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/flying-low-s-madcity-meltdown-event/",
+    "title": "Alexis Ramirez' \"Do It To 'Em\" Part",
+    "link": "https://www.thrashermagazine.com/articles/videos/alexis-ramirez-do-it-to-em-part/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -63,10 +49,24 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
+    "title": "Stardust Skate Shop's Race City Open 2026",
+    "link": "https://www.thrashermagazine.com/articles/events/stardust-skate-shop-s-race-city-open-2026/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "Thrasher"
+  },
+  {
+    "title": "Ed Templeton RVCA Art Shows in Paris",
+    "link": "https://www.thrashermagazine.com/articles/events/ed-templeton-rvca-art-shows-in-paris/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Grind Junction's One-Year Anniversary Event",
+    "link": "https://www.thrashermagazine.com/articles/events/grind-junction-s-one-year-anniversary-event/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
   }
 ];
