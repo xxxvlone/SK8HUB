@@ -21,20 +21,6 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "instagram",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "Skateboarding",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
     "title": "Flying Low's \"Madcity Meltdown\" Event",
     "link": "https://www.thrashermagazine.com/articles/events/flying-low-s-madcity-meltdown-event/",
     "score": 0,
@@ -42,31 +28,45 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Pharmacy Valencia Grand Opening",
-    "link": "https://www.thrashermagazine.com/articles/events/pharmacy-valencia-grand-opening/",
+    "title": "2026 Skateboarding Calendar Release!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3859-2026-skateboarding-calendar-release.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Stardust Skate Shop's Race City Open 2026",
+    "link": "https://www.thrashermagazine.com/articles/events/stardust-skate-shop-s-race-city-open-2026/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Fred Gall VS the Phantom of the Opera Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/fred-gall-vs-the-phantom-of-the-opera-video/",
+    "title": "Skate of Mind Shanghai Tour",
+    "link": "https://www.kickerclub.com/2026/05/skate-of-mind-shanghai-tour/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
+  },
+  {
+    "title": "Jason Arnold Solo Show in Santa Cruz",
+    "link": "https://www.thrashermagazine.com/articles/events/jason-arnold-solo-show-in-santa-cruz/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Grind Junction's One-Year Anniversary Event",
-    "link": "https://www.thrashermagazine.com/articles/events/grind-junction-s-one-year-anniversary-event/",
+    "title": "The \"Handycaps 6\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/the-handycaps-6-video/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Ed Templeton RVCA Art Shows in Paris",
-    "link": "https://www.thrashermagazine.com/articles/events/ed-templeton-rvca-art-shows-in-paris/",
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "World Skate"
   }
 ];
