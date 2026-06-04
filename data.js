@@ -14,18 +14,11 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Late Nite Stars' \"Stars of Midnight\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/late-nite-stars/",
+    "title": "Abnormal Communication: Episode 6",
+    "link": "https://www.thrashermagazine.com/articles/videos/abnormal-communication-episode-6/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
-  },
-  {
-    "title": "World Skateboarding Ranking Explained!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3899-world-skateboarding-ranking-explained.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
   },
   {
     "title": "The \"Handycaps 6\" Video",
@@ -35,22 +28,15 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Grind Junction's One-Year Anniversary Event",
-    "link": "https://www.thrashermagazine.com/articles/events/grind-junction-s-one-year-anniversary-event/",
+    "title": "The \"Squangland 2\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/the-squangland-2-video/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Skateboarding",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "The \"Squangland 2\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/the-squangland-2-video/",
+    "title": "Late Nite Stars' \"Stars of Midnight\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/late-nite-stars/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -63,10 +49,24 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Ed Templeton RVCA Art Shows in Paris",
-    "link": "https://www.thrashermagazine.com/articles/events/ed-templeton-rvca-art-shows-in-paris/",
+    "title": "Jim Gray is Coming to Macau",
+    "link": "https://www.kickerclub.com/2026/03/jim-gray-is-coming-to-macau/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "KickerClub"
+  },
+  {
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
   }
 ];
