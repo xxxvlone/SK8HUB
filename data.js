@@ -21,6 +21,20 @@ const newsData = [
     "source": "Thrasher"
   },
   {
+    "title": "Ed Templeton RVCA Art Shows in Paris",
+    "link": "https://www.thrashermagazine.com/articles/events/ed-templeton-rvca-art-shows-in-paris/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Skate of Mind Shanghai Tour",
+    "link": "https://www.kickerclub.com/2026/05/skate-of-mind-shanghai-tour/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
+  },
+  {
     "title": "Jim Gray is Coming to Macau",
     "link": "https://www.kickerclub.com/2026/03/jim-gray-is-coming-to-macau/",
     "score": 0,
@@ -28,18 +42,18 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "Thrasher Weekend: Montreal New Date",
-    "link": "https://www.thrashermagazine.com/articles/events/thrasher-weekend-montreal-new-date/",
+    "title": "Skateboarding",
+    "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "World Skate"
   },
   {
-    "title": "Fred Gall VS the Phantom of the Opera Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/fred-gall-vs-the-phantom-of-the-opera-video/",
+    "title": "2026 Skateboarding Calendar Release!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3859-2026-skateboarding-calendar-release.html",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "World Skate"
   },
   {
     "title": "Discipline",
@@ -51,20 +65,6 @@ const newsData = [
   {
     "title": "Let It Roll Grand Re-Opening",
     "link": "https://www.thrashermagazine.com/articles/events/let-it-roll-grand-re-opening/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "instagram",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "Abnormal Communication: Episode 6",
-    "link": "https://www.thrashermagazine.com/articles/videos/abnormal-communication-episode-6/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
