@@ -28,34 +28,6 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Jim Gray is Coming to Macau",
-    "link": "https://www.kickerclub.com/2026/03/jim-gray-is-coming-to-macau/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
-    "title": "May 23rd - Palace Shanghai Openning",
-    "link": "https://www.kickerclub.com/2026/05/may-23rd-palace-shanghai-openning/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
-    "title": "Thrasher Weekend: Montreal New Date",
-    "link": "https://www.thrashermagazine.com/articles/events/thrasher-weekend-montreal-new-date/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Let It Roll's Skate Trivia in Las Vegas",
-    "link": "https://www.thrashermagazine.com/articles/events/let-it-roll-s-skate-trivia-in-las-vegas/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "instagram",
     "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
@@ -63,10 +35,38 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Ed Templeton RVCA Art Shows in Paris",
-    "link": "https://www.thrashermagazine.com/articles/events/ed-templeton-rvca-art-shows-in-paris/",
+    "title": "Skate of Mind Shanghai Tour",
+    "link": "https://www.kickerclub.com/2026/05/skate-of-mind-shanghai-tour/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
+  },
+  {
+    "title": "Former Welcomes Elijah Berle",
+    "link": "https://www.thrashermagazine.com/articles/trash/former-welcomes-elijah-berle/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
+  },
+  {
+    "title": "Reese Barton's \"A Life After: Part 1\" Documentary",
+    "link": "https://www.thrashermagazine.com/articles/trash/reese-barton-s-a-life-after-part-1-documentary/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "2026 Skateboarding Calendar Release!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3859-2026-skateboarding-calendar-release.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
   }
 ];
