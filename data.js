@@ -21,15 +21,29 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Thrasher Presents: The \"CORONADOS\" Video",
-    "link": "https://www.thrashermagazine.com/articles/videos/the-coronados-video/",
+    "title": "Abnormal Communication: Episode 6",
+    "link": "https://www.thrashermagazine.com/articles/videos/abnormal-communication-episode-6/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Ryan Pollie's \"Nights I Cried Alone\" Music Video Featuring Danny Garcia",
-    "link": "https://www.thrashermagazine.com/articles/trash/ryan-pollie-s-nights-i-cried-alone-music-video-featuring-danny-garcia/",
+    "title": "Pharmacy Valencia Grand Opening",
+    "link": "https://www.thrashermagazine.com/articles/events/pharmacy-valencia-grand-opening/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Jim Gray is Coming to Macau",
+    "link": "https://www.kickerclub.com/2026/03/jim-gray-is-coming-to-macau/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
+  },
+  {
+    "title": "Thrasher Weekend: Montreal New Date",
+    "link": "https://www.thrashermagazine.com/articles/events/thrasher-weekend-montreal-new-date/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -42,31 +56,17 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Abnormal Communication: Episode 6",
-    "link": "https://www.thrashermagazine.com/articles/videos/abnormal-communication-episode-6/",
+    "title": "Let It Roll Grand Re-Opening",
+    "link": "https://www.thrashermagazine.com/articles/events/let-it-roll-grand-re-opening/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "May 23rd - Palace Shanghai Openning",
-    "link": "https://www.kickerclub.com/2026/05/may-23rd-palace-shanghai-openning/",
+    "title": "Flying Low's \"Madcity Meltdown\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/flying-low-s-madcity-meltdown-event/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "instagram",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "Thrasher"
   }
 ];
