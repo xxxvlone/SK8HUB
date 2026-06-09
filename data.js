@@ -28,20 +28,6 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Thrasher Weekend: Montreal New Date",
-    "link": "https://www.thrashermagazine.com/articles/events/thrasher-weekend-montreal-new-date/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Liam Pace's \"Bones\" Part",
-    "link": "https://www.thrashermagazine.com/articles/trash/liam-pace-s-bones-part/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "Reese Barton's \"A Life After: Part 1\" Documentary",
     "link": "https://www.thrashermagazine.com/articles/trash/reese-barton-s-a-life-after-part-1-documentary/",
     "score": 0,
@@ -56,8 +42,15 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Let It Roll's Skate Trivia in Las Vegas",
-    "link": "https://www.thrashermagazine.com/articles/events/let-it-roll-s-skate-trivia-in-las-vegas/",
+    "title": "Former Welcomes Elijah Berle",
+    "link": "https://www.thrashermagazine.com/articles/trash/former-welcomes-elijah-berle/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Jason Arnold Solo Show in Santa Cruz",
+    "link": "https://www.thrashermagazine.com/articles/events/jason-arnold-solo-show-in-santa-cruz/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -65,6 +58,13 @@ const newsData = [
   {
     "title": "Exoplus \"promo video-001\"",
     "link": "https://www.thrashermagazine.com/articles/trash/exoplus-promo-video-001/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Ed Templeton RVCA Art Shows in Paris",
+    "link": "https://www.thrashermagazine.com/articles/events/ed-templeton-rvca-art-shows-in-paris/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
