@@ -21,25 +21,32 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "May 23rd - Palace Shanghai Openning",
-    "link": "https://www.kickerclub.com/2026/05/may-23rd-palace-shanghai-openning/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
-    "title": "Jun.20th - Vision GSD 2026",
-    "link": "https://www.kickerclub.com/2026/06/jun-20th-vision-gsd-2026/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
-    "title": "Discipline",
+    "title": "Skateboarding",
     "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
+  },
+  {
+    "title": "Flying Low's \"Madcity Meltdown\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/flying-low-s-madcity-meltdown-event/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Ruby Lilley's \"Full Throttle\" Bronson Part",
+    "link": "https://www.thrashermagazine.com/articles/trash/ruby-lilley-s-full-throttle-bronson-part/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Let It Roll's Skate Trivia in Las Vegas",
+    "link": "https://www.thrashermagazine.com/articles/events/let-it-roll-s-skate-trivia-in-las-vegas/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
   },
   {
     "title": "Spitfire X Slappy's Garage Skate Jam",
@@ -49,21 +56,14 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Skate of Mind Shanghai Tour",
-    "link": "https://www.kickerclub.com/2026/05/skate-of-mind-shanghai-tour/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
-    "title": "Liam Pace's \"Bones\" Part",
-    "link": "https://www.thrashermagazine.com/articles/trash/liam-pace-s-bones-part/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "instagram",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Discipline",
     "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
