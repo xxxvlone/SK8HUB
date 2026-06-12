@@ -21,36 +21,22 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Ruby Lilley's \"Full Throttle\" Bronson Part",
-    "link": "https://www.thrashermagazine.com/articles/trash/ruby-lilley-s-full-throttle-bronson-part/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "May 23rd - Palace Shanghai Openning",
-    "link": "https://www.kickerclub.com/2026/05/may-23rd-palace-shanghai-openning/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
-    "title": "instagram",
-    "link": "https://www.worldskate.org/skateboarding.html",
+    "title": "World Skateboarding Ranking Explained!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3899-world-skateboarding-ranking-explained.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
   },
   {
-    "title": "Thrasher x Spitfire Present: SAN FRANCISCO BURNING",
-    "link": "https://www.thrashermagazine.com/articles/videos/thrasher-x-spitfire-present-san-francisco-burning/",
+    "title": "Let It Roll's Skate Trivia in Las Vegas",
+    "link": "https://www.thrashermagazine.com/articles/events/let-it-roll-s-skate-trivia-in-las-vegas/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Ed Templeton RVCA Art Shows in Paris",
-    "link": "https://www.thrashermagazine.com/articles/events/ed-templeton-rvca-art-shows-in-paris/",
+    "title": "Thrasher x Spitfire Present: SAN FRANCISCO BURNING",
+    "link": "https://www.thrashermagazine.com/articles/videos/thrasher-x-spitfire-present-san-francisco-burning/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -63,10 +49,24 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Jason Arnold Solo Show in Santa Cruz",
-    "link": "https://www.thrashermagazine.com/articles/events/jason-arnold-solo-show-in-santa-cruz/",
+    "title": "Thrasher Weekend: Montreal New Date",
+    "link": "https://www.thrashermagazine.com/articles/events/thrasher-weekend-montreal-new-date/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
+  },
+  {
+    "title": "The Follow Up: Miles Silvas Talks \"San Francisco Burning\"",
+    "link": "https://www.thrashermagazine.com/articles/videos/the-follow-up-miles-silvas-talks-san-francisco-burning/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "May 23rd - Palace Shanghai Openning",
+    "link": "https://www.kickerclub.com/2026/05/may-23rd-palace-shanghai-openning/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
   }
 ];
