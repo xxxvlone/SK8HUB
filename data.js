@@ -21,29 +21,15 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Let It Roll's Skate Trivia in Las Vegas",
-    "link": "https://www.thrashermagazine.com/articles/events/let-it-roll-s-skate-trivia-in-las-vegas/",
+    "title": "World Skateboarding Ranking Explained!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3899-world-skateboarding-ranking-explained.html",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "World Skate"
   },
   {
-    "title": "Pharmacy Valencia Grand Opening",
-    "link": "https://www.thrashermagazine.com/articles/events/pharmacy-valencia-grand-opening/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Grind Junction's One-Year Anniversary Event",
-    "link": "https://www.thrashermagazine.com/articles/events/grind-junction-s-one-year-anniversary-event/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "David Kappa's \"Foreman\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/david-kappa-s-foreman-video/",
+    "title": "Thrasher Weekend: Montreal New Date",
+    "link": "https://www.thrashermagazine.com/articles/events/thrasher-weekend-montreal-new-date/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -56,11 +42,25 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Rome Collyer’s “Overcooked” Volcom Part",
-    "link": "https://www.thrashermagazine.com/articles/trash/rome-collyer-s-overcooked-volcom-part/",
+    "title": "The Follow Up: Miles Silvas Talks \"San Francisco Burning\"",
+    "link": "https://www.thrashermagazine.com/articles/videos/the-follow-up-miles-silvas-talks-san-francisco-burning/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
+  },
+  {
+    "title": "David Kappa's \"Foreman\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/david-kappa-s-foreman-video/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
   },
   {
     "title": "Ruby Lilley's \"Full Throttle\" Bronson Part",
