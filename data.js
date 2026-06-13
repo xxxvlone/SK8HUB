@@ -21,15 +21,8 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Spitfire X Slappy's Garage Skate Jam",
-    "link": "https://www.thrashermagazine.com/articles/events/spitfire-x-slappy-s-garage-skate-jam/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Rome Collyer’s “Overcooked” Volcom Part",
-    "link": "https://www.thrashermagazine.com/articles/trash/rome-collyer-s-overcooked-volcom-part/",
+    "title": "Ruby Lilley's \"Full Throttle\" Bronson Part",
+    "link": "https://www.thrashermagazine.com/articles/trash/ruby-lilley-s-full-throttle-bronson-part/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -42,15 +35,15 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Flying Low's \"Madcity Meltdown\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/flying-low-s-madcity-meltdown-event/",
+    "title": "The Follow Up: Miles Silvas Talks \"San Francisco Burning\"",
+    "link": "https://www.thrashermagazine.com/articles/videos/the-follow-up-miles-silvas-talks-san-francisco-burning/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Ruby Lilley's \"Full Throttle\" Bronson Part",
-    "link": "https://www.thrashermagazine.com/articles/trash/ruby-lilley-s-full-throttle-bronson-part/",
+    "title": "Grind Junction's One-Year Anniversary Event",
+    "link": "https://www.thrashermagazine.com/articles/events/grind-junction-s-one-year-anniversary-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -63,8 +56,15 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "The Follow Up: Miles Silvas Talks \"San Francisco Burning\"",
-    "link": "https://www.thrashermagazine.com/articles/videos/the-follow-up-miles-silvas-talks-san-francisco-burning/",
+    "title": "Jun.20th - Vision GSD 2026",
+    "link": "https://www.kickerclub.com/2026/06/jun-20th-vision-gsd-2026/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
+  },
+  {
+    "title": "Ed Templeton RVCA Art Shows in Paris",
+    "link": "https://www.thrashermagazine.com/articles/events/ed-templeton-rvca-art-shows-in-paris/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
