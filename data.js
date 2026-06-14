@@ -21,22 +21,15 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Flying Low's \"Madcity Meltdown\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/flying-low-s-madcity-meltdown-event/",
+    "title": "2026 Skateboarding Calendar Release!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3859-2026-skateboarding-calendar-release.html",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "World Skate"
   },
   {
-    "title": "Pharmacy Valencia Grand Opening",
-    "link": "https://www.thrashermagazine.com/articles/events/pharmacy-valencia-grand-opening/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Ed Templeton RVCA Art Shows in Paris",
-    "link": "https://www.thrashermagazine.com/articles/events/ed-templeton-rvca-art-shows-in-paris/",
+    "title": "Spitfire X Slappy's Garage Skate Jam",
+    "link": "https://www.thrashermagazine.com/articles/events/spitfire-x-slappy-s-garage-skate-jam/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -56,11 +49,18 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "The Follow Up: Miles Silvas Talks \"San Francisco Burning\"",
-    "link": "https://www.thrashermagazine.com/articles/videos/the-follow-up-miles-silvas-talks-san-francisco-burning/",
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "World Skate"
+  },
+  {
+    "title": "Jun.20th - Vision GSD 2026",
+    "link": "https://www.kickerclub.com/2026/06/jun-20th-vision-gsd-2026/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
   },
   {
     "title": "Discipline",
