@@ -21,34 +21,6 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Grind Junction's One-Year Anniversary Event",
-    "link": "https://www.thrashermagazine.com/articles/events/grind-junction-s-one-year-anniversary-event/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Skateboarding",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "Flying Low's \"Madcity Meltdown\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/flying-low-s-madcity-meltdown-event/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "The Follow Up: Miles Silvas Talks \"San Francisco Burning\"",
-    "link": "https://www.thrashermagazine.com/articles/videos/the-follow-up-miles-silvas-talks-san-francisco-burning/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "Thrasher x Spitfire Present: SAN FRANCISCO BURNING",
     "link": "https://www.thrashermagazine.com/articles/videos/thrasher-x-spitfire-present-san-francisco-burning/",
     "score": 0,
@@ -56,17 +28,45 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Spitfire X Slappy's Garage Skate Jam",
-    "link": "https://www.thrashermagazine.com/articles/events/spitfire-x-slappy-s-garage-skate-jam/",
+    "title": "Jun.20th - Vision GSD 2026",
+    "link": "https://www.kickerclub.com/2026/06/jun-20th-vision-gsd-2026/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
+  },
+  {
+    "title": "Grind Junction's One-Year Anniversary Event",
+    "link": "https://www.thrashermagazine.com/articles/events/grind-junction-s-one-year-anniversary-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Skate of Mind Shanghai Tour",
-    "link": "https://www.kickerclub.com/2026/05/skate-of-mind-shanghai-tour/",
+    "title": "instagram",
+    "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "KickerClub"
+    "source": "World Skate"
+  },
+  {
+    "title": "World Skateboarding Ranking Explained!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3899-world-skateboarding-ranking-explained.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Pharmacy Valencia Grand Opening",
+    "link": "https://www.thrashermagazine.com/articles/events/pharmacy-valencia-grand-opening/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
   }
 ];
