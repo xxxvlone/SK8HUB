@@ -21,20 +21,6 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Pharmacy Valencia Grand Opening",
-    "link": "https://www.thrashermagazine.com/articles/events/pharmacy-valencia-grand-opening/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Jason Arnold Solo Show in Santa Cruz",
-    "link": "https://www.thrashermagazine.com/articles/events/jason-arnold-solo-show-in-santa-cruz/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "World Skateboarding Tour: World Cup Rome Park 2026 Results!",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3905-world-skateboarding-tour-world-cup-rome-park-2026-results.html",
     "score": 0,
@@ -42,31 +28,45 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Ed Templeton RVCA Art Shows in Paris",
-    "link": "https://www.thrashermagazine.com/articles/events/ed-templeton-rvca-art-shows-in-paris/",
+    "title": "SD SPITTIN’",
+    "link": "https://www.thrashermagazine.com/articles/burnout/sd-spittin/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Knucklehds' \"Mainz\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/knucklehds-mainz-video/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Jun.20th - Vision GSD 2026",
-    "link": "https://www.kickerclub.com/2026/06/jun-20th-vision-gsd-2026/",
+    "title": "Skate of Mind Shanghai Tour",
+    "link": "https://www.kickerclub.com/2026/05/skate-of-mind-shanghai-tour/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "KickerClub"
   },
   {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
+    "title": "Thrasher Weekend: Montreal New Date",
+    "link": "https://www.thrashermagazine.com/articles/events/thrasher-weekend-montreal-new-date/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "World Skateboarding Ranking Explained!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3899-world-skateboarding-ranking-explained.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
+  },
+  {
+    "title": "Thrasher x Spitfire Present: SAN FRANCISCO BURNING",
+    "link": "https://www.thrashermagazine.com/articles/videos/thrasher-x-spitfire-present-san-francisco-burning/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Flying Low's \"Madcity Meltdown\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/flying-low-s-madcity-meltdown-event/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
   }
 ];
