@@ -21,22 +21,8 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "World Skateboarding Tour: World Cup Rome Park 2026 Results!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3905-world-skateboarding-tour-world-cup-rome-park-2026-results.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "SD SPITTIN’",
-    "link": "https://www.thrashermagazine.com/articles/burnout/sd-spittin/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Grind Junction's One-Year Anniversary Event",
-    "link": "https://www.thrashermagazine.com/articles/events/grind-junction-s-one-year-anniversary-event/",
+    "title": "Pharmacy Valencia Grand Opening",
+    "link": "https://www.thrashermagazine.com/articles/events/pharmacy-valencia-grand-opening/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -49,8 +35,22 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Let It Roll's Skate Trivia in Las Vegas",
-    "link": "https://www.thrashermagazine.com/articles/events/let-it-roll-s-skate-trivia-in-las-vegas/",
+    "title": "World Skateboarding Tour: World Cup Rome Park 2026 Results!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3905-world-skateboarding-tour-world-cup-rome-park-2026-results.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Ed Templeton RVCA Art Shows in Paris",
+    "link": "https://www.thrashermagazine.com/articles/events/ed-templeton-rvca-art-shows-in-paris/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Knucklehds' \"Mainz\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/knucklehds-mainz-video/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
