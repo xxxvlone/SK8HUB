@@ -21,34 +21,6 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "SD SPITTIN’",
-    "link": "https://www.thrashermagazine.com/articles/burnout/sd-spittin/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Skateboarding",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "Jun.20th - Vision GSD 2026",
-    "link": "https://www.kickerclub.com/2026/06/jun-20th-vision-gsd-2026/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
-    "title": "instagram",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
     "title": "John Worthington's \"4 Wheel Drive\" Indy Part",
     "link": "https://www.thrashermagazine.com/articles/trash/john-worthington-s-4-wheel-drive-indy-part/",
     "score": 0,
@@ -56,8 +28,29 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Giddy #14 Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/giddy-14-video/",
+    "title": "World Skateboarding Ranking Explained!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3899-world-skateboarding-ranking-explained.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Skate of Mind Shanghai Tour",
+    "link": "https://www.kickerclub.com/2026/05/skate-of-mind-shanghai-tour/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
+  },
+  {
+    "title": "Thrasher x Spitfire Present: SAN FRANCISCO BURNING",
+    "link": "https://www.thrashermagazine.com/articles/videos/thrasher-x-spitfire-present-san-francisco-burning/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -65,6 +58,13 @@ const newsData = [
   {
     "title": "Grind Junction's One-Year Anniversary Event",
     "link": "https://www.thrashermagazine.com/articles/events/grind-junction-s-one-year-anniversary-event/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Giddy #14 Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/giddy-14-video/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
