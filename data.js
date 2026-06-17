@@ -21,13 +21,6 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "SD SPITTIN’",
-    "link": "https://www.thrashermagazine.com/articles/burnout/sd-spittin/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "Thrasher x Spitfire Present: SAN FRANCISCO BURNING",
     "link": "https://www.thrashermagazine.com/articles/videos/thrasher-x-spitfire-present-san-francisco-burning/",
     "score": 0,
@@ -35,8 +28,15 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Ed Templeton RVCA Art Shows in Paris",
-    "link": "https://www.thrashermagazine.com/articles/events/ed-templeton-rvca-art-shows-in-paris/",
+    "title": "instagram",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Grind Junction's One-Year Anniversary Event",
+    "link": "https://www.thrashermagazine.com/articles/events/grind-junction-s-one-year-anniversary-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -49,24 +49,24 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Let It Roll's Skate Trivia in Las Vegas",
-    "link": "https://www.thrashermagazine.com/articles/events/let-it-roll-s-skate-trivia-in-las-vegas/",
+    "title": "Knucklehds' \"Mainz\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/knucklehds-mainz-video/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "John Worthington's \"4 Wheel Drive\" Indy Part",
-    "link": "https://www.thrashermagazine.com/articles/trash/john-worthington-s-4-wheel-drive-indy-part/",
+    "title": "World Skateboarding Tour: World Cup Rome Park 2026 Results!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3905-world-skateboarding-tour-world-cup-rome-park-2026-results.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Giddy #14 Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/giddy-14-video/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
-  },
-  {
-    "title": "May 23rd - Palace Shanghai Openning",
-    "link": "https://www.kickerclub.com/2026/05/may-23rd-palace-shanghai-openning/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
   }
 ];
