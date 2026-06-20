@@ -14,18 +14,11 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Thrasher Weekend: Adidas in Montreal Video",
-    "link": "https://www.thrashermagazine.com/articles/videos/thrasher-weekend-adidas-in-montreal-video-29001/",
+    "title": "Spitfire X Slappy's Garage Skate Jam",
+    "link": "https://www.thrashermagazine.com/articles/events/spitfire-x-slappy-s-garage-skate-jam/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
-  },
-  {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
   },
   {
     "title": "Let It Roll's Skate Trivia in Las Vegas",
@@ -35,8 +28,8 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Jason Arnold Solo Show in Santa Cruz",
-    "link": "https://www.thrashermagazine.com/articles/events/jason-arnold-solo-show-in-santa-cruz/",
+    "title": "Pharmacy Valencia Grand Opening",
+    "link": "https://www.thrashermagazine.com/articles/events/pharmacy-valencia-grand-opening/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -49,18 +42,11 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Jun.20th - Vision GSD 2026",
-    "link": "https://www.kickerclub.com/2026/06/jun-20th-vision-gsd-2026/",
+    "title": "Thrasher Weekend: Adidas in Montreal Video",
+    "link": "https://www.thrashermagazine.com/articles/videos/thrasher-weekend-adidas-in-montreal-video-29001/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
-    "title": "Skateboarding",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "Thrasher"
   },
   {
     "title": "CSEF's 5K Skate-A-Thon Event",
@@ -68,5 +54,19 @@ const newsData = [
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
+  },
+  {
+    "title": "Humidity's Go Skate Day Event",
+    "link": "https://www.thrashermagazine.com/articles/events/humidity-s-go-skate-day-event/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "instagram",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
   }
 ];
