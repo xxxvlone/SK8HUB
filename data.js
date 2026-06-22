@@ -14,22 +14,8 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Thrasher Weekend: Adidas in Montreal Video",
-    "link": "https://www.thrashermagazine.com/articles/videos/thrasher-weekend-adidas-in-montreal-video-29001/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Jun.20th - Vision GSD 2026",
-    "link": "https://www.kickerclub.com/2026/06/jun-20th-vision-gsd-2026/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
-    "title": "Pharmacy Valencia Grand Opening",
-    "link": "https://www.thrashermagazine.com/articles/events/pharmacy-valencia-grand-opening/",
+    "title": "Flying Low's \"Madcity Meltdown\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/flying-low-s-madcity-meltdown-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -42,8 +28,29 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Jason Arnold Solo Show in Santa Cruz",
-    "link": "https://www.thrashermagazine.com/articles/events/jason-arnold-solo-show-in-santa-cruz/",
+    "title": "Thrasher Weekend: adidas in Montreal Photos",
+    "link": "https://www.thrashermagazine.com/articles/thrasher-weekend-adidas-in-montreal/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Spike Jonze Talk at \"Push Play\" Skate Video Festival",
+    "link": "https://www.thrashermagazine.com/articles/events/spike-jonze-talk-at-push-play-skate-video-festival/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Ezra Snyder's \"Ace\" Part",
+    "link": "https://www.thrashermagazine.com/articles/trash/ezra-snyder-s-ace-part/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Thrasher Weekend: Adidas in Montreal Video",
+    "link": "https://www.thrashermagazine.com/articles/videos/thrasher-weekend-adidas-in-montreal-video-29001/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -56,15 +63,8 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Humidity's Go Skate Day Event",
-    "link": "https://www.thrashermagazine.com/articles/events/humidity-s-go-skate-day-event/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Spike Jonze Talk at \"Push Play\" Skate Video Festival",
-    "link": "https://www.thrashermagazine.com/articles/events/spike-jonze-talk-at-push-play-skate-video-festival/",
+    "title": "Pharmacy Valencia Grand Opening",
+    "link": "https://www.thrashermagazine.com/articles/events/pharmacy-valencia-grand-opening/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
