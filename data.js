@@ -14,50 +14,43 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "instagram",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
+    "title": "Women of Washington Street Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/women-of-washington-street-video/",
+    "score": 2,
     "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "Thrasher"
   },
   {
-    "title": "Rio Morishige's \"Plant Grip\" Part",
-    "link": "https://www.thrashermagazine.com/articles/trash/rio-morishige-s-plant-grip-part/",
+    "title": "Delivery Buenos Aires \"Elisa\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/delivery-buenos-aires-elisa-video/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "RIP in Peace: James \"Sperm\" Broderick",
-    "link": "https://www.thrashermagazine.com/articles/rip-in-peace-james-sperm-broderick/",
+    "title": "Spike Jonze Talk at \"Push Play\" Skate Video Festival",
+    "link": "https://www.thrashermagazine.com/articles/events/spike-jonze-talk-at-push-play-skate-video-festival/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "CSEF's 5K Skate-A-Thon Event",
-    "link": "https://www.thrashermagazine.com/articles/events/csef-s-5k-skate-a-thon-event/",
+    "title": "Super Skate Posse Giveback 33: Anaheim",
+    "link": "https://www.thrashermagazine.com/articles/trash/super-skate-posse/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Thrasher Weekend: Montreal New Date",
-    "link": "https://www.thrashermagazine.com/articles/events/thrasher-weekend-montreal-new-date/",
+    "title": "May 23rd - Palace Shanghai Openning",
+    "link": "https://www.kickerclub.com/2026/05/may-23rd-palace-shanghai-openning/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "KickerClub"
   },
   {
-    "title": "Jason Arnold Solo Show in Santa Cruz",
-    "link": "https://www.thrashermagazine.com/articles/events/jason-arnold-solo-show-in-santa-cruz/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
+    "title": "World Skateboarding Ranking Explained!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3899-world-skateboarding-ranking-explained.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
@@ -65,6 +58,13 @@ const newsData = [
   {
     "title": "Let It Roll's Skate Trivia in Las Vegas",
     "link": "https://www.thrashermagazine.com/articles/events/let-it-roll-s-skate-trivia-in-las-vegas/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Jason Arnold Solo Show in Santa Cruz",
+    "link": "https://www.thrashermagazine.com/articles/events/jason-arnold-solo-show-in-santa-cruz/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
