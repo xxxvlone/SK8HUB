@@ -14,29 +14,36 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "\"Can't See Zee\" 2026 Event",
-    "link": "https://www.thrashermagazine.com/articles/events/can-t-see-zee-2026-event/",
+    "title": "Pharmacy Valencia Grand Opening",
+    "link": "https://www.thrashermagazine.com/articles/events/pharmacy-valencia-grand-opening/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Humidity's Go Skate Day Event",
-    "link": "https://www.thrashermagazine.com/articles/events/humidity-s-go-skate-day-event/",
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Spitfire X Slappy's Garage Skate Jam",
+    "link": "https://www.thrashermagazine.com/articles/events/spitfire-x-slappy-s-garage-skate-jam/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Thrasher Weekend: Montreal New Date",
-    "link": "https://www.thrashermagazine.com/articles/events/thrasher-weekend-montreal-new-date/",
+    "title": "RIP in Peace: James \"Sperm\" Broderick",
+    "link": "https://www.thrashermagazine.com/articles/rip-in-peace-james-sperm-broderick/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "\"Can't See Zee\" 2026 Event",
-    "link": "https://www.thrashermagazine.com/articles/events/can-t-see-zee-2026-event/",
+    "title": "CSEF's 5K Skate-A-Thon Event",
+    "link": "https://www.thrashermagazine.com/articles/events/csef-s-5k-skate-a-thon-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -49,24 +56,17 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "Skateboarding",
-    "link": "https://www.worldskate.org/skateboarding.html",
+    "title": "May 23rd - Palace Shanghai Openning",
+    "link": "https://www.kickerclub.com/2026/05/may-23rd-palace-shanghai-openning/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "KickerClub"
   },
   {
-    "title": "Tom Karangelov's \"Portal\" Pepper Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/tom-karangelov-s-portal-pepper-video/",
+    "title": "Spike Jonze Talk at \"Push Play\" Skate Video Festival",
+    "link": "https://www.thrashermagazine.com/articles/events/spike-jonze-talk-at-push-play-skate-video-festival/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
-  },
-  {
-    "title": "World Skateboarding Ranking Explained!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3899-world-skateboarding-ranking-explained.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
   }
 ];
