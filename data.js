@@ -21,11 +21,11 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Jason Arnold Solo Show in Santa Cruz",
-    "link": "https://www.thrashermagazine.com/articles/events/jason-arnold-solo-show-in-santa-cruz/",
+    "title": "instagram",
+    "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "World Skate"
   },
   {
     "title": "World Skateboarding Tour: World Cup Rome Park 2026 Results!",
@@ -35,6 +35,27 @@ const newsData = [
     "source": "World Skate"
   },
   {
+    "title": "Marvin Moran's \"Cherub\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/marvin-moran-s-cherub-video/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Jun.20th - Vision GSD 2026",
+    "link": "https://www.kickerclub.com/2026/06/jun-20th-vision-gsd-2026/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
+  },
+  {
+    "title": "Let It Roll's Skate Trivia in Las Vegas",
+    "link": "https://www.thrashermagazine.com/articles/events/let-it-roll-s-skate-trivia-in-las-vegas/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
     "title": "May 23rd - Palace Shanghai Openning",
     "link": "https://www.kickerclub.com/2026/05/may-23rd-palace-shanghai-openning/",
     "score": 0,
@@ -42,29 +63,8 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "Delivery Buenos Aires \"Elisa\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/delivery-buenos-aires-elisa-video/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Pharmacy Valencia Grand Opening",
-    "link": "https://www.thrashermagazine.com/articles/events/pharmacy-valencia-grand-opening/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Marvin Moran's \"Cherub\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/marvin-moran-s-cherub-video/",
+    "title": "Jack Spanbauer's \"Cursed Garage\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/jack-spanbauer-s-cursed-garage-video/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
