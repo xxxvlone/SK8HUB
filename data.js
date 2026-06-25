@@ -21,6 +21,20 @@ const newsData = [
     "source": "Thrasher"
   },
   {
+    "title": "Maurio McCoy for Stance Socks",
+    "link": "https://www.thrashermagazine.com/articles/trash/maurio-mccoy-for-stance-socks/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Pharmacy Valencia Grand Opening",
+    "link": "https://www.thrashermagazine.com/articles/events/pharmacy-valencia-grand-opening/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
     "title": "Thrasher x Plus Skateshop Present \"Rogue Wave\" Video",
     "link": "https://www.thrashermagazine.com/articles/videos/thrasher-x-plus-skateshop-present-rogue-wave-video/",
     "score": 0,
@@ -28,29 +42,15 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Jun.20th - Vision GSD 2026",
-    "link": "https://www.kickerclub.com/2026/06/jun-20th-vision-gsd-2026/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
-    "title": "Super Skate Posse Giveback 33: Anaheim",
-    "link": "https://www.thrashermagazine.com/articles/trash/super-skate-posse/",
+    "title": "Humidity's Go Skate Day Event",
+    "link": "https://www.thrashermagazine.com/articles/events/humidity-s-go-skate-day-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Jason Arnold Solo Show in Santa Cruz",
-    "link": "https://www.thrashermagazine.com/articles/events/jason-arnold-solo-show-in-santa-cruz/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Thrasher Weekend: Montreal New Date",
-    "link": "https://www.thrashermagazine.com/articles/events/thrasher-weekend-montreal-new-date/",
+    "title": "Delivery Buenos Aires \"Elisa\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/delivery-buenos-aires-elisa-video/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -63,8 +63,8 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
+    "title": "World Skateboarding Tour: World Cup Rome Park 2026 Results!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3905-world-skateboarding-tour-world-cup-rome-park-2026-results.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
