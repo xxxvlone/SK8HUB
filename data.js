@@ -7,15 +7,15 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Vans' Go Skateboarding Day Brooklyn Banks Event",
-    "link": "https://www.thrashermagazine.com/articles/events/vans-go-skateboarding-day-brooklyn-banks-event/",
+    "title": "This Old Ledge: China Banks",
+    "link": "https://www.thrashermagazine.com/articles/trash/this-old-ledge-china-banks/",
     "score": 4,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "This Old Ledge: China Banks",
-    "link": "https://www.thrashermagazine.com/articles/trash/this-old-ledge-china-banks/",
+    "title": "Vans' Go Skateboarding Day Brooklyn Banks Event",
+    "link": "https://www.thrashermagazine.com/articles/events/vans-go-skateboarding-day-brooklyn-banks-event/",
     "score": 4,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -28,15 +28,15 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Pharmacy Valencia Grand Opening",
-    "link": "https://www.thrashermagazine.com/articles/events/pharmacy-valencia-grand-opening/",
+    "title": "Jun.20th - Vision GSD 2026",
+    "link": "https://www.kickerclub.com/2026/06/jun-20th-vision-gsd-2026/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "KickerClub"
   },
   {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
+    "title": "World Skateboarding Tour: World Cup Rome Park 2026 Results!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3905-world-skateboarding-tour-world-cup-rome-park-2026-results.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
@@ -49,22 +49,22 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Thrasher x Plus Skateshop Present \"Rogue Wave\" Video",
-    "link": "https://www.thrashermagazine.com/articles/videos/thrasher-x-plus-skateshop-present-rogue-wave-video/",
+    "title": "Birdhouse's \"The Nest\" Promo",
+    "link": "https://www.thrashermagazine.com/articles/trash/birdhouse-s-the-nest-promo/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Jack Spanbauer's \"Cursed Garage\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/jack-spanbauer-s-cursed-garage-video/",
+    "title": "Humidity's Go Skate Day Event",
+    "link": "https://www.thrashermagazine.com/articles/events/humidity-s-go-skate-day-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "\"Can't See Zee\" 2026 Event",
-    "link": "https://www.thrashermagazine.com/articles/events/can-t-see-zee-2026-event/",
+    "title": "Spike Jonze Talk at \"Push Play\" Skate Video Festival",
+    "link": "https://www.thrashermagazine.com/articles/events/spike-jonze-talk-at-push-play-skate-video-festival/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
