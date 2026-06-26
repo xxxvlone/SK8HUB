@@ -21,22 +21,15 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Skateboarding",
+    "title": "Discipline",
     "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
   },
   {
-    "title": "Spike Jonze Talk at \"Push Play\" Skate Video Festival",
-    "link": "https://www.thrashermagazine.com/articles/events/spike-jonze-talk-at-push-play-skate-video-festival/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Spitfire X Slappy's Garage Skate Jam",
-    "link": "https://www.thrashermagazine.com/articles/events/spitfire-x-slappy-s-garage-skate-jam/",
+    "title": "Pharmacy Valencia Grand Opening",
+    "link": "https://www.thrashermagazine.com/articles/events/pharmacy-valencia-grand-opening/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -49,22 +42,29 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "World Skateboarding Ranking Explained!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3899-world-skateboarding-ranking-explained.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "Violet's \"Squeaky\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/violet-s-squeaky-video/",
+    "title": "Let It Roll's Skate Trivia in Las Vegas",
+    "link": "https://www.thrashermagazine.com/articles/events/let-it-roll-s-skate-trivia-in-las-vegas/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Humidity's Go Skate Day Event",
-    "link": "https://www.thrashermagazine.com/articles/events/humidity-s-go-skate-day-event/",
+    "title": "Thrasher x Plus Skateshop Present \"Rogue Wave\" Video",
+    "link": "https://www.thrashermagazine.com/articles/videos/thrasher-x-plus-skateshop-present-rogue-wave-video/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Jack Spanbauer's \"Cursed Garage\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/jack-spanbauer-s-cursed-garage-video/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "\"Can't See Zee\" 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/can-t-see-zee-2026-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
