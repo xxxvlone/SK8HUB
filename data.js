@@ -1,10 +1,10 @@
 const newsData = [
   {
-    "title": "Vans' Go Skateboarding Day Brooklyn Banks Event",
-    "link": "https://www.thrashermagazine.com/articles/events/vans-go-skateboarding-day-brooklyn-banks-event/",
-    "score": 4,
+    "title": "WST São Paulo World Championships: Finals Report",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3869-wst-sao-paulo-world-championships-finals-report.html",
+    "score": 12,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "World Skate"
   },
   {
     "title": "This Old Ledge: China Banks",
@@ -14,11 +14,11 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Skate of Mind Shanghai Tour",
-    "link": "https://www.kickerclub.com/2026/05/skate-of-mind-shanghai-tour/",
-    "score": 0,
+    "title": "Vans' Go Skateboarding Day Brooklyn Banks Event",
+    "link": "https://www.thrashermagazine.com/articles/events/vans-go-skateboarding-day-brooklyn-banks-event/",
+    "score": 4,
     "summary": "滑板资讯",
-    "source": "KickerClub"
+    "source": "Thrasher"
   },
   {
     "title": "Spitfire X Slappy's Garage Skate Jam",
@@ -28,15 +28,15 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Violet's \"Squeaky\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/violet-s-squeaky-video/",
+    "title": "Jun.20th - Vision GSD 2026",
+    "link": "https://www.kickerclub.com/2026/06/jun-20th-vision-gsd-2026/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "KickerClub"
   },
   {
-    "title": "CSEF's 5K Skate-A-Thon Event",
-    "link": "https://www.thrashermagazine.com/articles/events/csef-s-5k-skate-a-thon-event/",
+    "title": "Marvin Moran's \"Cherub\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/marvin-moran-s-cherub-video/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -49,24 +49,24 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "Pharmacy Valencia Grand Opening",
-    "link": "https://www.thrashermagazine.com/articles/events/pharmacy-valencia-grand-opening/",
+    "title": "Palace's \"Detroit 313\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/palace-s-detroit-313-video/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "\"Can't See Zee\" 2026 Event",
-    "link": "https://www.thrashermagazine.com/articles/events/can-t-see-zee-2026-event/",
+    "title": "Skate of Mind Shanghai Tour",
+    "link": "https://www.kickerclub.com/2026/05/skate-of-mind-shanghai-tour/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "KickerClub"
   },
   {
-    "title": "Thrasher Weekend: Montreal New Date",
-    "link": "https://www.thrashermagazine.com/articles/events/thrasher-weekend-montreal-new-date/",
+    "title": "instagram",
+    "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "World Skate"
   }
 ];
