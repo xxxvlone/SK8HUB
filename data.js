@@ -14,6 +14,13 @@ const newsData = [
     "source": "Thrasher"
   },
   {
+    "title": "May 23rd - Palace Shanghai Openning",
+    "link": "https://www.kickerclub.com/2026/05/may-23rd-palace-shanghai-openning/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
+  },
+  {
     "title": "instagram",
     "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
@@ -21,18 +28,32 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Skate Like a Girl's \"Wheels of Fortune 13\" Photos",
-    "link": "https://www.thrashermagazine.com/articles/skate-like-a-girl-s-wheels-of-fortune-13-photos/",
+    "title": "Nassim Lachhab for OJ Wheels",
+    "link": "https://www.thrashermagazine.com/articles/trash/nassim-lachhab-for-oj-wheels-202606292307/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "\"Can't See Zee\" 2026 Event",
-    "link": "https://www.thrashermagazine.com/articles/events/can-t-see-zee-2026-event/",
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Skate Like a Girl's \"Wheels of Fortune 13\" Video",
+    "link": "https://www.thrashermagazine.com/articles/videos/skate-like-a-girl-s-wheels-of-fortune-13-video/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
+  },
+  {
+    "title": "Skate of Mind Shanghai Tour",
+    "link": "https://www.kickerclub.com/2026/05/skate-of-mind-shanghai-tour/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
   },
   {
     "title": "CSEF's 5K Skate-A-Thon Event",
@@ -42,29 +63,8 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Spitfire X Slappy's Garage Skate Jam",
-    "link": "https://www.thrashermagazine.com/articles/events/spitfire-x-slappy-s-garage-skate-jam/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Help Rebuild Uganda Skateboard Society’s Skatepark",
-    "link": "https://www.thrashermagazine.com/articles/trash/help-rebuild-uganda-skateboard-society-s-skatepark/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Jason Arnold Solo Show in Santa Cruz",
-    "link": "https://www.thrashermagazine.com/articles/events/jason-arnold-solo-show-in-santa-cruz/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Humidity's Go Skate Day Event",
-    "link": "https://www.thrashermagazine.com/articles/events/humidity-s-go-skate-day-event/",
+    "title": "\"Can't See Zee\" 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/can-t-see-zee-2026-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
