@@ -14,6 +14,13 @@ const newsData = [
     "source": "Thrasher"
   },
   {
+    "title": "CSEF's 5K Skate-A-Thon Event",
+    "link": "https://www.thrashermagazine.com/articles/events/csef-s-5k-skate-a-thon-event/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
     "title": "May 23rd - Palace Shanghai Openning",
     "link": "https://www.kickerclub.com/2026/05/may-23rd-palace-shanghai-openning/",
     "score": 0,
@@ -21,50 +28,43 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "Skate of Mind Shanghai Tour",
-    "link": "https://www.kickerclub.com/2026/05/skate-of-mind-shanghai-tour/",
+    "title": "Pharmacy Valencia Grand Opening",
+    "link": "https://www.thrashermagazine.com/articles/events/pharmacy-valencia-grand-opening/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "KickerClub"
+    "source": "Thrasher"
   },
   {
-    "title": "instagram",
+    "title": "Spitfire X Slappy's Garage Skate Jam",
+    "link": "https://www.thrashermagazine.com/articles/events/spitfire-x-slappy-s-garage-skate-jam/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Skateboarding",
     "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
   },
   {
-    "title": "Sapient Skateboards' \"Made in Chicago\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/sapient-skateboards-made-in-chicago-video/",
+    "title": "Stroller's \"Red Light\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/stroller-s-red-light-video/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Thrasher Weekend: Montreal New Date",
-    "link": "https://www.thrashermagazine.com/articles/events/thrasher-weekend-montreal-new-date/",
+    "title": "Humidity's Go Skate Day Event",
+    "link": "https://www.thrashermagazine.com/articles/events/humidity-s-go-skate-day-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "World Skateboarding Ranking Explained!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3899-world-skateboarding-ranking-explained.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "CSEF's 5K Skate-A-Thon Event",
-    "link": "https://www.thrashermagazine.com/articles/events/csef-s-5k-skate-a-thon-event/",
+    "title": "Pylon Welcomes Tucker Capell",
+    "link": "https://www.thrashermagazine.com/articles/trash/pylon-welcomes-tucker-capell/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
