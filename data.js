@@ -21,29 +21,43 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "\"Byst of WSC\" Event in the Netherlands",
-    "link": "https://www.thrashermagazine.com/articles/events/byst-of-wsc-event-in-the-netherlands/",
+    "title": "instagram",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Skateboarding",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "CSEF's 5K Skate-A-Thon Event",
+    "link": "https://www.thrashermagazine.com/articles/events/csef-s-5k-skate-a-thon-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Port City Takeover Photos",
-    "link": "https://www.thrashermagazine.com/articles/port-city-takeover-photos/",
+    "title": "2026 Skateboarding Calendar Release!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3859-2026-skateboarding-calendar-release.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Jacker's \"Coast to Coast\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/jacker-s-coast-to-coast-video/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Spike Jonze Talk at \"Push Play\" Skate Video Festival",
-    "link": "https://www.thrashermagazine.com/articles/events/spike-jonze-talk-at-push-play-skate-video-festival/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Rorey Hipps' \"Greatest Hits\" Memorial Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/rorey-hipps-greatest-hits-memorial-video/",
+    "title": "Santa Cruz's Tom Knox Documentary",
+    "link": "https://www.thrashermagazine.com/articles/trash/santa-cruz-s-tom-knox-documentary/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -51,20 +65,6 @@ const newsData = [
   {
     "title": "Thrasher Weekend: Montreal New Date",
     "link": "https://www.thrashermagazine.com/articles/events/thrasher-weekend-montreal-new-date/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "World Skateboarding Ranking Explained!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3899-world-skateboarding-ranking-explained.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "Santa Cruz's Tom Knox Documentary",
-    "link": "https://www.thrashermagazine.com/articles/trash/santa-cruz-s-tom-knox-documentary/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
