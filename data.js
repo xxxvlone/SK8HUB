@@ -14,6 +14,20 @@ const newsData = [
     "source": "Thrasher"
   },
   {
+    "title": "Skate of Mind Shanghai Tour",
+    "link": "https://www.kickerclub.com/2026/05/skate-of-mind-shanghai-tour/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
+  },
+  {
+    "title": "Skateboarding",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
     "title": "CSEF's 5K Skate-A-Thon Event",
     "link": "https://www.thrashermagazine.com/articles/events/csef-s-5k-skate-a-thon-event/",
     "score": 0,
@@ -21,39 +35,32 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "instagram",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "Jason Arnold Solo Show in Santa Cruz",
-    "link": "https://www.thrashermagazine.com/articles/events/jason-arnold-solo-show-in-santa-cruz/",
+    "title": "Humidity's Go Skate Day Event",
+    "link": "https://www.thrashermagazine.com/articles/events/humidity-s-go-skate-day-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Simon Bannerot's \"Microwave: Overcooked\" Volcom Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/simon-bannerot-s-microwave-overcooked-volcom-video/",
+    "title": "Jacker's \"Coast to Coast\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/jacker-s-coast-to-coast-video/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
+    "title": "Spitfire X Slappy's Garage Skate Jam",
+    "link": "https://www.thrashermagazine.com/articles/events/spitfire-x-slappy-s-garage-skate-jam/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "Thrasher"
   },
   {
-    "title": "2026 Skateboarding Calendar Release!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3859-2026-skateboarding-calendar-release.html",
+    "title": "\"Byst of WSC\" Event in the Netherlands",
+    "link": "https://www.thrashermagazine.com/articles/events/byst-of-wsc-event-in-the-netherlands/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "Thrasher"
   },
   {
     "title": "Pharmacy Valencia Grand Opening",
@@ -61,12 +68,5 @@ const newsData = [
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
-  },
-  {
-    "title": "Jun.20th - Vision GSD 2026",
-    "link": "https://www.kickerclub.com/2026/06/jun-20th-vision-gsd-2026/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
   }
 ];
