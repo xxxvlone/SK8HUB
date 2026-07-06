@@ -14,22 +14,15 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Skateboarding",
+    "title": "Discipline",
     "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
   },
   {
-    "title": "\"Can't See Zee\" 2026 Event",
-    "link": "https://www.thrashermagazine.com/articles/events/can-t-see-zee-2026-event/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Spike Jonze Talk at \"Push Play\" Skate Video Festival",
-    "link": "https://www.thrashermagazine.com/articles/events/spike-jonze-talk-at-push-play-skate-video-festival/",
+    "title": "Polar's \"You Got It My Boy Jamie\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/polar-s-you-got-it-my-boy-jamie-video/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -42,29 +35,36 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Spitfire X Slappy's Garage Skate Jam",
-    "link": "https://www.thrashermagazine.com/articles/events/spitfire-x-slappy-s-garage-skate-jam/",
+    "title": "Rough Cut: Gustav Tonneson's \"3:2\" Part",
+    "link": "https://www.thrashermagazine.com/articles/videos/rough-cut-gustav-tonneson-s-3-2-part/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
+    "title": "Jun.20th - Vision GSD 2026",
+    "link": "https://www.kickerclub.com/2026/06/jun-20th-vision-gsd-2026/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "KickerClub"
   },
   {
-    "title": "\"Byst of WSC\" Event in the Netherlands",
-    "link": "https://www.thrashermagazine.com/articles/events/byst-of-wsc-event-in-the-netherlands/",
+    "title": "May 23rd - Palace Shanghai Openning",
+    "link": "https://www.kickerclub.com/2026/05/may-23rd-palace-shanghai-openning/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
+  },
+  {
+    "title": "Port City Takeover Photos",
+    "link": "https://www.thrashermagazine.com/articles/port-city-takeover-photos/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
+    "title": "2026 Skateboarding Calendar Release!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3859-2026-skateboarding-calendar-release.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
