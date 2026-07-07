@@ -21,11 +21,11 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Diggler and the Skull",
-    "link": "https://www.thrashermagazine.com/articles/burnout/diggler-and-the-skull/",
+    "title": "2026 Skateboarding Calendar Release!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3859-2026-skateboarding-calendar-release.html",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "World Skate"
   },
   {
     "title": "Polar's \"You Got It My Boy Jamie\" Video",
@@ -35,11 +35,25 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Jun.20th - Vision GSD 2026",
-    "link": "https://www.kickerclub.com/2026/06/jun-20th-vision-gsd-2026/",
+    "title": "Jason Arnold Solo Show in Santa Cruz",
+    "link": "https://www.thrashermagazine.com/articles/events/jason-arnold-solo-show-in-santa-cruz/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "KickerClub"
+    "source": "Thrasher"
+  },
+  {
+    "title": "Diggler and the Skull",
+    "link": "https://www.thrashermagazine.com/articles/burnout/diggler-and-the-skull/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Rough Cut: Gustav Tonneson's \"3:2\" Part",
+    "link": "https://www.thrashermagazine.com/articles/videos/rough-cut-gustav-tonneson-s-3-2-part/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
   },
   {
     "title": "Discipline",
@@ -49,24 +63,10 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Humidity's Go Skate Day Event",
-    "link": "https://www.thrashermagazine.com/articles/events/humidity-s-go-skate-day-event/",
+    "title": "Skateboarding",
+    "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Spitfire X Slappy's Garage Skate Jam",
-    "link": "https://www.thrashermagazine.com/articles/events/spitfire-x-slappy-s-garage-skate-jam/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "\"Byst of WSC\" Event in the Netherlands",
-    "link": "https://www.thrashermagazine.com/articles/events/byst-of-wsc-event-in-the-netherlands/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "World Skate"
   }
 ];
