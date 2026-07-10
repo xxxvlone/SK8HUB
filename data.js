@@ -7,16 +7,16 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Vans' Go Skateboarding Day Brooklyn Banks Event",
-    "link": "https://www.thrashermagazine.com/articles/events/vans-go-skateboarding-day-brooklyn-banks-event/",
-    "score": 4,
+    "title": "Ryan Sheckler VS Chris Joslin",
+    "link": "https://www.thrashermagazine.com/articles/videos/ryan-sheckler-vs-chris-joslin/",
+    "score": 8,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "CSEF's 5K Skate-A-Thon Event",
-    "link": "https://www.thrashermagazine.com/articles/events/csef-s-5k-skate-a-thon-event/",
-    "score": 0,
+    "title": "Vans' Go Skateboarding Day Brooklyn Banks Event",
+    "link": "https://www.thrashermagazine.com/articles/events/vans-go-skateboarding-day-brooklyn-banks-event/",
+    "score": 4,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
@@ -28,25 +28,25 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Matthieu Lucas D'Souza Pass~Port Raw Edit",
-    "link": "https://www.thrashermagazine.com/articles/trash/matthieu-lucas-d-souza-pass-port-raw-edit/",
+    "title": "Low Key's \"Back To The Plaza 3\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/low-key-s-back-to-the-plaza-3-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Dalton Dern for Fallen Footwear",
-    "link": "https://www.thrashermagazine.com/articles/trash/dalton-dern-for-fallen-footwear/",
+    "title": "Low Key's \"Back To The Plaza 3\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/low-key-s-back-to-the-plaza-3-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
+    "title": "Jun.20th - Vision GSD 2026",
+    "link": "https://www.kickerclub.com/2026/06/jun-20th-vision-gsd-2026/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "KickerClub"
   },
   {
     "title": "Skate of Mind Shanghai Tour",
@@ -56,15 +56,15 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "LA28: Q-Series Update!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
+    "title": "instagram",
+    "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
   },
   {
-    "title": "Low Key's \"Back To The Plaza 3\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/low-key-s-back-to-the-plaza-3-event/",
+    "title": "Bellevegas Beatdown 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/bellevegas-beatdown-2026/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
