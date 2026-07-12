@@ -28,15 +28,15 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "\"Byst of WSC\" Event in the Netherlands",
-    "link": "https://www.thrashermagazine.com/articles/events/byst-of-wsc-event-in-the-netherlands/",
+    "title": "CSEF's 5K Skate-A-Thon Event",
+    "link": "https://www.thrashermagazine.com/articles/events/csef-s-5k-skate-a-thon-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Jun.20th - Vision GSD 2026",
-    "link": "https://www.kickerclub.com/2026/06/jun-20th-vision-gsd-2026/",
+    "title": "Pedro Barros Set to Hit Nanjing for Bowl Masterclass",
+    "link": "https://www.kickerclub.com/2026/07/pedro-barros-set-to-hit-nanjing-for-bowl-masterclass/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "KickerClub"
@@ -49,13 +49,6 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "World Skateboarding Ranking Explained!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3899-world-skateboarding-ranking-explained.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
     "title": "Discipline",
     "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
@@ -63,8 +56,15 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Low Key's \"Back To The Plaza 3\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/low-key-s-back-to-the-plaza-3-event/",
+    "title": "Spike Jonze Talk at \"Push Play\" Skate Video Festival",
+    "link": "https://www.thrashermagazine.com/articles/events/spike-jonze-talk-at-push-play-skate-video-festival/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Matthieu Lucas D'Souza Pass~Port Raw Edit",
+    "link": "https://www.thrashermagazine.com/articles/trash/matthieu-lucas-d-souza-pass-port-raw-edit/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
