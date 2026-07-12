@@ -28,8 +28,8 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "CSEF's 5K Skate-A-Thon Event",
-    "link": "https://www.thrashermagazine.com/articles/events/csef-s-5k-skate-a-thon-event/",
+    "title": "Humidity's Go Skate Day Event",
+    "link": "https://www.thrashermagazine.com/articles/events/humidity-s-go-skate-day-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -42,8 +42,15 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Super Skate Posse Giveback 34: New Brunswick, NJ",
-    "link": "https://www.thrashermagazine.com/articles/trash/super-skate-posse-giveback-34-new-brunswick-nj/",
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "David Reyes's \"Wild Heart\" Zero Video",
+    "link": "https://www.thrashermagazine.com/articles/videos/david-reyes-s-wild-heart-video/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -56,15 +63,8 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Humidity's Go Skate Day Event",
-    "link": "https://www.thrashermagazine.com/articles/events/humidity-s-go-skate-day-event/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Thrasher Weekend: Montreal New Date",
-    "link": "https://www.thrashermagazine.com/articles/events/thrasher-weekend-montreal-new-date/",
+    "title": "\"Byst of WSC\" Event in the Netherlands",
+    "link": "https://www.thrashermagazine.com/articles/events/byst-of-wsc-event-in-the-netherlands/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
