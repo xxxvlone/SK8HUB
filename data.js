@@ -7,13 +7,6 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Vans' Go Skateboarding Day Brooklyn Banks Event",
-    "link": "https://www.thrashermagazine.com/articles/events/vans-go-skateboarding-day-brooklyn-banks-event/",
-    "score": 4,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "NikeSB Asia Tour come to China in July",
     "link": "https://www.kickerclub.com/2026/07/nikesb-asia-tour-come-to-china-in-july/",
     "score": 4,
@@ -21,18 +14,11 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "Skateboarding",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
+    "title": "Vans' Go Skateboarding Day Brooklyn Banks Event",
+    "link": "https://www.thrashermagazine.com/articles/events/vans-go-skateboarding-day-brooklyn-banks-event/",
+    "score": 4,
     "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "instagram",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "Thrasher"
   },
   {
     "title": "Discipline",
@@ -56,17 +42,31 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Matthieu Lucas D'Souza Pass~Port Raw Edit",
-    "link": "https://www.thrashermagazine.com/articles/trash/matthieu-lucas-d-souza-pass-port-raw-edit/",
+    "title": "World Skateboarding Ranking Explained!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3899-world-skateboarding-ranking-explained.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "\"Byst of WSC\" Event in the Netherlands",
+    "link": "https://www.thrashermagazine.com/articles/events/byst-of-wsc-event-in-the-netherlands/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Bellevegas Beatdown 2026 Event",
-    "link": "https://www.thrashermagazine.com/articles/events/bellevegas-beatdown-2026/",
+    "title": "Jun.20th - Vision GSD 2026",
+    "link": "https://www.kickerclub.com/2026/06/jun-20th-vision-gsd-2026/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "KickerClub"
+  },
+  {
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
   }
 ];
