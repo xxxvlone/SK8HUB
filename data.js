@@ -21,8 +21,8 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "instagram",
-    "link": "https://www.worldskate.org/skateboarding.html",
+    "title": "LA28: Q-Series Update!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
@@ -35,25 +35,25 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Super Skate Posse Giveback 34: New Brunswick, NJ",
-    "link": "https://www.thrashermagazine.com/articles/trash/super-skate-posse-giveback-34-new-brunswick-nj/",
+    "title": "Humidity's Go Skate Day Event",
+    "link": "https://www.thrashermagazine.com/articles/events/humidity-s-go-skate-day-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Manolo's Tape \"Crème Brulée\" Cliché Retrospective Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/manolo-s-tape-creme-brulee-cliche-retrospective-video/",
+    "title": "World Skateboarding Ranking Explained!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3899-world-skateboarding-ranking-explained.html",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "World Skate"
   },
   {
-    "title": "Matthieu Lucas D'Souza Pass~Port Raw Edit",
-    "link": "https://www.thrashermagazine.com/articles/trash/matthieu-lucas-d-souza-pass-port-raw-edit/",
+    "title": "instagram",
+    "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "World Skate"
   },
   {
     "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
@@ -63,10 +63,10 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Humidity's Go Skate Day Event",
-    "link": "https://www.thrashermagazine.com/articles/events/humidity-s-go-skate-day-event/",
+    "title": "Pedro Barros Set to Hit Nanjing for Bowl Masterclass",
+    "link": "https://www.kickerclub.com/2026/07/pedro-barros-set-to-hit-nanjing-for-bowl-masterclass/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "KickerClub"
   }
 ];
