@@ -1,10 +1,10 @@
 const newsData = [
   {
-    "title": "Ryan Sheckler VS Chris Joslin",
-    "link": "https://www.thrashermagazine.com/articles/videos/ryan-sheckler-vs-chris-joslin/",
-    "score": 8,
+    "title": "NikeSB Asia Tour come to China in July",
+    "link": "https://www.kickerclub.com/2026/07/nikesb-asia-tour-come-to-china-in-july/",
+    "score": 4,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "KickerClub"
   },
   {
     "title": "Vans' Go Skateboarding Day Brooklyn Banks Event",
@@ -14,22 +14,29 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "NikeSB Asia Tour come to China in July",
-    "link": "https://www.kickerclub.com/2026/07/nikesb-asia-tour-come-to-china-in-july/",
-    "score": 4,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
-    "title": "Humidity's Go Skate Day Event",
-    "link": "https://www.thrashermagazine.com/articles/events/humidity-s-go-skate-day-event/",
+    "title": "Spike Jonze Talk at \"Push Play\" Skate Video Festival",
+    "link": "https://www.thrashermagazine.com/articles/events/spike-jonze-talk-at-push-play-skate-video-festival/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
+    "title": "LA28: Q-Series Update!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
     "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
@@ -42,15 +49,15 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Pedro Barros Set to Hit Nanjing for Bowl Masterclass",
-    "link": "https://www.kickerclub.com/2026/07/pedro-barros-set-to-hit-nanjing-for-bowl-masterclass/",
+    "title": "Maurio McCoy for Mob Grip",
+    "link": "https://www.thrashermagazine.com/articles/trash/maurio-mccoy-for-mob-grip/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "KickerClub"
+    "source": "Thrasher"
   },
   {
-    "title": "\"Byst of WSC\" Event in the Netherlands",
-    "link": "https://www.thrashermagazine.com/articles/events/byst-of-wsc-event-in-the-netherlands/",
+    "title": "Uptown Takeover 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/uptown-takeover-2026-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -61,12 +68,5 @@ const newsData = [
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
-  },
-  {
-    "title": "Jun.20th - Vision GSD 2026",
-    "link": "https://www.kickerclub.com/2026/06/jun-20th-vision-gsd-2026/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
   }
 ];
