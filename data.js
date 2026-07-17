@@ -1,72 +1,72 @@
 const newsData = [
   {
-    "title": "NikeSB Asia Tour come to China in July",
-    "link": "https://www.kickerclub.com/2026/07/nikesb-asia-tour-come-to-china-in-july/",
-    "score": 14,
-    "summary": "NikeSB亚洲巡演七月登陆中国，街头文化风暴即将席卷本土滑板圈！",
-    "source": "KickerClub"
+    "title": "My War: Jace De Tomasso",
+    "link": "https://www.thrashermagazine.com/articles/videos/my-war-jace-de-tomasso/",
+    "score": 13,
+    "summary": "Thrasher重磅发布Jace De Tomasso个人片段《My War》，硬核滑板精神直面街头暴力美学，这才是真正的滑板战争。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
+    "score": 13,
+    "summary": "罗马WST世界杯落幕：谁在2026奥运周期首战封王？滑板街头血脉与历史纪录齐飞！",
+    "source": "World Skate"
   },
   {
     "title": "Pedro Barros Set to Hit Nanjing for Bowl Masterclass",
     "link": "https://www.kickerclub.com/2026/07/pedro-barros-set-to-hit-nanjing-for-bowl-masterclass/",
-    "score": 14,
-    "summary": "巴西碗池之王Pedro Barros空降南京，街头传奇即将在中国碗池掀起新一轮狂潮！",
+    "score": 13,
+    "summary": "巴西碗池之王Pedro Barros空降南京，街头传奇即将在中国碗池掀起一场滑板风暴！",
     "source": "KickerClub"
-  },
-  {
-    "title": "Vans' Go Skateboarding Day Brooklyn Banks Event",
-    "link": "https://www.thrashermagazine.com/articles/events/vans-go-skateboarding-day-brooklyn-banks-event/",
-    "score": 14,
-    "summary": "Vans携手Thrasher在布鲁克林银行滑板场引爆世界滑板日，街头文化狂潮直击滑板圈心脏！",
-    "source": "Thrasher"
-  },
-  {
-    "title": "\"Byst of WSC\" Event in the Netherlands",
-    "link": "https://www.thrashermagazine.com/articles/events/byst-of-wsc-event-in-the-netherlands/",
-    "score": 13,
-    "summary": "荷兰WSC赛事现场惊现疯狂一幕：滑板传奇与街头文化碰撞，全球滑手用极限动作重新定义“自由”的边界！",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Uptown Takeover 2026 Event",
-    "link": "https://www.thrashermagazine.com/articles/events/uptown-takeover-2026-event/",
-    "score": 13,
-    "summary": "Thrasher官宣Uptown Takeover 2026：街头文化顶流赛事回归，传奇滑手与新生代同场炸场，纽约街头即将掀起年度最强滑板风暴！",
-    "source": "Thrasher"
   },
   {
     "title": "Vans Brings Back the AVE Classic",
     "link": "https://www.thrashermagazine.com/articles/trash/vans-brings-back-the-ave-classic/",
     "score": 12,
-    "summary": "Vans经典滑板鞋AVE回归，传奇滑手Anthony Van Engelen签名款再掀街头热潮。",
+    "summary": "Vans经典滑板鞋AVE回归，重现职业滑手Anthony Van Engelen的传奇设计，街头文化再掀热潮。",
     "source": "Thrasher"
   },
   {
-    "title": "Bellevegas Beatdown 2026 Event",
-    "link": "https://www.thrashermagazine.com/articles/events/bellevegas-beatdown-2026/",
-    "score": 12,
-    "summary": "Thrasher重磅预告：Bellevegas Beatdown 2026赛事落地，街头硬核滑板战火即将点燃，谁能在赌城街头称王？",
+    "title": "\"Can't See Zee\" 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/can-t-see-zee-2026-event/",
+    "score": 11,
+    "summary": "Thrasher重磅发布“Can‘t See Zee”2026赛事预告，街头传奇与新星集结，暗藏颠覆性文化信号！",
+    "source": "Thrasher"
+  },
+  {
+    "title": "\"Byst of WSC\" Event in the Netherlands",
+    "link": "https://www.thrashermagazine.com/articles/events/byst-of-wsc-event-in-the-netherlands/",
+    "score": 11,
+    "summary": "荷兰街头硬核赛事“WSC之巅”引爆滑板圈，Thrasher镜头下极限动作与地下文化碰撞出年度最野现场。",
     "source": "Thrasher"
   },
   {
     "title": "LA28: Q-Series Update!",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
     "score": 11,
-    "summary": "LA28奥运滑板资格赛正式启动，全球顶尖滑手争夺洛杉矶首秀入场券，街头文化即将引爆奥运赛场。",
+    "summary": "洛杉矶奥运滑板资格赛战火重燃：世界滑板联合会官宣LA28系列赛首站名单，谁将率先锁定奥运入场券？",
     "source": "World Skate"
   },
   {
-    "title": "Spitfire X Slappy's Garage Skate Jam",
-    "link": "https://www.thrashermagazine.com/articles/events/spitfire-x-slappy-s-garage-skate-jam/",
+    "title": "NikeSB Asia Tour come to China in July",
+    "link": "https://www.kickerclub.com/2026/07/nikesb-asia-tour-come-to-china-in-july/",
     "score": 10,
-    "summary": "Spitfire联手Slappy’s Garage打造街头滑板赛，经典轮子品牌与车库滑板文化碰撞，硬核玩家不容错过。",
+    "summary": "NikeSB亚洲巡演七月登陆中国，街头文化风暴即将席卷本土滑板圈！",
+    "source": "KickerClub"
+  },
+  {
+    "title": "Vans' Go Skateboarding Day Brooklyn Banks Event",
+    "link": "https://www.thrashermagazine.com/articles/events/vans-go-skateboarding-day-brooklyn-banks-event/",
+    "score": 10,
+    "summary": "Vans携手Thrasher在布鲁克林Banks重燃街头滑板之魂，全球滑板日现场见证传奇地标回归与OG滑手狂欢！",
     "source": "Thrasher"
   },
   {
-    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
-    "score": 10,
-    "summary": "罗马2026滑板世界杯落幕：新王加冕改写历史，街头血脉与奥运基因的终极碰撞！",
-    "source": "World Skate"
+    "title": "Spike Jonze Talk at \"Push Play\" Skate Video Festival",
+    "link": "https://www.thrashermagazine.com/articles/events/spike-jonze-talk-at-push-play-skate-video-festival/",
+    "score": 9,
+    "summary": "Spike Jonze在“Push Play”滑板影像节上深度解析滑板与街头文化交融的黄金时代，引发影迷和滑板圈集体怀旧。",
+    "source": "Thrasher"
   }
 ];
