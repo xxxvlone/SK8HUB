@@ -1,72 +1,72 @@
 const newsData = [
   {
+    "title": "Pedro Barros Set to Hit Nanjing for Bowl Masterclass",
+    "link": "https://www.kickerclub.com/2026/07/pedro-barros-set-to-hit-nanjing-for-bowl-masterclass/",
+    "score": 14,
+    "summary": "巴西碗池之王佩德罗·巴罗斯空降南京，街头传奇与中国地标碰撞，碗池大师课即将引爆滑板圈！",
+    "source": "KickerClub"
+  },
+  {
+    "title": "NikeSB Asia Tour come to China in July",
+    "link": "https://www.kickerclub.com/2026/07/nikesb-asia-tour-come-to-china-in-july/",
+    "score": 14,
+    "summary": "NikeSB亚洲巡演七月登陆中国，街头文化风暴即将席卷本土滑板圈！",
+    "source": "KickerClub"
+  },
+  {
     "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
-    "score": 14,
-    "summary": "罗马2026滑板世界杯落幕：奥运积分战改写历史，冠军新王加冕引爆街头文化热潮。",
+    "score": 13,
+    "summary": "WST罗马世界杯2026落幕，奥运积分战再现历史性对决，冠军归属改写滑板格局。",
     "source": "World Skate"
   },
   {
-    "title": "Spitfire X Slappy's Garage Skate Jam",
-    "link": "https://www.thrashermagazine.com/articles/events/spitfire-x-slappy-s-garage-skate-jam/",
+    "title": "Vans Brings Back the AVE Classic",
+    "link": "https://www.thrashermagazine.com/articles/trash/vans-brings-back-the-ave-classic/",
     "score": 12,
-    "summary": "Spitfire联手Slappy‘s Garage打造滑板社区狂欢，街头硬核与车库文化碰撞出年度最躁赛事！",
-    "source": "Thrasher"
-  },
-  {
-    "title": "LA28: Q-Series Update!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
-    "score": 12,
-    "summary": "LA28滑板奥运资格赛Q系列更新：谁能抢下通往洛杉矶的首发门票？全球顶尖滑手正为改写历史纪录而战！",
-    "source": "World Skate"
-  },
-  {
-    "title": "Bellevegas Beatdown 2026 Event",
-    "link": "https://www.thrashermagazine.com/articles/events/bellevegas-beatdown-2026/",
-    "score": 12,
-    "summary": "Thrasher重磅发布Bellevegas Beatdown 2026赛事预告，街头硬核对决即将点燃赌城狂潮。",
+    "summary": "Vans经典鞋款AVE回归，传奇滑手签名鞋再掀街头浪潮！",
     "source": "Thrasher"
   },
   {
     "title": "Vans' Go Skateboarding Day Brooklyn Banks Event",
     "link": "https://www.thrashermagazine.com/articles/events/vans-go-skateboarding-day-brooklyn-banks-event/",
     "score": 12,
-    "summary": "Vans在纽约布鲁克林班克斯滑板场引爆世界滑板日，街头传奇与新生代齐聚，用最硬核的板面碰撞定义自由极限。",
+    "summary": "Vans联手Thrasher在布鲁克林银行滑板场引爆世界滑板日，街头文化与经典地标的碰撞再度定义滑板狂潮。",
     "source": "Thrasher"
   },
   {
-    "title": "NikeSB Asia Tour come to China in July",
-    "link": "https://www.kickerclub.com/2026/07/nikesb-asia-tour-come-to-china-in-july/",
-    "score": 12,
-    "summary": "NikeSB亚洲巡演七月登陆中国，街头文化风暴即将席卷本土滑板圈。",
-    "source": "KickerClub"
-  },
-  {
-    "title": "\"Byst of WSC\" Event in the Netherlands",
-    "link": "https://www.thrashermagazine.com/articles/events/byst-of-wsc-event-in-the-netherlands/",
-    "score": 11,
-    "summary": "荷兰WSC赛事现场炸裂，Thrasher镜头下的街头狠招让欧洲滑板圈集体沸腾！",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Vans Brings Back the AVE Classic",
-    "link": "https://www.thrashermagazine.com/articles/trash/vans-brings-back-the-ave-classic/",
+    "title": "Maurio McCoy for Mob Grip",
+    "link": "https://www.thrashermagazine.com/articles/trash/maurio-mccoy-for-mob-grip/",
     "score": 10,
-    "summary": "Vans 经典滑板鞋 AVE 复刻回归，传奇滑手 Anthony Van Engelen 签名款再掀街头风潮。",
+    "summary": "Maurio McCoy正式签约Mob Grip，街头滑板界再添硬核悍将，这位以流畅风格和狠招闻名的滑手将用新板面定义滑板与街头文化的碰撞。",
     "source": "Thrasher"
   },
   {
-    "title": "Pedro Barros Set to Hit Nanjing for Bowl Masterclass",
-    "link": "https://www.kickerclub.com/2026/07/pedro-barros-set-to-hit-nanjing-for-bowl-masterclass/",
+    "title": "LA28: Q-Series Update!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
     "score": 10,
-    "summary": "巴西碗池之王Pedro Barros即将空降南京，街头滑板与奥运冠军级碰撞引爆中国极限运动圈！",
-    "source": "KickerClub"
+    "summary": "奥运滑板资格赛战火重燃！LA28赛季Q系列赛程公布，全球顶尖滑手争夺通往洛杉矶的入场券。",
+    "source": "World Skate"
+  },
+  {
+    "title": "Dinosaur Jr.'s \"Several Got Away\" Music Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/dinosaur-jr-s-several-got-away-music-video/",
+    "score": 10,
+    "summary": "Dinosaur Jr.乐队新MV《Several Got Away》释出，Thrasher独家呈现摇滚与滑板文化的硬核碰撞。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "My War: Jace De Tomasso",
+    "link": "https://www.thrashermagazine.com/articles/videos/my-war-jace-de-tomasso/",
+    "score": 9,
+    "summary": "Thrasher发布Jace De Tomasso个人片段《My War》，以硬核滑板精神与街头暴力美学诠释“战争即日常”，非奥运赛道却引爆地下圈层热议。",
+    "source": "Thrasher"
   },
   {
     "title": "Low Key's \"Back To The Plaza 3\" Event",
     "link": "https://www.thrashermagazine.com/articles/events/low-key-s-back-to-the-plaza-3-event/",
-    "score": 10,
-    "summary": "Low Key重返经典地标，“Back To The Plaza 3”以纯粹街头能量唤醒滑板文化最原始的狂欢。",
+    "score": 9,
+    "summary": "Low Key携“Back To The Plaza 3”重返街头，老牌滑板社群用最纯粹的 plaza 地形致敬滑板文化的根源，没有奥运，只有板面与水泥的硬核对话。",
     "source": "Thrasher"
   }
 ];
