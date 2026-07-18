@@ -1,72 +1,72 @@
 const newsData = [
   {
-    "title": "Vans' Go Skateboarding Day Brooklyn Banks Event",
-    "link": "https://www.thrashermagazine.com/articles/events/vans-go-skateboarding-day-brooklyn-banks-event/",
-    "score": 16,
-    "summary": "Vans重返布鲁克林Banks滑板圣地引爆世界滑板日，街头传奇与新生代高手同场炸裂，这才是滑板文化最野的狂欢！",
-    "source": "Thrasher"
-  },
-  {
-    "title": "NikeSB Asia Tour come to China in July",
-    "link": "https://www.kickerclub.com/2026/07/nikesb-asia-tour-come-to-china-in-july/",
-    "score": 15,
-    "summary": "NikeSB亚洲巡演七月登陆中国，街头文化风暴即将席卷本土滑板圈！",
-    "source": "KickerClub"
-  },
-  {
     "title": "Pedro Barros Set to Hit Nanjing for Bowl Masterclass",
     "link": "https://www.kickerclub.com/2026/07/pedro-barros-set-to-hit-nanjing-for-bowl-masterclass/",
-    "score": 13,
-    "summary": "巴西碗池之王Pedro Barros空降南京，街头传奇即将在古都掀起滑板狂潮！",
+    "score": 18,
+    "summary": "巴西传奇碗池滑手Pedro Barros空降南京，街头与奥运双料冠军即将上演中国碗池大师课！",
     "source": "KickerClub"
   },
   {
     "title": "LA28: Q-Series Update!",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
-    "score": 13,
-    "summary": "滑板奥运资格赛LA28赛季正式启动，全球顶尖滑手争夺历史首张入场券！",
+    "score": 14,
+    "summary": "LA28奥运资格系列赛正式启动，全球滑板高手争夺历史首发名额，街头文化即将席卷奥运赛场！",
     "source": "World Skate"
-  },
-  {
-    "title": "Spitfire X Slappy's Garage Skate Jam",
-    "link": "https://www.thrashermagazine.com/articles/events/spitfire-x-slappy-s-garage-skate-jam/",
-    "score": 12,
-    "summary": "Spitfire联手Slappy’s Garage打造滑板街头派对，Thrasher镜头下老炮与新血碰撞，硬核轮子文化点燃野性躁动。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Uptown Takeover 2026 Event",
-    "link": "https://www.thrashermagazine.com/articles/events/uptown-takeover-2026-event/",
-    "score": 12,
-    "summary": "Thrasher官宣2026年Uptown Takeover赛事，街头文化与滑板硬核碰撞，谁将主宰纽约街头？",
-    "source": "Thrasher"
   },
   {
     "title": "Vans Brings Back the AVE Classic",
     "link": "https://www.thrashermagazine.com/articles/trash/vans-brings-back-the-ave-classic/",
     "score": 12,
-    "summary": "Vans经典鞋款AVE回归，传奇滑手Anthony Van Engelen签名鞋再度点燃街头。",
+    "summary": "Vans经典滑板鞋AVE重出江湖，传奇滑手Anthony Van Engelen的签名款回归街头。",
     "source": "Thrasher"
   },
   {
-    "title": "Lau Willems' \"THERE\" Part",
-    "link": "https://www.thrashermagazine.com/articles/videos/lau-willems-there-part/",
-    "score": 11,
-    "summary": "Thrasher重磅发布Lau Willems个人片段“THERE”，用纯粹街头动作与粗糙质感宣告滑板最原始的生命力仍在燃烧。",
+    "title": "Vans' Go Skateboarding Day Brooklyn Banks Event",
+    "link": "https://www.thrashermagazine.com/articles/events/vans-go-skateboarding-day-brooklyn-banks-event/",
+    "score": 12,
+    "summary": "Vans携手Thrasher在布鲁克林银行滑板场引爆世界滑板日，街头传奇与新生代齐聚，用最纯粹的滑板精神定义年度狂欢。",
     "source": "Thrasher"
   },
   {
     "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
     "score": 11,
-    "summary": "罗马WST世界杯落幕，奥运积分赛首站即创历史，冠军新王加冕改写滑板版图！",
+    "summary": "罗马2026滑板世界杯落幕：新王加冕改写历史，街头文化与奥运资格争夺战引爆全球关注。",
     "source": "World Skate"
   },
   {
-    "title": "\"Byst of WSC\" Event in the Netherlands",
-    "link": "https://www.thrashermagazine.com/articles/events/byst-of-wsc-event-in-the-netherlands/",
-    "score": 11,
-    "summary": "荷兰“Byst of WSC”赛事惊现街头狂潮，Thrasher镜头下暴力美学炸裂，谁将接棒滑板霸权？",
+    "title": "NikeSB Asia Tour come to China in July",
+    "link": "https://www.kickerclub.com/2026/07/nikesb-asia-tour-come-to-china-in-july/",
+    "score": 10,
+    "summary": "NikeSB亚洲巡回赛七月登陆中国，街头文化与滑板热潮即将引爆本土！",
+    "source": "KickerClub"
+  },
+  {
+    "title": "Lau Willems' \"THERE\" Part",
+    "link": "https://www.thrashermagazine.com/articles/videos/lau-willems-there-part/",
+    "score": 10,
+    "summary": "Thrasher释出Lau Willems个人片段“THERE”，硬核街头风格再度定义滑板视觉冲击力。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Bellevegas Beatdown 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/bellevegas-beatdown-2026/",
+    "score": 9,
+    "summary": "Thrasher公布Bellevegas Beatdown 2026赛事计划，街头硬核对决即将回归赌城，滑板圈年度最野集结令已发出。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Slappy Trucks' \"Purple Hospitatility\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/slappy-trucks-s-purple-hospitatlity-video/",
+    "score": 9,
+    "summary": "Slappy Trucks以“紫色热情”暴力美学轰炸街头，硬核滑板文化再掀狂潮。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Spitfire X Slappy's Garage Skate Jam",
+    "link": "https://www.thrashermagazine.com/articles/events/spitfire-x-slappy-s-garage-skate-jam/",
+    "score": 9,
+    "summary": "Spitfire联手Slappy's Garage打造街头滑板盛宴，硬核地形的原始激情再次点燃滑板圈。",
     "source": "Thrasher"
   }
 ];
