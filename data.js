@@ -14,32 +14,11 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "OJ's \"Koff Race 2026\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/oj-s-koff-race-2026-video/",
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "New Balance's \"Southerly\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/new-balance-s-southerly-video/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "THRASHER x SUPREME “Milano Centrale” Video",
-    "link": "https://www.thrashermagazine.com/articles/videos/thrasher-x-supreme-milano-centrale-video/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "THRASHER x SUPREME \"Milano Centrale\" Photos",
-    "link": "https://www.thrashermagazine.com/articles/thrasher-milano-supreme/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "World Skate"
   },
   {
     "title": "Humidity's Go Skate Day Event",
@@ -49,22 +28,43 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "\"Byst of WSC\" Event in the Netherlands",
-    "link": "https://www.thrashermagazine.com/articles/events/byst-of-wsc-event-in-the-netherlands/",
+    "title": "Ipath's East Coast Summer Tour",
+    "link": "https://www.thrashermagazine.com/articles/trash/ipath-s-east-coast-summer-tour/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Discipline",
+    "title": "LA28: Q-Series Update!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Jun.20th - Vision GSD 2026",
+    "link": "https://www.kickerclub.com/2026/06/jun-20th-vision-gsd-2026/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
+  },
+  {
+    "title": "Skateboarding",
     "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
   },
   {
-    "title": "Spitfire X Slappy's Garage Skate Jam",
-    "link": "https://www.thrashermagazine.com/articles/events/spitfire-x-slappy-s-garage-skate-jam/",
+    "title": "CSEF's 5K Skate-A-Thon Event",
+    "link": "https://www.thrashermagazine.com/articles/events/csef-s-5k-skate-a-thon-event/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Low Key's \"Back To The Plaza 3\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/low-key-s-back-to-the-plaza-3-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
