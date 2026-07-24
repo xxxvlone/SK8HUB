@@ -7,13 +7,6 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "NikeSB Asia Tour come to China in July",
-    "link": "https://www.kickerclub.com/2026/07/nikesb-asia-tour-come-to-china-in-july/",
-    "score": 4,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
     "title": "Chris Joslin's \"SOTY Rico\" Video",
     "link": "https://www.thrashermagazine.com/articles/videos/chris-joslin-s-soty-rico-video/",
     "score": 4,
@@ -21,22 +14,29 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Spitfire X Slappy's Garage Skate Jam",
-    "link": "https://www.thrashermagazine.com/articles/events/spitfire-x-slappy-s-garage-skate-jam/",
-    "score": 0,
+    "title": "NikeSB Asia Tour come to China in July",
+    "link": "https://www.kickerclub.com/2026/07/nikesb-asia-tour-come-to-china-in-july/",
+    "score": 4,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "KickerClub"
   },
   {
-    "title": "THRASHER x SUPREME “Milano Centrale” Video",
-    "link": "https://www.thrashermagazine.com/articles/videos/thrasher-x-supreme-milano-centrale-video/",
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "World Skate"
   },
   {
-    "title": "\"Byst of WSC\" Event in the Netherlands",
-    "link": "https://www.thrashermagazine.com/articles/events/byst-of-wsc-event-in-the-netherlands/",
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Humidity's Go Skate Day Event",
+    "link": "https://www.thrashermagazine.com/articles/events/humidity-s-go-skate-day-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -49,22 +49,22 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "OJ's \"Koff Race 2026\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/oj-s-koff-race-2026-video/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "instagram",
-    "link": "https://www.worldskate.org/skateboarding.html",
+    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
   },
   {
-    "title": "Spike Jonze Talk at \"Push Play\" Skate Video Festival",
-    "link": "https://www.thrashermagazine.com/articles/events/spike-jonze-talk-at-push-play-skate-video-festival/",
+    "title": "Uptown Takeover 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/uptown-takeover-2026-event/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "\"Byst of WSC\" Event in the Netherlands",
+    "link": "https://www.thrashermagazine.com/articles/events/byst-of-wsc-event-in-the-netherlands/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
