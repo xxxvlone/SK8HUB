@@ -14,15 +14,29 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
+    "title": "LA28: Q-Series Update!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
   },
   {
-    "title": "Skate AC's \"Uptown Takeover\" 2026 Photos",
-    "link": "https://www.thrashermagazine.com/articles/uptown-takeover-2026/",
+    "title": "RIP IN PEACE: Jay Smith",
+    "link": "https://www.thrashermagazine.com/articles/rip-in-peace-jay-smith/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Spitfire X Slappy's Garage Skate Jam",
+    "link": "https://www.thrashermagazine.com/articles/events/spitfire-x-slappy-s-garage-skate-jam/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Chris Chemaly's \"For What It's Worth\" Slappy's Garage Part",
+    "link": "https://www.thrashermagazine.com/articles/trash/chris-chemaly-s-for-what-it-s-worth-slappy-s-garage-part/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -35,8 +49,8 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "ICHPIG's \"A*US\" Video",
-    "link": "https://www.thrashermagazine.com/articles/videos/ichpig-s-au-s-video/",
+    "title": "Cliché's \"Last Supper Sizzle\" Board",
+    "link": "https://www.thrashermagazine.com/articles/trash/cliche-s-last-supper-sizzle-graphic-video/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -49,24 +63,10 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "instagram",
-    "link": "https://www.worldskate.org/skateboarding.html",
+    "title": "Pedro Barros Set to Hit Nanjing for Bowl Masterclass",
+    "link": "https://www.kickerclub.com/2026/07/pedro-barros-set-to-hit-nanjing-for-bowl-masterclass/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "LA28: Q-Series Update!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "Spitfire X Slappy's Garage Skate Jam",
-    "link": "https://www.thrashermagazine.com/articles/events/spitfire-x-slappy-s-garage-skate-jam/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "KickerClub"
   }
 ];
