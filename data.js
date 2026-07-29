@@ -14,15 +14,50 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "CSEF's 2026 Scholarship Class",
-    "link": "https://www.thrashermagazine.com/articles/trash/csef-s-2026-scholarship-class/",
+    "title": "Humidity's Go Skate Day Event",
+    "link": "https://www.thrashermagazine.com/articles/events/humidity-s-go-skate-day-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Spike Jonze Talk at \"Push Play\" Skate Video Festival",
-    "link": "https://www.thrashermagazine.com/articles/events/spike-jonze-talk-at-push-play-skate-video-festival/",
+    "title": "Skate AC's \"Uptown Takeover\" 2026 Photos",
+    "link": "https://www.thrashermagazine.com/articles/uptown-takeover-2026/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Slam City Interviews Chris Pulman",
+    "link": "https://www.thrashermagazine.com/articles/trash/slam-city-interviews-chris-pulman/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Pedro Barros Set to Hit Nanjing for Bowl Masterclass",
+    "link": "https://www.kickerclub.com/2026/07/pedro-barros-set-to-hit-nanjing-for-bowl-masterclass/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
+  },
+  {
+    "title": "Low Key's \"Back To The Plaza 3\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/low-key-s-back-to-the-plaza-3-event/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Uptown Takeover 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/uptown-takeover-2026-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -33,40 +68,5 @@ const newsData = [
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
-  },
-  {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "ICHPIG's \"A*US\" Video",
-    "link": "https://www.thrashermagazine.com/articles/videos/ichpig-s-au-s-video/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "RIP IN PEACE: Jay Smith",
-    "link": "https://www.thrashermagazine.com/articles/rip-in-peace-jay-smith/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "Jun.20th - Vision GSD 2026",
-    "link": "https://www.kickerclub.com/2026/06/jun-20th-vision-gsd-2026/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
   }
 ];
