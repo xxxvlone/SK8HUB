@@ -1,72 +1,72 @@
 const newsData = [
   {
-    "title": "Spitfire X Slappy's Garage Skate Jam",
-    "link": "https://www.thrashermagazine.com/articles/events/spitfire-x-slappy-s-garage-skate-jam/",
-    "score": 15,
-    "summary": "Spitfire联手传奇滑板店Slappy's Garage打造街头滑板赛，老炮与新秀同场炸板，纯正滑板文化的硬核狂欢！",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Low Key's \"Back To The Plaza 3\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/low-key-s-back-to-the-plaza-3-event/",
-    "score": 13,
-    "summary": "Low Key重回广场！街头滑板OG集结“Back To The Plaza 3”，纯正板场野性对决，谁才是广场之王？",
-    "source": "Thrasher"
-  },
-  {
     "title": "Pedro Barros Set to Hit Nanjing for Bowl Masterclass",
     "link": "https://www.kickerclub.com/2026/07/pedro-barros-set-to-hit-nanjing-for-bowl-masterclass/",
-    "score": 13,
-    "summary": "巴西碗池传奇Pedro Barros空降南京，奥运级碗池大师课即将炸翻街头！",
+    "score": 15,
+    "summary": "巴西碗池王者Pedro Barros空降南京，奥运级碗池大师课即将炸翻街头，中国滑板迷迎来史上最强互动现场！",
     "source": "KickerClub"
+  },
+  {
+    "title": "\"Byst of WSC\" Event in the Netherlands",
+    "link": "https://www.thrashermagazine.com/articles/events/byst-of-wsc-event-in-the-netherlands/",
+    "score": 13,
+    "summary": "荷兰WSC街头赛惊现“Byst”神迹，Thrasher独家直击——街头滑板再度刷新极限定义！",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Spike Jonze Talk at \"Push Play\" Skate Video Festival",
+    "link": "https://www.thrashermagazine.com/articles/events/spike-jonze-talk-at-push-play-skate-video-festival/",
+    "score": 13,
+    "summary": "传奇导演Spike Jonze亲临滑板影像节，用镜头语言重写街头文化教科书，这场对话注定刷屏滑板圈！",
+    "source": "Thrasher"
   },
   {
     "title": "EMERICA's \"Why Are You Doing This?\" Tour Video",
     "link": "https://www.thrashermagazine.com/articles/videos/emerica-s-why-are-you-doing-this-tour-video/",
     "score": 13,
-    "summary": "EMERICA传奇团队发布全新巡演大片《Why Are You Doing This?》，硬核街头滑板精神再度点燃全球板场！",
+    "summary": "EMERICA传奇队伍全员恶搞式巡演大片发布，街头滑板文化狂野回归，这才是滑板该有的样子！",
     "source": "Thrasher"
   },
   {
-    "title": "Death Match 2026 Tickets",
-    "link": "https://www.thrashermagazine.com/articles/events/death-match-2026-tickets/",
+    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
+    "score": 13,
+    "summary": "罗马WST世界杯落幕：新王登基改写滑板奥运积分格局，街头血脉与竞技巅峰在此碰撞！",
+    "source": "World Skate"
+  },
+  {
+    "title": "Spitfire X Slappy's Garage Skate Jam",
+    "link": "https://www.thrashermagazine.com/articles/events/spitfire-x-slappy-s-garage-skate-jam/",
     "score": 12,
-    "summary": "Death Match 2026门票开抢！Thrasher最野街头滑板对决回归，谁能活到最后？",
+    "summary": "Spitfire联手Slappy's Garage打造滑板公路狂欢，街头精神与硬核轮子碰撞，一场纯粹滑板玩家的车库派对正在点燃全美！",
     "source": "Thrasher"
-  },
-  {
-    "title": "NikeSB Asia Tour come to China in July",
-    "link": "https://www.kickerclub.com/2026/07/nikesb-asia-tour-come-to-china-in-july/",
-    "score": 11,
-    "summary": "NikeSB亚洲巡回赛七月登陆中国，街头势力即将引爆本土滑板圈！",
-    "source": "KickerClub"
   },
   {
     "title": "Bellevegas Beatdown 2026 Event",
     "link": "https://www.thrashermagazine.com/articles/events/bellevegas-beatdown-2026/",
     "score": 11,
-    "summary": "Thrasher年度硬核街头赛事Bellevegas Beatdown 2026官宣，滑板圈最野的街头混战即将点燃赌城！",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Death Match 2026 Tickets",
-    "link": "https://www.thrashermagazine.com/articles/events/death-match-2026-tickets/",
-    "score": 9,
-    "summary": "Death Match 2026门票开售！Thrasher年度最野街头滑板大战，硬核滑手血拼街头荣誉，手慢无！",
-    "source": "Thrasher"
-  },
-  {
-    "title": "\"Byst of WSC\" Event in the Netherlands",
-    "link": "https://www.thrashermagazine.com/articles/events/byst-of-wsc-event-in-the-netherlands/",
-    "score": 9,
-    "summary": "荷兰WSC现场炸裂：街头滑板与硬核朋克碰撞，谁在狂野地形上拿下年度最狠大招？",
+    "summary": "Thrasher重磅官宣：Bellevegas Beatdown 2026赛事落地，街头滑板硬核对决即将点燃赌城，谁将在这场无规则混战中封王？",
     "source": "Thrasher"
   },
   {
     "title": "LA28: Q-Series Update!",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
-    "score": 9,
-    "summary": "洛杉矶奥运资格赛战火重燃，世界滑联公布最新赛程，谁能抢下通往2028的首发门票？",
+    "score": 11,
+    "summary": "奥运滑板资格赛战火重燃，LA28新周期首个积分窗口开启，谁将率先锁定通往好莱坞的滑板门票？",
     "source": "World Skate"
+  },
+  {
+    "title": "Death Match 2026 Tickets",
+    "link": "https://www.thrashermagazine.com/articles/events/death-match-2026-tickets/",
+    "score": 11,
+    "summary": "Thrasher年度硬核盛宴Death Match 2026门票开抢，街头滑板最野对决即将点燃战火！",
+    "source": "Thrasher"
+  },
+  {
+    "title": "The Only Toby That Matters",
+    "link": "https://www.thrashermagazine.com/articles/burnout/the-only-toby-that-matters/",
+    "score": 10,
+    "summary": "Thrasher力推传奇滑手Toby，街头之王地位无可撼动，这才是真正的“Toby”该有的样子！",
+    "source": "Thrasher"
   }
 ];
