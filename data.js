@@ -2,71 +2,71 @@ const newsData = [
   {
     "title": "Pedro Barros Set to Hit Nanjing for Bowl Masterclass",
     "link": "https://www.kickerclub.com/2026/07/pedro-barros-set-to-hit-nanjing-for-bowl-masterclass/",
-    "score": 15,
-    "summary": "巴西碗池之王Pedro Barros空降南京，奥运级滑板大师课即将炸场——中国碗池迷的终极朝圣时刻！",
+    "score": 14,
+    "summary": "巴西碗池传奇Pedro Barros空降南京，中国滑板迷迎来世界级碗池大师课！",
     "source": "KickerClub"
   },
   {
     "title": "Kieran Woolley's \"Opera\" Part",
     "link": "https://www.thrashermagazine.com/articles/videos/kieran-woolley-s-opera-part/",
     "score": 13,
-    "summary": "Thrasher独家放送！澳洲滑板新星Kieran Woolley以歌剧为名，用狂暴街式动作撕裂悉尼街头，定义新一代地形征服美学。",
-    "source": "Thrasher"
-  },
-  {
-    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
-    "score": 13,
-    "summary": "罗马WST世界杯落幕，奥运积分赛首站即爆冷门——新王登基改写滑板历史，街头血脉与竞技巅峰在此刻碰撞！",
-    "source": "World Skate"
-  },
-  {
-    "title": "Spike Jonze Talk at \"Push Play\" Skate Video Festival",
-    "link": "https://www.thrashermagazine.com/articles/events/spike-jonze-talk-at-push-play-skate-video-festival/",
-    "score": 13,
-    "summary": "传奇导演Spike Jonze现身滑板电影节，用一部短片重新定义街头叙事的边界——这不仅是致敬，更是对滑板文化灵魂的再次唤醒。",
+    "summary": "澳洲滑板新星Kieran Woolley用一部《Opera》打破滑板视频的视觉常规，将街头动作与古典舞台美学暴力融合，这或许是今年最不像滑板片却最让人上头的作品。",
     "source": "Thrasher"
   },
   {
     "title": "EMERICA's \"Why Are You Doing This?\" Tour Video",
     "link": "https://www.thrashermagazine.com/articles/videos/emerica-s-why-are-you-doing-this-tour-video/",
     "score": 13,
-    "summary": "EMERICA传奇队伍全员疯癫上路，街头滑板暴力美学新片《Why Are You Doing This?》震撼发布，这才是滑板文化的原始野性！",
+    "summary": "EMERICA传奇团队发布全新巡演大片，硬核滑板精神回归街头，这就是滑板该有的样子！",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Spike Jonze Talk at \"Push Play\" Skate Video Festival",
+    "link": "https://www.thrashermagazine.com/articles/events/spike-jonze-talk-at-push-play-skate-video-festival/",
+    "score": 13,
+    "summary": "传奇导演Spike Jonze亲临滑板电影节，用一部影像唤醒街头文化的黄金年代——这不仅是怀旧，更是对滑板灵魂的重新定义。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "\"Byst of WSC\" Event in the Netherlands",
+    "link": "https://www.thrashermagazine.com/articles/events/byst-of-wsc-event-in-the-netherlands/",
+    "score": 13,
+    "summary": "荷兰WSC赛事惊现“Byst”神级动作，街头能量炸翻全场，谁才是真正的滑板之王？",
     "source": "Thrasher"
   },
   {
     "title": "The Only Toby That Matters",
     "link": "https://www.thrashermagazine.com/articles/burnout/the-only-toby-that-matters/",
     "score": 13,
-    "summary": "Thrasher力推：Toby这个名号只属于滑板圈的真神，街头血脉碾压一切流量噱头！",
+    "summary": "Thrasher力挺“唯一真托比”——滑板圈顶流之争，街头血脉碾压一切虚名！",
+    "source": "Thrasher"
+  },
+  {
+    "title": "\"Can't See Zee\" 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/can-t-see-zee-2026-event/",
+    "score": 12,
+    "summary": "Thrasher年度重磅：全新赛事“Can't See Zee”2026官宣，街头滑板再掀狂潮，谁能抢下首冠？",
     "source": "Thrasher"
   },
   {
     "title": "NikeSB Asia Tour come to China in July",
     "link": "https://www.kickerclub.com/2026/07/nikesb-asia-tour-come-to-china-in-july/",
-    "score": 11,
-    "summary": "NikeSB亚洲巡回首降中国，七月滑板街头风暴即将登陆！",
+    "score": 10,
+    "summary": "NikeSB亚洲巡回赛七月登陆中国，街头滑板与潮流文化即将引爆本土滑板圈！",
     "source": "KickerClub"
   },
   {
-    "title": "Death Match 2026 Tickets",
-    "link": "https://www.thrashermagazine.com/articles/events/death-match-2026-tickets/",
+    "title": "Jun.20th - Vision GSD 2026",
+    "link": "https://www.kickerclub.com/2026/06/jun-20th-vision-gsd-2026/",
     "score": 10,
-    "summary": "Thrasher年度滑板血腥派对“Death Match 2026”门票开抢，街头之王争夺战一触即发！",
-    "source": "Thrasher"
+    "summary": "Vision GSD 2026官宣定档6月20日，街头滑板年度重磅赛事回归，谁能接棒传奇？",
+    "source": "KickerClub"
   },
   {
-    "title": "Bellevegas Beatdown 2026 Event",
-    "link": "https://www.thrashermagazine.com/articles/events/bellevegas-beatdown-2026/",
+    "title": "LA28: Q-Series Update!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
     "score": 9,
-    "summary": "Thrasher年度硬核街头赛Bellevegas Beatdown 2026官宣回归，滑板圈最野的地形与最狠的摔跤即将上演，谁能在赌城街头称王？",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Ed Templeton in Paris for RVCA",
-    "link": "https://www.thrashermagazine.com/articles/trash/ed-templeton-in-paris-for-rvca/",
-    "score": 9,
-    "summary": "传奇滑手Ed Templeton现身巴黎街头，用最纯粹的滑板姿态向RVCA致敬——没有奥运光环，只有街头信仰。",
-    "source": "Thrasher"
+    "summary": "奥运滑板资格赛新赛季启动，洛杉矶2028周期首战打响，全球滑手争夺通往奥运的首发门票！",
+    "source": "World Skate"
   }
 ];
