@@ -1,72 +1,72 @@
 const newsData = [
   {
-    "title": "Pedro Barros Set to Hit Nanjing for Bowl Masterclass",
-    "link": "https://www.kickerclub.com/2026/07/pedro-barros-set-to-hit-nanjing-for-bowl-masterclass/",
-    "score": 16,
-    "summary": "奥运冠军Pedro Barros空降南京碗池赛，地表最强滑板教学即将引爆中国街头！",
-    "source": "KickerClub"
-  },
-  {
-    "title": "Kieran Woolley's \"Opera\" Part",
-    "link": "https://www.thrashermagazine.com/articles/videos/kieran-woolley-s-opera-part/",
-    "score": 15,
-    "summary": "澳洲滑板神童Kieran Woolley以歌剧般狂野的“Opera”片段登陆Thrasher，用教科书级大乱与街头韵律重新定义奥运级滑板美学！",
+    "title": "Uptown Takeover 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/uptown-takeover-2026-event/",
+    "score": 13,
+    "summary": "Thrasher年度街头盛事Uptown Takeover 2026官宣，顶级滑手将占领城市广场，把嘻哈节奏与滑板狠招焊进柏油路——这波街头统治力，不看后悔一年。",
     "source": "Thrasher"
   },
   {
     "title": "The Only Toby That Matters",
     "link": "https://www.thrashermagazine.com/articles/burnout/the-only-toby-that-matters/",
-    "score": 14,
-    "summary": "滑板界至高无上的“Toby”之名易主？Thrasher重磅特辑直指唯一真神——不是奥运冠军，不是历史纪录，而是街头与嘻哈灵魂的终极化身！",
+    "score": 13,
+    "summary": "Thrasher年度之王揭晓：不是奥运冠军，也不是流量巨星，而是那个让街头重新记住“Toby”名字的人——这才是滑板圈真正的地表最强认证。",
     "source": "Thrasher"
   },
   {
-    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
+    "title": "Kieran Woolley's \"Opera\" Part",
+    "link": "https://www.thrashermagazine.com/articles/videos/kieran-woolley-s-opera-part/",
     "score": 13,
-    "summary": "罗马世界杯落幕，奥运积分战改写历史——谁在永恒之城锁定了通往洛杉矶的门票？",
-    "source": "World Skate"
-  },
-  {
-    "title": "Toby Ryan is PRO for REAL Skateboards",
-    "link": "https://www.thrashermagazine.com/articles/videos/toby-ryan-is-pro-for-real-skateboards/",
-    "score": 13,
-    "summary": "Toby Ryan正式晋升REAL滑板职业队，街头硬核血脉再添新王！",
+    "summary": "澳洲奥运滑手Kieran Woolley携《Opera》重磅登场，Thrasher首发个人大片——街头与古典的暴力美学，重新定义滑板视觉叙事！",
     "source": "Thrasher"
   },
   {
     "title": "Spike Jonze Talk at \"Push Play\" Skate Video Festival",
     "link": "https://www.thrashermagazine.com/articles/events/spike-jonze-talk-at-push-play-skate-video-festival/",
     "score": 13,
-    "summary": "传奇导演Spike Jonze亲临滑板影展，用一场演讲把街头文化推上神坛！",
+    "summary": "传奇导演Spike Jonze亲临滑板影像节开讲，一场关于镜头与街头文化的巅峰对话即将引爆圈内！",
     "source": "Thrasher"
   },
   {
-    "title": "EMERICA's \"Why Are You Doing This?\" Tour Video",
-    "link": "https://www.thrashermagazine.com/articles/videos/emerica-s-why-are-you-doing-this-tour-video/",
+    "title": "Toby Ryan is PRO for REAL Skateboards",
+    "link": "https://www.thrashermagazine.com/articles/videos/toby-ryan-is-pro-for-real-skateboards/",
     "score": 13,
-    "summary": "EMERICA团队疯滑全美，街头暴力美学新片引爆滑板圈，这才是纯正的滑板灵魂！",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Low Key's \"Back To The Plaza 3\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/low-key-s-back-to-the-plaza-3-event/",
-    "score": 13,
-    "summary": "Low Key重回广场！街头滑板精神不死，Back To The Plaza 3点燃滑板圈最纯粹的街头战火。",
+    "summary": "Toby Ryan正式晋升REAL滑板职业队，街头硬核势力再添猛将！",
     "source": "Thrasher"
   },
   {
     "title": "NikeSB Asia Tour come to China in July",
     "link": "https://www.kickerclub.com/2026/07/nikesb-asia-tour-come-to-china-in-july/",
     "score": 11,
-    "summary": "NikeSB亚洲巡回赛七月登陆中国，街头滑板风暴即将席卷本土！",
+    "summary": "NikeSB亚洲巡回赛七月登陆中国，街头潮流风暴即将席卷滑板圈！",
     "source": "KickerClub"
   },
   {
-    "title": "Uptown Takeover 2026 Event",
-    "link": "https://www.thrashermagazine.com/articles/events/uptown-takeover-2026-event/",
-    "score": 9,
-    "summary": "Thrasher年度街头大戏“Uptown Takeover”官宣2026档期，顶尖滑手将再度接管城市地标，纯正街头血脉引爆下季期待。",
+    "title": "EMERICA's \"Why Are You Doing This?\" Tour Video",
+    "link": "https://www.thrashermagazine.com/articles/videos/emerica-s-why-are-you-doing-this-tour-video/",
+    "score": 11,
+    "summary": "EMERICA全员疯癫公路片式巡演视频发布，街头滑板精神硬核回归，这波操作比冠军奖杯更带劲！",
     "source": "Thrasher"
+  },
+  {
+    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
+    "score": 11,
+    "summary": "罗马世界杯落幕，奥运积分赛格局剧变，谁在为新赛季埋下颠覆性伏笔？",
+    "source": "World Skate"
+  },
+  {
+    "title": "Pedro Barros Set to Hit Nanjing for Bowl Masterclass",
+    "link": "https://www.kickerclub.com/2026/07/pedro-barros-set-to-hit-nanjing-for-bowl-masterclass/",
+    "score": 9,
+    "summary": "巴西碗池传奇Pedro Barros空降南京，街头之王即将上演碗池大师课，中国滑板迷迎来今夏最炸现场！",
+    "source": "KickerClub"
+  },
+  {
+    "title": "LA28: Q-Series Update!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
+    "score": 8,
+    "summary": "奥运滑板资格赛战火重燃，LA28新规或改写街头格局，谁将锁定首发席位？",
+    "source": "World Skate"
   }
 ];
