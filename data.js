@@ -1,72 +1,72 @@
 const newsData = [
   {
+    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
+    "score": 14,
+    "summary": "罗马WST世界杯落幕：奥运积分赛首站即爆冷，新王加冕改写滑板历史，街头血脉与竞技巅峰在此刻对撞！",
+    "source": "World Skate"
+  },
+  {
+    "title": "\"Can't See Zee\" 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/can-t-see-zee-2026-event/",
+    "score": 13,
+    "summary": "Thrasher官宣2026年度重磅赛事“Can't See Zee”——街头滑板与嘻哈文化的又一次硬核碰撞，年度最躁滑板现场预定！",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Pedro Barros Set to Hit Nanjing for Bowl Masterclass",
+    "link": "https://www.kickerclub.com/2026/07/pedro-barros-set-to-hit-nanjing-for-bowl-masterclass/",
+    "score": 13,
+    "summary": "巴西碗池传奇Pedro Barros空降南京，奥运级滑板碗池大师课即将炸场，中国滑手迎来与世界冠军面对面切磋的硬核机会！",
+    "source": "KickerClub"
+  },
+  {
+    "title": "Spike Jonze Talk at \"Push Play\" Skate Video Festival",
+    "link": "https://www.thrashermagazine.com/articles/events/spike-jonze-talk-at-push-play-skate-video-festival/",
+    "score": 13,
+    "summary": "Spike Jonze亲临滑板电影节开讲，从《狗镇少年》到街头影像革命，一场关于滑板与艺术灵魂的深度对谈！",
+    "source": "Thrasher"
+  },
+  {
     "title": "Toby Ryan is PRO for REAL Skateboards",
     "link": "https://www.thrashermagazine.com/articles/videos/toby-ryan-is-pro-for-real-skateboards/",
-    "score": 14,
-    "summary": "Toby Ryan正式晋升PRO，REAL Skateboards再添狠将，街头滑板新生代势力强势崛起！",
-    "source": "Thrasher"
-  },
-  {
-    "title": "The Only Toby That Matters",
-    "link": "https://www.thrashermagazine.com/articles/burnout/the-only-toby-that-matters/",
-    "score": 13,
-    "summary": "Thrasher封面人物Toby，滑板圈唯一真神，街头血脉碾压奥运流量，谁才是真正的冠军？",
-    "source": "Thrasher"
-  },
-  {
-    "title": "EMERICA's \"Why Are You Doing This?\" Tour Video",
-    "link": "https://www.thrashermagazine.com/articles/videos/emerica-s-why-are-you-doing-this-tour-video/",
-    "score": 13,
-    "summary": "EMERICA传奇滑板团队携全新巡演大片《Why Are You Doing This?》强势回归，街头能量爆表，滑板圈年度必看神作预定！",
+    "score": 12,
+    "summary": "Toby Ryan正式晋升为REAL职业滑手，街头硬核血脉再添新王！",
     "source": "Thrasher"
   },
   {
     "title": "LA28: Q-Series Update!",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
-    "score": 13,
-    "summary": "奥运滑板资格赛燃爆LA！全球顶尖滑手为洛杉矶28拼杀，街头文化与奥运荣耀正面碰撞，谁将率先锁定入场券？",
+    "score": 12,
+    "summary": "奥运滑板资格赛战火重燃，LA28新规首秀引爆街头，谁将锁定历史首批奥运滑板席位？",
     "source": "World Skate"
   },
   {
     "title": "Death Match 2026 Tickets",
     "link": "https://www.thrashermagazine.com/articles/events/death-match-2026-tickets/",
-    "score": 9,
-    "summary": "Thrasher年度硬核之王争夺战Death Match 2026门票开抢，街头滑板最血腥的荣誉对决即将上演！",
+    "score": 12,
+    "summary": "Thrasher年度街头滑板生死战门票开抢！无奥运、无冠军，只有最硬核的滑板血统与地下荣耀——这波街头文化信仰充值，你敢来吗？",
     "source": "Thrasher"
   },
   {
-    "title": "Spike Jonze Talk at \"Push Play\" Skate Video Festival",
-    "link": "https://www.thrashermagazine.com/articles/events/spike-jonze-talk-at-push-play-skate-video-festival/",
-    "score": 9,
-    "summary": "滑板文化教父Spike Jonze亲临影展开讲，一部镜头改写街头美学的传奇幕后即将揭晓！",
+    "title": "EMERICA's \"Why Are You Doing This?\" Tour Video",
+    "link": "https://www.thrashermagazine.com/articles/videos/emerica-s-why-are-you-doing-this-tour-video/",
+    "score": 11,
+    "summary": "EMERICA传奇团队暴力回归，全新巡演视频炸裂街头，硬核滑板动作与朋克精神直击灵魂，这波操作直接封神！",
     "source": "Thrasher"
   },
   {
-    "title": "\"Byst of WSC\" Event in the Netherlands",
-    "link": "https://www.thrashermagazine.com/articles/events/byst-of-wsc-event-in-the-netherlands/",
+    "title": "Jun.20th - Vision GSD 2026",
+    "link": "https://www.kickerclub.com/2026/06/jun-20th-vision-gsd-2026/",
     "score": 9,
-    "summary": "荷兰WSC赛事惊现“Byst”神招，Thrasher独家直击街头滑板狂潮，谁才是真正的野路子之王？",
-    "source": "Thrasher"
+    "summary": "Vision GSD 2026新品发布，街头滑板基因再燃，经典与创意碰撞，下一季滑板圈风向标来了！",
+    "source": "KickerClub"
   },
   {
-    "title": "World Skateboarding Ranking Explained!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3899-world-skateboarding-ranking-explained.html",
+    "title": "NikeSB Asia Tour come to China in July",
+    "link": "https://www.kickerclub.com/2026/07/nikesb-asia-tour-come-to-china-in-july/",
     "score": 9,
-    "summary": "世界滑板排名规则大揭秘，奥运资格战背后的积分江湖，谁将锁定巴黎席位？",
-    "source": "World Skate"
-  },
-  {
-    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
-    "score": 9,
-    "summary": "罗马WST世界杯落幕：谁在奥运积分赛上改写了滑板历史？街头霸主与新生代同场炸场，但中国滑手缺席成最大悬念。",
-    "source": "World Skate"
-  },
-  {
-    "title": "Low Key's \"Back To The Plaza 3\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/low-key-s-back-to-the-plaza-3-event/",
-    "score": 8,
-    "summary": "Low Key重返广场引爆街头滑板盛宴，经典地形与硬核动作齐飞，这才是滑板文化的纯粹模样！",
-    "source": "Thrasher"
+    "summary": "NikeSB亚洲巡回赛七月登陆中国，街头滑板风暴即将席卷本土！",
+    "source": "KickerClub"
   }
 ];
