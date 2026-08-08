@@ -1,72 +1,72 @@
 const newsData = [
   {
+    "title": "Toby Ryan is PRO for REAL Skateboards",
+    "link": "https://www.thrashermagazine.com/articles/videos/toby-ryan-is-pro-for-real-skateboards/",
+    "score": 13,
+    "summary": "Toby Ryan正式晋升为REAL滑板职业滑手，从AM到PRO的飞跃，街头硬核实力再获官方盖章！",
+    "source": "Thrasher"
+  },
+  {
     "title": "Pedro Barros Set to Hit Nanjing for Bowl Masterclass",
     "link": "https://www.kickerclub.com/2026/07/pedro-barros-set-to-hit-nanjing-for-bowl-masterclass/",
-    "score": 15,
-    "summary": "巴西碗池传奇Pedro Barros空降南京，奥运金牌级滑板大师课即将引爆街头！",
+    "score": 13,
+    "summary": "巴西碗池之王Pedro Barros空降南京，奥运级碗池教学即将引爆中国街头！",
     "source": "KickerClub"
   },
   {
-    "title": "Toby Ryan is PRO for REAL Skateboards",
-    "link": "https://www.thrashermagazine.com/articles/videos/toby-ryan-is-pro-for-real-skateboards/",
-    "score": 15,
-    "summary": "Toby Ryan正式晋升为REAL滑板职业滑手，从AM到PRO的街头传奇再添新章！",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Low Key's \"Back To The Plaza 3\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/low-key-s-back-to-the-plaza-3-event/",
+    "title": "Spike Jonze Talk at \"Push Play\" Skate Video Festival",
+    "link": "https://www.thrashermagazine.com/articles/events/spike-jonze-talk-at-push-play-skate-video-festival/",
     "score": 13,
-    "summary": "Low Key重返广场，街头滑板与嘻哈文化碰撞出最躁热浪，Thrasher镜头直击这场不设限的板圈狂欢。",
+    "summary": "Spike Jonze亲临滑板电影节开讲，从《Yeah Right!》到街头文化内核，一场关于滑板影像与创意灵魂的顶级对话。",
     "source": "Thrasher"
-  },
-  {
-    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
-    "score": 13,
-    "summary": "罗马WST世界杯落幕，奥运积分战再洗牌，谁在改写滑板历史？",
-    "source": "World Skate"
   },
   {
     "title": "Uptown Takeover 2026 Event",
     "link": "https://www.thrashermagazine.com/articles/events/uptown-takeover-2026-event/",
-    "score": 13,
-    "summary": "Thrasher重磅官宣：2026年Uptown Takeover街头赛制全面升级，街头文化与滑板硬核碰撞，谁将接管城市制高点？",
+    "score": 12,
+    "summary": "Thrasher年度滑板盛事“Uptown Takeover”定档2026，街头之王即将在纽约街头加冕，这不仅是板圈最硬核的年度对决，更是滑板文化对抗奥运体制的又一次宣言！",
     "source": "Thrasher"
   },
   {
-    "title": "HUF x Spitfire Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/huf-x-spitfire/",
+    "title": "EMERICA's \"Why Are You Doing This?\" Tour Video",
+    "link": "https://www.thrashermagazine.com/articles/videos/emerica-s-why-are-you-doing-this-tour-video/",
     "score": 12,
-    "summary": "HUF与Spitfire联手发布重磅滑板影片，街头硬核与轮子文化激情碰撞，年度滑板视觉盛宴不容错过！",
+    "summary": "EMERICA传奇队伍携全新巡演视频强势回归，街头硬核与滑板灵魂碰撞，谁还敢问“你为什么要做这个”？",
     "source": "Thrasher"
   },
   {
     "title": "Bellevegas Beatdown 2026 Event",
     "link": "https://www.thrashermagazine.com/articles/events/bellevegas-beatdown-2026/",
-    "score": 12,
-    "summary": "街头之王集结拉斯维加斯！Bellevegas Beatdown 2026硬核开打，谁能在水泥丛林里踩碎地板，谁就是下一位滑板传说！",
+    "score": 11,
+    "summary": "Bellevegas Beatdown 2026官宣：街头滑板最野赛事回归，赌城硬核地形再燃战火！",
     "source": "Thrasher"
   },
   {
-    "title": "LA28: Q-Series Update!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
-    "score": 11,
-    "summary": "奥运滑板资格赛重启，谁将锁定洛杉矶首发的历史席位？",
-    "source": "World Skate"
-  },
-  {
-    "title": "NikeSB Asia Tour come to China in July",
-    "link": "https://www.kickerclub.com/2026/07/nikesb-asia-tour-come-to-china-in-july/",
-    "score": 10,
-    "summary": "NikeSB亚洲巡回确认七月登陆中国，街头势力即将掀起滑板风暴！",
-    "source": "KickerClub"
+    "title": "HUF x Spitfire Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/huf-x-spitfire/",
+    "score": 9,
+    "summary": "HUF联手Spitfire发布全新滑板影片，滑板圈年度重磅视觉炸弹来袭！",
+    "source": "Thrasher"
   },
   {
     "title": "Death Match 2026 Tickets",
     "link": "https://www.thrashermagazine.com/articles/events/death-match-2026-tickets/",
     "score": 9,
-    "summary": "Death Match 2026门票开抢，Thrasher年度最野滑板暴力美学现场，街头硬核玩家不容错过！",
+    "summary": "Death Match 2026门票开抢！Thrasher年度硬核滑板狂欢回归，街头之王争夺战一触即发！",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Low Key's \"Back To The Plaza 3\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/low-key-s-back-to-the-plaza-3-event/",
+    "score": 9,
+    "summary": "传奇滑板团队Low Key重返广场，第三季街头狂欢点燃经典地形，老炮与新秀同场炸板，这才是滑板最野的本色！",
+    "source": "Thrasher"
+  },
+  {
+    "title": "\"Byst of WSC\" Event in the Netherlands",
+    "link": "https://www.thrashermagazine.com/articles/events/byst-of-wsc-event-in-the-netherlands/",
+    "score": 9,
+    "summary": "荷兰WSC赛事惊现“Byst”神招，街头滑板再掀狂潮，Thrasher独家直击现场高能瞬间！",
     "source": "Thrasher"
   }
 ];
