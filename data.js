@@ -1,72 +1,72 @@
 const newsData = [
   {
-    "title": "Pedro Barros Set to Hit Nanjing for Bowl Masterclass",
-    "link": "https://www.kickerclub.com/2026/07/pedro-barros-set-to-hit-nanjing-for-bowl-masterclass/",
+    "title": "\"Byst of WSC\" Event in the Netherlands",
+    "link": "https://www.thrashermagazine.com/articles/events/byst-of-wsc-event-in-the-netherlands/",
     "score": 13,
-    "summary": "奥运级碗池王者Pedro Barros空降南京，中国滑板迷迎来教科书级碗池大师课！",
-    "source": "KickerClub"
+    "summary": "荷兰WSC现场炸裂：街头之王们用滑板改写欧洲地形，这场非奥运级赛事却藏着下个十年最野的招式革命。",
+    "source": "Thrasher"
   },
   {
     "title": "Toby Ryan is PRO for REAL Skateboards",
     "link": "https://www.thrashermagazine.com/articles/videos/toby-ryan-is-pro-for-real-skateboards/",
     "score": 13,
-    "summary": "Toby Ryan正式晋升为REAL滑板职业滑手，街头硬核血脉再添新王！",
+    "summary": "Toby Ryan正式晋升PRO级别，REAL Skateboards再添狠将，街头滑板势力持续扩张！",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Spike Jonze Talk at \"Push Play\" Skate Video Festival",
+    "link": "https://www.thrashermagazine.com/articles/events/spike-jonze-talk-at-push-play-skate-video-festival/",
+    "score": 13,
+    "summary": "Spike Jonze亲临滑板电影节开讲，传奇导演的镜头美学再度点燃街头文化灵魂！",
+    "source": "Thrasher"
+  },
+  {
+    "title": "REALTREE x Independent Trucks Apparel",
+    "link": "https://www.thrashermagazine.com/articles/trash/realtree-x-independent-trucks-apparel/",
+    "score": 12,
+    "summary": "当迷彩野性撞上滑板硬核，REALTREE与Independent Trucks联名服饰发布，街头机能风再添狠货！",
     "source": "Thrasher"
   },
   {
     "title": "Low Key's \"Back To The Plaza 3\" Event",
     "link": "https://www.thrashermagazine.com/articles/events/low-key-s-back-to-the-plaza-3-event/",
-    "score": 13,
-    "summary": "Low Key重回广场！滑板街头精神再燃，Back To The Plaza 3带你见证最纯粹的板场躁动，这才是滑板的本源。",
+    "score": 12,
+    "summary": "Low Key重返广场，街头滑板硬核集结，Thrasher镜头下再掀无规则狂潮——滑板精神从不看奥运，只认地板与胆量。",
     "source": "Thrasher"
   },
   {
-    "title": "NikeSB Asia Tour come to China in July",
-    "link": "https://www.kickerclub.com/2026/07/nikesb-asia-tour-come-to-china-in-july/",
-    "score": 11,
-    "summary": "NikeSB亚洲巡回赛七月登陆中国，街头滑板风暴即将席卷本土！",
-    "source": "KickerClub"
-  },
-  {
-    "title": "EMERICA's \"Why Are You Doing This?\" Tour Video",
-    "link": "https://www.thrashermagazine.com/articles/videos/emerica-s-why-are-you-doing-this-tour-video/",
+    "title": "Bellevegas Beatdown 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/bellevegas-beatdown-2026/",
     "score": 9,
-    "summary": "EMERICA全员疯滑新片轰炸街头，滑板圈年度硬核视觉盛宴来了！",
-    "source": "Thrasher"
-  },
-  {
-    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
-    "score": 9,
-    "summary": "罗马世界杯落幕，奥运积分赛格局生变——谁在刷新历史，谁又将改写巴黎后的滑板权力版图？",
-    "source": "World Skate"
-  },
-  {
-    "title": "\"Byst of WSC\" Event in the Netherlands",
-    "link": "https://www.thrashermagazine.com/articles/events/byst-of-wsc-event-in-the-netherlands/",
-    "score": 9,
-    "summary": "荷兰WSC街头赛惊现“Byst”神级动作，Thrasher独家放送，滑板圈炸了！",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Death Match 2026 Tickets",
-    "link": "https://www.thrashermagazine.com/articles/events/death-match-2026-tickets/",
-    "score": 9,
-    "summary": "Death Match 2026门票开抢！Thrasher年度街头滑板大乱斗，谁能在水泥碗池里用最狠的招数活到最后？",
+    "summary": "年度最硬核滑板赛事Bellevegas Beatdown 2026官宣，街头狠人集结拉斯维加斯，谁能在野蛮地形上称王？",
     "source": "Thrasher"
   },
   {
     "title": "LA28: Q-Series Update!",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
     "score": 9,
-    "summary": "奥运滑板资格赛重启，洛杉矶28周期首轮积分战打响，谁将率先锁定通往奥运的滑板门票？",
+    "summary": "奥运滑板资格赛更新！LA28新赛制首曝，谁将改写历史冲击冠军？",
     "source": "World Skate"
   },
   {
-    "title": "Bellevegas Beatdown 2026 Event",
-    "link": "https://www.thrashermagazine.com/articles/events/bellevegas-beatdown-2026/",
+    "title": "CSEF's 5K Skate-A-Thon Event",
+    "link": "https://www.thrashermagazine.com/articles/events/csef-s-5k-skate-a-thon-event/",
     "score": 9,
-    "summary": "硬核街头盛宴回归！Bellevegas Beatdown 2026蓄势待发，Thrasher再掀狂野滑板风暴，没有规则，只有狠招与狠人！",
+    "summary": "滑板马拉松狂飙5公里！CSEF慈善赛用轮子碾出街头能量，全民刷街也能玩出大动静。",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Death Match 2026 Tickets",
+    "link": "https://www.thrashermagazine.com/articles/events/death-match-2026-tickets/",
+    "score": 8,
+    "summary": "Death Match 2026门票开抢！Thrasher年度街头滑板厮杀盛宴，谁能活着走出地狱碗？",
+    "source": "Thrasher"
+  },
+  {
+    "title": "\"Can't See Zee\" 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/can-t-see-zee-2026-event/",
+    "score": 8,
+    "summary": "Thrasher官宣2026年度重磅赛事“Can't See Zee”，街头之王争夺战即将引爆滑板圈！",
     "source": "Thrasher"
   }
 ];
