@@ -1,72 +1,72 @@
 const newsData = [
   {
-    "title": "Pedro Barros Set to Hit Nanjing for Bowl Masterclass",
-    "link": "https://www.kickerclub.com/2026/07/pedro-barros-set-to-hit-nanjing-for-bowl-masterclass/",
-    "score": 15,
-    "summary": "巴西碗池传奇Pedro Barros空降南京，奥运级碗池大师课即将开讲，中国滑板迷家门口直击世界冠军巅峰技艺！",
-    "source": "KickerClub"
+    "title": "\"Byst of WSC\" Event in the Netherlands",
+    "link": "https://www.thrashermagazine.com/articles/events/byst-of-wsc-event-in-the-netherlands/",
+    "score": 13,
+    "summary": "荷兰WSC赛事现场惊现“Byst”神招，Thrasher独家记录街头滑板最野性瞬间，全球滑手集体破防！",
+    "source": "Thrasher"
   },
   {
     "title": "EMERICA's \"Why Are You Doing This?\" Tour Video",
     "link": "https://www.thrashermagazine.com/articles/videos/emerica-s-why-are-you-doing-this-tour-video/",
-    "score": 15,
-    "summary": "EMERICA传奇队伍携全新巡演大片来袭，街头硬核动作与兄弟情谊点燃滑板圈！",
+    "score": 13,
+    "summary": "EMERICA传奇团队全员出动，街头滑板暴力美学新片震撼发布，这才是滑板文化的纯粹灵魂！",
     "source": "Thrasher"
   },
   {
-    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
+    "title": "Pedro Barros Set to Hit Nanjing for Bowl Masterclass",
+    "link": "https://www.kickerclub.com/2026/07/pedro-barros-set-to-hit-nanjing-for-bowl-masterclass/",
     "score": 13,
-    "summary": "罗马WST世界杯落幕：奥运积分赛首站即爆冷，新科冠军用街头招式改写历史，全球滑板格局一夜洗牌！",
-    "source": "World Skate"
-  },
-  {
-    "title": "Toby Ryan is PRO for REAL Skateboards",
-    "link": "https://www.thrashermagazine.com/articles/videos/toby-ryan-is-pro-for-real-skateboards/",
-    "score": 13,
-    "summary": "Toby Ryan晋升REAL滑板职业队，硬核街式实力获传奇品牌盖章！",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Spitfire X Slappy's Garage Skate Jam",
-    "link": "https://www.thrashermagazine.com/articles/events/spitfire-x-slappy-s-garage-skate-jam/",
-    "score": 13,
-    "summary": "Spitfire联手Slappy's Garage办街头滑板赛，老炮滑手车库battle，纯正街头味炸穿柏油路！",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Jun.20th - Vision GSD 2026",
-    "link": "https://www.kickerclub.com/2026/06/jun-20th-vision-gsd-2026/",
-    "score": 12,
-    "summary": "Vision GSD 2026定档6月20日，街头老炮的年度滑板盛事提前引爆，谁将踩碎地板定义新赛季？",
+    "summary": "巴西碗池传奇Pedro Barros空降南京，街头之王即将引爆中国碗池狂潮！",
     "source": "KickerClub"
+  },
+  {
+    "title": "Spike Jonze Talk at \"Push Play\" Skate Video Festival",
+    "link": "https://www.thrashermagazine.com/articles/events/spike-jonze-talk-at-push-play-skate-video-festival/",
+    "score": 13,
+    "summary": "传奇导演Spike Jonze亲临滑板影像节，用镜头语言重新定义街头文化的边界——这不是回顾，是宣言。",
+    "source": "Thrasher"
   },
   {
     "title": "HUF x Spitfire Video",
     "link": "https://www.thrashermagazine.com/articles/trash/huf-x-spitfire/",
-    "score": 11,
-    "summary": "HUF与Spitfire联名大片释出，街头滑板与硬核轮组文化碰撞，点燃板场新热度！",
+    "score": 12,
+    "summary": "HUF与Spitfire联名视频释出，街头滑板与硬核轮组文化碰撞，又一波滑板圈视觉炸弹！",
     "source": "Thrasher"
   },
   {
     "title": "NikeSB Asia Tour come to China in July",
     "link": "https://www.kickerclub.com/2026/07/nikesb-asia-tour-come-to-china-in-july/",
-    "score": 10,
-    "summary": "NikeSB亚洲巡回赛七月登陆中国，街头滑板风暴即将席卷本土！",
+    "score": 11,
+    "summary": "NikeSB亚洲巡回赛七月登陆中国，街头风暴即将席卷本土滑板圈！",
     "source": "KickerClub"
   },
   {
-    "title": "\"Can't See Zee\" 2026 Event",
-    "link": "https://www.thrashermagazine.com/articles/events/can-t-see-zee-2026-event/",
-    "score": 9,
-    "summary": "Thrasher重磅发布“Can't See Zee”2026赛事企划，街头滑板再度掀起地下狂潮——没有奥运光环，只有纯正野性，谁将接棒传奇？",
+    "title": "Toby Ryan is PRO for REAL Skateboards",
+    "link": "https://www.thrashermagazine.com/articles/videos/toby-ryan-is-pro-for-real-skateboards/",
+    "score": 11,
+    "summary": "从街头到旗舰，Toby Ryan正式升任REAL滑板职业滑手，用硬核风格宣告新一代板面统治力！",
+    "source": "Thrasher"
+  },
+  {
+    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
+    "score": 11,
+    "summary": "罗马世界杯落幕，滑板新王登基改写历史，全球街头势力再掀奥运资格争夺战！",
+    "source": "World Skate"
+  },
+  {
+    "title": "Low Key's \"Back To The Plaza 3\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/low-key-s-back-to-the-plaza-3-event/",
+    "score": 11,
+    "summary": "滑板圈年度“回家”盛典：Low Key 携众传奇滑手重返广场，街头文化最野一役，谁才是 plaza 之王？",
     "source": "Thrasher"
   },
   {
     "title": "Bellevegas Beatdown 2026 Event",
     "link": "https://www.thrashermagazine.com/articles/events/bellevegas-beatdown-2026/",
-    "score": 9,
-    "summary": "Bellevegas Beatdown 2026硬核回归：街头滑板赛点燃赌城，草根力量再掀狂潮！",
+    "score": 11,
+    "summary": "Thrasher重磅官宣：Bellevegas Beatdown 2026赛事启动，街头之王争夺战提前引爆滑板圈！",
     "source": "Thrasher"
   }
 ];
