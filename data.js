@@ -1,9 +1,23 @@
 const newsData = [
   {
+    "title": "Pedro Barros Set to Hit Nanjing for Bowl Masterclass",
+    "link": "https://www.kickerclub.com/2026/07/pedro-barros-set-to-hit-nanjing-for-bowl-masterclass/",
+    "score": 15,
+    "summary": "巴西传奇碗池滑手Pedro Barros空降南京，碗池大师课即将开讲，中国滑板迷迎来顶级街头盛宴！",
+    "source": "KickerClub"
+  },
+  {
+    "title": "EMERICA's \"Why Are You Doing This?\" Tour Video",
+    "link": "https://www.thrashermagazine.com/articles/videos/emerica-s-why-are-you-doing-this-tour-video/",
+    "score": 14,
+    "summary": "EMERICA全明星阵容突袭街头，用最野的滑板动作向你证明：为什么你还在看手机，而不是去滑板？",
+    "source": "Thrasher"
+  },
+  {
     "title": "NikeSB Asia Tour come to China in July",
     "link": "https://www.kickerclub.com/2026/07/nikesb-asia-tour-come-to-china-in-july/",
-    "score": 14,
-    "summary": "NikeSB亚洲巡回滑板赛七月登陆中国，街头潮流风暴即将席卷本土滑板圈！",
+    "score": 13,
+    "summary": "NikeSB亚洲巡回赛七月登陆中国，街头滑板风暴即将席卷本土！",
     "source": "KickerClub"
   },
   {
@@ -14,59 +28,45 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "\"Byst of WSC\" Event in the Netherlands",
-    "link": "https://www.thrashermagazine.com/articles/events/byst-of-wsc-event-in-the-netherlands/",
+    "title": "Ed Templeton in Paris for RVCA",
+    "link": "https://www.thrashermagazine.com/articles/trash/ed-templeton-in-paris-for-rvca/",
     "score": 13,
-    "summary": "荷兰WSC街头赛事惊现“神级”对决，Thrasher镜头下新生代滑手用狂野动作撕裂赛场，街头血脉再次沸腾！",
+    "summary": "传奇滑手Ed Templeton空降巴黎街头，用最纯粹的滑板美学为RVCA注入反叛灵魂，这才是滑板文化的原始脉搏！",
     "source": "Thrasher"
-  },
-  {
-    "title": "Pedro Barros Set to Hit Nanjing for Bowl Masterclass",
-    "link": "https://www.kickerclub.com/2026/07/pedro-barros-set-to-hit-nanjing-for-bowl-masterclass/",
-    "score": 13,
-    "summary": "奥运级碗池巨匠Pedro Barros空降南京，街头传奇即将炸场中国！",
-    "source": "KickerClub"
   },
   {
     "title": "Low Key's \"Back To The Plaza 3\" Event",
     "link": "https://www.thrashermagazine.com/articles/events/low-key-s-back-to-the-plaza-3-event/",
     "score": 13,
-    "summary": "Low Key重回广场，街头滑板与嘻哈文化碰撞，这场年度野性聚会正在重新定义“滑板主场”的原始热度。",
+    "summary": "Thrasher发布Low Key“重返广场3”街头滑板盛事，OG滑手集体炸场，纯正街头文化回归，这才是滑板该有的样子！",
     "source": "Thrasher"
   },
   {
-    "title": "Spike Jonze Talk at \"Push Play\" Skate Video Festival",
-    "link": "https://www.thrashermagazine.com/articles/events/spike-jonze-talk-at-push-play-skate-video-festival/",
+    "title": "HUF x Spitfire Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/huf-x-spitfire/",
     "score": 13,
-    "summary": "传奇导演Spike Jonze亲临滑板电影节，用一部短片重燃街头影像的黄金年代！",
+    "summary": "HUF联名Spitfire轮组重磅发布，街头滑板与经典火焰图腾的碰撞，点燃滑板圈新热度！",
     "source": "Thrasher"
   },
   {
-    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
+    "title": "Uptown Takeover 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/uptown-takeover-2026-event/",
     "score": 12,
-    "summary": "罗马WST世界杯复盘：奥运积分赛制下，新王加冕改写滑板历史，但中国军团缺席成最大遗憾！",
-    "source": "World Skate"
+    "summary": "Thrasher重磅官宣Uptown Takeover 2026：街头之王集结，纽约上城即将沦为滑板与嘻哈的失控战场——这是继奥运之后，地下滑板文化对主流最狠的一次反击。",
+    "source": "Thrasher"
   },
   {
     "title": "Bellevegas Beatdown 2026 Event",
     "link": "https://www.thrashermagazine.com/articles/events/bellevegas-beatdown-2026/",
-    "score": 12,
-    "summary": "Thrasher年度硬核街头赛事Bellevegas Beatdown 2026官宣，地下滑板野性对决再燃赌城，谁是下一个街头之王？",
-    "source": "Thrasher"
-  },
-  {
-    "title": "\"Can't See Zee\" 2026 Event",
-    "link": "https://www.thrashermagazine.com/articles/events/can-t-see-zee-2026-event/",
-    "score": 12,
-    "summary": "Thrasher年度重磅：2026年“Can't See Zee”赛事官宣，街头滑板与嘻哈文化再度碰撞，谁将定义下一个传奇瞬间？",
-    "source": "Thrasher"
-  },
-  {
-    "title": "LA28: Q-Series Update!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
     "score": 11,
-    "summary": "奥运滑板资格赛突袭更新：谁能抢下LA28首发门票，街头风暴即将改写历史！",
-    "source": "World Skate"
+    "summary": "Bellevegas Beatdown 2026官宣回归：街头滑板与硬核朋克碰撞，谁能在赌城水泥碗池里砸出新传奇？",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Death Match 2026 Tickets",
+    "link": "https://www.thrashermagazine.com/articles/events/death-match-2026-tickets/",
+    "score": 11,
+    "summary": "滑板圈最硬核的“生死对决”回归：Death Match 2026门票开售，街头之王即将在木板与混凝土上决出真章！",
+    "source": "Thrasher"
   }
 ];
