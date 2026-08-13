@@ -7,50 +7,36 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "LA28: Q-Series Update!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
+    "title": "Parallel's UK Tour",
+    "link": "https://www.thrashermagazine.com/articles/trash/parallel-s-uk-tour/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Thanos Panou's \"Cruisin'\" OJ Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/thanos-panou-s-cruisin-oj-video/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "\"Byst of WSC\" Event in the Netherlands",
+    "link": "https://www.thrashermagazine.com/articles/events/byst-of-wsc-event-in-the-netherlands/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
   },
   {
-    "title": "Jun.20th - Vision GSD 2026",
-    "link": "https://www.kickerclub.com/2026/06/jun-20th-vision-gsd-2026/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
     "title": "Spike Jonze Talk at \"Push Play\" Skate Video Festival",
     "link": "https://www.thrashermagazine.com/articles/events/spike-jonze-talk-at-push-play-skate-video-festival/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Bellevegas Beatdown 2026 Event",
-    "link": "https://www.thrashermagazine.com/articles/events/bellevegas-beatdown-2026/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "\"Can't See Zee\" 2026 Event",
-    "link": "https://www.thrashermagazine.com/articles/events/can-t-see-zee-2026-event/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "In the Shop: New Herschel Backpacks and Duffels",
-    "link": "https://www.thrashermagazine.com/articles/trash/in-the-shop-new-herschel-backpacks-and-duffels/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Spitfire X Slappy's Garage Skate Jam",
-    "link": "https://www.thrashermagazine.com/articles/events/spitfire-x-slappy-s-garage-skate-jam/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -63,10 +49,24 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Marc Johnson's Memorial GoFundMe",
-    "link": "https://www.thrashermagazine.com/articles/trash/marc-johnson-s-memorial-gofundme/",
+    "title": "CSEF's 5K Skate-A-Thon Event",
+    "link": "https://www.thrashermagazine.com/articles/events/csef-s-5k-skate-a-thon-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
+  },
+  {
+    "title": "Grace Marhoefer's \"Behind the Ad\" Indy Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/grace-marhoefer-s-behind-the-ad-indy-video/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Jun.20th - Vision GSD 2026",
+    "link": "https://www.kickerclub.com/2026/06/jun-20th-vision-gsd-2026/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
   }
 ];
