@@ -14,32 +14,11 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Death Match 2026 Tickets",
-    "link": "https://www.thrashermagazine.com/articles/events/death-match-2026-tickets/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "Jun.20th - Vision GSD 2026",
     "link": "https://www.kickerclub.com/2026/06/jun-20th-vision-gsd-2026/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "KickerClub"
-  },
-  {
-    "title": "Grace Marhoefer's \"Behind the Ad\" Indy Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/grace-marhoefer-s-behind-the-ad-indy-video/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Humidity's Go Skate Day Event",
-    "link": "https://www.thrashermagazine.com/articles/events/humidity-s-go-skate-day-event/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
   },
   {
     "title": "Spike Jonze Talk at \"Push Play\" Skate Video Festival",
@@ -49,22 +28,43 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "instagram",
+    "title": "Bellevegas Beatdown 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/bellevegas-beatdown-2026/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "\"Can't See Zee\" 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/can-t-see-zee-2026-event/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "In the Shop: New Herschel Backpacks and Duffels",
+    "link": "https://www.thrashermagazine.com/articles/trash/in-the-shop-new-herschel-backpacks-and-duffels/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Spitfire X Slappy's Garage Skate Jam",
+    "link": "https://www.thrashermagazine.com/articles/events/spitfire-x-slappy-s-garage-skate-jam/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Skateboarding",
     "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
   },
   {
-    "title": "Parallel's UK Tour",
-    "link": "https://www.thrashermagazine.com/articles/trash/parallel-s-uk-tour/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Uptown Takeover 2026 Event",
-    "link": "https://www.thrashermagazine.com/articles/events/uptown-takeover-2026-event/",
+    "title": "Marc Johnson's Memorial GoFundMe",
+    "link": "https://www.thrashermagazine.com/articles/trash/marc-johnson-s-memorial-gofundme/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
