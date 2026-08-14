@@ -1,72 +1,72 @@
 const newsData = [
   {
-    "title": "NikeSB Asia Tour come to China in July",
-    "link": "https://www.kickerclub.com/2026/07/nikesb-asia-tour-come-to-china-in-july/",
-    "score": 17,
-    "summary": "NikeSB亚洲巡回七月登陆中国，街头潮流风暴即将席卷滑板圈！",
-    "source": "KickerClub"
-  },
-  {
-    "title": "Low Key's \"Back To The Plaza 3\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/low-key-s-back-to-the-plaza-3-event/",
-    "score": 13,
-    "summary": "传奇滑板团体Low Key重返广场，街头文化最野一役“Back To The Plaza 3”炸裂回归，OG滑手与新生代硬核碰撞，谁才是广场之王？",
+    "title": "Marc Johnson's Memorial GoFundMe",
+    "link": "https://www.thrashermagazine.com/articles/trash/marc-johnson-s-memorial-gofundme/",
+    "score": 15,
+    "summary": "传奇滑手Marc Johnson离世，众筹致敬活动引爆滑板圈——这不是奥运金牌，却是街头文化最痛的一记告别。",
     "source": "Thrasher"
   },
   {
-    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
-    "score": 13,
-    "summary": "罗马WST世界杯落幕：奥运积分赛首站即爆冷，新王登基改写滑板历史，街头基因点燃2026赛季战火！",
+    "title": "LA28: Q-Series Update!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
+    "score": 14,
+    "summary": "奥运滑板资格赛战火重燃，LA28新规首秀引爆街头，谁将锁定通往好莱坞的滑板门票？",
     "source": "World Skate"
+  },
+  {
+    "title": "Grace Marhoefer's \"Behind the Ad\" Indy Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/grace-marhoefer-s-behind-the-ad-indy-video/",
+    "score": 13,
+    "summary": "Thrasher独家放送！Grace Marhoefer幕后视角直击Indy广告拍摄现场，街头硬核美学再掀狂潮，这才是滑板广告该有的样子！",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Spike Jonze Talk at \"Push Play\" Skate Video Festival",
+    "link": "https://www.thrashermagazine.com/articles/events/spike-jonze-talk-at-push-play-skate-video-festival/",
+    "score": 13,
+    "summary": "传奇导演Spike Jonze亲临滑板影像节，用镜头语言重写街头文化叙事，这不仅是放映，更是一场关于滑板灵魂的公开课。",
+    "source": "Thrasher"
   },
   {
     "title": "Pedro Barros Set to Hit Nanjing for Bowl Masterclass",
     "link": "https://www.kickerclub.com/2026/07/pedro-barros-set-to-hit-nanjing-for-bowl-masterclass/",
-    "score": 12,
-    "summary": "碗池之王佩德罗·巴罗斯空降南京，中国滑手迎来与传奇同场炫技的黄金机会！",
+    "score": 13,
+    "summary": "巴西碗池传奇Pedro Barros空降南京，奥运级碗池大师课即将炸翻中国街头！",
     "source": "KickerClub"
   },
   {
     "title": "Parallel's UK Tour",
     "link": "https://www.thrashermagazine.com/articles/trash/parallel-s-uk-tour/",
     "score": 11,
-    "summary": "Thrasher独家直击Parallel英国巡演现场，滑板与街头文化碰撞出最野生的能量，这才是板圈真正的速度与激情！",
+    "summary": "Thrasher曝光Parallel英国巡演现场，街头滑板与地下文化碰撞，新片片段引燃圈内期待。",
     "source": "Thrasher"
   },
   {
-    "title": "World Skateboarding Ranking Explained!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3899-world-skateboarding-ranking-explained.html",
-    "score": 11,
-    "summary": "世界滑板排名规则大揭秘！想看懂奥运资格赛和职业积分体系？这份官方指南直接决定谁能站上巴黎领奖台！",
-    "source": "World Skate"
-  },
-  {
-    "title": "Spitfire X Slappy's Garage Skate Jam",
-    "link": "https://www.thrashermagazine.com/articles/events/spitfire-x-slappy-s-garage-skate-jam/",
-    "score": 11,
-    "summary": "Spitfire联手Slappy's Garage打造街头滑板派对，老炮与新生代同场炸板，纯正滑板文化硬核回归！",
+    "title": "\"Can't See Zee\" 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/can-t-see-zee-2026-event/",
+    "score": 10,
+    "summary": "Thrasher年度压轴大戏“Can't See Zee”2026官宣落地，街头滑板野性对决再掀狂潮，这次谁将撕裂地心引力？",
     "source": "Thrasher"
   },
   {
-    "title": "LA28: Q-Series Update!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
-    "score": 11,
-    "summary": "奥运滑板资格赛惊现历史性一幕：街头新王加冕，冠军首秀即改写积分榜，中国军团蓄势待发！",
-    "source": "World Skate"
-  },
-  {
-    "title": "Humidity's Go Skate Day Event",
-    "link": "https://www.thrashermagazine.com/articles/events/humidity-s-go-skate-day-event/",
+    "title": "In the Shop: New Herschel Backpacks and Duffels",
+    "link": "https://www.thrashermagazine.com/articles/trash/in-the-shop-new-herschel-backpacks-and-duffels/",
     "score": 9,
-    "summary": "Thrasher官宣世界滑板日湿度狂欢，街头硬核集结，湿滑地形能否逼出年度最强动作？",
+    "summary": "Thrasher探店曝光全新Herschel背包与行李袋，街头装备党冲就完了，通勤滑板两不误！",
     "source": "Thrasher"
   },
   {
-    "title": "Death Match 2026 Tickets",
-    "link": "https://www.thrashermagazine.com/articles/events/death-match-2026-tickets/",
+    "title": "\"Byst of WSC\" Event in the Netherlands",
+    "link": "https://www.thrashermagazine.com/articles/events/byst-of-wsc-event-in-the-netherlands/",
     "score": 9,
-    "summary": "Thrasher年度滑板死亡赛门票开抢，街头硬核对决再燃战火，谁能在水泥碗池里活到最后？",
+    "summary": "荷兰WSC街头赛爆冷不断，Thrasher镜头下的野性对决正在改写欧洲滑板版图！",
+    "source": "Thrasher"
+  },
+  {
+    "title": "CSEF's 5K Skate-A-Thon Event",
+    "link": "https://www.thrashermagazine.com/articles/events/csef-s-5k-skate-a-thon-event/",
+    "score": 8,
+    "summary": "滑板马拉松狂飙5公里！CSEF公益赛用轮子碾出街头新纪录，滑板圈集体暴走为慈善加码。",
     "source": "Thrasher"
   }
 ];
