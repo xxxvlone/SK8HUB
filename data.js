@@ -1,72 +1,72 @@
 const newsData = [
   {
-    "title": "NikeSB Asia Tour come to China in July",
-    "link": "https://www.kickerclub.com/2026/07/nikesb-asia-tour-come-to-china-in-july/",
-    "score": 15,
-    "summary": "NikeSB亚洲巡回赛七月登陆中国，街头文化风暴即将席卷滑板圈！",
-    "source": "KickerClub"
-  },
-  {
-    "title": "LA28: Q-Series Update!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
-    "score": 13,
-    "summary": "奥运滑板资格赛洛杉矶站打响，世界顶级滑手争夺通往2028的黄金门票——谁将改写街头历史？",
-    "source": "World Skate"
-  },
-  {
-    "title": "Spike Jonze Talk at \"Push Play\" Skate Video Festival",
-    "link": "https://www.thrashermagazine.com/articles/events/spike-jonze-talk-at-push-play-skate-video-festival/",
-    "score": 13,
-    "summary": "Spike Jonze亲临滑板影像节开讲，从《狗镇少年》到滑板文化内核，这场对话是街头灵魂的教科书！",
-    "source": "Thrasher"
-  },
-  {
-    "title": "\"Byst of WSC\" Event in the Netherlands",
-    "link": "https://www.thrashermagazine.com/articles/events/byst-of-wsc-event-in-the-netherlands/",
-    "score": 13,
-    "summary": "荷兰“WSC旁观者”赛事狂潮再起，街头之王用滑板撕裂欧洲地标——这不仅是比赛，是反叛文化的又一次暴动！",
-    "source": "Thrasher"
-  },
-  {
     "title": "Pedro Barros Set to Hit Nanjing for Bowl Masterclass",
     "link": "https://www.kickerclub.com/2026/07/pedro-barros-set-to-hit-nanjing-for-bowl-masterclass/",
-    "score": 13,
-    "summary": "巴西碗池传奇Pedro Barros空降南京，街头之王即将掀起中国碗池风暴！",
+    "score": 14,
+    "summary": "奥运级碗池大神Pedro Barros空降南京，街头血脉点燃中国碗池新热度！",
     "source": "KickerClub"
   },
   {
     "title": "Marc Johnson's Memorial GoFundMe",
     "link": "https://www.thrashermagazine.com/articles/trash/marc-johnson-s-memorial-gofundme/",
     "score": 13,
-    "summary": "滑板界痛失传奇！Marc Johnson纪念募捐启动，街头灵魂永不落幕。",
+    "summary": "致敬传奇！滑板界为已故巨星Marc Johnson发起纪念募捐，街头精神永不落幕。",
     "source": "Thrasher"
   },
   {
-    "title": "Parallel's UK Tour",
-    "link": "https://www.thrashermagazine.com/articles/trash/parallel-s-uk-tour/",
+    "title": "Bellevegas Beatdown 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/bellevegas-beatdown-2026/",
     "score": 12,
-    "summary": "Thrasher曝光Parallel英国巡演现场，街头能量炸裂，滑板与嘻哈文化碰撞出最野的公路大片！",
+    "summary": "Bellevegas Beatdown 2026赛事官宣落地，街头滑板硬核对决再添重头戏，Thrasher独家引爆新赛季狂潮！",
+    "source": "Thrasher"
+  },
+  {
+    "title": "NikeSB Asia Tour come to China in July",
+    "link": "https://www.kickerclub.com/2026/07/nikesb-asia-tour-come-to-china-in-july/",
+    "score": 11,
+    "summary": "NikeSB亚洲巡回赛七月登陆中国，街头潮流风暴即将席卷本土滑板圈！",
+    "source": "KickerClub"
+  },
+  {
+    "title": "LA28: Q-Series Update!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
+    "score": 11,
+    "summary": "奥运滑板资格赛重启，洛杉矶28周期首战即定生死，谁将抢下通往好莱坞的滑板门票？",
+    "source": "World Skate"
+  },
+  {
+    "title": "\"Can't See Zee\" 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/can-t-see-zee-2026-event/",
+    "score": 9,
+    "summary": "Thrasher年度压轴大戏“Can't See Zee”2026官宣，街头狠货与未知地形即将引爆板圈，谁能在盲区里杀出重围？",
     "source": "Thrasher"
   },
   {
     "title": "Humidity's Go Skate Day Event",
     "link": "https://www.thrashermagazine.com/articles/events/humidity-s-go-skate-day-event/",
-    "score": 12,
-    "summary": "湿度滑板日全球狂欢，街头能量点燃Go Skate Day，滑板文化再掀热潮！",
+    "score": 9,
+    "summary": "Thrasher官宣世界滑板日湿身狂欢，街头文化硬核集结，但缺中国身影与奥运爆点，热度中规中矩。",
     "source": "Thrasher"
   },
   {
-    "title": "Spitfire X Slappy's Garage Skate Jam",
-    "link": "https://www.thrashermagazine.com/articles/events/spitfire-x-slappy-s-garage-skate-jam/",
-    "score": 12,
-    "summary": "滑板界最野车库派对空降：Spitfire联手Slappy's Garage，街头硬核与滑板文化正面硬碰，谁才是水泥地上的真王者？",
+    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
+    "score": 9,
+    "summary": "罗马WST世界杯落幕：旧王加冕与新星爆冷，滑板奥运积分赛格局一夜洗牌！",
+    "source": "World Skate"
+  },
+  {
+    "title": "\"Byst of WSC\" Event in the Netherlands",
+    "link": "https://www.thrashermagazine.com/articles/events/byst-of-wsc-event-in-the-netherlands/",
+    "score": 9,
+    "summary": "荷兰WSC街头赛事惊现“Byst”神技，Thrasher独家直击，滑板圈再掀狂潮！",
     "source": "Thrasher"
   },
   {
-    "title": "Death Match 2026 Tickets",
-    "link": "https://www.thrashermagazine.com/articles/events/death-match-2026-tickets/",
-    "score": 11,
-    "summary": "Thrasher年度滑板血腥盛宴Death Match 2026门票开抢，街头硬核对决一触即发，纯正滑板文化狂欢不容错过！",
-    "source": "Thrasher"
+    "title": "World Skateboarding Ranking Explained!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3899-world-skateboarding-ranking-explained.html",
+    "score": 8,
+    "summary": "世界滑板排名规则大揭秘，你的主队能否直通奥运？权威解读来了！",
+    "source": "World Skate"
   }
 ];
