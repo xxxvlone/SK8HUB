@@ -1,72 +1,72 @@
 const newsData = [
   {
-    "title": "NikeSB Asia Tour come to China in July",
-    "link": "https://www.kickerclub.com/2026/07/nikesb-asia-tour-come-to-china-in-july/",
-    "score": 14,
-    "summary": "NikeSB亚洲巡回赛七月登陆中国，街头文化风暴即将席卷本土滑板圈！",
-    "source": "KickerClub"
-  },
-  {
     "title": "LA28: Q-Series Update!",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
-    "score": 14,
-    "summary": "洛杉矶奥运滑板资格赛大洗牌！新王登基与老将逆袭同框，谁能锁定通往2028的首发门票？",
+    "score": 15,
+    "summary": "奥运滑板资格赛生死战打响！LA28新规首秀，谁将锁定通往好莱坞的滑板门票？",
     "source": "World Skate"
-  },
-  {
-    "title": "Marc Johnson's Memorial GoFundMe",
-    "link": "https://www.thrashermagazine.com/articles/trash/marc-johnson-s-memorial-gofundme/",
-    "score": 11,
-    "summary": "传奇滑手Marc Johnson离世，全球滑板圈发起纪念募捐，街头灵魂永不落幕。",
-    "source": "Thrasher"
   },
   {
     "title": "Death Match 2026 Tickets",
     "link": "https://www.thrashermagazine.com/articles/events/death-match-2026-tickets/",
-    "score": 11,
-    "summary": "Thrasher年度滑板死亡赛门票开抢，街头硬核对决一触即发，谁能在水泥碗池里活到最后？",
+    "score": 13,
+    "summary": "Thrasher年度硬核赛事Death Match 2026门票开抢，街头滑板最血腥的对抗即将上演，谁能在水泥碗池里活到最后？",
+    "source": "Thrasher"
+  },
+  {
+    "title": "This Old Ledge: LA Schoolyards & the Legend of Lockwood",
+    "link": "https://www.thrashermagazine.com/articles/videos/this-old-ledge-la-schoolyards-the-legend-of-lockwood/",
+    "score": 13,
+    "summary": "洛杉矶校园台阶与Lockwood传奇：滑板地形背后的街头史诗，谁在重塑城市滑板版图？",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Pedro Barros Set to Hit Nanjing for Bowl Masterclass",
+    "link": "https://www.kickerclub.com/2026/07/pedro-barros-set-to-hit-nanjing-for-bowl-masterclass/",
+    "score": 13,
+    "summary": "碗池传奇Pedro Barros空降南京！奥运冠军级滑手亲授“碗池大师课”，中国滑板迷迎来史上最炸现场教学！",
+    "source": "KickerClub"
+  },
+  {
+    "title": "April x Spitfire Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/april-x-spitfire-video/",
+    "score": 9,
+    "summary": "April联手Spitfire发布全新滑板视频，硬核街头动作与创意剪辑引爆圈内期待！",
     "source": "Thrasher"
   },
   {
     "title": "Spike Jonze Talk at \"Push Play\" Skate Video Festival",
     "link": "https://www.thrashermagazine.com/articles/events/spike-jonze-talk-at-push-play-skate-video-festival/",
     "score": 9,
-    "summary": "Spike Jonze亲临滑板影像节开讲，从《狗镇少年》到《歪小子斯科特》，一场关于镜头与滑板的街头文化盛宴。",
+    "summary": "传奇导演Spike Jonze现身滑板电影节，用一场演讲把街头文化与影像美学焊死在板面上！",
     "source": "Thrasher"
   },
   {
-    "title": "April x Spitfire Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/april-x-spitfire-video/",
+    "title": "\"Can't See Zee\" 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/can-t-see-zee-2026-event/",
     "score": 9,
-    "summary": "April联手Spitfire释出重磅滑板影片，硬核街头能量直接拉满！",
+    "summary": "Thrasher年度压轴大片《Can't See Zee》2026官宣，街头滑板硬核暴力美学再度来袭，谁将主宰明年最野地形？",
+    "source": "Thrasher"
+  },
+  {
+    "title": "NikeSB Asia Tour come to China in July",
+    "link": "https://www.kickerclub.com/2026/07/nikesb-asia-tour-come-to-china-in-july/",
+    "score": 9,
+    "summary": "NikeSB亚洲巡回赛七月登陆中国，街头潮流与滑板文化即将引爆本土板场！",
+    "source": "KickerClub"
+  },
+  {
+    "title": "Bellevegas Beatdown 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/bellevegas-beatdown-2026/",
+    "score": 9,
+    "summary": "Thrasher年度硬核滑板盛事Bellevegas Beatdown 2026官宣，街头狠招与地下文化再度引爆赌城，谁将在这片水泥丛林中称王？",
     "source": "Thrasher"
   },
   {
     "title": "\"Byst of WSC\" Event in the Netherlands",
     "link": "https://www.thrashermagazine.com/articles/events/byst-of-wsc-event-in-the-netherlands/",
-    "score": 9,
-    "summary": "荷兰WSC街头赛事惊现“Byst”神招，Thrasher独家镜头引爆滑板圈——这不是奥运，却是当下最硬核的街头荣耀之战！",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Kingdom Takeover Skate Tour",
-    "link": "https://www.thrashermagazine.com/articles/events/kingdom-takeover-skate-tour/",
-    "score": 9,
-    "summary": "Thrasher年度重磅：Kingdom Takeover滑板巡回赛席卷全美街头，各路狠角儿齐聚，用最野的招数占领城市地形！",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
     "score": 8,
-    "summary": "World Skate官方发布全新滑板纪律片《Discipline》，街头精神与竞技规则碰撞，谁将定义下一代滑板法则？",
-    "source": "World Skate"
-  },
-  {
-    "title": "World Skateboarding Ranking Explained!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3899-world-skateboarding-ranking-explained.html",
-    "score": 8,
-    "summary": "世界滑板排名规则大揭秘！想看懂奥运资格赛，这一篇就够了。",
-    "source": "World Skate"
+    "summary": "荷兰街头狂潮“Byst of WSC”现场直击：Thrasher镜头下，滑板与嘻哈的原始碰撞，谁才是真正的街头之王？",
+    "source": "Thrasher"
   }
 ];
