@@ -1,72 +1,72 @@
 const newsData = [
   {
-    "title": "LA28: Q-Series Update!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
-    "score": 14,
-    "summary": "奥运滑板资格赛洛杉矶站战报：世界顶尖滑手为直通LA28发起最后冲刺，街头风格与冠军悬念齐飞，谁将锁定历史首发席位？",
-    "source": "World Skate"
-  },
-  {
     "title": "Pedro Barros Set to Hit Nanjing for Bowl Masterclass",
     "link": "https://www.kickerclub.com/2026/07/pedro-barros-set-to-hit-nanjing-for-bowl-masterclass/",
-    "score": 13,
-    "summary": "碗池传奇Pedro Barros空降南京，街头霸主即将掀起一场滑板碗池风暴！",
+    "score": 15,
+    "summary": "巴西碗池传奇Pedro Barros空降南京，街头之王即将掀起中国碗池狂潮！",
     "source": "KickerClub"
+  },
+  {
+    "title": "This Old Ledge: LA Schoolyards & the Legend of Lockwood",
+    "link": "https://www.thrashermagazine.com/articles/videos/this-old-ledge-la-schoolyards-the-legend-of-lockwood/",
+    "score": 15,
+    "summary": "Thrasher深挖洛杉矶校园经典地形“Lockwood台阶”的传奇历史——从街头滑板黄金年代到如今的地标打卡地，告诉你为什么这块老台阶至今仍是滑板文化的圣殿！",
+    "source": "Thrasher"
   },
   {
     "title": "Marc Johnson's Memorial GoFundMe",
     "link": "https://www.thrashermagazine.com/articles/trash/marc-johnson-s-memorial-gofundme/",
     "score": 13,
-    "summary": "传奇滑手Marc Johnson发起纪念募捐，滑板圈集体致敬街头文化先驱，一场关于传承与热血的众筹正在点燃全球滑手情怀。",
+    "summary": "传奇滑手Marc Johnson离世，众筹纪念活动引爆滑板圈，致敬街头滑板黄金一代的永恒印记。",
     "source": "Thrasher"
   },
   {
-    "title": "This Old Ledge: LA Schoolyards & the Legend of Lockwood",
-    "link": "https://www.thrashermagazine.com/articles/videos/this-old-ledge-la-schoolyards-the-legend-of-lockwood/",
+    "title": "April x Spitfire Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/april-x-spitfire-video/",
     "score": 13,
-    "summary": "传奇地形Lockwood的幕后故事曝光：洛杉矶校园台阶如何成为滑板史上最野的“街头考场”，一块水泥的叛逆比奥运金牌更硬核！",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Death Match 2026 Tickets",
-    "link": "https://www.thrashermagazine.com/articles/events/death-match-2026-tickets/",
-    "score": 12,
-    "summary": "Death Match 2026门票开售，Thrasher年度滑板血腥对决提前引爆街头，谁能活着走出地狱碗？",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Uptown Takeover 2026 Event",
-    "link": "https://www.thrashermagazine.com/articles/events/uptown-takeover-2026-event/",
-    "score": 12,
-    "summary": "Thrasher年度街头盛事Uptown Takeover 2026官宣，滑板圈最硬核的“巷战”回归，谁能把纽约街头变成自家后花园？",
+    "summary": "April联手Spitfire发布重磅滑板影片，街头硬核美学再度引爆圈层期待！",
     "source": "Thrasher"
   },
   {
     "title": "Spike Jonze Talk at \"Push Play\" Skate Video Festival",
     "link": "https://www.thrashermagazine.com/articles/events/spike-jonze-talk-at-push-play-skate-video-festival/",
-    "score": 9,
-    "summary": "传奇导演Spike Jonze亲临滑板电影节，用镜头语言重述街头文化的黄金时代！",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Bellevegas Beatdown 2026 Event",
-    "link": "https://www.thrashermagazine.com/articles/events/bellevegas-beatdown-2026/",
-    "score": 9,
-    "summary": "Thrasher重磅发布：Bellevegas Beatdown 2026赛事官宣，街头硬核对决即将点燃拉斯维加斯！",
+    "score": 13,
+    "summary": "传奇导演Spike Jonze亲临滑板影像盛宴，用镜头语言重写街头文化叙事——这场对谈，比任何冠军奖杯都更接近滑板的灵魂。",
     "source": "Thrasher"
   },
   {
     "title": "NikeSB Asia Tour come to China in July",
     "link": "https://www.kickerclub.com/2026/07/nikesb-asia-tour-come-to-china-in-july/",
-    "score": 8,
-    "summary": "NikeSB亚洲巡回赛七月登陆中国，街头潮流风暴即将席卷本土滑板圈！",
+    "score": 10,
+    "summary": "NikeSB亚洲巡回赛七月登陆中国，街头滑板风暴即将席卷本土！",
     "source": "KickerClub"
   },
   {
-    "title": "Jun.20th - Vision GSD 2026",
-    "link": "https://www.kickerclub.com/2026/06/jun-20th-vision-gsd-2026/",
-    "score": 8,
-    "summary": "Vision GSD 2026新品发布定档6月20日，经典街头滑板基因再燃，能否成为今年板圈最值得蹲的“神板”预告？",
-    "source": "KickerClub"
+    "title": "LA28: Q-Series Update!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
+    "score": 9,
+    "summary": "奥运滑板资格赛打响！LA28新周期首战即定生死，谁将抢下通往好莱坞的滑板门票？",
+    "source": "World Skate"
+  },
+  {
+    "title": "Death Match 2026 Tickets",
+    "link": "https://www.thrashermagazine.com/articles/events/death-match-2026-tickets/",
+    "score": 9,
+    "summary": "Death Match 2026门票开售，Thrasher年度最硬核街头滑板大乱斗即将点燃战火！",
+    "source": "Thrasher"
+  },
+  {
+    "title": "\"Byst of WSC\" Event in the Netherlands",
+    "link": "https://www.thrashermagazine.com/articles/events/byst-of-wsc-event-in-the-netherlands/",
+    "score": 9,
+    "summary": "荷兰WSC街头赛事惊现“Byst”神技，Thrasher镜头下新星炸场，街头滑板再掀狂潮！",
+    "source": "Thrasher"
+  },
+  {
+    "title": "\"Can't See Zee\" 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/can-t-see-zee-2026-event/",
+    "score": 9,
+    "summary": "Thrasher年度重磅：Zee挑战滑板界禁忌地形，2026“看不见”计划或将改写街头规则，滑手圈已炸锅！",
+    "source": "Thrasher"
   }
 ];
