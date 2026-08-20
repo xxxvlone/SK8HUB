@@ -7,21 +7,14 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "Humidity's Go Skate Day Event",
-    "link": "https://www.thrashermagazine.com/articles/events/humidity-s-go-skate-day-event/",
+    "title": "Baseline Skateshops \"Bevel Bond\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/baseline-skateshops-bevel-bond-video/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Lilly Strachan for Stance",
-    "link": "https://www.thrashermagazine.com/articles/trash/lilly-strachan-for-stance/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Skateboarding",
+    "title": "Discipline",
     "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
@@ -35,6 +28,13 @@ const newsData = [
     "source": "Thrasher"
   },
   {
+    "title": "Low Key's \"Back To The Plaza 3\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/low-key-s-back-to-the-plaza-3-event/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
     "title": "World Skateboarding Ranking Explained!",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3899-world-skateboarding-ranking-explained.html",
     "score": 0,
@@ -42,15 +42,15 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Uptown Takeover 2026 Event",
-    "link": "https://www.thrashermagazine.com/articles/events/uptown-takeover-2026-event/",
+    "title": "Flying Low's \"Sporte De Wort\" Event",
+    "link": "https://www.thrashermagazine.com/articles/trash/flying-low-s-sporte-de-wort-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "\"Can't See Zee\" 2026 Event",
-    "link": "https://www.thrashermagazine.com/articles/events/can-t-see-zee-2026-event/",
+    "title": "Humidity's Go Skate Day Event",
+    "link": "https://www.thrashermagazine.com/articles/events/humidity-s-go-skate-day-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -63,8 +63,8 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "This Old Ledge: LA Schoolyards & the Legend of Lockwood",
-    "link": "https://www.thrashermagazine.com/articles/videos/this-old-ledge-la-schoolyards-the-legend-of-lockwood/",
+    "title": "Lilly Strachan for Stance",
+    "link": "https://www.thrashermagazine.com/articles/trash/lilly-strachan-for-stance/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
