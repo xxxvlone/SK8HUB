@@ -21,6 +21,20 @@ const newsData = [
     "source": "KickerClub"
   },
   {
+    "title": "Flying Low's \"Sporte De Wort\" Event",
+    "link": "https://www.thrashermagazine.com/articles/trash/flying-low-s-sporte-de-wort-event/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "World Skateboarding Ranking Explained!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3899-world-skateboarding-ranking-explained.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
     "title": "instagram",
     "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
@@ -28,18 +42,11 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "\"Can't See Zee\" 2026 Event",
-    "link": "https://www.thrashermagazine.com/articles/events/can-t-see-zee-2026-event/",
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "\"Byst of WSC\" Event in the Netherlands",
-    "link": "https://www.thrashermagazine.com/articles/events/byst-of-wsc-event-in-the-netherlands/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "World Skate"
   },
   {
     "title": "In the Shop: October 2026 Cover Tees",
@@ -49,24 +56,17 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Jun.20th - Vision GSD 2026",
-    "link": "https://www.kickerclub.com/2026/06/jun-20th-vision-gsd-2026/",
+    "title": "\"Can't See Zee\" 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/can-t-see-zee-2026-event/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "KickerClub"
+    "source": "Thrasher"
   },
   {
-    "title": "LA28: Q-Series Update!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
+    "title": "Thunder's \"Four Days in NYC\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/thunder-s-four-days-in-nyc-video/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "Skateboarding",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "Thrasher"
   }
 ];
