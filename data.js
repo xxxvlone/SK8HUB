@@ -21,21 +21,7 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "Bellevegas Beatdown 2026 Event",
-    "link": "https://www.thrashermagazine.com/articles/events/bellevegas-beatdown-2026/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "instagram",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "Discipline",
     "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
@@ -49,24 +35,38 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Uptown Takeover 2026 Event",
-    "link": "https://www.thrashermagazine.com/articles/events/uptown-takeover-2026-event/",
+    "title": "\"Byst of WSC\" Event in the Netherlands",
+    "link": "https://www.thrashermagazine.com/articles/events/byst-of-wsc-event-in-the-netherlands/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Humidity's Go Skate Day Event",
-    "link": "https://www.thrashermagazine.com/articles/events/humidity-s-go-skate-day-event/",
+    "title": "In the Shop: October 2026 Cover Tees",
+    "link": "https://www.thrashermagazine.com/articles/trash/n-the-shop-october-2026-cover-tees/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Kingdom Takeover Skate Tour",
-    "link": "https://www.thrashermagazine.com/articles/events/kingdom-takeover-skate-tour/",
+    "title": "Jun.20th - Vision GSD 2026",
+    "link": "https://www.kickerclub.com/2026/06/jun-20th-vision-gsd-2026/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "KickerClub"
+  },
+  {
+    "title": "LA28: Q-Series Update!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Skateboarding",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
   }
 ];
