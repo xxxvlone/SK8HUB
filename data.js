@@ -14,18 +14,18 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "Low Key's \"Back To The Plaza 3\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/low-key-s-back-to-the-plaza-3-event/",
+    "title": "Rough Cut: Pass~Port Presents Eetu Toropainen",
+    "link": "https://www.thrashermagazine.com/articles/videos/rough-cut-pass-port-presents-eetu-toropainen/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
+    "title": "Baseline Skateshops \"Bevel Bond\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/baseline-skateshops-bevel-bond-video/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "Thrasher"
   },
   {
     "title": "World Skateboarding Ranking Explained!",
@@ -35,13 +35,6 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "In the Shop: October 2026 Cover Tees",
-    "link": "https://www.thrashermagazine.com/articles/trash/n-the-shop-october-2026-cover-tees/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "Uptown Takeover 2026 Event",
     "link": "https://www.thrashermagazine.com/articles/events/uptown-takeover-2026-event/",
     "score": 0,
@@ -49,18 +42,25 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "\"Byst of WSC\" Event in the Netherlands",
-    "link": "https://www.thrashermagazine.com/articles/events/byst-of-wsc-event-in-the-netherlands/",
+    "title": "Death Match 2026 Tickets",
+    "link": "https://www.thrashermagazine.com/articles/events/death-match-2026-tickets/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Jun.20th - Vision GSD 2026",
-    "link": "https://www.kickerclub.com/2026/06/jun-20th-vision-gsd-2026/",
+    "title": "Skateboarding",
+    "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "KickerClub"
+    "source": "World Skate"
+  },
+  {
+    "title": "Bellevegas Beatdown 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/bellevegas-beatdown-2026/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
   },
   {
     "title": "The Fourth Annual \"Fargo Classic\" Contest",
