@@ -14,6 +14,13 @@ const newsData = [
     "source": "KickerClub"
   },
   {
+    "title": "Death Match 2026 Tickets",
+    "link": "https://www.thrashermagazine.com/articles/events/death-match-2026-tickets/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
     "title": "Jun.20th - Vision GSD 2026",
     "link": "https://www.kickerclub.com/2026/06/jun-20th-vision-gsd-2026/",
     "score": 0,
@@ -21,50 +28,43 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
+    "title": "In the Shop: October 2026 Cover Tees",
+    "link": "https://www.thrashermagazine.com/articles/trash/n-the-shop-october-2026-cover-tees/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "LA28: Q-Series Update!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
   },
   {
-    "title": "Pedro Barros Set to Hit Nanjing for Bowl Masterclass",
-    "link": "https://www.kickerclub.com/2026/07/pedro-barros-set-to-hit-nanjing-for-bowl-masterclass/",
+    "title": "Thunder's \"Four Days in NYC\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/thunder-s-four-days-in-nyc-video/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "KickerClub"
+    "source": "Thrasher"
+  },
+  {
+    "title": "The Fourth Annual \"Fargo Classic\" Contest",
+    "link": "https://www.thrashermagazine.com/articles/trash/the-fourth-annual-fargo-classic-contest/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "World Skateboarding Ranking Explained!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3899-world-skateboarding-ranking-explained.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
   },
   {
     "title": "Low Key's \"Back To The Plaza 3\" Event",
     "link": "https://www.thrashermagazine.com/articles/events/low-key-s-back-to-the-plaza-3-event/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "Rough Cut: Pass~Port Presents Eetu Toropainen",
-    "link": "https://www.thrashermagazine.com/articles/videos/rough-cut-pass-port-presents-eetu-toropainen/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "In the Shop: October 2026 Cover Tees",
-    "link": "https://www.thrashermagazine.com/articles/trash/n-the-shop-october-2026-cover-tees/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
