@@ -14,8 +14,8 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "\"Byst of WSC\" Event in the Netherlands",
-    "link": "https://www.thrashermagazine.com/articles/events/byst-of-wsc-event-in-the-netherlands/",
+    "title": "Low Key's \"Back To The Plaza 3\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/low-key-s-back-to-the-plaza-3-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -28,32 +28,18 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Lucas L'Heureux \"Lung Rocket\" Goodnews Part",
-    "link": "https://www.thrashermagazine.com/articles/trash/lucas-l-heureux-lung-rocket-goodnews-part/",
+    "title": "The \"Making of Hardies Land: Ep. 4\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/the-making-of-hardies-land-ep-4-video/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Uptown Takeover 2026 Event",
-    "link": "https://www.thrashermagazine.com/articles/events/uptown-takeover-2026-event/",
+    "title": "Flying Low's \"Sporte De Wort\" Event",
+    "link": "https://www.thrashermagazine.com/articles/trash/flying-low-s-sporte-de-wort-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
-  },
-  {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
   },
   {
     "title": "The Fourth Annual \"Fargo Classic\" Contest",
@@ -63,10 +49,24 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "In the Shop: October 2026 Cover Tees",
-    "link": "https://www.thrashermagazine.com/articles/trash/n-the-shop-october-2026-cover-tees/",
+    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "World Skate"
+  },
+  {
+    "title": "World Skateboarding Ranking Explained!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3899-world-skateboarding-ranking-explained.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Pedro Barros Set to Hit Nanjing for Bowl Masterclass",
+    "link": "https://www.kickerclub.com/2026/07/pedro-barros-set-to-hit-nanjing-for-bowl-masterclass/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
   }
 ];
