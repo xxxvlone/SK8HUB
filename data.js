@@ -14,8 +14,8 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "Thunder's \"Four Days in NYC\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/thunder-s-four-days-in-nyc-video/",
+    "title": "Flying Low's \"Sporte De Wort\" Event",
+    "link": "https://www.thrashermagazine.com/articles/trash/flying-low-s-sporte-de-wort-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -28,36 +28,22 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "The Fourth Annual \"Fargo Classic\" Contest",
-    "link": "https://www.thrashermagazine.com/articles/trash/the-fourth-annual-fargo-classic-contest/",
+    "title": "Pedro Barros Set to Hit Nanjing for Bowl Masterclass",
+    "link": "https://www.kickerclub.com/2026/07/pedro-barros-set-to-hit-nanjing-for-bowl-masterclass/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
+  },
+  {
+    "title": "Rough Cut: Pass~Port Presents Eetu Toropainen",
+    "link": "https://www.thrashermagazine.com/articles/videos/rough-cut-pass-port-presents-eetu-toropainen/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "\"Can't See Zee\" 2026 Event",
-    "link": "https://www.thrashermagazine.com/articles/events/can-t-see-zee-2026-event/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "\"Byst of WSC\" Event in the Netherlands",
-    "link": "https://www.thrashermagazine.com/articles/events/byst-of-wsc-event-in-the-netherlands/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Bellevegas Beatdown 2026 Event",
-    "link": "https://www.thrashermagazine.com/articles/events/bellevegas-beatdown-2026/",
+    "title": "The \"Making of Hardies Land: Ep. 4\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/the-making-of-hardies-land-ep-4-video/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -68,5 +54,19 @@ const newsData = [
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
+  },
+  {
+    "title": "Low Key's \"Back To The Plaza 3\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/low-key-s-back-to-the-plaza-3-event/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Death Match 2026 Tickets",
+    "link": "https://www.thrashermagazine.com/articles/events/death-match-2026-tickets/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
   }
 ];
