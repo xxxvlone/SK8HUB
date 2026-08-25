@@ -21,25 +21,25 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "Pedro Barros Set to Hit Nanjing for Bowl Masterclass",
-    "link": "https://www.kickerclub.com/2026/07/pedro-barros-set-to-hit-nanjing-for-bowl-masterclass/",
+    "title": "World Skateboarding Ranking Explained!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3899-world-skateboarding-ranking-explained.html",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "KickerClub"
+    "source": "World Skate"
   },
   {
-    "title": "Low Key's \"Back To The Plaza 3\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/low-key-s-back-to-the-plaza-3-event/",
+    "title": "Emerica's NorCal Tour Dates",
+    "link": "https://www.thrashermagazine.com/articles/events/emerica-s-norcal-tour-dates/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "instagram",
-    "link": "https://www.worldskate.org/skateboarding.html",
+    "title": "Uptown Takeover 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/uptown-takeover-2026-event/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "Thrasher"
   },
   {
     "title": "Discipline",
@@ -56,17 +56,17 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "World Skateboarding Ranking Explained!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3899-world-skateboarding-ranking-explained.html",
+    "title": "Flying Low's \"Sporte De Wort\" Event",
+    "link": "https://www.thrashermagazine.com/articles/trash/flying-low-s-sporte-de-wort-event/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "Thrasher"
   },
   {
-    "title": "LA28: Q-Series Update!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
+    "title": "In the Shop: October 2026 Cover Tees",
+    "link": "https://www.thrashermagazine.com/articles/trash/n-the-shop-october-2026-cover-tees/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "Thrasher"
   }
 ];
