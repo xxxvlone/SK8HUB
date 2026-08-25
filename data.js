@@ -14,15 +14,36 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "Bellevegas Beatdown 2026 Event",
-    "link": "https://www.thrashermagazine.com/articles/events/bellevegas-beatdown-2026/",
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Death Match 2026 Tickets",
+    "link": "https://www.thrashermagazine.com/articles/events/death-match-2026-tickets/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Rough Cut: Pass~Port Presents Eetu Toropainen",
-    "link": "https://www.thrashermagazine.com/articles/videos/rough-cut-pass-port-presents-eetu-toropainen/",
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "etnies Promo",
+    "link": "https://www.thrashermagazine.com/articles/videos/etnies-promo/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Uptown Takeover 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/uptown-takeover-2026-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -35,11 +56,11 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Pedro Barros Set to Hit Nanjing for Bowl Masterclass",
-    "link": "https://www.kickerclub.com/2026/07/pedro-barros-set-to-hit-nanjing-for-bowl-masterclass/",
+    "title": "Na-Kel Smith for Hardies Hardware",
+    "link": "https://www.thrashermagazine.com/articles/trash/na-kel-smith-for-hardies-hardware/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "KickerClub"
+    "source": "Thrasher"
   },
   {
     "title": "In the Shop: October 2026 Cover Tees",
@@ -47,26 +68,5 @@ const newsData = [
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
-  },
-  {
-    "title": "\"Byst of WSC\" Event in the Netherlands",
-    "link": "https://www.thrashermagazine.com/articles/events/byst-of-wsc-event-in-the-netherlands/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "The Fourth Annual \"Fargo Classic\" Contest",
-    "link": "https://www.thrashermagazine.com/articles/trash/the-fourth-annual-fargo-classic-contest/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Jun.20th - Vision GSD 2026",
-    "link": "https://www.kickerclub.com/2026/06/jun-20th-vision-gsd-2026/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
   }
 ];
