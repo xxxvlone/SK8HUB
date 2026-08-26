@@ -21,20 +21,6 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "Skateboarding",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "Milwaukee Mayhem Event 2026",
-    "link": "https://www.thrashermagazine.com/articles/events/milwaukee-mayhem-event-2026/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "Discipline",
     "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
@@ -49,24 +35,38 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "instagram",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "Na-Kel Smith for Hardies Hardware",
-    "link": "https://www.thrashermagazine.com/articles/trash/na-kel-smith-for-hardies-hardware/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "Emerica's NorCal Tour Dates",
     "link": "https://www.thrashermagazine.com/articles/events/emerica-s-norcal-tour-dates/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
+  },
+  {
+    "title": "etnies Promo",
+    "link": "https://www.thrashermagazine.com/articles/videos/etnies-promo/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Pedro Barros Set to Hit Nanjing for Bowl Masterclass",
+    "link": "https://www.kickerclub.com/2026/07/pedro-barros-set-to-hit-nanjing-for-bowl-masterclass/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
+  },
+  {
+    "title": "World Skateboarding Ranking Explained!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3899-world-skateboarding-ranking-explained.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Skateboarding",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
   }
 ];
