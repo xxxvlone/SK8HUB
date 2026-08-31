@@ -1,14 +1,14 @@
 const newsData = [
   {
-    "title": "BonBon Distribution's Slovakia Championship 2026",
-    "link": "https://www.thrashermagazine.com/articles/trash/bonbon-distribution-s-slovakia-championship-2026/",
+    "title": "Nora Vasconcello's \"Gilda\" Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/nora-vasconcello-s-gilda-premiere/",
     "score": 6,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Nora Vasconcello's \"Gilda\" Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/nora-vasconcello-s-gilda-premiere/",
+    "title": "BonBon Distribution's Slovakia Championship 2026",
+    "link": "https://www.thrashermagazine.com/articles/trash/bonbon-distribution-s-slovakia-championship-2026/",
     "score": 6,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -28,20 +28,6 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "Milwaukee Mayhem Event 2026",
-    "link": "https://www.thrashermagazine.com/articles/events/milwaukee-mayhem-event-2026/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Skateboarding",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
     "title": "Death Match 2026 Tickets",
     "link": "https://www.thrashermagazine.com/articles/events/death-match-2026-tickets/",
     "score": 0,
@@ -49,24 +35,38 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Volcom's \"Road Tested\" Australia Tour",
-    "link": "https://www.thrashermagazine.com/articles/trash/volcom-s-road-tested-australia-tour/",
+    "title": "Uptown Takeover 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/uptown-takeover-2026-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Sep.4th-6th Finding Vision LA",
-    "link": "https://www.kickerclub.com/2026/08/sep-4th-6th-finding-vision-la/",
+    "title": "Cage Cocalis' \"Thief of Joy\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/cage-cocalis-thief-of-joy-video/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "KickerClub"
+    "source": "Thrasher"
   },
   {
-    "title": "World Skateboarding Ranking Explained!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3899-world-skateboarding-ranking-explained.html",
+    "title": "Augusto Akio's \"Ambiguous\" Low Pressure Part",
+    "link": "https://www.thrashermagazine.com/articles/trash/augusto-akio-ambiguous-low-pressure-part/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "Thrasher"
+  },
+  {
+    "title": "Milwaukee Mayhem Event 2026",
+    "link": "https://www.thrashermagazine.com/articles/events/milwaukee-mayhem-event-2026/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Low Key's \"Back To The Plaza 3\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/low-key-s-back-to-the-plaza-3-event/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
   }
 ];
