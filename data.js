@@ -1,14 +1,14 @@
 const newsData = [
   {
-    "title": "Nora Vasconcello's \"Gilda\" Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/nora-vasconcello-s-gilda-premiere/",
+    "title": "BonBon Distribution's Slovakia Championship 2026",
+    "link": "https://www.thrashermagazine.com/articles/trash/bonbon-distribution-s-slovakia-championship-2026/",
     "score": 6,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "BonBon Distribution's Slovakia Championship 2026",
-    "link": "https://www.thrashermagazine.com/articles/trash/bonbon-distribution-s-slovakia-championship-2026/",
+    "title": "Nora Vasconcello's \"Gilda\" Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/nora-vasconcello-s-gilda-premiere/",
     "score": 6,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -28,18 +28,11 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Uptown Takeover 2026 Event",
-    "link": "https://www.thrashermagazine.com/articles/events/uptown-takeover-2026-event/",
-    "score": 0,
+    "title": "Bunt Jam 2026 Presented by Vans Photos",
+    "link": "https://www.thrashermagazine.com/articles/bunt-jam-2026-presented-by-vans-photos/",
+    "score": 4,
     "summary": "滑板资讯",
     "source": "Thrasher"
-  },
-  {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
   },
   {
     "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
@@ -49,24 +42,31 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Sep.4th-6th Finding Vision LA",
-    "link": "https://www.kickerclub.com/2026/08/sep-4th-6th-finding-vision-la/",
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "KickerClub"
+    "source": "World Skate"
   },
   {
-    "title": "Cage Cocalis' \"Thief of Joy\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/cage-cocalis-thief-of-joy-video/",
+    "title": "instagram",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Milwaukee Mayhem Event 2026",
+    "link": "https://www.thrashermagazine.com/articles/events/milwaukee-mayhem-event-2026/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Volcom's \"Road Tested\" Australia Tour",
-    "link": "https://www.thrashermagazine.com/articles/trash/volcom-s-road-tested-australia-tour/",
+    "title": "LA28: Q-Series Update!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "World Skate"
   }
 ];
