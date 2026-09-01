@@ -28,11 +28,11 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Milwaukee Mayhem Event 2026",
-    "link": "https://www.thrashermagazine.com/articles/events/milwaukee-mayhem-event-2026/",
+    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "World Skate"
   },
   {
     "title": "instagram",
@@ -42,6 +42,20 @@ const newsData = [
     "source": "World Skate"
   },
   {
+    "title": "World Skateboarding Ranking Explained!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3899-world-skateboarding-ranking-explained.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Kingdom Takeover Skate Tour",
+    "link": "https://www.thrashermagazine.com/articles/events/kingdom-takeover-skate-tour/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
     "title": "Death Match 2026 Tickets",
     "link": "https://www.thrashermagazine.com/articles/events/death-match-2026-tickets/",
     "score": 0,
@@ -49,22 +63,8 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Augusto Akio's \"Ambiguous\" Low Pressure Part",
-    "link": "https://www.thrashermagazine.com/articles/trash/augusto-akio-ambiguous-low-pressure-part/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Flying Low's \"Sporte De Wort\" Event",
-    "link": "https://www.thrashermagazine.com/articles/trash/flying-low-s-sporte-de-wort-event/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Cage Cocalis' \"Thief of Joy\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/cage-cocalis-thief-of-joy-video/",
+    "title": "Low Key's \"Back To The Plaza 3\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/low-key-s-back-to-the-plaza-3-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
