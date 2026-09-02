@@ -14,13 +14,6 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Bunt Jam 2026 Presented by Vans Photos",
-    "link": "https://www.thrashermagazine.com/articles/bunt-jam-2026-presented-by-vans-photos/",
-    "score": 4,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "The Bunt Jam 2026 Presented by VANS",
     "link": "https://www.thrashermagazine.com/articles/videos/the-bunt-jam-2026-video/",
     "score": 4,
@@ -35,8 +28,36 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "Junior for Hardies",
-    "link": "https://www.thrashermagazine.com/articles/trash/junior-for-hardies/",
+    "title": "Bunt Jam 2026 Presented by Vans Photos",
+    "link": "https://www.thrashermagazine.com/articles/bunt-jam-2026-presented-by-vans-photos/",
+    "score": 4,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Adam Hopkins' \"Ain’t Dead Yet\" Part",
+    "link": "https://www.thrashermagazine.com/articles/trash/adam-hopkins-aint-dead-yet-part/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Emerica's NorCal Tour Dates",
+    "link": "https://www.thrashermagazine.com/articles/events/emerica-s-norcal-tour-dates/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Sep.4th-6th Finding Vision LA",
+    "link": "https://www.kickerclub.com/2026/08/sep-4th-6th-finding-vision-la/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
+  },
+  {
+    "title": "The 10th Annual Labor Day at Orchid Skatepark",
+    "link": "https://www.thrashermagazine.com/articles/events/the-10th-annual-labor-day-at-orchid-skatepark/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -44,27 +65,6 @@ const newsData = [
   {
     "title": "Uptown Takeover 2026 Event",
     "link": "https://www.thrashermagazine.com/articles/events/uptown-takeover-2026-event/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "instagram",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "Adam Hopkins' \"Not Dead Yet\" Part",
-    "link": "https://www.thrashermagazine.com/articles/trash/adam-hopkins-not-dead-yet-part/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Flying Low's \"Sporte De Wort\" Event",
-    "link": "https://www.thrashermagazine.com/articles/trash/flying-low-s-sporte-de-wort-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
