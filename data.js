@@ -14,15 +14,15 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "The Bunt Jam 2026 Presented by VANS",
-    "link": "https://www.thrashermagazine.com/articles/videos/the-bunt-jam-2026-video/",
+    "title": "Bunt Jam 2026 Presented by Vans Photos",
+    "link": "https://www.thrashermagazine.com/articles/bunt-jam-2026-presented-by-vans-photos/",
     "score": 4,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Bunt Jam 2026 Presented by Vans Photos",
-    "link": "https://www.thrashermagazine.com/articles/bunt-jam-2026-presented-by-vans-photos/",
+    "title": "The Bunt Jam 2026 Presented by VANS",
+    "link": "https://www.thrashermagazine.com/articles/videos/the-bunt-jam-2026-video/",
     "score": 4,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -35,38 +35,38 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "Death Match 2026 Tickets",
-    "link": "https://www.thrashermagazine.com/articles/events/death-match-2026-tickets/",
+    "title": "Junior for Hardies",
+    "link": "https://www.thrashermagazine.com/articles/trash/junior-for-hardies/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Pedro Barros Set to Hit Nanjing for Bowl Masterclass",
-    "link": "https://www.kickerclub.com/2026/07/pedro-barros-set-to-hit-nanjing-for-bowl-masterclass/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
-    "title": "Sep.4th-6th Finding Vision LA",
-    "link": "https://www.kickerclub.com/2026/08/sep-4th-6th-finding-vision-la/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
-    "title": "Emerica's NorCal Tour Dates",
-    "link": "https://www.thrashermagazine.com/articles/events/emerica-s-norcal-tour-dates/",
+    "title": "Uptown Takeover 2026 Event",
+    "link": "https://www.thrashermagazine.com/articles/events/uptown-takeover-2026-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Discipline",
+    "title": "instagram",
     "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
+  },
+  {
+    "title": "Adam Hopkins' \"Not Dead Yet\" Part",
+    "link": "https://www.thrashermagazine.com/articles/trash/adam-hopkins-not-dead-yet-part/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Flying Low's \"Sporte De Wort\" Event",
+    "link": "https://www.thrashermagazine.com/articles/trash/flying-low-s-sporte-de-wort-event/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
   }
 ];
