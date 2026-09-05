@@ -1,7 +1,7 @@
 const newsData = [
   {
-    "title": "Connor Champion and Josh Velez for Grand Collection",
-    "link": "https://www.thrashermagazine.com/articles/trash/connor-champion-and-josh-velez-for-grand-collection/",
+    "title": "BonBon Distribution's Slovakia Championship 2026",
+    "link": "https://www.thrashermagazine.com/articles/trash/bonbon-distribution-s-slovakia-championship-2026/",
     "score": 6,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -14,8 +14,8 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "BonBon Distribution's Slovakia Championship 2026",
-    "link": "https://www.thrashermagazine.com/articles/trash/bonbon-distribution-s-slovakia-championship-2026/",
+    "title": "Connor Champion and Josh Velez for Grand Collection",
+    "link": "https://www.thrashermagazine.com/articles/trash/connor-champion-and-josh-velez-for-grand-collection/",
     "score": 6,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -28,13 +28,6 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "Sep.4th-6th Finding Vision LA",
-    "link": "https://www.kickerclub.com/2026/08/sep-4th-6th-finding-vision-la/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
     "title": "instagram",
     "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
@@ -42,11 +35,11 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Skateboarding",
-    "link": "https://www.worldskate.org/skateboarding.html",
+    "title": "Milwaukee Mayhem Event 2026",
+    "link": "https://www.thrashermagazine.com/articles/events/milwaukee-mayhem-event-2026/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "Thrasher"
   },
   {
     "title": "Discipline",
@@ -63,8 +56,15 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "The Fourth Annual \"Fargo Classic\" Contest",
-    "link": "https://www.thrashermagazine.com/articles/trash/the-fourth-annual-fargo-classic-contest/",
+    "title": "Deedz \"Primary Colors\" Part",
+    "link": "https://www.thrashermagazine.com/articles/videos/deedz-primary-colors-part/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "David Gravette's \"20 Years of Torment\" Creature Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/david-gravette-s-20-years-of-torment-creature-video/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
