@@ -7,6 +7,13 @@ const newsData = [
     "source": "Thrasher"
   },
   {
+    "title": "Connor Champion and Josh Velez for Grand Collection",
+    "link": "https://www.thrashermagazine.com/articles/trash/connor-champion-and-josh-velez-for-grand-collection/",
+    "score": 6,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
     "title": "BonBon Distribution's Slovakia Championship 2026",
     "link": "https://www.thrashermagazine.com/articles/trash/bonbon-distribution-s-slovakia-championship-2026/",
     "score": 6,
@@ -14,46 +21,11 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Ducky's \"Guest\" Heroin Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/ducky-s-guest-heroin-video/",
+    "title": "NikeSB Asia Tour come to China in July",
+    "link": "https://www.kickerclub.com/2026/07/nikesb-asia-tour-come-to-china-in-july/",
     "score": 4,
     "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Nora Vasconcellos' \"Gilda\" Part",
-    "link": "https://www.thrashermagazine.com/articles/videos/nora-vasconcellos-gilda-part/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "instagram",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "Deedz \"Primary Colors\" Part",
-    "link": "https://www.thrashermagazine.com/articles/videos/deedz-primary-colors-part/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Unity Fest 2026 Announcement",
-    "link": "https://www.thrashermagazine.com/articles/trash/unity-fest-2026-announcement/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "KickerClub"
   },
   {
     "title": "Discipline",
@@ -63,10 +35,38 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "David Gravette's \"20 Years of Torment\" Creature Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/david-gravette-s-20-years-of-torment-creature-video/",
+    "title": "LA28: Q-Series Update!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "The 10th Annual Labor Day at Orchid Skatepark",
+    "link": "https://www.thrashermagazine.com/articles/events/the-10th-annual-labor-day-at-orchid-skatepark/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
+  },
+  {
+    "title": "World Skateboarding Ranking Explained!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3899-world-skateboarding-ranking-explained.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Nollie Skate Shop's Anniversary Event with Plan B",
+    "link": "https://www.thrashermagazine.com/articles/events/nollie-skate-shop-s-anniversary-event-with-plan-b/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "instagram",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
   }
 ];
