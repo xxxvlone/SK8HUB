@@ -28,20 +28,6 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "Christian Henry and ZYY SK8 Club's \"Paris Best Trick\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/christian-henry-and-zyy-sk8-club-s-paris-best-trick-video/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "Skateboarding",
     "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
@@ -49,22 +35,36 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Kingdom Takeover Skate Tour",
-    "link": "https://www.thrashermagazine.com/articles/events/kingdom-takeover-skate-tour/",
+    "title": "instagram",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Deedz \"Primary Colors\" Part",
+    "link": "https://www.thrashermagazine.com/articles/videos/deedz-primary-colors-part/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "The Fourth Annual \"Fargo Classic\" Contest",
-    "link": "https://www.thrashermagazine.com/articles/trash/the-fourth-annual-fargo-classic-contest/",
+    "title": "Unity Fest 2026 Announcement",
+    "link": "https://www.thrashermagazine.com/articles/trash/unity-fest-2026-announcement/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Emerica's NorCal Tour Dates",
-    "link": "https://www.thrashermagazine.com/articles/events/emerica-s-norcal-tour-dates/",
+    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Nora Vasconcellos' \"Gilda\" Part",
+    "link": "https://www.thrashermagazine.com/articles/videos/nora-vasconcellos-gilda-part/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
