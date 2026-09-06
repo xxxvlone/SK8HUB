@@ -1,14 +1,14 @@
 const newsData = [
   {
-    "title": "Connor Champion and Josh Velez for Grand Collection",
-    "link": "https://www.thrashermagazine.com/articles/trash/connor-champion-and-josh-velez-for-grand-collection/",
+    "title": "BonBon Distribution's Slovakia Championship 2026",
+    "link": "https://www.thrashermagazine.com/articles/trash/bonbon-distribution-s-slovakia-championship-2026/",
     "score": 6,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "BonBon Distribution's Slovakia Championship 2026",
-    "link": "https://www.thrashermagazine.com/articles/trash/bonbon-distribution-s-slovakia-championship-2026/",
+    "title": "Connor Champion and Josh Velez for Grand Collection",
+    "link": "https://www.thrashermagazine.com/articles/trash/connor-champion-and-josh-velez-for-grand-collection/",
     "score": 6,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -28,34 +28,6 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "Nora Vasconcellos' \"Gilda\" Part",
-    "link": "https://www.thrashermagazine.com/articles/videos/nora-vasconcellos-gilda-part/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "instagram",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "Sep.4th-6th Finding Vision LA",
-    "link": "https://www.kickerclub.com/2026/08/sep-4th-6th-finding-vision-la/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
-    "title": "The 10th Annual Labor Day at Orchid Skatepark",
-    "link": "https://www.thrashermagazine.com/articles/events/the-10th-annual-labor-day-at-orchid-skatepark/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "Pedro Barros Set to Hit Nanjing for Bowl Masterclass",
     "link": "https://www.kickerclub.com/2026/07/pedro-barros-set-to-hit-nanjing-for-bowl-masterclass/",
     "score": 0,
@@ -63,8 +35,36 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "Milwaukee Mayhem Event 2026",
-    "link": "https://www.thrashermagazine.com/articles/events/milwaukee-mayhem-event-2026/",
+    "title": "The Fourth Annual \"Fargo Classic\" Contest",
+    "link": "https://www.thrashermagazine.com/articles/trash/the-fourth-annual-fargo-classic-contest/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Nora Vasconcellos' \"Gilda\" Part",
+    "link": "https://www.thrashermagazine.com/articles/videos/nora-vasconcellos-gilda-part/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "LA28: Q-Series Update!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "David Gravette's \"20 Years of Torment\" Creature Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/david-gravette-s-20-years-of-torment-creature-video/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
