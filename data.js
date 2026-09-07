@@ -1,12 +1,5 @@
 const newsData = [
   {
-    "title": "Nora Vasconcello's \"Gilda\" Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/nora-vasconcello-s-gilda-premiere/",
-    "score": 6,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "BonBon Distribution's Slovakia Championship 2026",
     "link": "https://www.thrashermagazine.com/articles/trash/bonbon-distribution-s-slovakia-championship-2026/",
     "score": 6,
@@ -16,6 +9,13 @@ const newsData = [
   {
     "title": "Connor Champion and Josh Velez for Grand Collection",
     "link": "https://www.thrashermagazine.com/articles/trash/connor-champion-and-josh-velez-for-grand-collection/",
+    "score": 6,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Nora Vasconcello's \"Gilda\" Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/nora-vasconcello-s-gilda-premiere/",
     "score": 6,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -35,18 +35,18 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Emerica's NorCal Tour Dates",
-    "link": "https://www.thrashermagazine.com/articles/events/emerica-s-norcal-tour-dates/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Skateboarding",
-    "link": "https://www.worldskate.org/skateboarding.html",
+    "title": "LA28: Q-Series Update!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
+  },
+  {
+    "title": "Nollie Skate Shop's Anniversary Event with Plan B",
+    "link": "https://www.thrashermagazine.com/articles/events/nollie-skate-shop-s-anniversary-event-with-plan-b/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
   },
   {
     "title": "Flying Low's \"Sporte De Wort\" Event",
@@ -63,10 +63,10 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
+    "title": "Kingdom Takeover Skate Tour",
+    "link": "https://www.thrashermagazine.com/articles/events/kingdom-takeover-skate-tour/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "Thrasher"
   }
 ];
