@@ -1,12 +1,5 @@
 const newsData = [
   {
-    "title": "BonBon Distribution's Slovakia Championship 2026",
-    "link": "https://www.thrashermagazine.com/articles/trash/bonbon-distribution-s-slovakia-championship-2026/",
-    "score": 6,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "Nora Vasconcello's \"Gilda\" Premiere",
     "link": "https://www.thrashermagazine.com/articles/trash/nora-vasconcello-s-gilda-premiere/",
     "score": 6,
@@ -14,22 +7,29 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Connor Champion and Josh Velez for Grand Collection",
-    "link": "https://www.thrashermagazine.com/articles/trash/connor-champion-and-josh-velez-for-grand-collection/",
+    "title": "BonBon Distribution's Slovakia Championship 2026",
+    "link": "https://www.thrashermagazine.com/articles/trash/bonbon-distribution-s-slovakia-championship-2026/",
     "score": 6,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "The Fourth Annual \"Fargo Classic\" Contest",
-    "link": "https://www.thrashermagazine.com/articles/trash/the-fourth-annual-fargo-classic-contest/",
+    "title": "NikeSB Asia Tour come to China in July",
+    "link": "https://www.kickerclub.com/2026/07/nikesb-asia-tour-come-to-china-in-july/",
+    "score": 4,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
+  },
+  {
+    "title": "The 10th Annual Labor Day at Orchid Skatepark",
+    "link": "https://www.thrashermagazine.com/articles/events/the-10th-annual-labor-day-at-orchid-skatepark/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Christian Henry and ZYY SK8 Club's \"Paris Best Trick\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/christian-henry-and-zyy-sk8-club-s-paris-best-trick-video/",
+    "title": "Jack Springer for Pepper Grip",
+    "link": "https://www.thrashermagazine.com/articles/trash/jack-springer-for-pepper-grip/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -42,29 +42,29 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Nollie Skate Shop's Anniversary Event with Plan B",
-    "link": "https://www.thrashermagazine.com/articles/events/nollie-skate-shop-s-anniversary-event-with-plan-b/",
+    "title": "Pedro Barros Set to Hit Nanjing for Bowl Masterclass",
+    "link": "https://www.kickerclub.com/2026/07/pedro-barros-set-to-hit-nanjing-for-bowl-masterclass/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
+  },
+  {
+    "title": "Kingdom Takeover Skate Tour",
+    "link": "https://www.thrashermagazine.com/articles/events/kingdom-takeover-skate-tour/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
+    "title": "Chris Casey Memorial Jam Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/chris-casey-memorial-jam-video/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "Thrasher"
   },
   {
-    "title": "World Skateboarding Ranking Explained!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3899-world-skateboarding-ranking-explained.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "NB Numeric's Running Numbers Europe 2026",
-    "link": "https://www.thrashermagazine.com/articles/videos/nb-numeric-s-running-numbers-europe-2026/",
+    "title": "Milwaukee Mayhem Event 2026",
+    "link": "https://www.thrashermagazine.com/articles/events/milwaukee-mayhem-event-2026/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
