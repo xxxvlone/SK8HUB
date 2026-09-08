@@ -7,15 +7,15 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Connor Champion and Josh Velez for Grand Collection",
-    "link": "https://www.thrashermagazine.com/articles/trash/connor-champion-and-josh-velez-for-grand-collection/",
+    "title": "Nora Vasconcello's \"Gilda\" Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/nora-vasconcello-s-gilda-premiere/",
     "score": 6,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Nora Vasconcello's \"Gilda\" Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/nora-vasconcello-s-gilda-premiere/",
+    "title": "Connor Champion and Josh Velez for Grand Collection",
+    "link": "https://www.thrashermagazine.com/articles/trash/connor-champion-and-josh-velez-for-grand-collection/",
     "score": 6,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -35,32 +35,11 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Nollie Skate Shop's Anniversary Event with Plan B",
-    "link": "https://www.thrashermagazine.com/articles/events/nollie-skate-shop-s-anniversary-event-with-plan-b/",
+    "title": "Sep.4th-6th Finding Vision LA",
+    "link": "https://www.kickerclub.com/2026/08/sep-4th-6th-finding-vision-la/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "The 10th Annual Labor Day at Orchid Skatepark",
-    "link": "https://www.thrashermagazine.com/articles/events/the-10th-annual-labor-day-at-orchid-skatepark/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "Skateboarding",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "KickerClub"
   },
   {
     "title": "instagram",
@@ -68,5 +47,26 @@ const newsData = [
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
+  },
+  {
+    "title": "Unity Fest 2026 Announcement",
+    "link": "https://www.thrashermagazine.com/articles/trash/unity-fest-2026-announcement/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Christian Henry and ZYY SK8 Club's \"Paris Best Trick\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/christian-henry-and-zyy-sk8-club-s-paris-best-trick-video/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Milwaukee Mayhem Event 2026",
+    "link": "https://www.thrashermagazine.com/articles/events/milwaukee-mayhem-event-2026/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
   }
 ];
