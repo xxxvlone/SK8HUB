@@ -7,57 +7,29 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "LA28: Q-Series Update!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
+    "title": "The \"Beers and Wheels\" La Probeta Contest",
+    "link": "https://www.thrashermagazine.com/articles/events/the-beers-and-wheels-la-probeta-contest/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Milwaukee Mayhem Event 2026",
+    "link": "https://www.thrashermagazine.com/articles/events/milwaukee-mayhem-event-2026/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "World Skateboarding Ranking Explained!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3899-world-skateboarding-ranking-explained.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
   },
   {
-    "title": "Sep.11-13th - Grand Masters 2026",
-    "link": "https://www.kickerclub.com/2026/09/sep-11-13th-grand-masters-2026/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
-    "title": "The Fourth Annual \"Fargo Classic\" Contest",
-    "link": "https://www.thrashermagazine.com/articles/trash/the-fourth-annual-fargo-classic-contest/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Pedro Barros Set to Hit Nanjing for Bowl Masterclass",
-    "link": "https://www.kickerclub.com/2026/07/pedro-barros-set-to-hit-nanjing-for-bowl-masterclass/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
-    "title": "Emerica's NorCal Tour Dates",
-    "link": "https://www.thrashermagazine.com/articles/events/emerica-s-norcal-tour-dates/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "The \"Etnies X Skate Wild\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/etnies-x-skate-wild-video/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "The 10th Annual Labor Day at Orchid Skatepark",
-    "link": "https://www.thrashermagazine.com/articles/events/the-10th-annual-labor-day-at-orchid-skatepark/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "NB Numeric's Running Numbers Europe 2026",
-    "link": "https://www.thrashermagazine.com/articles/videos/nb-numeric-s-running-numbers-europe-2026/",
+    "title": "Ben Ericson' \"Rain Shadow\" ft. Griffin Gass",
+    "link": "https://www.thrashermagazine.com/articles/trash/ben-ericson-rain-shadow-ft-griffin-gass/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -68,5 +40,33 @@ const newsData = [
     "score": 0,
     "summary": "滑板资讯",
     "source": "KickerClub"
+  },
+  {
+    "title": "Sep.11-13th - Grand Masters 2026",
+    "link": "https://www.kickerclub.com/2026/09/sep-11-13th-grand-masters-2026/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
+  },
+  {
+    "title": "Skateboarding",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "The \"Etnies X Skate Wild\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/etnies-x-skate-wild-video/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Emmanuel Guzman Tests Santa Cruz VX Decks",
+    "link": "https://www.thrashermagazine.com/articles/trash/emmanuel-guzman-tests-santa-cruz-vx-decks/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
   }
 ];
