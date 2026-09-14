@@ -1,5 +1,12 @@
 const newsData = [
   {
+    "title": "Slovakia Championship 2026 Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/slovakia-championship-2026-video/",
+    "score": 6,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
     "title": "BonBon Distribution's Slovakia Championship 2026",
     "link": "https://www.thrashermagazine.com/articles/trash/bonbon-distribution-s-slovakia-championship-2026/",
     "score": 6,
@@ -7,50 +14,8 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Skateboarding",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "Derby Skatepark Fundraiser",
-    "link": "https://www.thrashermagazine.com/articles/trash/derby-skatepark-fundraiser/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "The La Kubierta Pro Jam 2026",
-    "link": "https://www.thrashermagazine.com/articles/trash/the-la-kubierta-pro-jam-2026/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Milwaukee Mayhem Event 2026",
-    "link": "https://www.thrashermagazine.com/articles/events/milwaukee-mayhem-event-2026/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "instagram",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "Sep.4th-6th Finding Vision LA",
-    "link": "https://www.kickerclub.com/2026/08/sep-4th-6th-finding-vision-la/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
-    "title": "NB Numeric's Running Numbers Europe 2026",
-    "link": "https://www.thrashermagazine.com/articles/videos/nb-numeric-s-running-numbers-europe-2026/",
+    "title": "Emerica's NorCal Tour Dates",
+    "link": "https://www.thrashermagazine.com/articles/events/emerica-s-norcal-tour-dates/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -63,10 +28,45 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "The Fourth Annual \"Fargo Classic\" Contest",
-    "link": "https://www.thrashermagazine.com/articles/trash/the-fourth-annual-fargo-classic-contest/",
+    "title": "Derby Skatepark Fundraiser",
+    "link": "https://www.thrashermagazine.com/articles/trash/derby-skatepark-fundraiser/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
+  },
+  {
+    "title": "Pedro Barros Set to Hit Nanjing for Bowl Masterclass",
+    "link": "https://www.kickerclub.com/2026/07/pedro-barros-set-to-hit-nanjing-for-bowl-masterclass/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
+  },
+  {
+    "title": "Nollie Skate Shop's Anniversary Event with Plan B",
+    "link": "https://www.thrashermagazine.com/articles/events/nollie-skate-shop-s-anniversary-event-with-plan-b/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Sep.11-13th - Grand Masters 2026",
+    "link": "https://www.kickerclub.com/2026/09/sep-11-13th-grand-masters-2026/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
+  },
+  {
+    "title": "Unity Fest 2026 Announcement",
+    "link": "https://www.thrashermagazine.com/articles/trash/unity-fest-2026-announcement/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
   }
 ];
