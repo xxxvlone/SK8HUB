@@ -7,25 +7,32 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "The 10th Annual Labor Day at Orchid Skatepark",
-    "link": "https://www.thrashermagazine.com/articles/events/the-10th-annual-labor-day-at-orchid-skatepark/",
+    "title": "Skateboarding",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Derby Skatepark Fundraiser",
+    "link": "https://www.thrashermagazine.com/articles/trash/derby-skatepark-fundraiser/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Sep.11-13th - Grand Masters 2026",
-    "link": "https://www.kickerclub.com/2026/09/sep-11-13th-grand-masters-2026/",
+    "title": "The La Kubierta Pro Jam 2026",
+    "link": "https://www.thrashermagazine.com/articles/trash/the-la-kubierta-pro-jam-2026/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "KickerClub"
+    "source": "Thrasher"
   },
   {
-    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
+    "title": "Milwaukee Mayhem Event 2026",
+    "link": "https://www.thrashermagazine.com/articles/events/milwaukee-mayhem-event-2026/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "Thrasher"
   },
   {
     "title": "instagram",
@@ -35,22 +42,22 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "LA28: Q-Series Update!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
+    "title": "Sep.4th-6th Finding Vision LA",
+    "link": "https://www.kickerclub.com/2026/08/sep-4th-6th-finding-vision-la/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "KickerClub"
   },
   {
-    "title": "Nollie Skate Shop's Anniversary Event with Plan B",
-    "link": "https://www.thrashermagazine.com/articles/events/nollie-skate-shop-s-anniversary-event-with-plan-b/",
+    "title": "NB Numeric's Running Numbers Europe 2026",
+    "link": "https://www.thrashermagazine.com/articles/videos/nb-numeric-s-running-numbers-europe-2026/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Derby Skatepark Fundraiser",
-    "link": "https://www.thrashermagazine.com/articles/trash/derby-skatepark-fundraiser/",
+    "title": "The \"Beers and Wheels\" La Probeta Contest",
+    "link": "https://www.thrashermagazine.com/articles/events/the-beers-and-wheels-la-probeta-contest/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -58,13 +65,6 @@ const newsData = [
   {
     "title": "The Fourth Annual \"Fargo Classic\" Contest",
     "link": "https://www.thrashermagazine.com/articles/trash/the-fourth-annual-fargo-classic-contest/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Derby Skatepark Fundraiser",
-    "link": "https://www.thrashermagazine.com/articles/trash/derby-skatepark-fundraiser/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
