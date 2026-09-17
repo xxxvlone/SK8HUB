@@ -1,21 +1,7 @@
 const newsData = [
   {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "Unity Fest 2026 Announcement",
-    "link": "https://www.thrashermagazine.com/articles/trash/unity-fest-2026-announcement/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "The La Kubierta Pro Jam 2026",
-    "link": "https://www.thrashermagazine.com/articles/trash/the-la-kubierta-pro-jam-2026/",
+    "title": "In the Shop: June 2004 Coffee Mug",
+    "link": "https://www.thrashermagazine.com/articles/trash/in-the-shop-june-2004-coffee-mug/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -28,36 +14,22 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "Emerica's NorCal Tour Dates",
-    "link": "https://www.thrashermagazine.com/articles/events/emerica-s-norcal-tour-dates/",
+    "title": "Unity Fest 2026 Announcement",
+    "link": "https://www.thrashermagazine.com/articles/trash/unity-fest-2026-announcement/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Pass~Port's \"You’re A Stranger Here But Once\" Video",
-    "link": "https://www.thrashermagazine.com/articles/events/pass-port-s-you-re-a-stranger-here-but-once-video/",
+    "title": "\"Grind for the Blind\" Event",
+    "link": "https://www.thrashermagazine.com/articles/trash/grind-for-the-blind-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Austyn Gillette and Val Bauer's \"Mind Games\" Rassvet Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/austyn-gillette-and-val-bauer-s-mind-games-rassvet-video/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "RIP IN PEACE: Mickey Reyes",
-    "link": "https://www.thrashermagazine.com/articles/rip-in-peace-mickey-reyes/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Pedro Barros Set to Hit Nanjing for Bowl Masterclass",
-    "link": "https://www.kickerclub.com/2026/07/pedro-barros-set-to-hit-nanjing-for-bowl-masterclass/",
+    "title": "Sep.11-13th - Grand Masters 2026",
+    "link": "https://www.kickerclub.com/2026/09/sep-11-13th-grand-masters-2026/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "KickerClub"
@@ -65,6 +37,34 @@ const newsData = [
   {
     "title": "Derby Skatepark Fundraiser",
     "link": "https://www.thrashermagazine.com/articles/trash/derby-skatepark-fundraiser/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "The Bunt Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/the-bunt-video/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Skateboarding",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Emerica's NorCal Tour Dates",
+    "link": "https://www.thrashermagazine.com/articles/events/emerica-s-norcal-tour-dates/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
