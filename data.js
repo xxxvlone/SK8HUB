@@ -1,7 +1,14 @@
 const newsData = [
   {
-    "title": "Emerica's NorCal Tour Dates",
-    "link": "https://www.thrashermagazine.com/articles/events/emerica-s-norcal-tour-dates/",
+    "title": "instagram",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Jake Hayes' \"A Tale of Two Tables\" Video",
+    "link": "https://www.thrashermagazine.com/articles/videos/jake-hayes-a-tale-of-two-tables-video/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -14,18 +21,18 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Sep.11-13th - Grand Masters 2026",
-    "link": "https://www.kickerclub.com/2026/09/sep-11-13th-grand-masters-2026/",
+    "title": "The La Kubierta Pro Jam 2026",
+    "link": "https://www.thrashermagazine.com/articles/trash/the-la-kubierta-pro-jam-2026/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "KickerClub"
+    "source": "Thrasher"
   },
   {
-    "title": "Skateboarding",
-    "link": "https://www.worldskate.org/skateboarding.html",
+    "title": "\"Grind for the Blind\" Event",
+    "link": "https://www.thrashermagazine.com/articles/trash/grind-for-the-blind-event/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "Thrasher"
   },
   {
     "title": "Derby Skatepark Fundraiser",
@@ -42,13 +49,6 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "\"Grind for the Blind\" Event",
-    "link": "https://www.thrashermagazine.com/articles/trash/grind-for-the-blind-event/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "Discipline",
     "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
@@ -56,15 +56,15 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Unity Fest 2026 Announcement",
-    "link": "https://www.thrashermagazine.com/articles/trash/unity-fest-2026-announcement/",
+    "title": "RIP IN PEACE: Mickey Reyes",
+    "link": "https://www.thrashermagazine.com/articles/rip-in-peace-mickey-reyes/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
