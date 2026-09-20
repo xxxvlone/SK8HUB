@@ -1,12 +1,5 @@
 const newsData = [
   {
-    "title": "In the Shop: June 2004 Coffee Mug",
-    "link": "https://www.thrashermagazine.com/articles/trash/in-the-shop-june-2004-coffee-mug/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "LA28: Q-Series Update!",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
     "score": 0,
@@ -14,22 +7,22 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
+    "title": "World Skateboarding Ranking Explained!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3899-world-skateboarding-ranking-explained.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
   },
   {
-    "title": "The 10th Annual Labor Day at Orchid Skatepark",
-    "link": "https://www.thrashermagazine.com/articles/events/the-10th-annual-labor-day-at-orchid-skatepark/",
+    "title": "Sep.11-13th - Grand Masters 2026",
+    "link": "https://www.kickerclub.com/2026/09/sep-11-13th-grand-masters-2026/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "KickerClub"
   },
   {
-    "title": "Unity Fest 2026 Announcement",
-    "link": "https://www.thrashermagazine.com/articles/trash/unity-fest-2026-announcement/",
+    "title": "Pass~Port's \"You’re A Stranger Here But Once\" Video",
+    "link": "https://www.thrashermagazine.com/articles/events/pass-port-s-you-re-a-stranger-here-but-once-video/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -42,13 +35,6 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
     "title": "Pedro Barros Set to Hit Nanjing for Bowl Masterclass",
     "link": "https://www.kickerclub.com/2026/07/pedro-barros-set-to-hit-nanjing-for-bowl-masterclass/",
     "score": 0,
@@ -56,17 +42,31 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "The Bunt Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/the-bunt-video/",
+    "title": "\"Grind for the Blind\" Event",
+    "link": "https://www.thrashermagazine.com/articles/trash/grind-for-the-blind-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Sep.11-13th - Grand Masters 2026",
-    "link": "https://www.kickerclub.com/2026/09/sep-11-13th-grand-masters-2026/",
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "KickerClub"
+    "source": "World Skate"
+  },
+  {
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
   }
 ];
