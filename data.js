@@ -1,17 +1,31 @@
 const newsData = [
   {
-    "title": "Skateboarding",
-    "link": "https://www.worldskate.org/skateboarding.html",
+    "title": "RIP IN PEACE: Mickey Reyes",
+    "link": "https://www.thrashermagazine.com/articles/rip-in-peace-mickey-reyes/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Jake Hayes' \"A Tale of Two Tables\" Video",
+    "link": "https://www.thrashermagazine.com/articles/videos/jake-hayes-a-tale-of-two-tables-video/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Plus Skateboarding's \"Fall Classic\" Contest 2026",
+    "link": "https://www.thrashermagazine.com/articles/trash/plus-skateboarding-s-fall-classic-contest-2026/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "LA28: Q-Series Update!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
-  },
-  {
-    "title": "Pedro Barros Set to Hit Nanjing for Bowl Masterclass",
-    "link": "https://www.kickerclub.com/2026/07/pedro-barros-set-to-hit-nanjing-for-bowl-masterclass/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
   },
   {
     "title": "The La Kubierta Pro Jam 2026",
@@ -21,15 +35,8 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "The \"Beers and Wheels\" La Probeta Contest",
-    "link": "https://www.thrashermagazine.com/articles/events/the-beers-and-wheels-la-probeta-contest/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Unity Fest 2026 Announcement",
-    "link": "https://www.thrashermagazine.com/articles/trash/unity-fest-2026-announcement/",
+    "title": "Derby Skatepark Fundraiser",
+    "link": "https://www.thrashermagazine.com/articles/trash/derby-skatepark-fundraiser/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -42,31 +49,24 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Plan B's \"Growing Pains\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/plan-b-s-growing-pains-video/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Sep.4th-6th Finding Vision LA",
-    "link": "https://www.kickerclub.com/2026/08/sep-4th-6th-finding-vision-la/",
+    "title": "Sep.11-13th - Grand Masters 2026",
+    "link": "https://www.kickerclub.com/2026/09/sep-11-13th-grand-masters-2026/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "KickerClub"
   },
   {
-    "title": "Pass~Port's \"You’re A Stranger Here But Once\" Video",
-    "link": "https://www.thrashermagazine.com/articles/events/pass-port-s-you-re-a-stranger-here-but-once-video/",
+    "title": "Out There: Corey Duffel",
+    "link": "https://www.thrashermagazine.com/articles/videos/out-there-corey-duffel/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
+    "title": "The 10th Annual Labor Day at Orchid Skatepark",
+    "link": "https://www.thrashermagazine.com/articles/events/the-10th-annual-labor-day-at-orchid-skatepark/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "Thrasher"
   }
 ];
