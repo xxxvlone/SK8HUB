@@ -1,17 +1,10 @@
 const newsData = [
   {
-    "title": "Alexis Lacroix's \"Element\" Pro Part",
-    "link": "https://www.thrashermagazine.com/articles/videos/alexis-lacroix-s-element-pro-part/",
+    "title": "Sep.11-13th - Grand Masters 2026",
+    "link": "https://www.kickerclub.com/2026/09/sep-11-13th-grand-masters-2026/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Skateboarding",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "KickerClub"
   },
   {
     "title": "The \"Beers and Wheels\" La Probeta Contest",
@@ -21,8 +14,36 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "The La Kubierta Pro Jam 2026",
-    "link": "https://www.thrashermagazine.com/articles/trash/the-la-kubierta-pro-jam-2026/",
+    "title": "Plan B's \"Growing Pains\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/plan-b-s-growing-pains-video/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "\"Grind for the Blind\" Event",
+    "link": "https://www.thrashermagazine.com/articles/trash/grind-for-the-blind-event/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Grace Skate's \"Hereafter\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/grace-skate-s-hereafter-video/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Unity Fest 2026 Announcement",
+    "link": "https://www.thrashermagazine.com/articles/trash/unity-fest-2026-announcement/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Jake Hayes' \"A Tale of Two Tables\" Video",
+    "link": "https://www.thrashermagazine.com/articles/videos/jake-hayes-a-tale-of-two-tables-video/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -35,29 +56,8 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "Pass~Port's \"You’re A Stranger Here But Once\" Video",
-    "link": "https://www.thrashermagazine.com/articles/events/pass-port-s-you-re-a-stranger-here-but-once-video/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "instagram",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "The 10th Annual Labor Day at Orchid Skatepark",
-    "link": "https://www.thrashermagazine.com/articles/events/the-10th-annual-labor-day-at-orchid-skatepark/",
+    "title": "Emerica's NorCal Tour Dates",
+    "link": "https://www.thrashermagazine.com/articles/events/emerica-s-norcal-tour-dates/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
