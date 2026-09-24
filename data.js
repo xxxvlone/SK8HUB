@@ -1,7 +1,28 @@
 const newsData = [
   {
-    "title": "Plus Skateboarding's \"Fall Classic\" Contest 2026",
-    "link": "https://www.thrashermagazine.com/articles/trash/plus-skateboarding-s-fall-classic-contest-2026/",
+    "title": "LA28: Q-Series Update!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Grace Skate's \"Hereafter\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/grace-skate-s-hereafter-video/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Skateboarding",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "The La Kubierta Pro Jam 2026",
+    "link": "https://www.thrashermagazine.com/articles/trash/the-la-kubierta-pro-jam-2026/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -21,22 +42,22 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "Nollie Skate Shop's Anniversary Event with Plan B",
-    "link": "https://www.thrashermagazine.com/articles/events/nollie-skate-shop-s-anniversary-event-with-plan-b/",
+    "title": "World Skateboarding Ranking Explained!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3899-world-skateboarding-ranking-explained.html",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Orchard's \"Wishbone\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/orchard-s-wishbone-video/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "World Skate"
   },
   {
     "title": "Unity Fest 2026 Announcement",
     "link": "https://www.thrashermagazine.com/articles/trash/unity-fest-2026-announcement/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Derby Skatepark Fundraiser",
+    "link": "https://www.thrashermagazine.com/articles/trash/derby-skatepark-fundraiser/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -47,26 +68,5 @@ const newsData = [
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
-  },
-  {
-    "title": "The La Kubierta Pro Jam 2026",
-    "link": "https://www.thrashermagazine.com/articles/trash/the-la-kubierta-pro-jam-2026/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Skateboarding",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "Sep.11-13th - Grand Masters 2026",
-    "link": "https://www.kickerclub.com/2026/09/sep-11-13th-grand-masters-2026/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
   }
 ];
