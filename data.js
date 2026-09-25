@@ -1,10 +1,10 @@
 const newsData = [
   {
-    "title": "Jake Hayes' \"A Tale of Two Tables\" Video",
-    "link": "https://www.thrashermagazine.com/articles/videos/jake-hayes-a-tale-of-two-tables-video/",
+    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "World Skate"
   },
   {
     "title": "LA28: Q-Series Update!",
@@ -14,8 +14,22 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "The La Kubierta Pro Jam 2026",
-    "link": "https://www.thrashermagazine.com/articles/trash/the-la-kubierta-pro-jam-2026/",
+    "title": "instagram",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Unity Fest 2026 Photos",
+    "link": "https://www.thrashermagazine.com/articles/unity-fest-2026-photos/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "The \"Beers and Wheels\" La Probeta Contest",
+    "link": "https://www.thrashermagazine.com/articles/events/the-beers-and-wheels-la-probeta-contest/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -28,20 +42,6 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Pass~Port's \"You’re A Stranger Here But Once\" Video",
-    "link": "https://www.thrashermagazine.com/articles/events/pass-port-s-you-re-a-stranger-here-but-once-video/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Derby Skatepark Fundraiser",
-    "link": "https://www.thrashermagazine.com/articles/trash/derby-skatepark-fundraiser/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "Skateboarding",
     "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
@@ -49,24 +49,24 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "Orchard's \"Wishbone\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/orchard-s-wishbone-video/",
+    "title": "Alexis Lacroix's \"Element\" Pro Part",
+    "link": "https://www.thrashermagazine.com/articles/videos/alexis-lacroix-s-element-pro-part/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "instagram",
-    "link": "https://www.worldskate.org/skateboarding.html",
+    "title": "Plus Skateboarding's \"Fall Classic\" Contest 2026",
+    "link": "https://www.thrashermagazine.com/articles/trash/plus-skateboarding-s-fall-classic-contest-2026/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "Thrasher"
+  },
+  {
+    "title": "Pedro Barros Set to Hit Nanjing for Bowl Masterclass",
+    "link": "https://www.kickerclub.com/2026/07/pedro-barros-set-to-hit-nanjing-for-bowl-masterclass/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
   }
 ];
