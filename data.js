@@ -1,7 +1,21 @@
 const newsData = [
   {
-    "title": "Pass~Port's \"You’re A Stranger Here But Once\" Video",
-    "link": "https://www.thrashermagazine.com/articles/events/pass-port-s-you-re-a-stranger-here-but-once-video/",
+    "title": "RIP IN PEACE: Ben Drollinger",
+    "link": "https://www.thrashermagazine.com/articles/rip-in-peace-ben-drollinger/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "The 10th Annual Labor Day at Orchid Skatepark",
+    "link": "https://www.thrashermagazine.com/articles/events/the-10th-annual-labor-day-at-orchid-skatepark/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Z Harvest Skate Jam 2026",
+    "link": "https://www.thrashermagazine.com/articles/trash/zee-harvest-skate-jam-2026/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -14,8 +28,15 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "GX1000: Greece",
-    "link": "https://www.thrashermagazine.com/articles/videos/gx1000-greece/",
+    "title": "Unity Fest 2026 Announcement",
+    "link": "https://www.thrashermagazine.com/articles/trash/unity-fest-2026-announcement/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Thrasher Weekend: New Balance in Seattle Photos",
+    "link": "https://www.thrashermagazine.com/articles/thrasher-weekend-new-balance-in-seattle-photos/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -35,25 +56,11 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "The La Kubierta Pro Jam 2026",
-    "link": "https://www.thrashermagazine.com/articles/trash/the-la-kubierta-pro-jam-2026/",
+    "title": "\"Grind for the Blind\" Event",
+    "link": "https://www.thrashermagazine.com/articles/trash/grind-for-the-blind-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
-  },
-  {
-    "title": "Sep.4th-6th Finding Vision LA",
-    "link": "https://www.kickerclub.com/2026/08/sep-4th-6th-finding-vision-la/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
-    "title": "Skateboarding",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
   },
   {
     "title": "Sep.11-13th - Grand Masters 2026",
@@ -61,12 +68,5 @@ const newsData = [
     "score": 0,
     "summary": "滑板资讯",
     "source": "KickerClub"
-  },
-  {
-    "title": "Thrasher Weekend: New Balance in Seattle Photos",
-    "link": "https://www.thrashermagazine.com/articles/thrasher-weekend-new-balance-in-seattle-photos/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
   }
 ];
