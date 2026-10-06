@@ -1,5 +1,33 @@
 const newsData = [
   {
+    "title": "WSG Street Skateboarding World Championship 2026",
+    "link": "https://www.worldskate.org/upcoming-events-homepage/event/489.html",
+    "score": 14,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "WSG Park Skateboarding World Championship 2026",
+    "link": "https://www.worldskate.org/upcoming-events-homepage/event/488.html",
+    "score": 12,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "WSG Downhill Skateboarding World Championship 2026",
+    "link": "https://www.worldskate.org/upcoming-events-homepage/event/487.html",
+    "score": 12,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "WSG Slalom Skateboarding World Championship 2026",
+    "link": "https://www.worldskate.org/upcoming-events-homepage/event/490.html",
+    "score": 12,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
     "title": "Brooklyn Projects’ “Impetus” Premiere Photos",
     "link": "https://www.thrashermagazine.com/articles/brooklyn-projects-impetus-premiere-photos/",
     "score": 6,
@@ -7,32 +35,25 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "World Skateboarding Ranking Explained!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3899-world-skateboarding-ranking-explained.html",
-    "score": 0,
+    "title": "Youth Olympic Games Dakar 2026",
+    "link": "https://www.worldskate.org/upcoming-events-homepage/event/482.html",
+    "score": 6,
     "summary": "滑板资讯",
     "source": "World Skate"
   },
   {
-    "title": "Death Match 2026 Video",
-    "link": "https://www.thrashermagazine.com/articles/videos/death-match-2026-video/",
+    "title": "Plus Skateboarding's \"Fall Classic\" Contest 2026",
+    "link": "https://www.thrashermagazine.com/articles/trash/plus-skateboarding-s-fall-classic-contest-2026/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Discipline",
+    "title": "Skateboarding",
     "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
-  },
-  {
-    "title": "Foundation DIY Fundraiser 2026",
-    "link": "https://www.thrashermagazine.com/articles/trash/foundation-diy-fundraiser-2026/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
   },
   {
     "title": "Pass~Port's \"You’re A Stranger Here But Once\" Video",
@@ -42,29 +63,8 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Death Match 2026 Photos",
-    "link": "https://www.thrashermagazine.com/articles/death-match-2026-photos/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "The La Kubierta Pro Jam 2026",
-    "link": "https://www.thrashermagazine.com/articles/trash/the-la-kubierta-pro-jam-2026/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Ichpig's \"Red Bull Spot Check\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/ichpig-s-red-bull-spot-check-video/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Plus Skateboarding's \"Fall Classic\" Contest 2026",
-    "link": "https://www.thrashermagazine.com/articles/trash/plus-skateboarding-s-fall-classic-contest-2026/",
+    "title": "Derby Skatepark Fundraiser",
+    "link": "https://www.thrashermagazine.com/articles/trash/derby-skatepark-fundraiser/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
