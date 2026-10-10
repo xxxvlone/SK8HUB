@@ -28,20 +28,6 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Mathias Torres' \"Creature\" Part",
-    "link": "https://www.thrashermagazine.com/articles/trash/mathias-torres-creature-part/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Out There: Jack O'Grady",
-    "link": "https://www.thrashermagazine.com/articles/trash/out-there-jack-o-grady/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "Sep.11-13th - Grand Masters 2026",
     "link": "https://www.kickerclub.com/2026/09/sep-11-13th-grand-masters-2026/",
     "score": 0,
@@ -49,11 +35,25 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "Z Harvest Skate Jam 2026",
-    "link": "https://www.thrashermagazine.com/articles/trash/zee-harvest-skate-jam-2026/",
+    "title": "David Lobasyuk's \"World Piece\" Part",
+    "link": "https://www.thrashermagazine.com/articles/trash/david-lobasyuk-s-world-piece-part/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
+  },
+  {
+    "title": "World Skateboarding Ranking Explained!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3899-world-skateboarding-ranking-explained.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Oct.10th - PUSH FEST Shanghai",
+    "link": "https://www.kickerclub.com/2026/10/oct-10th-push-fest-shanghai/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
   },
   {
     "title": "Plus Skateboarding's \"Fall Classic\" Contest 2026",
@@ -63,10 +63,10 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
+    "title": "Oct.9th - ADI-MISSION Shanghai",
+    "link": "https://www.kickerclub.com/2026/10/oct-9th-adi-mission-shanghai/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "KickerClub"
   }
 ];
