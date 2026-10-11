@@ -1,21 +1,14 @@
 const newsData = [
   {
+    "title": "Zero's \"30 Years\" Art Show and Video Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/zero-s-30-years-art-show/",
+    "score": 6,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
     "title": "Ramputene DIY's 2026 Tournament",
     "link": "https://www.thrashermagazine.com/articles/trash/ramputene-diy-s-2026-tournament/",
-    "score": 6,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Zero's \"30 Years\" Art Show and Video Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/zero-s-30-years-art-show/",
-    "score": 6,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Zero's \"30 Years\" Art Show and Video Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/zero-s-30-years-art-show/",
     "score": 6,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -28,11 +21,18 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Tommy Sandoval's \"Relief Fund\" Zero Collection",
-    "link": "https://www.thrashermagazine.com/articles/trash/tommy-sandoval-s/",
-    "score": 0,
+    "title": "Zero's \"30 Years\" Art Show and Video Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/zero-s-30-years-art-show/",
+    "score": 6,
     "summary": "滑板资讯",
     "source": "Thrasher"
+  },
+  {
+    "title": "Oct.10th - PUSH FEST Shanghai",
+    "link": "https://www.kickerclub.com/2026/10/oct-10th-push-fest-shanghai/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
   },
   {
     "title": "Foundation DIY Fundraiser 2026",
@@ -42,31 +42,31 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Pass~Port's \"You’re A Stranger Here But Once\" Video",
-    "link": "https://www.thrashermagazine.com/articles/events/pass-port-s-you-re-a-stranger-here-but-once-video/",
+    "title": "Z Harvest Skate Jam 2026",
+    "link": "https://www.thrashermagazine.com/articles/trash/zee-harvest-skate-jam-2026/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
+    "title": "Sep.11-13th - Grand Masters 2026",
+    "link": "https://www.kickerclub.com/2026/09/sep-11-13th-grand-masters-2026/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "KickerClub"
   },
   {
-    "title": "Valley of the Moon's \"Day of the Shred\" Event",
-    "link": "https://www.thrashermagazine.com/articles/trash/valley-of-the-moon-s-day-of-the-shred-event/",
+    "title": "Plus Skateboarding's \"Fall Classic\" Contest 2026",
+    "link": "https://www.thrashermagazine.com/articles/trash/plus-skateboarding-s-fall-classic-contest-2026/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "World Skateboarding Ranking Explained!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3899-world-skateboarding-ranking-explained.html",
+    "title": "Oct.9th - ADI-MISSION Shanghai",
+    "link": "https://www.kickerclub.com/2026/10/oct-9th-adi-mission-shanghai/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "KickerClub"
   }
 ];
