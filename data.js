@@ -28,6 +28,13 @@ const newsData = [
     "source": "Thrasher"
   },
   {
+    "title": "David Lobasyuk's \"World Piece\" Part",
+    "link": "https://www.thrashermagazine.com/articles/trash/david-lobasyuk-s-world-piece-part/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
     "title": "Oct.10th - PUSH FEST Shanghai",
     "link": "https://www.kickerclub.com/2026/10/oct-10th-push-fest-shanghai/",
     "score": 0,
@@ -35,32 +42,18 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "Foundation DIY Fundraiser 2026",
-    "link": "https://www.thrashermagazine.com/articles/trash/foundation-diy-fundraiser-2026/",
+    "title": "\"Grind for the Blind\" Event",
+    "link": "https://www.thrashermagazine.com/articles/trash/grind-for-the-blind-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Z Harvest Skate Jam 2026",
-    "link": "https://www.thrashermagazine.com/articles/trash/zee-harvest-skate-jam-2026/",
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Sep.11-13th - Grand Masters 2026",
-    "link": "https://www.kickerclub.com/2026/09/sep-11-13th-grand-masters-2026/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
-    "title": "Plus Skateboarding's \"Fall Classic\" Contest 2026",
-    "link": "https://www.thrashermagazine.com/articles/trash/plus-skateboarding-s-fall-classic-contest-2026/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "World Skate"
   },
   {
     "title": "Oct.9th - ADI-MISSION Shanghai",
@@ -68,5 +61,12 @@ const newsData = [
     "score": 0,
     "summary": "滑板资讯",
     "source": "KickerClub"
+  },
+  {
+    "title": "World Skateboarding Ranking Explained!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3899-world-skateboarding-ranking-explained.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
   }
 ];
