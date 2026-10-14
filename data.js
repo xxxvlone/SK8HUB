@@ -1,5 +1,26 @@
 const newsData = [
   {
+    "title": "WSG ASU26: Skateboard Vert World Championship Report",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3962-wsg-asu26-vert-world-championship-report.html",
+    "score": 12,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "WSG ASU26: Skateboard Park World Championship Report",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3963-wsg-asu26-park-world-championship-finals.html",
+    "score": 12,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Independent's \"Vancouver\" Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/independent-s-vancouver-premiere/",
+    "score": 6,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
     "title": "Ramputene DIY's 2026 Tournament",
     "link": "https://www.thrashermagazine.com/articles/trash/ramputene-diy-s-2026-tournament/",
     "score": 6,
@@ -14,13 +35,6 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Independent's \"Vancouver\" Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/independent-s-vancouver-premiere/",
-    "score": 6,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "In the Shop: Haight & Destroy Collection",
     "link": "https://www.thrashermagazine.com/articles/trash/in-the-shop-haight-destroy-collection/",
     "score": 0,
@@ -28,43 +42,29 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Peter Volpi \"DRIEWEFIL\" ACE Part",
-    "link": "https://www.thrashermagazine.com/articles/trash/peter-volpi-driewefil-ace-part/",
+    "title": "Sep.11-13th - Grand Masters 2026",
+    "link": "https://www.kickerclub.com/2026/09/sep-11-13th-grand-masters-2026/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Foundation DIY Fundraiser 2026",
-    "link": "https://www.thrashermagazine.com/articles/trash/foundation-diy-fundraiser-2026/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "\"Grind for the Blind\" Event",
-    "link": "https://www.thrashermagazine.com/articles/trash/grind-for-the-blind-event/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Chocolate Welcomes Daewon Song",
-    "link": "https://www.thrashermagazine.com/articles/trash/chocolate-welcomes-daewon-song/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "KickerClub"
   },
   {
     "title": "Z Harvest Skate Jam 2026",
     "link": "https://www.thrashermagazine.com/articles/trash/zee-harvest-skate-jam-2026/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Oct.10th - PUSH FEST Shanghai",
+    "link": "https://www.kickerclub.com/2026/10/oct-10th-push-fest-shanghai/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
+  },
+  {
+    "title": "New from Indy",
+    "link": "https://www.thrashermagazine.com/articles/trash/new-from-indy/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
