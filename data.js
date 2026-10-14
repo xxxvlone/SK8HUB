@@ -35,8 +35,8 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "In the Shop: Haight & Destroy Collection",
-    "link": "https://www.thrashermagazine.com/articles/trash/in-the-shop-haight-destroy-collection/",
+    "title": "Foundation DIY Fundraiser 2026",
+    "link": "https://www.thrashermagazine.com/articles/trash/foundation-diy-fundraiser-2026/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -49,24 +49,24 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "Z Harvest Skate Jam 2026",
-    "link": "https://www.thrashermagazine.com/articles/trash/zee-harvest-skate-jam-2026/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Oct.10th - PUSH FEST Shanghai",
-    "link": "https://www.kickerclub.com/2026/10/oct-10th-push-fest-shanghai/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
     "title": "New from Indy",
     "link": "https://www.thrashermagazine.com/articles/trash/new-from-indy/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
+  },
+  {
+    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
   }
 ];
