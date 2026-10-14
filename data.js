@@ -21,52 +21,52 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "\"Grind for the Blind\" Event",
-    "link": "https://www.thrashermagazine.com/articles/trash/grind-for-the-blind-event/",
+    "title": "Valley of the Moon's \"Day of the Shred\" Event",
+    "link": "https://www.thrashermagazine.com/articles/trash/valley-of-the-moon-s-day-of-the-shred-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "LA28: Q-Series Update!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
+    "title": "Peter Volpi \"DRIEWEFIL\" ACE Part",
+    "link": "https://www.thrashermagazine.com/articles/trash/peter-volpi-driewefil-ace-part/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "Thrasher"
   },
   {
-    "title": "Oct.9th - ADI-MISSION Shanghai",
-    "link": "https://www.kickerclub.com/2026/10/oct-9th-adi-mission-shanghai/",
+    "title": "Hoddle's \"Canada & NYC\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/hoddle-s-canada-nyc-video/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Chocolate Welcomes Daewon Song",
+    "link": "https://www.thrashermagazine.com/articles/trash/chocolate-welcomes-daewon-song/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Sep.11-13th - Grand Masters 2026",
+    "link": "https://www.kickerclub.com/2026/09/sep-11-13th-grand-masters-2026/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "KickerClub"
   },
   {
-    "title": "\"Unusual Essex County\" Film Screening",
-    "link": "https://www.thrashermagazine.com/articles/trash/unusual-essex-county-film-screening/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Unless Clothing: Silas & Evan Make Friends in Colorado",
-    "link": "https://www.thrashermagazine.com/articles/videos/unless-clothing-silas-evan-make-friends-in-colorado/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Plus Skateboarding's \"Fall Classic\" Contest 2026",
-    "link": "https://www.thrashermagazine.com/articles/trash/plus-skateboarding-s-fall-classic-contest-2026/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
+    "title": "World Skateboarding Ranking Explained!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3899-world-skateboarding-ranking-explained.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
+  },
+  {
+    "title": "Z Harvest Skate Jam 2026",
+    "link": "https://www.thrashermagazine.com/articles/trash/zee-harvest-skate-jam-2026/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
   }
 ];
