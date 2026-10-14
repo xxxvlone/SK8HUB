@@ -1,12 +1,5 @@
 const newsData = [
   {
-    "title": "Independent's \"Vancouver\" Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/independent-s-vancouver-premiere/",
-    "score": 6,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "Ramputene DIY's 2026 Tournament",
     "link": "https://www.thrashermagazine.com/articles/trash/ramputene-diy-s-2026-tournament/",
     "score": 6,
@@ -21,18 +14,25 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Hoddle's \"Canada & NYC\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/hoddle-s-canada-nyc-video/",
+    "title": "Independent's \"Vancouver\" Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/independent-s-vancouver-premiere/",
+    "score": 6,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "In the Shop: Haight & Destroy Collection",
+    "link": "https://www.thrashermagazine.com/articles/trash/in-the-shop-haight-destroy-collection/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
+    "title": "Peter Volpi \"DRIEWEFIL\" ACE Part",
+    "link": "https://www.thrashermagazine.com/articles/trash/peter-volpi-driewefil-ace-part/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "Thrasher"
   },
   {
     "title": "Foundation DIY Fundraiser 2026",
@@ -42,29 +42,29 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Flying Low's \"Grom Jom 5\" Event",
-    "link": "https://www.thrashermagazine.com/articles/trash/flying-low-s-grom-jom-5-event/",
+    "title": "\"Grind for the Blind\" Event",
+    "link": "https://www.thrashermagazine.com/articles/trash/grind-for-the-blind-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Skateboarding",
-    "link": "https://www.worldskate.org/skateboarding.html",
+    "title": "Chocolate Welcomes Daewon Song",
+    "link": "https://www.thrashermagazine.com/articles/trash/chocolate-welcomes-daewon-song/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
   },
   {
-    "title": "\"Unusual Essex County\" Film Screening",
-    "link": "https://www.thrashermagazine.com/articles/trash/unusual-essex-county-film-screening/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Peter Volpi \"DRIEWEFIL\" ACE Part",
-    "link": "https://www.thrashermagazine.com/articles/trash/peter-volpi-driewefil-ace-part/",
+    "title": "Z Harvest Skate Jam 2026",
+    "link": "https://www.thrashermagazine.com/articles/trash/zee-harvest-skate-jam-2026/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
