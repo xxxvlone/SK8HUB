@@ -14,6 +14,13 @@ const newsData = [
     "source": "World Skate"
   },
   {
+    "title": "Ramputene DIY's 2026 Tournament",
+    "link": "https://www.thrashermagazine.com/articles/trash/ramputene-diy-s-2026-tournament/",
+    "score": 6,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
     "title": "Independent's \"Vancouver\" Premiere",
     "link": "https://www.thrashermagazine.com/articles/trash/independent-s-vancouver-premiere/",
     "score": 6,
@@ -28,32 +35,18 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Ramputene DIY's 2026 Tournament",
-    "link": "https://www.thrashermagazine.com/articles/trash/ramputene-diy-s-2026-tournament/",
-    "score": 6,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Foundation DIY Fundraiser 2026",
-    "link": "https://www.thrashermagazine.com/articles/trash/foundation-diy-fundraiser-2026/",
+    "title": "\"Unusual Essex County\" Film Screening",
+    "link": "https://www.thrashermagazine.com/articles/trash/unusual-essex-county-film-screening/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Valley of the Moon's \"Day of the Shred\" Event",
-    "link": "https://www.thrashermagazine.com/articles/trash/valley-of-the-moon-s-day-of-the-shred-event/",
+    "title": "New from Indy",
+    "link": "https://www.thrashermagazine.com/articles/trash/new-from-indy/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
-  },
-  {
-    "title": "Skateboarding",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
   },
   {
     "title": "Oct.9th - ADI-MISSION Shanghai",
@@ -63,8 +56,15 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "Flying Low's \"Grom Jom 5\" Event",
-    "link": "https://www.thrashermagazine.com/articles/trash/flying-low-s-grom-jom-5-event/",
+    "title": "Z Harvest Skate Jam 2026",
+    "link": "https://www.thrashermagazine.com/articles/trash/zee-harvest-skate-jam-2026/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Peter Volpi \"DRIEWEFIL\" ACE Part",
+    "link": "https://www.thrashermagazine.com/articles/trash/peter-volpi-driewefil-ace-part/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
