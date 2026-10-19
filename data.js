@@ -42,22 +42,8 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Sep.11-13th - Grand Masters 2026",
-    "link": "https://www.kickerclub.com/2026/09/sep-11-13th-grand-masters-2026/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
-    "title": "Foundation DIY Fundraiser 2026",
-    "link": "https://www.thrashermagazine.com/articles/trash/foundation-diy-fundraiser-2026/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Plus Skateboarding's \"Fall Classic\" Contest 2026",
-    "link": "https://www.thrashermagazine.com/articles/trash/plus-skateboarding-s-fall-classic-contest-2026/",
+    "title": "Flying Low's \"Grom Jom 5\" Event",
+    "link": "https://www.thrashermagazine.com/articles/trash/flying-low-s-grom-jom-5-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -68,5 +54,19 @@ const newsData = [
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
+  },
+  {
+    "title": "Z Harvest Skate Jam 2026",
+    "link": "https://www.thrashermagazine.com/articles/trash/zee-harvest-skate-jam-2026/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
   }
 ];
