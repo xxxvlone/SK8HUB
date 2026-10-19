@@ -1,14 +1,14 @@
 const newsData = [
   {
-    "title": "WSG ASU26: Skateboard Park World Championship Report",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3963-wsg-asu26-park-world-championship-finals.html",
+    "title": "WSG ASU26: Skateboard Vert World Championship Report",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3962-wsg-asu26-vert-world-championship-report.html",
     "score": 12,
     "summary": "滑板资讯",
     "source": "World Skate"
   },
   {
-    "title": "WSG ASU26: Skateboard Vert World Championship Report",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3962-wsg-asu26-vert-world-championship-report.html",
+    "title": "WSG ASU26: Skateboard Park World Championship Report",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3963-wsg-asu26-park-world-championship-finals.html",
     "score": 12,
     "summary": "滑板资讯",
     "source": "World Skate"
@@ -49,13 +49,6 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Foundation DIY Fundraiser 2026",
-    "link": "https://www.thrashermagazine.com/articles/trash/foundation-diy-fundraiser-2026/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "Oct.10th - PUSH FEST Shanghai",
     "link": "https://www.kickerclub.com/2026/10/oct-10th-push-fest-shanghai/",
     "score": 0,
@@ -63,10 +56,17 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "Skateboarding",
-    "link": "https://www.worldskate.org/skateboarding.html",
+    "title": "Valley of the Moon's \"Day of the Shred\" Event",
+    "link": "https://www.thrashermagazine.com/articles/trash/valley-of-the-moon-s-day-of-the-shred-event/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "Thrasher"
+  },
+  {
+    "title": "Z Harvest Skate Jam 2026",
+    "link": "https://www.thrashermagazine.com/articles/trash/zee-harvest-skate-jam-2026/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
   }
 ];
