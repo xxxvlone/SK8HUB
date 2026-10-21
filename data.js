@@ -21,8 +21,8 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Zero's \"30 Years\" Art Show and Video Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/zero-s-30-years-art-show/",
+    "title": "Ramputene DIY's 2026 Tournament",
+    "link": "https://www.thrashermagazine.com/articles/trash/ramputene-diy-s-2026-tournament/",
     "score": 6,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -35,8 +35,8 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Ramputene DIY's 2026 Tournament",
-    "link": "https://www.thrashermagazine.com/articles/trash/ramputene-diy-s-2026-tournament/",
+    "title": "Zero's \"30 Years\" Art Show and Video Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/zero-s-30-years-art-show/",
     "score": 6,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -49,18 +49,18 @@ const newsData = [
     "source": "Thrasher"
   },
   {
+    "title": "Lifers' “Segundo” Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/lifers-segundo-video/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
     "title": "Discipline",
     "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
-  },
-  {
-    "title": "Foundation DIY Fundraiser 2026",
-    "link": "https://www.thrashermagazine.com/articles/trash/foundation-diy-fundraiser-2026/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
   },
   {
     "title": "Oct.9th - ADI-MISSION Shanghai",
