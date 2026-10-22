@@ -21,8 +21,8 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Independent's \"Vancouver\" Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/independent-s-vancouver-premiere/",
+    "title": "Zero's \"30 Years\" Art Show and Video Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/zero-s-30-years-art-show/",
     "score": 6,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -35,11 +35,18 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Zero's \"30 Years\" Art Show and Video Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/zero-s-30-years-art-show/",
+    "title": "Independent's \"Vancouver\" Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/independent-s-vancouver-premiere/",
     "score": 6,
     "summary": "滑板资讯",
     "source": "Thrasher"
+  },
+  {
+    "title": "Skateboarding",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
   },
   {
     "title": "Valley of the Moon's \"Day of the Shred\" Event",
@@ -49,24 +56,17 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Ronnie Kessner's \"Cygnus\" Thunder Part",
-    "link": "https://www.thrashermagazine.com/articles/trash/ronnie-kessner-s-cygnus-thunder-part/",
+    "title": "Harry Bergenfield's \"Kill Harry\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/harry-bergenfield-s-kill-harry-video/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Sep.11-13th - Grand Masters 2026",
-    "link": "https://www.kickerclub.com/2026/09/sep-11-13th-grand-masters-2026/",
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
-    "title": "Cameron Youngman's \"Glass Curtain\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/cameron-youngman-s-glass-curtain-video/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "World Skate"
   }
 ];
