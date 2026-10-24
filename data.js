@@ -1,10 +1,24 @@
 const newsData = [
   {
-    "title": "Ramputene DIY's 2026 Tournament",
-    "link": "https://www.thrashermagazine.com/articles/trash/ramputene-diy-s-2026-tournament/",
-    "score": 6,
+    "title": "WSG ASU26: Street Skateboarding World Championship Results",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3973-wsg-asu26-street-skateboarding-world-championship-results.html",
+    "score": 14,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "World Skate"
+  },
+  {
+    "title": "WSG ASU26: Skateboard Park World Championship Report",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3963-wsg-asu26-park-world-championship-finals.html",
+    "score": 12,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "WSG ASU26: Skateboard Vert World Championship Report",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3962-wsg-asu26-vert-world-championship-report.html",
+    "score": 12,
+    "summary": "滑板资讯",
+    "source": "World Skate"
   },
   {
     "title": "Zero's \"30 Years\" Art Show and Video Premiere",
@@ -21,29 +35,22 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Oct.9th - ADI-MISSION Shanghai",
-    "link": "https://www.kickerclub.com/2026/10/oct-9th-adi-mission-shanghai/",
-    "score": 0,
+    "title": "Ramputene DIY's 2026 Tournament",
+    "link": "https://www.thrashermagazine.com/articles/trash/ramputene-diy-s-2026-tournament/",
+    "score": 6,
     "summary": "滑板资讯",
-    "source": "KickerClub"
+    "source": "Thrasher"
   },
   {
-    "title": "Oct.10th - PUSH FEST Shanghai",
-    "link": "https://www.kickerclub.com/2026/10/oct-10th-push-fest-shanghai/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
-    "title": "Fire For Now's \"Road to Death Match\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/fire-for-now-s-road-to-death-match-video/",
+    "title": "Tyson Peterson's \"2026\" Baker Part",
+    "link": "https://www.thrashermagazine.com/articles/trash/tyson-peterson-s-2026-baker-part/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Harry Bergenfield's \"Kill Harry\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/harry-bergenfield-s-kill-harry-video/",
+    "title": "\"Unusual Essex County\" Film Screening",
+    "link": "https://www.thrashermagazine.com/articles/trash/unusual-essex-county-film-screening/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -56,17 +63,10 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "San Pedro Skatepark Association Fundraiser",
-    "link": "https://www.thrashermagazine.com/articles/events/san-pedro-skatepark-association-fundraiser/",
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Nov.6-8th PROJAM 2026",
-    "link": "https://www.kickerclub.com/2026/10/nov-6-8th-projam-2026/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
+    "source": "World Skate"
   }
 ];
