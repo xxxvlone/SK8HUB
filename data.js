@@ -21,15 +21,15 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Ramputene DIY's 2026 Tournament",
-    "link": "https://www.thrashermagazine.com/articles/trash/ramputene-diy-s-2026-tournament/",
+    "title": "Zero's \"30 Years\" Art Show and Video Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/zero-s-30-years-art-show/",
     "score": 6,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Zero's \"30 Years\" Art Show and Video Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/zero-s-30-years-art-show/",
+    "title": "Ramputene DIY's 2026 Tournament",
+    "link": "https://www.thrashermagazine.com/articles/trash/ramputene-diy-s-2026-tournament/",
     "score": 6,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -42,6 +42,13 @@ const newsData = [
     "source": "Thrasher"
   },
   {
+    "title": "Harry Bergenfield's \"Kill Harry\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/harry-bergenfield-s-kill-harry-video/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
     "title": "Lawrence Ravail's \"Réunion\" Part",
     "link": "https://www.thrashermagazine.com/articles/videos/lawrence-ravail-s-reunion-part/",
     "score": 0,
@@ -49,24 +56,17 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Valley of the Moon's \"Day of the Shred\" Event",
-    "link": "https://www.thrashermagazine.com/articles/trash/valley-of-the-moon-s-day-of-the-shred-event/",
+    "title": "Tyson Peterson's \"2026\" Baker Part",
+    "link": "https://www.thrashermagazine.com/articles/trash/tyson-peterson-s-2026-baker-part/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Discipline",
+    "title": "Skateboarding",
     "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
-  },
-  {
-    "title": "Barry McGee's \"Another Round\" Art Opening",
-    "link": "https://www.thrashermagazine.com/articles/trash/barry-mcgee-s-another-round-art-opening/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
   }
 ];
