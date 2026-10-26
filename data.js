@@ -42,11 +42,11 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Lawrence Ravail's \"Réunion\" Part",
-    "link": "https://www.thrashermagazine.com/articles/videos/lawrence-ravail-s-reunion-part/",
+    "title": "Skateboarding",
+    "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "World Skate"
   },
   {
     "title": "Discipline",
@@ -56,17 +56,17 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Oct.10th - PUSH FEST Shanghai",
-    "link": "https://www.kickerclub.com/2026/10/oct-10th-push-fest-shanghai/",
+    "title": "Valley of the Moon's \"Day of the Shred\" Event",
+    "link": "https://www.thrashermagazine.com/articles/trash/valley-of-the-moon-s-day-of-the-shred-event/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "KickerClub"
+    "source": "Thrasher"
   },
   {
-    "title": "Nov.6-8th PROJAM 2026",
-    "link": "https://www.kickerclub.com/2026/10/nov-6-8th-projam-2026/",
+    "title": "Fire For Now's \"Road to Death Match\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/fire-for-now-s-road-to-death-match-video/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "KickerClub"
+    "source": "Thrasher"
   }
 ];
