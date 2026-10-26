@@ -7,6 +7,13 @@ const newsData = [
     "source": "World Skate"
   },
   {
+    "title": "WSG ASU26: Skateboard Park World Championship Report",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3963-wsg-asu26-park-world-championship-finals.html",
+    "score": 12,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
     "title": "WSG ASU26: Skateboard Vert World Championship Report",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3962-wsg-asu26-vert-world-championship-report.html",
     "score": 12,
@@ -14,11 +21,11 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "WSG ASU26: Skateboard Park World Championship Report",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3963-wsg-asu26-park-world-championship-finals.html",
-    "score": 12,
+    "title": "Ramputene DIY's 2026 Tournament",
+    "link": "https://www.thrashermagazine.com/articles/trash/ramputene-diy-s-2026-tournament/",
+    "score": 6,
     "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "Thrasher"
   },
   {
     "title": "Independent's \"Vancouver\" Premiere",
@@ -35,18 +42,11 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Ramputene DIY's 2026 Tournament",
-    "link": "https://www.thrashermagazine.com/articles/trash/ramputene-diy-s-2026-tournament/",
-    "score": 6,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Skateboarding",
-    "link": "https://www.worldskate.org/skateboarding.html",
+    "title": "Valley of the Moon's \"Day of the Shred\" Event",
+    "link": "https://www.thrashermagazine.com/articles/trash/valley-of-the-moon-s-day-of-the-shred-event/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "Thrasher"
   },
   {
     "title": "Discipline",
@@ -56,15 +56,15 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Valley of the Moon's \"Day of the Shred\" Event",
-    "link": "https://www.thrashermagazine.com/articles/trash/valley-of-the-moon-s-day-of-the-shred-event/",
+    "title": "Nov.6-8th PROJAM 2026",
+    "link": "https://www.kickerclub.com/2026/10/nov-6-8th-projam-2026/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "KickerClub"
   },
   {
-    "title": "Fire For Now's \"Road to Death Match\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/fire-for-now-s-road-to-death-match-video/",
+    "title": "Elijah Odom's \"Venture\" Part",
+    "link": "https://www.thrashermagazine.com/articles/trash/elijah-odom-s-venture-part/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
