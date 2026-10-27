@@ -21,13 +21,6 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Ramputene DIY's 2026 Tournament",
-    "link": "https://www.thrashermagazine.com/articles/trash/ramputene-diy-s-2026-tournament/",
-    "score": 6,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "Independent's \"Vancouver\" Premiere",
     "link": "https://www.thrashermagazine.com/articles/trash/independent-s-vancouver-premiere/",
     "score": 6,
@@ -42,6 +35,20 @@ const newsData = [
     "source": "Thrasher"
   },
   {
+    "title": "Ramputene DIY's 2026 Tournament",
+    "link": "https://www.thrashermagazine.com/articles/trash/ramputene-diy-s-2026-tournament/",
+    "score": 6,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "San Pedro Skatepark Association Fundraiser",
+    "link": "https://www.thrashermagazine.com/articles/events/san-pedro-skatepark-association-fundraiser/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
     "title": "Lawrence Ravail's \"Réunion\" Part",
     "link": "https://www.thrashermagazine.com/articles/videos/lawrence-ravail-s-reunion-part/",
     "score": 0,
@@ -49,24 +56,17 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Halloween Hellbomb 2026 Video",
-    "link": "https://www.thrashermagazine.com/articles/videos/halloween-hellbomb-2026-video/",
+    "title": "Oct.10th - PUSH FEST Shanghai",
+    "link": "https://www.kickerclub.com/2026/10/oct-10th-push-fest-shanghai/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "KickerClub"
   },
   {
-    "title": "\"Unusual Essex County\" Film Screening",
-    "link": "https://www.thrashermagazine.com/articles/trash/unusual-essex-county-film-screening/",
+    "title": "Oct.9th - ADI-MISSION Shanghai",
+    "link": "https://www.kickerclub.com/2026/10/oct-9th-adi-mission-shanghai/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "KickerClub"
   }
 ];
