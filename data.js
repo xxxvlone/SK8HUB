@@ -21,15 +21,15 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Zero's \"30 Years\" Art Show and Video Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/zero-s-30-years-art-show/",
+    "title": "Ramputene DIY's 2026 Tournament",
+    "link": "https://www.thrashermagazine.com/articles/trash/ramputene-diy-s-2026-tournament/",
     "score": 6,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Ramputene DIY's 2026 Tournament",
-    "link": "https://www.thrashermagazine.com/articles/trash/ramputene-diy-s-2026-tournament/",
+    "title": "Zero's \"30 Years\" Art Show and Video Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/zero-s-30-years-art-show/",
     "score": 6,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -49,8 +49,8 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Super Skate Posse Giveback 35: Cornwall",
-    "link": "https://www.thrashermagazine.com/articles/trash/super-skate-posse-giveback-35-cornwall/",
+    "title": "Halloween Hellbomb 2026 Video",
+    "link": "https://www.thrashermagazine.com/articles/videos/halloween-hellbomb-2026-video/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -63,8 +63,8 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "Halloween Hellbomb 2026 Photos",
-    "link": "https://www.thrashermagazine.com/articles/halloween-hellbomb-2026-photos/",
+    "title": "Santa Cruz's \"Hecho en Fuego\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/santa-cruz-s-hecho-en-fuego-video/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
