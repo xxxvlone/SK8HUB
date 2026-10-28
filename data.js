@@ -7,13 +7,6 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "WSG ASU26: Skateboard Park World Championship Report",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3963-wsg-asu26-park-world-championship-finals.html",
-    "score": 12,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
     "title": "WSG ASU26: Skateboard Vert World Championship Report",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3962-wsg-asu26-vert-world-championship-report.html",
     "score": 12,
@@ -21,8 +14,15 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Independent's \"Vancouver\" Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/independent-s-vancouver-premiere/",
+    "title": "WSG ASU26: Skateboard Park World Championship Report",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3963-wsg-asu26-park-world-championship-finals.html",
+    "score": 12,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Ramputene DIY's 2026 Tournament",
+    "link": "https://www.thrashermagazine.com/articles/trash/ramputene-diy-s-2026-tournament/",
     "score": 6,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -35,36 +35,36 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Ramputene DIY's 2026 Tournament",
-    "link": "https://www.thrashermagazine.com/articles/trash/ramputene-diy-s-2026-tournament/",
+    "title": "Independent's \"Vancouver\" Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/independent-s-vancouver-premiere/",
     "score": 6,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "The Art of Mark \"Monk\" Hubbard Gallery Show",
-    "link": "https://www.thrashermagazine.com/articles/events/the-art-of-mark-monk-hubbard-gallery-show/",
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "World Skate"
   },
   {
-    "title": "Santa Cruz's \"Hecho en Fuego\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/santa-cruz-s-hecho-en-fuego-video/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Oct.9th - ADI-MISSION Shanghai",
-    "link": "https://www.kickerclub.com/2026/10/oct-9th-adi-mission-shanghai/",
+    "title": "Nov.6-8th PROJAM 2026",
+    "link": "https://www.kickerclub.com/2026/10/nov-6-8th-projam-2026/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "KickerClub"
   },
   {
-    "title": "Valley of the Moon's \"Day of the Shred\" Event",
-    "link": "https://www.thrashermagazine.com/articles/trash/valley-of-the-moon-s-day-of-the-shred-event/",
+    "title": "Halloween Hellbomb 2026 Photos",
+    "link": "https://www.thrashermagazine.com/articles/halloween-hellbomb-2026-photos/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Lawrence Ravail's \"Réunion\" Part",
+    "link": "https://www.thrashermagazine.com/articles/videos/lawrence-ravail-s-reunion-part/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
