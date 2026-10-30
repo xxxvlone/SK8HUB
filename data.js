@@ -42,29 +42,29 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Halloween Hellbomb 2026 Video",
-    "link": "https://www.thrashermagazine.com/articles/videos/halloween-hellbomb-2026-video/",
+    "title": "Valley of the Moon's \"Day of the Shred\" Event",
+    "link": "https://www.thrashermagazine.com/articles/trash/valley-of-the-moon-s-day-of-the-shred-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Central's \"The Return of the Living Shred\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/central-s-the-return-of-the-living-shred-event/",
+    "title": "Chris Chann's \"Forever Unsatisfied\" Part",
+    "link": "https://www.thrashermagazine.com/articles/videos/chris-chann-s-forever-unsatisfied-part/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
+  },
+  {
+    "title": "Skateboarding",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
   },
   {
     "title": "San Pedro Skatepark Association Fundraiser",
     "link": "https://www.thrashermagazine.com/articles/events/san-pedro-skatepark-association-fundraiser/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Halloween Hellbomb 2026 Photos",
-    "link": "https://www.thrashermagazine.com/articles/halloween-hellbomb-2026-photos/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
