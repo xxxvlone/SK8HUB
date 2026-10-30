@@ -7,13 +7,6 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "WSG ASU26: Skateboard Vert World Championship Report",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3962-wsg-asu26-vert-world-championship-report.html",
-    "score": 12,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
     "title": "WSG ASU26: Skateboard Park World Championship Report",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3963-wsg-asu26-park-world-championship-finals.html",
     "score": 12,
@@ -21,8 +14,15 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Ramputene DIY's 2026 Tournament",
-    "link": "https://www.thrashermagazine.com/articles/trash/ramputene-diy-s-2026-tournament/",
+    "title": "WSG ASU26: Skateboard Vert World Championship Report",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3962-wsg-asu26-vert-world-championship-report.html",
+    "score": 12,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Zero's \"30 Years\" Art Show and Video Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/zero-s-30-years-art-show/",
     "score": 6,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -35,9 +35,23 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Zero's \"30 Years\" Art Show and Video Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/zero-s-30-years-art-show/",
+    "title": "Ramputene DIY's 2026 Tournament",
+    "link": "https://www.thrashermagazine.com/articles/trash/ramputene-diy-s-2026-tournament/",
     "score": 6,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Halloween Hellbomb 2026 Video",
+    "link": "https://www.thrashermagazine.com/articles/videos/halloween-hellbomb-2026-video/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Central's \"The Return of the Living Shred\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/central-s-the-return-of-the-living-shred-event/",
+    "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
@@ -49,24 +63,10 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Santa Cruz's \"Hecho en Fuego\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/santa-cruz-s-hecho-en-fuego-video/",
+    "title": "Halloween Hellbomb 2026 Photos",
+    "link": "https://www.thrashermagazine.com/articles/halloween-hellbomb-2026-photos/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
-  },
-  {
-    "title": "Nov.6-8th PROJAM 2026",
-    "link": "https://www.kickerclub.com/2026/10/nov-6-8th-projam-2026/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
-    "title": "Oct.10th - PUSH FEST Shanghai",
-    "link": "https://www.kickerclub.com/2026/10/oct-10th-push-fest-shanghai/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
   }
 ];
