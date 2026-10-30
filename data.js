@@ -42,31 +42,31 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Skateboarding",
+    "title": "Discipline",
     "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
   },
   {
-    "title": "Valley of the Moon's \"Day of the Shred\" Event",
-    "link": "https://www.thrashermagazine.com/articles/trash/valley-of-the-moon-s-day-of-the-shred-event/",
+    "title": "Flying Low's \"Grom Jom 5\" Event",
+    "link": "https://www.thrashermagazine.com/articles/trash/flying-low-s-grom-jom-5-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "San Pedro Skatepark Association Fundraiser",
-    "link": "https://www.thrashermagazine.com/articles/events/san-pedro-skatepark-association-fundraiser/",
+    "title": "The Art of Mark \"Monk\" Hubbard Gallery Show",
+    "link": "https://www.thrashermagazine.com/articles/events/the-art-of-mark-monk-hubbard-gallery-show/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Nov.6-8th PROJAM 2026",
-    "link": "https://www.kickerclub.com/2026/10/nov-6-8th-projam-2026/",
+    "title": "\"Unusual Essex County\" Film Screening",
+    "link": "https://www.thrashermagazine.com/articles/trash/unusual-essex-county-film-screening/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "KickerClub"
+    "source": "Thrasher"
   }
 ];
