@@ -21,6 +21,13 @@ const newsData = [
     "source": "World Skate"
   },
   {
+    "title": "Zero's \"30 Years\" Art Show and Video Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/zero-s-30-years-art-show/",
+    "score": 6,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
     "title": "Ramputene DIY's 2026 Tournament",
     "link": "https://www.thrashermagazine.com/articles/trash/ramputene-diy-s-2026-tournament/",
     "score": 6,
@@ -35,9 +42,16 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Zero's \"30 Years\" Art Show and Video Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/zero-s-30-years-art-show/",
-    "score": 6,
+    "title": "\"Unusual Essex County\" Film Screening",
+    "link": "https://www.thrashermagazine.com/articles/trash/unusual-essex-county-film-screening/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Chris Chann's \"Forever Unsatisfied\" Part",
+    "link": "https://www.thrashermagazine.com/articles/videos/chris-chann-s-forever-unsatisfied-part/",
+    "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
@@ -49,24 +63,10 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Barry McGee's \"Another Round\" Art Opening",
-    "link": "https://www.thrashermagazine.com/articles/trash/barry-mcgee-s-another-round-art-opening/",
+    "title": "Oct.9th - ADI-MISSION Shanghai",
+    "link": "https://www.kickerclub.com/2026/10/oct-9th-adi-mission-shanghai/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Halloween Hellbomb 2026 Photos",
-    "link": "https://www.thrashermagazine.com/articles/halloween-hellbomb-2026-photos/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "San Pedro Skatepark Association Fundraiser",
-    "link": "https://www.thrashermagazine.com/articles/events/san-pedro-skatepark-association-fundraiser/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "KickerClub"
   }
 ];
