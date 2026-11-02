@@ -7,15 +7,15 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "WSG ASU26: Skateboard Vert World Championship Report",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3962-wsg-asu26-vert-world-championship-report.html",
+    "title": "WSG ASU26: Skateboard Park World Championship Report",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3963-wsg-asu26-park-world-championship-finals.html",
     "score": 12,
     "summary": "滑板资讯",
     "source": "World Skate"
   },
   {
-    "title": "WSG ASU26: Skateboard Park World Championship Report",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3963-wsg-asu26-park-world-championship-finals.html",
+    "title": "WSG ASU26: Skateboard Vert World Championship Report",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3962-wsg-asu26-vert-world-championship-report.html",
     "score": 12,
     "summary": "滑板资讯",
     "source": "World Skate"
@@ -28,13 +28,6 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Independent's \"Vancouver\" Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/independent-s-vancouver-premiere/",
-    "score": 6,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "Ramputene DIY's 2026 Tournament",
     "link": "https://www.thrashermagazine.com/articles/trash/ramputene-diy-s-2026-tournament/",
     "score": 6,
@@ -42,31 +35,38 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
+    "title": "Independent's \"Vancouver\" Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/independent-s-vancouver-premiere/",
+    "score": 6,
     "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "Thrasher"
   },
   {
-    "title": "San Pedro Skatepark Association Fundraiser",
-    "link": "https://www.thrashermagazine.com/articles/events/san-pedro-skatepark-association-fundraiser/",
+    "title": "The Follow Up: Chris Chann",
+    "link": "https://www.thrashermagazine.com/articles/videos/the-follow-up-chris-chann/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Chris Chann's \"Forever Unsatisfied\" Part",
-    "link": "https://www.thrashermagazine.com/articles/videos/chris-chann-s-forever-unsatisfied-part/",
+    "title": "Halloween Hellbomb 2026 Video",
+    "link": "https://www.thrashermagazine.com/articles/videos/halloween-hellbomb-2026-video/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Barry McGee's \"Another Round\" Art Opening",
-    "link": "https://www.thrashermagazine.com/articles/trash/barry-mcgee-s-another-round-art-opening/",
+    "title": "Oct.9th - ADI-MISSION Shanghai",
+    "link": "https://www.kickerclub.com/2026/10/oct-9th-adi-mission-shanghai/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "KickerClub"
+  },
+  {
+    "title": "Nov.6-8th PROJAM 2026",
+    "link": "https://www.kickerclub.com/2026/10/nov-6-8th-projam-2026/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
   }
 ];
