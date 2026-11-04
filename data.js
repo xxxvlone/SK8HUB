@@ -1,12 +1,5 @@
 const newsData = [
   {
-    "title": "Independent's \"Vancouver\" Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/independent-s-vancouver-premiere/",
-    "score": 6,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "Ramputene DIY's 2026 Tournament",
     "link": "https://www.thrashermagazine.com/articles/trash/ramputene-diy-s-2026-tournament/",
     "score": 6,
@@ -21,29 +14,22 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Ace Pelka for OJ Wheels",
-    "link": "https://www.thrashermagazine.com/articles/trash/ace-pelka-for-oj-wheels-202610310433/",
+    "title": "Independent's \"Vancouver\" Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/independent-s-vancouver-premiere/",
+    "score": 6,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "San Pedro Skatepark Association Fundraiser",
+    "link": "https://www.thrashermagazine.com/articles/events/san-pedro-skatepark-association-fundraiser/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Barry McGee's \"Another Round\" Art Opening",
-    "link": "https://www.thrashermagazine.com/articles/trash/barry-mcgee-s-another-round-art-opening/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "LA28: Q-Series Update!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "Jonathan Perez' \"Excelsior\" Raw Edit",
-    "link": "https://www.thrashermagazine.com/articles/trash/jonathan-perez-excelsior-raw-edit/",
+    "title": "Vincent Milou's \"Courtside\" Element Part",
+    "link": "https://www.thrashermagazine.com/articles/videos/vincent-milou-s-court-side-element-part/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -56,8 +42,8 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Central's \"The Return of the Living Shred\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/central-s-the-return-of-the-living-shred-event/",
+    "title": "Barry McGee's \"Another Round\" Art Opening",
+    "link": "https://www.thrashermagazine.com/articles/trash/barry-mcgee-s-another-round-art-opening/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -68,5 +54,19 @@ const newsData = [
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
+  },
+  {
+    "title": "Nov.6-8th PROJAM 2026",
+    "link": "https://www.kickerclub.com/2026/10/nov-6-8th-projam-2026/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
+  },
+  {
+    "title": "Flying Low's \"Grom Jom 5\" Event",
+    "link": "https://www.thrashermagazine.com/articles/trash/flying-low-s-grom-jom-5-event/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
   }
 ];
