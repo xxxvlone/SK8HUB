@@ -21,8 +21,29 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Flying Low's \"Grom Jom 5\" Event",
-    "link": "https://www.thrashermagazine.com/articles/trash/flying-low-s-grom-jom-5-event/",
+    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Jonathan Perez' \"Excelsior\" Raw Edit",
+    "link": "https://www.thrashermagazine.com/articles/trash/jonathan-perez-excelsior-raw-edit/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Oct.10th - PUSH FEST Shanghai",
+    "link": "https://www.kickerclub.com/2026/10/oct-10th-push-fest-shanghai/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
+  },
+  {
+    "title": "\"Unusual Essex County\" Film Screening",
+    "link": "https://www.thrashermagazine.com/articles/trash/unusual-essex-county-film-screening/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -35,13 +56,6 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Oct.9th - ADI-MISSION Shanghai",
-    "link": "https://www.kickerclub.com/2026/10/oct-9th-adi-mission-shanghai/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
     "title": "Discipline",
     "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
@@ -49,22 +63,8 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Skateboarding",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "In the Shop: New Holiday Sweaters",
-    "link": "https://www.thrashermagazine.com/articles/trash/in-the-shop-new-holiday-sweaters/",
+    "title": "Valley of the Moon's \"Day of the Shred\" Event",
+    "link": "https://www.thrashermagazine.com/articles/trash/valley-of-the-moon-s-day-of-the-shred-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
