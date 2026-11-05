@@ -1,14 +1,14 @@
 const newsData = [
   {
-    "title": "Ramputene DIY's 2026 Tournament",
-    "link": "https://www.thrashermagazine.com/articles/trash/ramputene-diy-s-2026-tournament/",
+    "title": "Zero's \"30 Years\" Art Show and Video Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/zero-s-30-years-art-show/",
     "score": 6,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Zero's \"30 Years\" Art Show and Video Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/zero-s-30-years-art-show/",
+    "title": "Ramputene DIY's 2026 Tournament",
+    "link": "https://www.thrashermagazine.com/articles/trash/ramputene-diy-s-2026-tournament/",
     "score": 6,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -21,13 +21,6 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "The \"Glory Bound\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/the-glory-bound-video-202611032219/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "LA28: Q-Series Update!",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
     "score": 0,
@@ -35,11 +28,25 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Nov.6-8th PROJAM 2026",
-    "link": "https://www.kickerclub.com/2026/10/nov-6-8th-projam-2026/",
+    "title": "\"Unusual Essex County\" Film Screening",
+    "link": "https://www.thrashermagazine.com/articles/trash/unusual-essex-county-film-screening/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "KickerClub"
+    "source": "Thrasher"
+  },
+  {
+    "title": "Slam City Interviews Elissa Steamer",
+    "link": "https://www.thrashermagazine.com/articles/trash/slam-city-interviews-elissa-steamer/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Barry McGee's \"Another Round\" Art Opening",
+    "link": "https://www.thrashermagazine.com/articles/trash/barry-mcgee-s-another-round-art-opening/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
   },
   {
     "title": "World Skateboarding Ranking Explained!",
@@ -49,22 +56,15 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Oct.9th - ADI-MISSION Shanghai",
-    "link": "https://www.kickerclub.com/2026/10/oct-9th-adi-mission-shanghai/",
+    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "KickerClub"
+    "source": "World Skate"
   },
   {
-    "title": "The Art of Mark \"Monk\" Hubbard Gallery Show",
-    "link": "https://www.thrashermagazine.com/articles/events/the-art-of-mark-monk-hubbard-gallery-show/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Flying Low's \"Grom Jom 5\" Event",
-    "link": "https://www.thrashermagazine.com/articles/trash/flying-low-s-grom-jom-5-event/",
+    "title": "San Pedro Skatepark Association Fundraiser",
+    "link": "https://www.thrashermagazine.com/articles/events/san-pedro-skatepark-association-fundraiser/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
