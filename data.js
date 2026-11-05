@@ -21,36 +21,15 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "San Pedro Skatepark Association Fundraiser",
-    "link": "https://www.thrashermagazine.com/articles/events/san-pedro-skatepark-association-fundraiser/",
+    "title": "The \"Glory Bound\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/the-glory-bound-video-202611032219/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Vincent Milou's \"Courtside\" Element Part",
-    "link": "https://www.thrashermagazine.com/articles/videos/vincent-milou-s-court-side-element-part/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Taihou Tokura's \"T4\" Part",
-    "link": "https://www.thrashermagazine.com/articles/trash/taihou-tokura-part/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Barry McGee's \"Another Round\" Art Opening",
-    "link": "https://www.thrashermagazine.com/articles/trash/barry-mcgee-s-another-round-art-opening/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
+    "title": "LA28: Q-Series Update!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
@@ -61,6 +40,27 @@ const newsData = [
     "score": 0,
     "summary": "滑板资讯",
     "source": "KickerClub"
+  },
+  {
+    "title": "World Skateboarding Ranking Explained!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3899-world-skateboarding-ranking-explained.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Oct.9th - ADI-MISSION Shanghai",
+    "link": "https://www.kickerclub.com/2026/10/oct-9th-adi-mission-shanghai/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
+  },
+  {
+    "title": "The Art of Mark \"Monk\" Hubbard Gallery Show",
+    "link": "https://www.thrashermagazine.com/articles/events/the-art-of-mark-monk-hubbard-gallery-show/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
   },
   {
     "title": "Flying Low's \"Grom Jom 5\" Event",
