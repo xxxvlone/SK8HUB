@@ -35,6 +35,13 @@ const newsData = [
     "source": "Thrasher"
   },
   {
+    "title": "Skateboarding",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
     "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
     "score": 0,
@@ -42,29 +49,22 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "\"Unusual Essex County\" Film Screening",
-    "link": "https://www.thrashermagazine.com/articles/trash/unusual-essex-county-film-screening/",
+    "title": "Barry McGee's \"Another Round\" Art Opening",
+    "link": "https://www.thrashermagazine.com/articles/trash/barry-mcgee-s-another-round-art-opening/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Nov.6-8th PROJAM 2026",
-    "link": "https://www.kickerclub.com/2026/10/nov-6-8th-projam-2026/",
+    "title": "San Pedro Skatepark Association Fundraiser",
+    "link": "https://www.thrashermagazine.com/articles/events/san-pedro-skatepark-association-fundraiser/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "KickerClub"
+    "source": "Thrasher"
   },
   {
-    "title": "Rowan Zorilla: People I've Known",
-    "link": "https://www.thrashermagazine.com/articles/rowan-zorilla-people-i-ve-known/",
+    "title": "In the Shop: New Holiday Sweaters",
+    "link": "https://www.thrashermagazine.com/articles/trash/in-the-shop-new-holiday-sweaters/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
