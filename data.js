@@ -35,6 +35,20 @@ const newsData = [
     "source": "Thrasher"
   },
   {
+    "title": "The Art of Mark \"Monk\" Hubbard Gallery Show",
+    "link": "https://www.thrashermagazine.com/articles/events/the-art-of-mark-monk-hubbard-gallery-show/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Oct.10th - PUSH FEST Shanghai",
+    "link": "https://www.kickerclub.com/2026/10/oct-10th-push-fest-shanghai/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
+  },
+  {
     "title": "San Pedro Skatepark Association Fundraiser",
     "link": "https://www.thrashermagazine.com/articles/events/san-pedro-skatepark-association-fundraiser/",
     "score": 0,
@@ -42,29 +56,15 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Skateboarding",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "Vincent Milou's \"Courtside\" Element Part",
-    "link": "https://www.thrashermagazine.com/articles/videos/vincent-milou-s-court-side-element-part/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Flying Low's \"Grom Jom 5\" Event",
-    "link": "https://www.thrashermagazine.com/articles/trash/flying-low-s-grom-jom-5-event/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "Central's \"The Return of the Living Shred\" Event",
     "link": "https://www.thrashermagazine.com/articles/events/central-s-the-return-of-the-living-shred-event/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "In the Shop: New Holiday Sweaters",
+    "link": "https://www.thrashermagazine.com/articles/trash/in-the-shop-new-holiday-sweaters/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
