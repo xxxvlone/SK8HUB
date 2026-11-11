@@ -7,13 +7,6 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Independent's \"Vancouver\" Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/independent-s-vancouver-premiere/",
-    "score": 6,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "Zero's \"30 Years\" Art Show and Video Premiere",
     "link": "https://www.thrashermagazine.com/articles/trash/zero-s-30-years-art-show/",
     "score": 6,
@@ -28,9 +21,23 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Adjacency Bias' \"Million Dollar Video\"",
-    "link": "https://www.thrashermagazine.com/articles/trash/adjacency-bias-million-dollar-video/",
-    "score": 2,
+    "title": "Independent's \"Vancouver\" Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/independent-s-vancouver-premiere/",
+    "score": 6,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "LA28: Q-Series Update!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Zero's \"After Forever\" Full-Length Video",
+    "link": "https://www.thrashermagazine.com/articles/videos/zero-s-after-forever-full-length-video/",
+    "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
@@ -42,11 +49,11 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Oct.10th - PUSH FEST Shanghai",
-    "link": "https://www.kickerclub.com/2026/10/oct-10th-push-fest-shanghai/",
+    "title": "John Dilo's \"Ultra Violence\" Jacuzzi Part",
+    "link": "https://www.thrashermagazine.com/articles/videos/john-dilo-s-ultra-violence-jacuzzi-part/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "KickerClub"
+    "source": "Thrasher"
   },
   {
     "title": "Central's \"The Return of the Living Shred\" Event",
@@ -56,17 +63,10 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "The Art of Mark \"Monk\" Hubbard Gallery Show",
-    "link": "https://www.thrashermagazine.com/articles/events/the-art-of-mark-monk-hubbard-gallery-show/",
+    "title": "Skateboarding",
+    "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "In the Shop: New Holiday Sweaters",
-    "link": "https://www.thrashermagazine.com/articles/trash/in-the-shop-new-holiday-sweaters/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "World Skate"
   }
 ];
