@@ -7,6 +7,13 @@ const newsData = [
     "source": "World Skate"
   },
   {
+    "title": "Independent's \"Vancouver\" Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/independent-s-vancouver-premiere/",
+    "score": 6,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
     "title": "Ramputene DIY's 2026 Tournament",
     "link": "https://www.thrashermagazine.com/articles/trash/ramputene-diy-s-2026-tournament/",
     "score": 6,
@@ -21,13 +28,6 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Independent's \"Vancouver\" Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/independent-s-vancouver-premiere/",
-    "score": 6,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "Adjacency Bias' \"Million Dollar Video\"",
     "link": "https://www.thrashermagazine.com/articles/trash/adjacency-bias-million-dollar-video/",
     "score": 2,
@@ -35,25 +35,25 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "LA28: Q-Series Update!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
+    "title": "San Pedro Skatepark Association Fundraiser",
+    "link": "https://www.thrashermagazine.com/articles/events/san-pedro-skatepark-association-fundraiser/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "Thrasher"
   },
   {
-    "title": "Skateboarding",
+    "title": "Zero's \"After Forever\" Full-Length Video",
+    "link": "https://www.thrashermagazine.com/articles/videos/zero-s-after-forever-full-length-video/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Discipline",
     "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
-  },
-  {
-    "title": "Central's \"The Return of the Living Shred\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/central-s-the-return-of-the-living-shred-event/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
   },
   {
     "title": "Indy's \"Vancouver\" Video",
@@ -63,10 +63,10 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Exposure 2026 Coming Soon",
-    "link": "https://www.thrashermagazine.com/articles/trash/exposure-2026-coming-soon/",
+    "title": "LA28: Q-Series Update!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3909-la28-q-series-update.html",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "World Skate"
   }
 ];
