@@ -7,18 +7,18 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Independent's \"Vancouver\" Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/independent-s-vancouver-premiere/",
-    "score": 6,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "Celebrating Rayssa Leal's Youth Olympic Games Ambassadorship In Dakar!",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3989-celebrating-rayssa-leal-s-youth-olympic-games-ambassadorship-in-dakar.html",
     "score": 6,
     "summary": "滑板资讯",
     "source": "World Skate"
+  },
+  {
+    "title": "Independent's \"Vancouver\" Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/independent-s-vancouver-premiere/",
+    "score": 6,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
   },
   {
     "title": "Ramputene DIY's 2026 Tournament",
@@ -42,25 +42,25 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Thrasher x Golfwang Now Available",
-    "link": "https://www.thrashermagazine.com/articles/trash/thrasher-x-golfwang-now-available/",
+    "title": "Skateboarding",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "John Shanahan's \"Again and Again\" DC Shoes Part",
+    "link": "https://www.thrashermagazine.com/articles/videos/john-shanahan-s-dc-part/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "The Art of Mark \"Monk\" Hubbard Gallery Show",
-    "link": "https://www.thrashermagazine.com/articles/events/the-art-of-mark-monk-hubbard-gallery-show/",
+    "title": "Oct.9th - ADI-MISSION Shanghai",
+    "link": "https://www.kickerclub.com/2026/10/oct-9th-adi-mission-shanghai/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Flying Low's \"Grom Jom 5\" Event",
-    "link": "https://www.thrashermagazine.com/articles/trash/flying-low-s-grom-jom-5-event/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "KickerClub"
   },
   {
     "title": "Innercity's Grand Reopening Event",
