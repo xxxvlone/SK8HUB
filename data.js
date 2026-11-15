@@ -14,18 +14,18 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Ramputene DIY's 2026 Tournament",
-    "link": "https://www.thrashermagazine.com/articles/trash/ramputene-diy-s-2026-tournament/",
-    "score": 6,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "Celebrating Rayssa Leal's Youth Olympic Games Ambassadorship In Dakar!",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3989-celebrating-rayssa-leal-s-youth-olympic-games-ambassadorship-in-dakar.html",
     "score": 6,
     "summary": "滑板资讯",
     "source": "World Skate"
+  },
+  {
+    "title": "Ramputene DIY's 2026 Tournament",
+    "link": "https://www.thrashermagazine.com/articles/trash/ramputene-diy-s-2026-tournament/",
+    "score": 6,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
   },
   {
     "title": "Independent's \"Vancouver\" Premiere",
@@ -35,38 +35,38 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "The Art of Mark \"Monk\" Hubbard Gallery Show",
-    "link": "https://www.thrashermagazine.com/articles/events/the-art-of-mark-monk-hubbard-gallery-show/",
+    "title": "John Shanahan's \"Again and Again\" DC Shoes Part",
+    "link": "https://www.thrashermagazine.com/articles/videos/john-shanahan-s-dc-part/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "Central's \"The Return of the Living Shred\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/central-s-the-return-of-the-living-shred-event/",
+    "title": "The Follow Up: John Dilo's \"Ultra Violence\" Part",
+    "link": "https://www.thrashermagazine.com/articles/the-follow-up-john-dilo-s-ultra-violence-part/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Discipline",
+    "title": "Skateboarding",
     "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
   },
   {
-    "title": "Oct.9th - ADI-MISSION Shanghai",
-    "link": "https://www.kickerclub.com/2026/10/oct-9th-adi-mission-shanghai/",
+    "title": "John Dilo's \"Ultra Violence\" Jacuzzi Part",
+    "link": "https://www.thrashermagazine.com/articles/videos/john-dilo-s-ultra-violence-jacuzzi-part/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "KickerClub"
+    "source": "Thrasher"
+  },
+  {
+    "title": "Innercity's Grand Reopening Event",
+    "link": "https://www.thrashermagazine.com/articles/events/innercity-s-grand-reopening-event/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
   }
 ];
