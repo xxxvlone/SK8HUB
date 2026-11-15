@@ -7,25 +7,18 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Celebrating Rayssa Leal's Youth Olympic Games Ambassadorship In Dakar!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3989-celebrating-rayssa-leal-s-youth-olympic-games-ambassadorship-in-dakar.html",
-    "score": 6,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "Independent's \"Vancouver\" Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/independent-s-vancouver-premiere/",
-    "score": 6,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "Ramputene DIY's 2026 Tournament",
     "link": "https://www.thrashermagazine.com/articles/trash/ramputene-diy-s-2026-tournament/",
     "score": 6,
     "summary": "滑板资讯",
     "source": "Thrasher"
+  },
+  {
+    "title": "Celebrating Rayssa Leal's Youth Olympic Games Ambassadorship In Dakar!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3989-celebrating-rayssa-leal-s-youth-olympic-games-ambassadorship-in-dakar.html",
+    "score": 6,
+    "summary": "滑板资讯",
+    "source": "World Skate"
   },
   {
     "title": "Zero's \"30 Years\" Art Show and Video Premiere",
@@ -35,11 +28,11 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
+    "title": "Independent's \"Vancouver\" Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/independent-s-vancouver-premiere/",
+    "score": 6,
     "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "Thrasher"
   },
   {
     "title": "Skateboarding",
@@ -49,18 +42,25 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "John Shanahan's \"Again and Again\" DC Shoes Part",
-    "link": "https://www.thrashermagazine.com/articles/videos/john-shanahan-s-dc-part/",
+    "title": "The Follow Up: John Dilo's \"Ultra Violence\" Part",
+    "link": "https://www.thrashermagazine.com/articles/the-follow-up-john-dilo-s-ultra-violence-part/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Oct.9th - ADI-MISSION Shanghai",
-    "link": "https://www.kickerclub.com/2026/10/oct-9th-adi-mission-shanghai/",
+    "title": "Robert Murphy's \"Stick and Bindle\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/robert-murphy-s-stick-and-bindle-video/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "KickerClub"
+    "source": "Thrasher"
+  },
+  {
+    "title": "As It Was: WST World Cup Rome 2026 In Retrospect",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3917-as-it-was-wst-world-cup-rome-2026-in-retrospect.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
   },
   {
     "title": "Innercity's Grand Reopening Event",
