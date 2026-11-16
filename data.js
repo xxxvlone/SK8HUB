@@ -7,18 +7,18 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Zero's \"30 Years\" Art Show and Video Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/zero-s-30-years-art-show/",
-    "score": 6,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "Celebrating Rayssa Leal's Youth Olympic Games Ambassadorship In Dakar!",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3989-celebrating-rayssa-leal-s-youth-olympic-games-ambassadorship-in-dakar.html",
     "score": 6,
     "summary": "滑板资讯",
     "source": "World Skate"
+  },
+  {
+    "title": "Zero's \"30 Years\" Art Show and Video Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/zero-s-30-years-art-show/",
+    "score": 6,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
   },
   {
     "title": "Ramputene DIY's 2026 Tournament",
@@ -35,36 +35,36 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "John Shanahan's \"Again and Again\" DC Shoes Part",
-    "link": "https://www.thrashermagazine.com/articles/videos/john-shanahan-s-dc-part/",
+    "title": "Thrasher x Golfwang Now Available",
+    "link": "https://www.thrashermagazine.com/articles/trash/thrasher-x-golfwang-now-available/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "The Follow Up: John Dilo's \"Ultra Violence\" Part",
-    "link": "https://www.thrashermagazine.com/articles/the-follow-up-john-dilo-s-ultra-violence-part/",
+    "title": "San Pedro Skatepark Association Fundraiser",
+    "link": "https://www.thrashermagazine.com/articles/events/san-pedro-skatepark-association-fundraiser/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Skateboarding",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "John Dilo's \"Ultra Violence\" Jacuzzi Part",
-    "link": "https://www.thrashermagazine.com/articles/videos/john-dilo-s-ultra-violence-jacuzzi-part/",
+    "title": "Central's \"The Return of the Living Shred\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/central-s-the-return-of-the-living-shred-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Innercity's Grand Reopening Event",
-    "link": "https://www.thrashermagazine.com/articles/events/innercity-s-grand-reopening-event/",
+    "title": "The Art of Mark \"Monk\" Hubbard Gallery Show",
+    "link": "https://www.thrashermagazine.com/articles/events/the-art-of-mark-monk-hubbard-gallery-show/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Robert Murphy's \"Stick and Bindle\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/robert-murphy-s-stick-and-bindle-video/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
