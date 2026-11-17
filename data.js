@@ -7,11 +7,11 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Zero's \"30 Years\" Art Show and Video Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/zero-s-30-years-art-show/",
+    "title": "Celebrating Rayssa Leal's Youth Olympic Games Ambassadorship In Dakar!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3989-celebrating-rayssa-leal-s-youth-olympic-games-ambassadorship-in-dakar.html",
     "score": 6,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "World Skate"
   },
   {
     "title": "Independent's \"Vancouver\" Premiere",
@@ -21,16 +21,9 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Celebrating Rayssa Leal's Youth Olympic Games Ambassadorship In Dakar!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3989-celebrating-rayssa-leal-s-youth-olympic-games-ambassadorship-in-dakar.html",
+    "title": "Zero's \"30 Years\" Art Show and Video Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/zero-s-30-years-art-show/",
     "score": 6,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "Heroin X Pizzanista Eggzilla Release Party",
-    "link": "https://www.thrashermagazine.com/articles/trash/heroin-x-pizzanista-eggzilla-release-party/",
-    "score": 4,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
@@ -42,29 +35,36 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Ipath Welcomes Zach Allen",
-    "link": "https://www.thrashermagazine.com/articles/trash/ipath-welcomes-zach-allen/",
+    "title": "Heroin X Pizzanista Eggzilla Release Party",
+    "link": "https://www.thrashermagazine.com/articles/trash/heroin-x-pizzanista-eggzilla-release-party/",
+    "score": 4,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Skateboarding",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Barry McGee's \"Another Round\" Art Opening",
+    "link": "https://www.thrashermagazine.com/articles/trash/barry-mcgee-s-another-round-art-opening/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Robert Murphy's \"Stick and Bindle\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/robert-murphy-s-stick-and-bindle-video/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Flying Low's \"Grom Jom 5\" Event",
-    "link": "https://www.thrashermagazine.com/articles/trash/flying-low-s-grom-jom-5-event/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "The Art of Mark \"Monk\" Hubbard Gallery Show",
-    "link": "https://www.thrashermagazine.com/articles/events/the-art-of-mark-monk-hubbard-gallery-show/",
+    "title": "Gael Dobar’s \"DOBAR\" Part",
+    "link": "https://www.thrashermagazine.com/articles/trash/gael-dobar-s-dobar-part/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
