@@ -7,18 +7,18 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Zero's \"30 Years\" Art Show and Video Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/zero-s-30-years-art-show/",
-    "score": 6,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "Celebrating Rayssa Leal's Youth Olympic Games Ambassadorship In Dakar!",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3989-celebrating-rayssa-leal-s-youth-olympic-games-ambassadorship-in-dakar.html",
     "score": 6,
     "summary": "滑板资讯",
     "source": "World Skate"
+  },
+  {
+    "title": "Zero's \"30 Years\" Art Show and Video Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/zero-s-30-years-art-show/",
+    "score": 6,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
   },
   {
     "title": "Independent's \"Vancouver\" Premiere",
@@ -42,29 +42,29 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Innercity's Grand Reopening Event",
-    "link": "https://www.thrashermagazine.com/articles/events/innercity-s-grand-reopening-event/",
+    "title": "The Art of Mark \"Monk\" Hubbard Gallery Show",
+    "link": "https://www.thrashermagazine.com/articles/events/the-art-of-mark-monk-hubbard-gallery-show/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Ipath Welcomes Zach Allen",
-    "link": "https://www.thrashermagazine.com/articles/trash/ipath-welcomes-zach-allen/",
+    "title": "Nov.6-8th PROJAM 2026",
+    "link": "https://www.kickerclub.com/2026/10/nov-6-8th-projam-2026/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
+  },
+  {
+    "title": "Exposure 2026 Coming Soon",
+    "link": "https://www.thrashermagazine.com/articles/trash/exposure-2026-coming-soon/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Thrasher x Golfwang Now Available",
-    "link": "https://www.thrashermagazine.com/articles/trash/thrasher-x-golfwang-now-available/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Gael Dobar’s \"DOBAR\" Part",
-    "link": "https://www.thrashermagazine.com/articles/trash/gael-dobar-s-dobar-part/",
+    "title": "Chris Athans \"FTC X Asics\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/chris-athans-ftc-x-asics-video/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
