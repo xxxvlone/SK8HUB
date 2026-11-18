@@ -7,13 +7,6 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Celebrating Rayssa Leal's Youth Olympic Games Ambassadorship In Dakar!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3989-celebrating-rayssa-leal-s-youth-olympic-games-ambassadorship-in-dakar.html",
-    "score": 6,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
     "title": "Zero's \"30 Years\" Art Show and Video Premiere",
     "link": "https://www.thrashermagazine.com/articles/trash/zero-s-30-years-art-show/",
     "score": 6,
@@ -26,6 +19,13 @@ const newsData = [
     "score": 6,
     "summary": "滑板资讯",
     "source": "Thrasher"
+  },
+  {
+    "title": "Celebrating Rayssa Leal's Youth Olympic Games Ambassadorship In Dakar!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3989-celebrating-rayssa-leal-s-youth-olympic-games-ambassadorship-in-dakar.html",
+    "score": 6,
+    "summary": "滑板资讯",
+    "source": "World Skate"
   },
   {
     "title": "Heroin X Pizzanista Eggzilla Release Party",
@@ -42,31 +42,31 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "The Art of Mark \"Monk\" Hubbard Gallery Show",
-    "link": "https://www.thrashermagazine.com/articles/events/the-art-of-mark-monk-hubbard-gallery-show/",
+    "title": "Barry McGee's \"Another Round\" Art Opening",
+    "link": "https://www.thrashermagazine.com/articles/trash/barry-mcgee-s-another-round-art-opening/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Nov.6-8th PROJAM 2026",
-    "link": "https://www.kickerclub.com/2026/10/nov-6-8th-projam-2026/",
+    "title": "DVS Welcomes Mike Anderson",
+    "link": "https://www.thrashermagazine.com/articles/trash/dvs-welcomes-mike-anderson/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Gael Dobar’s \"DOBAR\" Part",
+    "link": "https://www.thrashermagazine.com/articles/trash/gael-dobar-s-dobar-part/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Oct.10th - PUSH FEST Shanghai",
+    "link": "https://www.kickerclub.com/2026/10/oct-10th-push-fest-shanghai/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "KickerClub"
-  },
-  {
-    "title": "Exposure 2026 Coming Soon",
-    "link": "https://www.thrashermagazine.com/articles/trash/exposure-2026-coming-soon/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Chris Athans \"FTC X Asics\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/chris-athans-ftc-x-asics-video/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
   }
 ];
