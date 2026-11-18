@@ -7,6 +7,13 @@ const newsData = [
     "source": "World Skate"
   },
   {
+    "title": "Celebrating Rayssa Leal's Youth Olympic Games Ambassadorship In Dakar!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3989-celebrating-rayssa-leal-s-youth-olympic-games-ambassadorship-in-dakar.html",
+    "score": 6,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
     "title": "Zero's \"30 Years\" Art Show and Video Premiere",
     "link": "https://www.thrashermagazine.com/articles/trash/zero-s-30-years-art-show/",
     "score": 6,
@@ -21,9 +28,9 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Celebrating Rayssa Leal's Youth Olympic Games Ambassadorship In Dakar!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3989-celebrating-rayssa-leal-s-youth-olympic-games-ambassadorship-in-dakar.html",
-    "score": 6,
+    "title": "World Skate's Vertical Skateboarding Caravan Rolls Into China!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3990-world-skate-s-vertical-skateboarding-caravan-rolls-into-china.html",
+    "score": 4,
     "summary": "滑板资讯",
     "source": "World Skate"
   },
@@ -35,11 +42,11 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "World Skate's Vertical Skateboarding Caravan Rolls Into China!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3990-world-skate-s-vertical-skateboarding-caravan-rolls-into-china.html",
-    "score": 4,
+    "title": "Flying Low's \"Grom Jom 5\" Event",
+    "link": "https://www.thrashermagazine.com/articles/trash/flying-low-s-grom-jom-5-event/",
+    "score": 0,
     "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "Thrasher"
   },
   {
     "title": "Barry McGee's \"Another Round\" Art Opening",
@@ -49,24 +56,17 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "DVS Welcomes Mike Anderson",
-    "link": "https://www.thrashermagazine.com/articles/trash/dvs-welcomes-mike-anderson/",
+    "title": "Daiki Hoshino’s \"Very Sometimes\" Krooked Part",
+    "link": "https://www.thrashermagazine.com/articles/videos/daiki-hoshino-s-very-sometimes-krooked-part/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Gael Dobar’s \"DOBAR\" Part",
-    "link": "https://www.thrashermagazine.com/articles/trash/gael-dobar-s-dobar-part/",
+    "title": "Exposure 2026 Coming Soon",
+    "link": "https://www.thrashermagazine.com/articles/trash/exposure-2026-coming-soon/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
-  },
-  {
-    "title": "Oct.10th - PUSH FEST Shanghai",
-    "link": "https://www.kickerclub.com/2026/10/oct-10th-push-fest-shanghai/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
   }
 ];
