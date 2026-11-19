@@ -7,13 +7,6 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Independent's \"Vancouver\" Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/independent-s-vancouver-premiere/",
-    "score": 6,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "Celebrating Rayssa Leal's Youth Olympic Games Ambassadorship In Dakar!",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3989-celebrating-rayssa-leal-s-youth-olympic-games-ambassadorship-in-dakar.html",
     "score": 6,
@@ -23,6 +16,13 @@ const newsData = [
   {
     "title": "Zero's \"30 Years\" Art Show and Video Premiere",
     "link": "https://www.thrashermagazine.com/articles/trash/zero-s-30-years-art-show/",
+    "score": 6,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Independent's \"Vancouver\" Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/independent-s-vancouver-premiere/",
     "score": 6,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -42,29 +42,29 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "San Pedro Skatepark Association Fundraiser",
-    "link": "https://www.thrashermagazine.com/articles/events/san-pedro-skatepark-association-fundraiser/",
+    "title": "Skateboarding",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Didrik Galasso's \"CAMONE\" Part",
+    "link": "https://www.thrashermagazine.com/articles/videos/didrik-galasso-s-camone-part/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Innercity's Grand Reopening Event",
-    "link": "https://www.thrashermagazine.com/articles/events/innercity-s-grand-reopening-event/",
+    "title": "Exposure 2026 Coming Soon",
+    "link": "https://www.thrashermagazine.com/articles/trash/exposure-2026-coming-soon/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Daiki Hoshino’s \"Very Sometimes\" Krooked Part",
-    "link": "https://www.thrashermagazine.com/articles/videos/daiki-hoshino-s-very-sometimes-krooked-part/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "DVS Welcomes Mike Anderson",
-    "link": "https://www.thrashermagazine.com/articles/trash/dvs-welcomes-mike-anderson/",
+    "title": "Central's \"The Return of the Living Shred\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/central-s-the-return-of-the-living-shred-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
