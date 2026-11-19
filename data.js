@@ -7,6 +7,13 @@ const newsData = [
     "source": "World Skate"
   },
   {
+    "title": "Independent's \"Vancouver\" Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/independent-s-vancouver-premiere/",
+    "score": 6,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
     "title": "Celebrating Rayssa Leal's Youth Olympic Games Ambassadorship In Dakar!",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3989-celebrating-rayssa-leal-s-youth-olympic-games-ambassadorship-in-dakar.html",
     "score": 6,
@@ -16,13 +23,6 @@ const newsData = [
   {
     "title": "Zero's \"30 Years\" Art Show and Video Premiere",
     "link": "https://www.thrashermagazine.com/articles/trash/zero-s-30-years-art-show/",
-    "score": 6,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Independent's \"Vancouver\" Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/independent-s-vancouver-premiere/",
     "score": 6,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -42,15 +42,15 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Flying Low's \"Grom Jom 5\" Event",
-    "link": "https://www.thrashermagazine.com/articles/trash/flying-low-s-grom-jom-5-event/",
+    "title": "San Pedro Skatepark Association Fundraiser",
+    "link": "https://www.thrashermagazine.com/articles/events/san-pedro-skatepark-association-fundraiser/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Barry McGee's \"Another Round\" Art Opening",
-    "link": "https://www.thrashermagazine.com/articles/trash/barry-mcgee-s-another-round-art-opening/",
+    "title": "Innercity's Grand Reopening Event",
+    "link": "https://www.thrashermagazine.com/articles/events/innercity-s-grand-reopening-event/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -63,8 +63,8 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Exposure 2026 Coming Soon",
-    "link": "https://www.thrashermagazine.com/articles/trash/exposure-2026-coming-soon/",
+    "title": "DVS Welcomes Mike Anderson",
+    "link": "https://www.thrashermagazine.com/articles/trash/dvs-welcomes-mike-anderson/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
