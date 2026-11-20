@@ -28,13 +28,6 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "World Skate's Vertical Skateboarding Caravan Rolls Into China!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3990-world-skate-s-vertical-skateboarding-caravan-rolls-into-china.html",
-    "score": 4,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
     "title": "Heroin X Pizzanista Eggzilla Release Party",
     "link": "https://www.thrashermagazine.com/articles/trash/heroin-x-pizzanista-eggzilla-release-party/",
     "score": 4,
@@ -42,18 +35,11 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Skateboarding",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
+    "title": "World Skate's Vertical Skateboarding Caravan Rolls Into China!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3990-world-skate-s-vertical-skateboarding-caravan-rolls-into-china.html",
+    "score": 4,
     "summary": "滑板资讯",
     "source": "World Skate"
-  },
-  {
-    "title": "DVS Welcomes Mike Anderson",
-    "link": "https://www.thrashermagazine.com/articles/trash/dvs-welcomes-mike-anderson/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
   },
   {
     "title": "Exposure 2026 Coming Soon",
@@ -63,10 +49,24 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Barry McGee's \"Another Round\" Art Opening",
-    "link": "https://www.thrashermagazine.com/articles/trash/barry-mcgee-s-another-round-art-opening/",
+    "title": "Lilli Werner's \"9 to 5\" Magenta Part",
+    "link": "https://www.thrashermagazine.com/articles/trash/lilli-werner-9-to-5-magenta-part/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
+  },
+  {
+    "title": "Oct.10th - PUSH FEST Shanghai",
+    "link": "https://www.kickerclub.com/2026/10/oct-10th-push-fest-shanghai/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
+  },
+  {
+    "title": "Oct.9th - ADI-MISSION Shanghai",
+    "link": "https://www.kickerclub.com/2026/10/oct-9th-adi-mission-shanghai/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
   }
 ];
