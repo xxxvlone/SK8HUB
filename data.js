@@ -49,22 +49,22 @@ const newsData = [
     "source": "World Skate"
   },
   {
+    "title": "Oct.10th - PUSH FEST Shanghai",
+    "link": "https://www.kickerclub.com/2026/10/oct-10th-push-fest-shanghai/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
+  },
+  {
+    "title": "San Pedro Skatepark Association Fundraiser",
+    "link": "https://www.thrashermagazine.com/articles/events/san-pedro-skatepark-association-fundraiser/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
     "title": "Central's \"The Return of the Living Shred\" Event",
     "link": "https://www.thrashermagazine.com/articles/events/central-s-the-return-of-the-living-shred-event/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Flying Low's \"Grom Jom 5\" Event",
-    "link": "https://www.thrashermagazine.com/articles/trash/flying-low-s-grom-jom-5-event/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Dashawn Jordan's \"Soul Food\" Part",
-    "link": "https://www.thrashermagazine.com/articles/videos/dashawn-jordan-s-soul-food-part/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
