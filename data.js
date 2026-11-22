@@ -14,13 +14,6 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Zero's \"30 Years\" Art Show and Video Premiere",
-    "link": "https://www.thrashermagazine.com/articles/trash/zero-s-30-years-art-show/",
-    "score": 6,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "Celebrating Rayssa Leal's Youth Olympic Games Ambassadorship In Dakar!",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3989-celebrating-rayssa-leal-s-youth-olympic-games-ambassadorship-in-dakar.html",
     "score": 6,
@@ -35,9 +28,9 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Heroin X Pizzanista Eggzilla Release Party",
-    "link": "https://www.thrashermagazine.com/articles/trash/heroin-x-pizzanista-eggzilla-release-party/",
-    "score": 4,
+    "title": "Zero's \"30 Years\" Art Show and Video Premiere",
+    "link": "https://www.thrashermagazine.com/articles/trash/zero-s-30-years-art-show/",
+    "score": 6,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
@@ -49,22 +42,29 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Oct.10th - PUSH FEST Shanghai",
-    "link": "https://www.kickerclub.com/2026/10/oct-10th-push-fest-shanghai/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
-    "title": "San Pedro Skatepark Association Fundraiser",
-    "link": "https://www.thrashermagazine.com/articles/events/san-pedro-skatepark-association-fundraiser/",
-    "score": 0,
+    "title": "Heroin X Pizzanista Eggzilla Release Party",
+    "link": "https://www.thrashermagazine.com/articles/trash/heroin-x-pizzanista-eggzilla-release-party/",
+    "score": 4,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Central's \"The Return of the Living Shred\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/central-s-the-return-of-the-living-shred-event/",
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "San Pedro Skatepark Association Fundraiser",
+    "link": "https://www.thrashermagazine.com/articles/events/san-pedro-skatepark-association-fundraiser/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
