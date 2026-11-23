@@ -7,13 +7,6 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Youth Olympic Games 2026: Street Skateboarding Results!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3984-youth-olympic-games-2026-street-skateboarding-results.html",
-    "score": 8,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
     "title": "Independent's \"Vancouver\" Premiere",
     "link": "https://www.thrashermagazine.com/articles/trash/independent-s-vancouver-premiere/",
     "score": 6,
@@ -26,13 +19,6 @@ const newsData = [
     "score": 6,
     "summary": "滑板资讯",
     "source": "Thrasher"
-  },
-  {
-    "title": "Celebrating Rayssa Leal's Youth Olympic Games Ambassadorship In Dakar!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3989-celebrating-rayssa-leal-s-youth-olympic-games-ambassadorship-in-dakar.html",
-    "score": 6,
-    "summary": "滑板资讯",
-    "source": "World Skate"
   },
   {
     "title": "World Skate's Vertical Skateboarding Caravan Rolls Into China!",
@@ -49,6 +35,13 @@ const newsData = [
     "source": "Thrasher"
   },
   {
+    "title": "Discipline",
+    "link": "https://www.worldskate.org/skateboarding.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
     "title": "Hall of Meat: Vincent Milou",
     "link": "https://www.thrashermagazine.com/articles/videos/hall-of-meat-vincent-milou/",
     "score": 0,
@@ -56,14 +49,21 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Oct.9th - ADI-MISSION Shanghai",
-    "link": "https://www.kickerclub.com/2026/10/oct-9th-adi-mission-shanghai/",
+    "title": "Skateboarding",
+    "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "KickerClub"
+    "source": "World Skate"
   },
   {
-    "title": "Skateboarding",
+    "title": "Dashawn Jordan's \"Soul Food\" Part",
+    "link": "https://www.thrashermagazine.com/articles/videos/dashawn-jordan-s-soul-food-part/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Discipline",
     "link": "https://www.worldskate.org/skateboarding.html",
     "score": 0,
     "summary": "滑板资讯",
