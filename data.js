@@ -49,11 +49,18 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Whitmer Thomas: Your Favorite Skater's Favorite Stand-Up",
-    "link": "https://www.thrashermagazine.com/articles/whitmer-thomas-your-favorite-skater-s-favorite-stand-up/",
+    "title": "Hall of Meat: Vincent Milou",
+    "link": "https://www.thrashermagazine.com/articles/videos/hall-of-meat-vincent-milou/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
+  },
+  {
+    "title": "Oct.9th - ADI-MISSION Shanghai",
+    "link": "https://www.kickerclub.com/2026/10/oct-9th-adi-mission-shanghai/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
   },
   {
     "title": "Skateboarding",
@@ -61,12 +68,5 @@ const newsData = [
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
-  },
-  {
-    "title": "Flying Low's \"Grom Jom 5\" Event",
-    "link": "https://www.thrashermagazine.com/articles/trash/flying-low-s-grom-jom-5-event/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
   }
 ];
