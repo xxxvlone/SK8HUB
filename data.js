@@ -14,13 +14,6 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "World Skate's Vertical Skateboarding Caravan Rolls Into China!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3990-world-skate-s-vertical-skateboarding-caravan-rolls-into-china.html",
-    "score": 4,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
     "title": "Heroin X Pizzanista Eggzilla Release Party",
     "link": "https://www.thrashermagazine.com/articles/trash/heroin-x-pizzanista-eggzilla-release-party/",
     "score": 4,
@@ -28,36 +21,29 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Kang, Leal Shut Down 2026 World Skateboarding Tour Season Finale In Japan!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3994-kang,-leal-shut-down-2026-world-skateboarding-tour-season-ender-in-japan.html",
-    "score": 0,
+    "title": "World Skate's Vertical Skateboarding Caravan Rolls Into China!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3990-world-skate-s-vertical-skateboarding-caravan-rolls-into-china.html",
+    "score": 4,
     "summary": "滑板资讯",
     "source": "World Skate"
   },
   {
-    "title": "Oct.10th - PUSH FEST Shanghai",
-    "link": "https://www.kickerclub.com/2026/10/oct-10th-push-fest-shanghai/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
-    "title": "Snack's \"Amadeus\" Tour Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/snack-skateboards-amadeus-tour-video/",
+    "title": "Hall of Meat: Vincent Milou",
+    "link": "https://www.thrashermagazine.com/articles/videos/hall-of-meat-vincent-milou/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
   },
   {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
+    "title": "Exposure 2026 Coming Soon",
+    "link": "https://www.thrashermagazine.com/articles/trash/exposure-2026-coming-soon/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "World Skate"
+    "source": "Thrasher"
   },
   {
-    "title": "Central's \"The Return of the Living Shred\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/central-s-the-return-of-the-living-shred-event/",
+    "title": "Dashawn Jordan's \"Soul Food\" Part",
+    "link": "https://www.thrashermagazine.com/articles/videos/dashawn-jordan-s-soul-food-part/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -68,5 +54,19 @@ const newsData = [
     "score": 0,
     "summary": "滑板资讯",
     "source": "KickerClub"
+  },
+  {
+    "title": "San Pedro Skatepark Association Fundraiser",
+    "link": "https://www.thrashermagazine.com/articles/events/san-pedro-skatepark-association-fundraiser/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Innercity's Grand Reopening Event",
+    "link": "https://www.thrashermagazine.com/articles/events/innercity-s-grand-reopening-event/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
   }
 ];
