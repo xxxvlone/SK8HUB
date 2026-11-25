@@ -28,13 +28,6 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Nov.6-8th PROJAM 2026",
-    "link": "https://www.kickerclub.com/2026/10/nov-6-8th-projam-2026/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
     "title": "Barry McGee's \"Another Round\" Art Opening",
     "link": "https://www.thrashermagazine.com/articles/trash/barry-mcgee-s-another-round-art-opening/",
     "score": 0,
@@ -42,15 +35,22 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Oct.10th - PUSH FEST Shanghai",
-    "link": "https://www.kickerclub.com/2026/10/oct-10th-push-fest-shanghai/",
+    "title": "Central's \"The Return of the Living Shred\" Event",
+    "link": "https://www.thrashermagazine.com/articles/events/central-s-the-return-of-the-living-shred-event/",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "KickerClub"
+    "source": "Thrasher"
   },
   {
     "title": "Henry's \"NYC Best Trick\" 2026 Video",
     "link": "https://www.thrashermagazine.com/articles/trash/henry-s-nyc-best-trick-2026-video/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "The \"Wanderlust\" Video",
+    "link": "https://www.thrashermagazine.com/articles/trash/the-wanderlust-video/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -63,10 +63,10 @@ const newsData = [
     "source": "KickerClub"
   },
   {
-    "title": "San Pedro Skatepark Association Fundraiser",
-    "link": "https://www.thrashermagazine.com/articles/events/san-pedro-skatepark-association-fundraiser/",
+    "title": "World Skate Celebrate Annual World Skateboarding Ranking Leaders",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3993-world-skate-to-celebrate-annual-world-skateboarding-ranking-leaders.html",
     "score": 0,
     "summary": "滑板资讯",
-    "source": "Thrasher"
+    "source": "World Skate"
   }
 ];
