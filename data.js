@@ -28,36 +28,8 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Vincent Milou's \"Peace of Mind\" Part",
-    "link": "https://www.thrashermagazine.com/articles/videos/vincent-milou-s-peace-of-mind-part/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Erick Winkowski's \"Hyperspace\" Santa Cruz Part",
-    "link": "https://www.thrashermagazine.com/articles/videos/erick-winkowski-s-hyperspace-santa-cruz-part/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Kang, Leal Shut Down 2026 World Skateboarding Tour Season Finale In Japan!",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3994-kang,-leal-shut-down-2026-world-skateboarding-tour-season-ender-in-japan.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
-  },
-  {
-    "title": "Bacon Skateboards Welcomes Niki Nagahama",
-    "link": "https://www.thrashermagazine.com/articles/trash/bacon-skateboards-welcomes-niki-nagahama/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Gavin Bottger's \"New Loyal Pawn\" Toy Machine Part",
-    "link": "https://www.thrashermagazine.com/articles/videos/gavin-bottger-s-new-loyal-pawn-toy-machine-part/",
+    "title": "The Art of Mark \"Monk\" Hubbard Gallery Show",
+    "link": "https://www.thrashermagazine.com/articles/events/the-art-of-mark-monk-hubbard-gallery-show/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
@@ -65,6 +37,34 @@ const newsData = [
   {
     "title": "Barry McGee's \"Another Round\" Art Opening",
     "link": "https://www.thrashermagazine.com/articles/trash/barry-mcgee-s-another-round-art-opening/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Nov.6-8th PROJAM 2026",
+    "link": "https://www.kickerclub.com/2026/10/nov-6-8th-projam-2026/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
+  },
+  {
+    "title": "Vincent Milou's \"Peace of Mind\" Part",
+    "link": "https://www.thrashermagazine.com/articles/videos/vincent-milou-s-peace-of-mind-part/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Oct.10th - PUSH FEST Shanghai",
+    "link": "https://www.kickerclub.com/2026/10/oct-10th-push-fest-shanghai/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
+  },
+  {
+    "title": "Bacon Skateboards Welcomes Niki Nagahama",
+    "link": "https://www.thrashermagazine.com/articles/trash/bacon-skateboards-welcomes-niki-nagahama/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
