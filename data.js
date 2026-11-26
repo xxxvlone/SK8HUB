@@ -14,13 +14,6 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Heroin X Pizzanista Eggzilla Release Party",
-    "link": "https://www.thrashermagazine.com/articles/trash/heroin-x-pizzanista-eggzilla-release-party/",
-    "score": 4,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "World Skate's Vertical Skateboarding Caravan Rolls Into China!",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3990-world-skate-s-vertical-skateboarding-caravan-rolls-into-china.html",
     "score": 4,
@@ -28,45 +21,52 @@ const newsData = [
     "source": "World Skate"
   },
   {
+    "title": "Heroin X Pizzanista Eggzilla Release Party",
+    "link": "https://www.thrashermagazine.com/articles/trash/heroin-x-pizzanista-eggzilla-release-party/",
+    "score": 4,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Vincent Milou's \"Peace of Mind\" Part",
+    "link": "https://www.thrashermagazine.com/articles/videos/vincent-milou-s-peace-of-mind-part/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Erick Winkowski's \"Hyperspace\" Santa Cruz Part",
+    "link": "https://www.thrashermagazine.com/articles/videos/erick-winkowski-s-hyperspace-santa-cruz-part/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Kang, Leal Shut Down 2026 World Skateboarding Tour Season Finale In Japan!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3994-kang,-leal-shut-down-2026-world-skateboarding-tour-season-ender-in-japan.html",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "World Skate"
+  },
+  {
+    "title": "Bacon Skateboards Welcomes Niki Nagahama",
+    "link": "https://www.thrashermagazine.com/articles/trash/bacon-skateboards-welcomes-niki-nagahama/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Gavin Bottger's \"New Loyal Pawn\" Toy Machine Part",
+    "link": "https://www.thrashermagazine.com/articles/videos/gavin-bottger-s-new-loyal-pawn-toy-machine-part/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
     "title": "Barry McGee's \"Another Round\" Art Opening",
     "link": "https://www.thrashermagazine.com/articles/trash/barry-mcgee-s-another-round-art-opening/",
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
-  },
-  {
-    "title": "Central's \"The Return of the Living Shred\" Event",
-    "link": "https://www.thrashermagazine.com/articles/events/central-s-the-return-of-the-living-shred-event/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Henry's \"NYC Best Trick\" 2026 Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/henry-s-nyc-best-trick-2026-video/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "The \"Wanderlust\" Video",
-    "link": "https://www.thrashermagazine.com/articles/trash/the-wanderlust-video/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Oct.9th - ADI-MISSION Shanghai",
-    "link": "https://www.kickerclub.com/2026/10/oct-9th-adi-mission-shanghai/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
-    "title": "World Skate Celebrate Annual World Skateboarding Ranking Leaders",
-    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3993-world-skate-to-celebrate-annual-world-skateboarding-ranking-leaders.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
   }
 ];
