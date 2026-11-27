@@ -14,13 +14,6 @@ const newsData = [
     "source": "Thrasher"
   },
   {
-    "title": "Heroin X Pizzanista Eggzilla Release Party",
-    "link": "https://www.thrashermagazine.com/articles/trash/heroin-x-pizzanista-eggzilla-release-party/",
-    "score": 4,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
     "title": "World Skate's Vertical Skateboarding Caravan Rolls Into China!",
     "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3990-world-skate-s-vertical-skateboarding-caravan-rolls-into-china.html",
     "score": 4,
@@ -28,8 +21,36 @@ const newsData = [
     "source": "World Skate"
   },
   {
-    "title": "Discipline",
-    "link": "https://www.worldskate.org/skateboarding.html",
+    "title": "Heroin X Pizzanista Eggzilla Release Party",
+    "link": "https://www.thrashermagazine.com/articles/trash/heroin-x-pizzanista-eggzilla-release-party/",
+    "score": 4,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "The Art of Mark \"Monk\" Hubbard Gallery Show",
+    "link": "https://www.thrashermagazine.com/articles/events/the-art-of-mark-monk-hubbard-gallery-show/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Oct.10th - PUSH FEST Shanghai",
+    "link": "https://www.kickerclub.com/2026/10/oct-10th-push-fest-shanghai/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "KickerClub"
+  },
+  {
+    "title": "Erick Winkowski's \"Hyperspace\" Santa Cruz Part",
+    "link": "https://www.thrashermagazine.com/articles/videos/erick-winkowski-s-hyperspace-santa-cruz-part/",
+    "score": 0,
+    "summary": "滑板资讯",
+    "source": "Thrasher"
+  },
+  {
+    "title": "Kang, Leal Shut Down 2026 World Skateboarding Tour Season Finale In Japan!",
+    "link": "https://www.worldskate.org/skateboarding/news-skateboarding/3994-kang,-leal-shut-down-2026-world-skateboarding-tour-season-ender-in-japan.html",
     "score": 0,
     "summary": "滑板资讯",
     "source": "World Skate"
@@ -47,26 +68,5 @@ const newsData = [
     "score": 0,
     "summary": "滑板资讯",
     "source": "Thrasher"
-  },
-  {
-    "title": "The Art of Mark \"Monk\" Hubbard Gallery Show",
-    "link": "https://www.thrashermagazine.com/articles/events/the-art-of-mark-monk-hubbard-gallery-show/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "Thrasher"
-  },
-  {
-    "title": "Nov.6-8th PROJAM 2026",
-    "link": "https://www.kickerclub.com/2026/10/nov-6-8th-projam-2026/",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "KickerClub"
-  },
-  {
-    "title": "Skateboarding",
-    "link": "https://www.worldskate.org/skateboarding.html",
-    "score": 0,
-    "summary": "滑板资讯",
-    "source": "World Skate"
   }
 ];
